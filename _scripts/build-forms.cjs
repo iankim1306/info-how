@@ -112,9 +112,26 @@ function buildForm(f) {
 
   const howtoList = (f.howto||[]).map(s=>`<li>${esc(s)}</li>`).join('');
 
+  // 가이드 본문 (guide 블록 배열: {h2}|{p}|{ul}|{ol})
+  const guideHTML = (f.guide||[]).map(b=>{
+    if(b.h2) return `<h2>${esc(b.h2)}</h2>`;
+    if(b.h3) return `<h3>${esc(b.h3)}</h3>`;
+    if(b.p) return `<p>${b.p}</p>`;
+    if(b.ul) return `<ul>${b.ul.map(li=>`<li>${li}</li>`).join('')}</ul>`;
+    if(b.ol) return `<ol>${b.ol.map(li=>`<li>${li}</li>`).join('')}</ol>`;
+    return '';
+  }).join('\n');
+
+  // FAQ + FAQPage 스키마
+  const faqHTML = (f.faq||[]).map(q=>`<details class="q"><summary>${esc(q.q)}</summary><div class="a">${q.a}</div></details>`).join('\n');
+  const faqLd = (f.faq&&f.faq.length)?`<script type="application/ld+json">${JSON.stringify({
+    "@context":"https://schema.org","@type":"FAQPage",
+    mainEntity:f.faq.map(q=>({"@type":"Question",name:q.q,acceptedAnswer:{"@type":"Answer",text:q.a.replace(/<[^>]+>/g,'')}}))
+  })}</script>`:'';
+
   return head(`${f.name} 양식 무료 다운로드 | 작성법·미리보기 | 생활서식 모음`,
-    `${f.name} 표준 양식을 무료로 미리보기하고 인쇄하거나 텍스트 파일로 다운로드하세요. ${f.name} 작성 방법도 함께 안내합니다.`,
-    url, howToLd + bcLd)
+    `${f.name} 표준 양식을 무료로 미리보기하고 인쇄하거나 텍스트 파일로 다운로드하세요. ${f.name} 작성법, 주의사항, 자주 묻는 질문까지 상세히 안내합니다.`,
+    url, howToLd + bcLd + faqLd)
 + header()
 + `<div class="container">
 <nav class="breadcrumb"><a href="/">홈</a> › <a href="/?cat=${f.category}">${f.category}서식</a> › ${esc(f.name)}</nav>
@@ -134,6 +151,10 @@ function buildForm(f) {
 <h2>${esc(f.name)} 작성 방법</h2>
 <ol>${howtoList}</ol>
 </section>
+
+${guideHTML?`<article class="guide">${guideHTML}</article>`:''}
+
+${faqHTML?`<section class="faq-sec"><h2>${esc(f.name)} 자주 묻는 질문</h2>${faqHTML}</section>`:''}
 
 ${related?`<section class="related"><h2>같은 카테고리 서식</h2><div class="rel-links">${related}</div></section>`:''}
 </div>`
