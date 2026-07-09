@@ -35,10 +35,10 @@ function header() {
   return `<header class="site-header"><div class="header-inner">
 <a href="/" class="logo">생활서식 <span>모음</span></a>
 <nav class="header-nav">
+<a href="/reviews/">제품리뷰</a>
 <a href="/?cat=직장">직장서식</a>
 <a href="/?cat=부동산">부동산</a>
 <a href="/?cat=법률">법률서식</a>
-<a href="/?cat=생활">생활서식</a>
 </nav></div></header>`;
 }
 
@@ -193,9 +193,14 @@ fs.writeFileSync(path.join(ROOT,'privacy','index.html'), buildStatic('개인정�
 fs.writeFileSync(path.join(ROOT,'contact','index.html'), buildStatic('문의',
   '<p>서식 추가 요청, 오류 제보, 제휴 문의는 아래 이메일로 보내주세요.</p><p>이메일: <a href="mailto:holy3320@gmail.com">holy3320@gmail.com</a></p>','contact'), 'utf8');
 
-// sitemap
-const urls=[`${BASE}/`,`${BASE}/about/`,`${BASE}/privacy/`,`${BASE}/contact/`,...forms.map(f=>`${BASE}/forms/${f.id}/`)];
-const today='2026-07-01';
+// sitemap (리뷰 글 포함)
+let reviewUrls=[];
+try{
+  const reviews=require('./reviews-data.cjs');
+  reviewUrls=[`${BASE}/reviews/`,...reviews.map(r=>`${BASE}/reviews/${r.slug}/`)];
+}catch(e){/* reviews-data 없으면 서식만 */}
+const urls=[`${BASE}/`,`${BASE}/about/`,`${BASE}/privacy/`,`${BASE}/contact/`,...reviewUrls,...forms.map(f=>`${BASE}/forms/${f.id}/`)];
+const today=new Date().toISOString().slice(0,10);
 fs.writeFileSync(path.join(ROOT,'sitemap.xml'),
 `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`+
 urls.map(u=>`<url><loc>${u}</loc><lastmod>${today}</lastmod></url>`).join('\n')+`\n</urlset>\n`,'utf8');

@@ -1,0 +1,113 @@
+/* reviews.css — 제품 리뷰 페이지 전용 (choicemon 스타일 참고, 자체 구현) */
+.rv{max-width:800px;margin:0 auto;word-break:keep-all;font-size:16px;line-height:1.7;color:#1a1a1a}
+.rv p{margin:0 0 1.4em}
+.rv mark{background:linear-gradient(to top,rgba(255,235,59,.55) 55%,transparent 55%);padding:0 2px}
+.rv h2{font-size:1.45rem;font-weight:800;margin:2.2em 0 .8em;word-break:keep-all}
+.rv h3{font-size:1.15rem;font-weight:700;margin:1.8em 0 .6em}
+.rv hr{border:none;border-top:1px solid #e8e8e8;margin:2.5rem 0}
+.rv .hr-dash{border:none;height:1px;background:repeating-linear-gradient(to right,#ccc 0,#ccc 6px,transparent 6px,transparent 12px);margin:1.5rem 0}
+
+/* 히어로 */
+.rv-hero{background:#eef2ff;border-radius:14px;text-align:center;padding:34px 20px;margin:8px 0 28px}
+.rv-hero h1{font-size:clamp(1.35rem,3vw,1.7rem);line-height:1.35;margin:0 0 .6rem;font-weight:800}
+.rv-hero .meta{font-size:.92rem;color:#666;margin-bottom:1rem}
+.rv-hero img{width:190px;height:190px;border-radius:50%;object-fit:cover;background:#fff;box-shadow:0 4px 14px rgba(0,0,0,.08)}
+
+/* 제휴 고지문 */
+.rv-disclosure{font-size:.85rem;color:#8a6d3b;background:#fcf8e3;border:1px solid #f5e79e;border-radius:8px;padding:10px 14px;margin:0 0 24px;text-align:center}
+
+/* 상단 클릭형 고지 배너 (쿠팡 이동) */
+.rv-banner{display:block;text-align:center;text-decoration:none!important;background:repeating-linear-gradient(135deg,#ffe27a 0,#ffe27a 18px,#ffd23f 18px,#ffd23f 36px);border:2px solid #f0b429;border-radius:10px;padding:14px 16px;margin:0 0 26px;transition:transform .12s, box-shadow .12s}
+.rv-banner:hover{transform:translateY(-2px);box-shadow:0 6px 16px rgba(240,180,41,.35)}
+.rv-banner-note{display:block;font-size:.82rem;color:#7c5a10;margin-bottom:4px}
+.rv-banner-cta{display:block;font-size:1.08rem;font-weight:800;color:#4a3505}
+
+/* 섹션 타이틀 (반전 배경) */
+.rv-inv{display:inline-block;background:#111;color:#fff;padding:.45rem 1rem;font-size:1.3rem;font-weight:800;line-height:1.4;margin:2.2em 0 .8em}
+
+/* 빠른 선택 리스트 */
+.rv-quick{list-style:none;padding:0;margin:1em 0 1.5em}
+.rv-quick li{padding:10px 14px;border:1px solid #e5e7eb;border-radius:8px;margin-bottom:8px;background:#fafafa}
+.rv-quick li a{color:#1a6dff;font-weight:700;text-decoration:none}
+.rv-quick li a:hover{text-decoration:underline}
+
+/* 태그 */
+.rv-tag{display:inline-block;font-size:.9rem;font-weight:700;color:#fff;padding:.25rem .6rem;line-height:1.4;white-space:nowrap}
+.rv-tag-g{background:#00b894}.rv-tag-r{background:#dc2626}.rv-tag-s{background:#0073e6}
+
+/* 제품 카드 */
+.pcard{margin:2.2rem 0}
+.pcard-head{display:flex;align-items:center;gap:.6rem;margin-bottom:1rem}
+.pcard-num{display:inline-flex;align-items:center;justify-content:center;width:1.9rem;height:1.9rem;background:#111;color:#fff;font-size:1.15rem;font-weight:800;border-radius:50%;flex:0 0 auto}
+.pcard-cat{font-size:1.25rem;font-weight:800}
+.pcard-top{position:relative;display:grid;grid-template-columns:150px 1fr;gap:16px;align-items:center;border:1px solid #e2e2e2;border-radius:10px;padding:20px 18px 18px;background:#fff}
+.pcard-top .rv-tag{position:absolute;top:0;left:0;border-radius:10px 0 8px 0}
+.pcard-img{width:150px;height:150px;object-fit:contain;background:#f7f7f7;border-radius:8px}
+.pcard-img-ph{width:150px;height:150px;display:flex;align-items:center;justify-content:center;text-align:center;font-size:.82rem;color:#999;background:linear-gradient(135deg,#f1f5f9,#e2e8f0);border-radius:8px;padding:10px;box-sizing:border-box}
+.pcard-award{font-size:1.02rem;font-weight:800;color:#374151;margin-bottom:4px}
+.pcard-name{font-size:1.18rem;font-weight:700;color:#0f5bd8;margin:0 0 8px}
+.pcard-feats{list-style:none;margin:0;padding:0;font-size:.95rem}
+.pcard-feats li{margin-bottom:4px}
+.pcard-feats li::before{content:"✓ ";color:#22c55e;font-weight:900}
+.pcard-summary{font-size:1.2rem;font-weight:800;margin:1.4rem 0 .6rem;line-height:1.5}
+.pcard-label{display:block;font-weight:800;font-size:1.04rem;margin:1.6rem 0 .4rem}
+.pcard ul.plain{list-style:none;padding:0;margin:0 0 .6em}
+.pcard ul.plain li{margin-bottom:5px}
+.pcard ul.plain li::before{content:"· ";font-weight:900}
+.pcard ul.pros li::before{content:"✓ ";color:#22c55e;font-weight:900}
+.pcard ul.cons li::before{content:"△ ";color:#dc2626;font-weight:900}
+.pcard-review{background:#f8fafc;border-left:4px solid #94a3b8;padding:12px 16px;border-radius:0 8px 8px 0;margin-top:.6rem}
+
+/* CTA 버튼 */
+.cta-row{display:flex;gap:10px;margin:1.4rem 0 .4rem;flex-wrap:wrap}
+.cta{flex:1;min-width:180px;display:block;padding:.85rem 0;text-align:center;text-decoration:none!important;font-weight:800;border-radius:7px;font-size:1rem;transition:transform .12s, box-shadow .12s}
+.cta:hover{transform:translateY(-1px)}
+.cta-coupang{background:#1a6dff;color:#fff!important;box-shadow:0 3px 10px rgba(26,109,255,.25)}
+.cta-naver{background:#03c75a;color:#fff!important;box-shadow:0 3px 10px rgba(3,199,90,.25)}
+.cta-off{background:#e5e7eb;color:#9ca3af!important;cursor:default;pointer-events:none}
+
+/* 비교표 */
+.cmp-wrap{border:1px solid #e0e0e0;border-radius:10px;overflow:hidden;margin:1.4rem 0 2.4rem}
+.cmp-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.cmp{width:100%;min-width:680px;border-collapse:collapse;font-size:13.5px;line-height:1.55}
+.cmp th,.cmp td{padding:10px 12px;border-bottom:1px solid #f0f0f0;border-left:1px solid #f0f0f0;text-align:center;vertical-align:middle}
+.cmp thead td{border-bottom:1px solid #ddd;padding:14px 10px}
+.cmp .sticky{position:sticky;left:0;background:#fafafa;font-weight:700;font-size:12.5px;border-left:none;min-width:82px;z-index:2}
+.cmp-prod{display:flex;flex-direction:column;align-items:center;gap:8px}
+.cmp-prod img,.cmp-ph{width:88px;height:88px;object-fit:contain;background:#f7f7f7;border-radius:8px}
+.cmp-ph{display:flex;align-items:center;justify-content:center;font-size:.7rem;color:#999;text-align:center;padding:6px;box-sizing:border-box}
+.cmp-name{font-size:12.5px;font-weight:700;line-height:1.4}
+.cmp-cta{display:inline-block;width:100%;max-width:120px;padding:7px 0;background:#1a6dff;color:#fff!important;text-align:center;text-decoration:none!important;font-size:12px;font-weight:700;border-radius:5px}
+.cmp .best{font-weight:800}
+.cmp .badge{display:inline-block;font-size:9.5px;font-weight:700;color:#e8350e;border:1px solid #e8350e;padding:0 4px;border-radius:3px;margin-left:4px;vertical-align:middle}
+.cmp-hint{display:none;font-size:12px;color:#aaa;text-align:right;margin:0 0 4px}
+
+/* FAQ */
+.rv-faq{margin:0 0 2rem}
+.rv-faq details{border-bottom:1px solid #e8e8e8}
+.rv-faq details:first-of-type{border-top:1px solid #e8e8e8}
+.rv-faq summary{display:flex;justify-content:space-between;align-items:center;padding:1rem 0;font-weight:700;cursor:pointer;list-style:none}
+.rv-faq summary::-webkit-details-marker{display:none}
+.rv-faq summary::after{content:'+';flex-shrink:0;width:1.5rem;height:1.5rem;display:inline-flex;align-items:center;justify-content:center;color:#999;margin-left:1rem}
+.rv-faq details[open]>summary::after{content:'−';color:#111}
+.rv-faq .ans{padding:0 0 1.1rem;color:#333}
+
+/* 결론 */
+.rv-concl{list-style:none;padding:0;margin:1em 0 2em;counter-reset:cc}
+.rv-concl li{counter-increment:cc;margin-bottom:1.1rem;padding-left:2rem;position:relative}
+.rv-concl li::before{content:counter(cc);position:absolute;left:0;top:2px;width:1.4rem;height:1.4rem;background:#111;color:#fff;font-size:.8rem;font-weight:800;border-radius:50%;display:flex;align-items:center;justify-content:center}
+
+/* 리뷰 목록 페이지 */
+.rvlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:18px;margin:1.5em 0 3em}
+.rvlist a{display:block;border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;text-decoration:none;color:#1a1a1a;background:#fff;transition:transform .15s, box-shadow .15s}
+.rvlist a:hover{transform:translateY(-3px);box-shadow:0 8px 20px rgba(0,0,0,.08)}
+.rvlist img{width:100%;aspect-ratio:1;object-fit:cover;display:block}
+.rvlist .t{font-weight:700;font-size:.98rem;padding:12px 14px 4px;line-height:1.45}
+.rvlist .d{font-size:.85rem;color:#888;padding:0 14px 14px}
+
+@media(max-width:640px){
+  .pcard-top{grid-template-columns:110px 1fr;padding:24px 12px 14px}
+  .pcard-img,.pcard-img-ph{width:110px;height:110px}
+  .cmp-hint{display:block}
+  .rv-hero img{width:150px;height:150px}
+}
