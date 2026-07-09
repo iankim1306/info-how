@@ -3,5 +3,20 @@
   "title": "휴대용 선풍기 손풍기 목선풍기 비교",
   "out": "reviews/best-portable-fan/thumb.png",
   "color": 2
+ },
+ {
+  "title": "무선 게이밍 마우스 입문 가성비 프로용",
+  "out": "reviews/best-wireless-gaming-mouse/thumb.png",
+  "color": 0
+ },
+ {
+  "title": "에어프라이어 소형 가정용 대용량 오븐형",
+  "out": "reviews/best-air-fryer/thumb.png",
+  "color": 3
+ },
+ {
+  "title": "캠핑의자 가성비 경량 릴렉스 비교",
+  "out": "reviews/best-camping-chair/thumb.png",
+  "color": 1
  }
 ]
