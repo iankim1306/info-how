@@ -40,7 +40,7 @@ function header() {
 <a href="/reviews/?cat=digital">디지털/IT</a>
 <a href="/reviews/?cat=home">생활/가전</a>
 <a href="/reviews/?cat=kitchen">주방/조리</a>
-<a href="/forms/">무료서식</a>
+<a href="/reviews/?cat=food">식품/먹거리</a>
 </nav></div></header>`;
 }
 

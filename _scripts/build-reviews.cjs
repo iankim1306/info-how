@@ -63,7 +63,7 @@ const CATS = [
 const catName = slug => (CATS.find(c=>c.slug===slug)||{}).name || '제품';
 
 function header(){
-  const navCats = ['digital','home','kitchen','outdoor'].map(sl=>{
+  const navCats = ['digital','home','kitchen','food','outdoor'].map(sl=>{
     const c=CATS.find(x=>x.slug===sl); return `<a href="/reviews/?cat=${sl}">${c.name}</a>`;
   }).join('');
   return `<header class="site-header"><div class="header-inner">
@@ -71,7 +71,6 @@ function header(){
 <nav class="header-nav">
 <a href="/reviews/">전체 카테고리</a>
 ${navCats}
-<a href="/forms/">무료서식</a>
 </nav></div></header>`;
 }
 
@@ -298,16 +297,19 @@ function buildHome(){
 + header()
 + `<div class="container"><div class="rv">
 <section class="home-hero">
-<h1>제대로 비교하고<br>산다, <span>info-how</span></h1>
-<p class="hh-sub">제품 추천 · 비교 리뷰 · 구매가이드</p>
-<p class="hh-desc">가격, 스펙, 실사용 후기까지 비교해서 딱 정해드립니다.<br>실패 없는 기준만 골라 담으세요.</p>
+<div class="hh-left">
+<h1>리뷰 100개 볼 시간에,<br><span>딱 3개만.</span></h1>
+<p class="hh-sub">info-how · 제품 비교 구매가이드</p>
+<p class="hh-desc">쿠팡 <strong>실시간 최저가</strong>에 스펙·실사용 후기까지 교차 검증해서, 상황별 정답을 <strong>단 3개</strong>로 압축했습니다. 검색하고 바로 비교하세요.</p>
 <form class="rv-search" onsubmit="location.href='/reviews/?q='+encodeURIComponent(document.getElementById('hq').value);return false;">
 <input id="hq" type="search" placeholder="찾는 제품을 검색해보세요"><button>검색</button></form>
+<div class="hh-trust"><span>🔄 쿠팡 실시간 최저가</span><span>🎯 상황별 TOP 3</span><span>📅 매주 업데이트</span></div>
+</div>
+<div class="hh-right"><img src="/assets/hero.jpg" alt="제품 비교 리뷰" width="500" height="380" fetchpriority="high"></div>
 </section>
-${AD}
 <section class="home-sec"><h2>카테고리</h2><div class="cat-grid">${catGrid}</div></section>
-<section class="home-sec"><h2>인기있는 제품</h2><div class="rvlist pop">${popular}</div></section>
-<section class="home-sec"><h2>최신 글</h2><div class="rvlist">${latest}</div></section>
+<section class="home-sec"><h2>지금 많이 보는 리뷰</h2><div class="rvlist pop">${popular}</div></section>
+<section class="home-sec"><h2>새로 올라온 리뷰</h2><div class="rvlist">${latest}</div></section>
 ${DISCLOSURE}
 </div></div>`
 + footer() + `</body></html>`;
