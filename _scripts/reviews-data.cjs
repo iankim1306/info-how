@@ -20,8 +20,9 @@ module.exports = [
     desc: '휴대용 선풍기 추천 2026. 1만원대 냉각패드 손풍기부터 199단 터보, 핸즈프리 목선풍기까지 출퇴근·야외·유모차 상황별로 딱 정해드립니다. 배터리·풍량·무게 기준 비교표 포함.',
     keywords: '휴대용 선풍기 추천,손풍기 추천,목선풍기 추천',
     // 썸네일: make_thumb.py가 이 제목으로 reviews/{slug}/thumb.png 생성
-    thumbTitle: '휴대용 선풍기 손풍기 목선풍기 비교',
+    thumbTitle: '휴대용 선풍기',
     thumbColor: 2,
+    thumbPrompt: 'a person using a handheld portable fan outdoors on a hot sunny summer day, lifestyle product photography, bright natural light',
 
     intro: [
       { p: '<strong>휴대용 선풍기, 종류가 너무 많죠?</strong><br><br>손에 드는 손풍기, 목에 거는 넥밴드, 냉각패드 달린 것까지.<br>뭐가 다른지 알려주는 사람은 없고,<br>잘못 사면 바람 약해서 서랍행 되는 게 여름 국룰이더라구요.' },
@@ -149,8 +150,9 @@ module.exports = [
     date: '2026-07-04',
     desc: '무선 게이밍 마우스 추천 2026. 2만원대 입문 초경량부터 PAW3311 센서 가성비, 8K 폴링레이트 프로용까지 무게·센서·배터리 기준으로 딱 정해드립니다. 로켓배송 모델 비교표 포함.',
     keywords: '무선 게이밍 마우스 추천,게이밍 마우스 추천,초경량 마우스 추천',
-    thumbTitle: '무선 게이밍 마우스 입문 가성비 프로용',
+    thumbTitle: '무선 게이밍 마우스',
     thumbColor: 0,
+    thumbPrompt: 'a wireless gaming mouse on a dark desk with colorful RGB lighting, esports gaming setup, product photography, dramatic',
     intro: [
       { p: '<strong>무선 게이밍 마우스, 종류가 너무 많죠?</strong><br><br>초경량, PAW센서, 8K 폴링레이트에 RGB까지.<br>스펙표만 보면 뭐가 좋은 건지 감이 안 오고,<br>비싼 거 샀다가 손에 안 맞아서 서랍행 되기 십상이더라구요.' },
       { p: '그래서 실사용 기준으로 정리했습니다.<br><br>입문·가성비·프로용으로 확실히 갈리는<br><mark><strong>2026년 무선 마우스 3개</strong></mark>를<br>무게·센서·배터리 기준으로 끊어드릴게요.' },
@@ -262,8 +264,9 @@ module.exports = [
     date: '2026-07-04',
     desc: '에어프라이어 추천 2026. 1~2인 저소음 소형부터 브랜드 가정용 5.5L, 통닭도 되는 대용량 오븐형 18L까지 용량·소음·세척 기준으로 딱 정해드립니다. 로켓배송 모델 비교표 포함.',
     keywords: '에어프라이어 추천,소형 에어프라이어 추천,대용량 에어프라이어 추천',
-    thumbTitle: '에어프라이어 소형 가정용 대용량 오븐형',
+    thumbTitle: '에어프라이어',
     thumbColor: 3,
+    thumbPrompt: 'a modern air fryer on a bright clean kitchen counter with freshly cooked food beside it, product photography',
     intro: [
       { p: '<strong>에어프라이어, 용량이 너무 다양하죠?</strong><br><br>2L 미니부터 18L 오븐형까지.<br>작으면 몇 개 못 굽고, 크면 자리만 차지하고,<br>잘못 사면 안 쓰고 방치되는 게 자취·신혼 국룰이더라구요.' },
       { p: '그래서 인원·용도별로 정리했습니다.<br><br>1인 소형·가정용·대용량 오븐형으로 갈리는<br><mark><strong>2026년 에어프라이어 3개</strong></mark>를<br>용량·소음·세척 기준으로 끊어드릴게요.' },
@@ -376,8 +379,9 @@ module.exports = [
     date: '2026-07-04',
     desc: '캠핑의자 추천 2026. 2만원 가성비 접이식부터 경량 로우 체어, 발받침 릴렉스 리클라이너까지 무게·수납·편안함 기준으로 딱 정해드립니다. 로켓배송 모델 비교표 포함.',
     keywords: '캠핑의자 추천,경량 캠핑의자 추천,릴렉스 캠핑의자 추천',
-    thumbTitle: '캠핑의자 가성비 경량 릴렉스 비교',
+    thumbTitle: '캠핑의자',
     thumbColor: 1,
+    thumbPrompt: 'a folding camping chair at an outdoor campsite in nature, forest and tent background, golden hour, product photography',
     intro: [
       { p: '<strong>캠핑의자, 종류가 너무 많죠?</strong><br><br>로우체어, 릴렉스, 발받침, 경량까지.<br>뭐가 다른지 설명해주는 사람은 없고,<br>잘못 사면 무겁거나 불편해서 안 들고 나가게 되더라구요.' },
       { p: '그래서 용도별로 비교했습니다.<br><br>가성비·경량·릴렉스로 확실히 갈리는<br><mark><strong>2026년 캠핑의자 3개</strong></mark>를<br>무게·수납·편안함 기준으로 끊어드릴게요.' },

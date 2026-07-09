@@ -1,21 +1,29 @@
 [
  {
-  "title": "휴대용 선풍기 손풍기 목선풍기 비교",
+  "label": "휴대용 선풍기",
+  "prompt": "a person using a handheld portable fan outdoors on a hot sunny summer day, lifestyle product photography, bright natural light",
+  "badge": "비교!",
   "out": "reviews/best-portable-fan/thumb.png",
   "color": 2
  },
  {
-  "title": "무선 게이밍 마우스 입문 가성비 프로용",
+  "label": "무선 게이밍 마우스",
+  "prompt": "a wireless gaming mouse on a dark desk with colorful RGB lighting, esports gaming setup, product photography, dramatic",
+  "badge": "비교!",
   "out": "reviews/best-wireless-gaming-mouse/thumb.png",
   "color": 0
  },
  {
-  "title": "에어프라이어 소형 가정용 대용량 오븐형",
+  "label": "에어프라이어",
+  "prompt": "a modern air fryer on a bright clean kitchen counter with freshly cooked food beside it, product photography",
+  "badge": "비교!",
   "out": "reviews/best-air-fryer/thumb.png",
   "color": 3
  },
  {
-  "title": "캠핑의자 가성비 경량 릴렉스 비교",
+  "label": "캠핑의자",
+  "prompt": "a folding camping chair at an outdoor campsite in nature, forest and tent background, golden hour, product photography",
+  "badge": "비교!",
   "out": "reviews/best-camping-chair/thumb.png",
   "color": 1
  }

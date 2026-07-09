@@ -187,6 +187,20 @@ ${r.faq.map((q,i)=>`<details><summary>Q${i+1}. ${esc(q.q)}</summary><div class="
 <h2 class="rv-inv">결론: 한 줄 요약</h2>
 <ul class="rv-concl">${r.conclusion.map(c=>`<li>${c}</li>`).join('\n')}</ul>`:'';
 
+  // 본문 조립 후 목차(TOC) 자동 주입: rv-inv h2에 id 부여 + 목차 리스트 생성
+  let bodyMain = [quick, cards, cmpTable, AD, guide, faq, concl].join('\n');
+  let secN = 0; const tocItems = [];
+  bodyMain = bodyMain.replace(/<h2 class="rv-inv">([^<]+)<\/h2>/g, (m, txt) => {
+    secN++; const id = 'sec-' + secN; tocItems.push({ id, txt });
+    return `<h2 class="rv-inv" id="${id}">${txt}</h2>`;
+  });
+  const toc = tocItems.length ? `<nav class="rv-toc"><div class="rv-toc-t">📋 목차</div><ol>${tocItems.map(t => `<li><a href="#${t.id}">${t.txt}</a></li>`).join('')}</ol></nav>` : '';
+
+  // 함께 보면 좋은 글 (다른 리뷰 내부링크)
+  const rel = reviews.filter(x => x.slug !== r.slug).slice(0, 4)
+    .map(x => `<a href="/reviews/${x.slug}/"><img src="/reviews/${x.slug}/thumb.png" alt="${esc(x.h1)}" loading="lazy"><span>${esc(x.title)}</span></a>`).join('');
+  const relatedBlock = rel ? `<section class="rv-related"><h2 class="rv-inv">함께 보면 좋은 글</h2><div class="rvlist">${rel}</div></section>` : '';
+
   return head(r.title, r.desc, url, thumb, artLd+bcLd+faqLd)
 + header()
 + `<div class="container"><div class="rv">
@@ -198,15 +212,11 @@ ${r.faq.map((q,i)=>`<details><summary>Q${i+1}. ${esc(q.q)}</summary><div class="
 </div>
 ${TOP_BANNER}
 ${intro}
+${toc}
 ${AD}
-${quick}
-${cards}
-${cmpTable}
-${AD}
-${guide}
-${faq}
-${concl}
+${bodyMain}
 ${DISCLOSURE}
+${relatedBlock}
 </div></div>`
 + footer() + `</body></html>`;
 }
@@ -240,7 +250,7 @@ for (const r of reviews){
   const dir=path.join(ROOT,'reviews',r.slug);
   fs.mkdirSync(dir,{recursive:true});
   fs.writeFileSync(path.join(dir,'index.html'), buildArticle(r),'utf8');
-  thumbJobs.push({title:r.thumbTitle||r.h1, out:`reviews/${r.slug}/thumb.png`, color:r.thumbColor||0});
+  thumbJobs.push({label:r.thumbTitle||r.h1, prompt:r.thumbPrompt||'', badge:'비교!', out:`reviews/${r.slug}/thumb.png`, color:r.thumbColor||0});
   n++;
 }
 fs.mkdirSync(path.join(ROOT,'reviews'),{recursive:true});

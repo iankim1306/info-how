@@ -97,6 +97,17 @@
 .rv-concl li{counter-increment:cc;margin-bottom:1.1rem;padding-left:2rem;position:relative}
 .rv-concl li::before{content:counter(cc);position:absolute;left:0;top:2px;width:1.4rem;height:1.4rem;background:#111;color:#fff;font-size:.8rem;font-weight:800;border-radius:50%;display:flex;align-items:center;justify-content:center}
 
+/* 목차 TOC */
+.rv-toc{background:#f7f8fa;border:1px solid #e5e7eb;border-radius:12px;padding:18px 22px;margin:1.6em 0}
+.rv-toc-t{font-weight:800;font-size:1.05rem;margin-bottom:10px}
+.rv-toc ol{margin:0;padding-left:1.3em}
+.rv-toc li{margin:6px 0;line-height:1.5}
+.rv-toc a{color:#0f5bd8;text-decoration:none}
+.rv-toc a:hover{text-decoration:underline}
+
+/* 함께 보면 좋은 글 */
+.rv-related{margin-top:2.5rem}
+
 /* 리뷰 목록 페이지 */
 .rvlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:18px;margin:1.5em 0 3em}
 .rvlist a{display:block;border:1px solid #e5e7eb;border-radius:12px;overflow:hidden;text-decoration:none;color:#1a1a1a;background:#fff;transition:transform .15s, box-shadow .15s}
