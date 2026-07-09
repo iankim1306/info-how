@@ -250,7 +250,7 @@ for (const r of reviews){
   const dir=path.join(ROOT,'reviews',r.slug);
   fs.mkdirSync(dir,{recursive:true});
   fs.writeFileSync(path.join(dir,'index.html'), buildArticle(r),'utf8');
-  thumbJobs.push({label:r.thumbTitle||r.h1, prompt:r.thumbPrompt||'', badge:'비교!', out:`reviews/${r.slug}/thumb.png`, color:r.thumbColor||0});
+  thumbJobs.push({label:r.thumbTitle||r.h1, hook:r.thumbHook||'', top:'TOP 3', prompt:r.thumbPrompt||'', badge:'비교!', out:`reviews/${r.slug}/thumb.png`, color:r.thumbColor||0});
   n++;
 }
 fs.mkdirSync(path.join(ROOT,'reviews'),{recursive:true});
