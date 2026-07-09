@@ -49,14 +49,28 @@ ${extraJsonLd||''}
 </head><body>`;
 }
 
+// 제휴 상품 카테고리 (정보·여행 제외, 식품 포함)
+const CATS = [
+  { slug:'digital', name:'디지털/IT',   emoji:'💻', desc:'마우스·키보드·노트북 주변' },
+  { slug:'home',    name:'생활/가전',   emoji:'🏠', desc:'청소기·제습기·공기청정기' },
+  { slug:'kitchen', name:'주방/조리',   emoji:'🍳', desc:'에어프라이어·커피머신' },
+  { slug:'food',    name:'식품/먹거리', emoji:'🍯', desc:'간편식·건강식품·먹거리' },
+  { slug:'beauty',  name:'뷰티/헬스',   emoji:'💆', desc:'안마기·전동칫솔·미용' },
+  { slug:'outdoor', name:'캠핑/레저',   emoji:'⛺', desc:'캠핑의자·텐트·아웃도어' },
+  { slug:'season',  name:'계절가전',   emoji:'🌀', desc:'선풍기·전기장판·온수매트' },
+];
+const catName = slug => (CATS.find(c=>c.slug===slug)||{}).name || '제품';
+
 function header(){
+  const navCats = ['digital','home','kitchen','outdoor'].map(sl=>{
+    const c=CATS.find(x=>x.slug===sl); return `<a href="/reviews/?cat=${sl}">${c.name}</a>`;
+  }).join('');
   return `<header class="site-header"><div class="header-inner">
-<a href="/" class="logo">생활서식 <span>모음</span></a>
+<a href="/" class="logo">info<span>-how</span></a>
 <nav class="header-nav">
-<a href="/reviews/">제품리뷰</a>
-<a href="/?cat=직장">직장서식</a>
-<a href="/?cat=부동산">부동산</a>
-<a href="/?cat=법률">법률서식</a>
+<a href="/reviews/">전체 카테고리</a>
+${navCats}
+<a href="/forms/">무료서식</a>
 </nav></div></header>`;
 }
 
@@ -221,24 +235,79 @@ ${relatedBlock}
 + footer() + `</body></html>`;
 }
 
-// 리뷰 목록 페이지
-function buildList(){
-  const cards = reviews.map(r=>`<a href="/reviews/${r.slug}/">
+// 리뷰 카드
+function reviewCard(r){
+  return `<a href="/reviews/${r.slug}/" class="rvcard" data-cat="${r.catSlug||''}" data-title="${esc(r.title)}">
 <img src="/reviews/${r.slug}/thumb.png" alt="${esc(r.h1)}" loading="lazy">
 <div class="t">${esc(r.title)}</div>
-<div class="d">${esc(r.category)} · ${r.date}</div>
-</a>`).join('\n');
+<div class="d">${esc(catName(r.catSlug))} · ${r.date}</div>
+</a>`;
+}
+
+// 리뷰 목록 페이지 (/reviews/) — 카테고리 탭 + 검색 필터
+function buildList(){
+  const cards = reviews.map(reviewCard).join('\n');
+  const tabs = `<button class="cat-tab active" data-cat="all">전체 (${reviews.length})</button>`
+    + CATS.map(c=>{const n=reviews.filter(r=>r.catSlug===c.slug).length; return n?`<button class="cat-tab" data-cat="${c.slug}">${c.emoji} ${c.name} (${n})</button>`:''}).join('');
   const ld = `<script type="application/ld+json">${JSON.stringify({
     "@context":"https://schema.org","@type":"ItemList",
     itemListElement:reviews.map((r,i)=>({"@type":"ListItem",position:i+1,name:r.title,url:`${BASE}/reviews/${r.slug}/`}))
   })}</script>`;
-  return head('제품 비교 리뷰 모음 | 생활서식 모음','가전·생활용품을 가격·스펙 기준으로 직접 비교한 구매가이드 리뷰 모음입니다.',`${BASE}/reviews/`,null,ld)
+  return head('제품 비교 리뷰 모음 | info-how','가전·디지털·주방·캠핑 제품을 가격·스펙 기준으로 직접 비교한 구매가이드 리뷰 모음입니다.',`${BASE}/reviews/`,null,ld)
 + header()
 + `<div class="container"><div class="rv">
-<div class="rv-hero"><h1>제품 비교 리뷰</h1><p class="meta">가격·스펙 기준으로 딱 정해드리는 구매가이드</p></div>
+<div class="rv-hero"><h1>제품 비교 리뷰</h1><p class="meta">가격·스펙·후기까지 비교해 딱 정해드립니다</p>
+<form class="rv-search" onsubmit="return doSearch(event)"><input id="q" type="search" placeholder="찾는 제품을 검색해보세요"><button>검색</button></form></div>
 ${TOP_BANNER}
 ${AD}
-<div class="rvlist">${cards}</div>
+<div class="cat-tabs">${tabs}</div>
+<div class="rvlist" id="grid">${cards}</div>
+<p id="noRes" style="display:none;text-align:center;color:#888;padding:40px">검색 결과가 없어요. 다른 키워드로 찾아보세요.</p>
+</div></div>
+<script>
+var cards=[].slice.call(document.querySelectorAll('.rvcard')),tabs=[].slice.call(document.querySelectorAll('.cat-tab'));
+function apply(cat,q){var shown=0;q=(q||'').trim().toLowerCase();cards.forEach(function(c){var ok=(cat==='all'||c.dataset.cat===cat)&&(!q||c.dataset.title.toLowerCase().indexOf(q)>-1);c.style.display=ok?'':'none';if(ok)shown++;});document.getElementById('noRes').style.display=shown?'none':'block';}
+tabs.forEach(function(t){t.addEventListener('click',function(){tabs.forEach(function(x){x.classList.remove('active')});t.classList.add('active');apply(t.dataset.cat,document.getElementById('q').value);});});
+function doSearch(e){e.preventDefault();var a=document.querySelector('.cat-tab.active');apply(a?a.dataset.cat:'all',document.getElementById('q').value);return false;}
+var params=new URLSearchParams(location.search);var pc=params.get('cat'),pq=params.get('q');
+if(pq){document.getElementById('q').value=pq;}
+if(pc){var tb=tabs.filter(function(t){return t.dataset.cat===pc})[0];if(tb){tabs.forEach(function(x){x.classList.remove('active')});tb.classList.add('active');}}
+if(pc||pq)apply(pc||'all',pq||'');
+</script>`
++ footer() + `</body></html>`;
+}
+
+// 홈페이지 (/) — 제휴 상품 허브
+function buildHome(){
+  const catGrid = CATS.map(c=>`<a href="/reviews/?cat=${c.slug}" class="cat-card">
+<span class="cat-emoji">${c.emoji}</span>
+<div><div class="cat-name">${c.name}</div><div class="cat-desc">${c.desc}</div></div>
+</a>`).join('');
+  // 인기 = 앞 5개(랭킹 배지) / 최신 = 날짜 내림차순
+  const popular = reviews.slice(0,5).map((r,i)=>`<a href="/reviews/${r.slug}/" class="rvcard rank">
+<span class="rank-badge">${i+1}</span>
+<img src="/reviews/${r.slug}/thumb.png" alt="${esc(r.h1)}" loading="lazy">
+<div class="t">${esc(r.title)}</div><div class="d">${esc(catName(r.catSlug))}</div></a>`).join('');
+  const latest = [...reviews].sort((a,b)=>String(b.date).localeCompare(String(a.date))).slice(0,8).map(reviewCard).join('');
+  const ld = `<script type="application/ld+json">${JSON.stringify({
+    "@context":"https://schema.org","@type":"WebSite",name:"info-how",url:BASE,
+    potentialAction:{"@type":"SearchAction",target:`${BASE}/reviews/?q={q}`,"query-input":"required name=q"}
+  })}</script>`;
+  return head('info-how | 제대로 비교하고 산다 — 제품 추천·비교 리뷰','가전·디지털·주방·식품·캠핑 제품을 가격·스펙·실사용 후기까지 비교해 실패 없이 고르는 구매가이드.',`${BASE}/`,null,ld)
++ header()
++ `<div class="container"><div class="rv">
+<section class="home-hero">
+<h1>제대로 비교하고<br>산다, <span>info-how</span></h1>
+<p class="hh-sub">제품 추천 · 비교 리뷰 · 구매가이드</p>
+<p class="hh-desc">가격, 스펙, 실사용 후기까지 비교해서 딱 정해드립니다.<br>실패 없는 기준만 골라 담으세요.</p>
+<form class="rv-search" onsubmit="location.href='/reviews/?q='+encodeURIComponent(document.getElementById('hq').value);return false;">
+<input id="hq" type="search" placeholder="찾는 제품을 검색해보세요"><button>검색</button></form>
+</section>
+${AD}
+<section class="home-sec"><h2>카테고리</h2><div class="cat-grid">${catGrid}</div></section>
+<section class="home-sec"><h2>인기있는 제품</h2><div class="rvlist pop">${popular}</div></section>
+<section class="home-sec"><h2>최신 글</h2><div class="rvlist">${latest}</div></section>
+${DISCLOSURE}
 </div></div>`
 + footer() + `</body></html>`;
 }
@@ -255,5 +324,6 @@ for (const r of reviews){
 }
 fs.mkdirSync(path.join(ROOT,'reviews'),{recursive:true});
 fs.writeFileSync(path.join(ROOT,'reviews','index.html'), buildList(),'utf8');
+fs.writeFileSync(path.join(ROOT,'index.html'), buildHome(),'utf8');  // 홈 = 제휴 허브
 fs.writeFileSync(path.join(ROOT,'_scripts','.thumbjobs.json'), JSON.stringify(thumbJobs,null,1),'utf8');
-console.log(`✓ 리뷰 목록 + 글 ${n}개 생성. 다음: python _scripts/make_thumb.py && node _scripts/build-forms.cjs`);
+console.log(`✓ 홈(허브) + 리뷰목록 + 글 ${n}개 생성. 다음: python _scripts/make_thumb.py && node _scripts/build-forms.cjs`);

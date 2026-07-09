@@ -33,12 +33,13 @@ ${extraJsonLd || ''}
 
 function header() {
   return `<header class="site-header"><div class="header-inner">
-<a href="/" class="logo">생활서식 <span>모음</span></a>
+<a href="/" class="logo">info<span>-how</span></a>
 <nav class="header-nav">
-<a href="/reviews/">제품리뷰</a>
-<a href="/?cat=직장">직장서식</a>
-<a href="/?cat=부동산">부동산</a>
-<a href="/?cat=법률">법률서식</a>
+<a href="/reviews/">전체 카테고리</a>
+<a href="/reviews/?cat=digital">디지털/IT</a>
+<a href="/reviews/?cat=home">생활/가전</a>
+<a href="/reviews/?cat=kitchen">주방/조리</a>
+<a href="/forms/">무료서식</a>
 </nav></div></header>`;
 }
 
@@ -70,7 +71,7 @@ function buildIndex() {
     itemListElement: forms.map((f,i)=>({"@type":"ListItem",position:i+1,name:f.name,url:`${BASE}/forms/${f.id}/`}))
   })}</script>`;
 
-  return head('무료 생활서식 양식 모음 | 사직서·계약서·내용증명', '사직서, 임대차계약서, 내용증명 등 생활에 필요한 서식 18종을 무료로 미리보기·인쇄·다운로드하세요.', `${BASE}/`, itemListLd)
+  return head('무료 생활서식 양식 모음 | 사직서·계약서·내용증명', '사직서, 임대차계약서, 내용증명 등 생활에 필요한 서식 18종을 무료로 미리보기·인쇄·다운로드하세요.', `${BASE}/forms/`, itemListLd)
 + header()
 + `<div class="container">
 <div class="hero">
@@ -178,7 +179,8 @@ function buildStatic(title, bodyHTML, slug) {
 }
 
 // ─── 실행 ───
-fs.writeFileSync(path.join(ROOT,'index.html'), buildIndex(), 'utf8');
+fs.mkdirSync(path.join(ROOT,'forms'),{recursive:true});
+fs.writeFileSync(path.join(ROOT,'forms','index.html'), buildIndex(), 'utf8');  // 서식 홈 = /forms/ (root는 build-reviews의 허브)
 let n=0;
 for (const f of forms) {
   const dir=path.join(ROOT,'forms',f.id);
@@ -199,7 +201,7 @@ try{
   const reviews=require('./reviews-data.cjs');
   reviewUrls=[`${BASE}/reviews/`,...reviews.map(r=>`${BASE}/reviews/${r.slug}/`)];
 }catch(e){/* reviews-data 없으면 서식만 */}
-const urls=[`${BASE}/`,`${BASE}/about/`,`${BASE}/privacy/`,`${BASE}/contact/`,...reviewUrls,...forms.map(f=>`${BASE}/forms/${f.id}/`)];
+const urls=[`${BASE}/`,`${BASE}/forms/`,`${BASE}/about/`,`${BASE}/privacy/`,`${BASE}/contact/`,...reviewUrls,...forms.map(f=>`${BASE}/forms/${f.id}/`)];
 const today=new Date().toISOString().slice(0,10);
 fs.writeFileSync(path.join(ROOT,'sitemap.xml'),
 `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`+

@@ -97,6 +97,38 @@
 .rv-concl li{counter-increment:cc;margin-bottom:1.1rem;padding-left:2rem;position:relative}
 .rv-concl li::before{content:counter(cc);position:absolute;left:0;top:2px;width:1.4rem;height:1.4rem;background:#111;color:#fff;font-size:.8rem;font-weight:800;border-radius:50%;display:flex;align-items:center;justify-content:center}
 
+/* ===== 홈페이지 허브 ===== */
+.home-hero{padding:40px 4px 30px;border-bottom:1px solid #eee;margin-bottom:8px}
+.home-hero h1{font-size:clamp(1.8rem,5vw,2.6rem);font-weight:900;line-height:1.25;margin:0 0 14px}
+.home-hero h1 span{color:#0f5bd8}
+.hh-sub{font-size:.95rem;color:#888;font-weight:600;margin:0 0 10px}
+.hh-desc{font-size:1rem;color:#555;line-height:1.7;margin:0 0 22px}
+.rv-search{display:flex;gap:8px;max-width:520px}
+.rv-search input{flex:1;border:1.5px solid #d1d5db;border-radius:8px;padding:12px 16px;font-size:1rem;min-width:0}
+.rv-search input:focus{outline:none;border-color:#0f5bd8}
+.rv-search button{background:#111;color:#fff;border:none;border-radius:8px;padding:0 22px;font-weight:700;font-size:1rem;cursor:pointer;white-space:nowrap}
+.home-sec{margin:2.6rem 0}
+.home-sec>h2{font-size:1.35rem;font-weight:800;margin:0 0 1rem}
+
+/* 카테고리 그리드 */
+.cat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}
+.cat-card{display:flex;align-items:center;gap:12px;border:1px solid #e5e7eb;border-radius:12px;padding:16px 18px;text-decoration:none;color:#1a1a1a;background:#fafafa;transition:all .15s}
+.cat-card:hover{background:#fff;border-color:#0f5bd8;transform:translateY(-2px);box-shadow:0 6px 16px rgba(0,0,0,.06)}
+.cat-emoji{font-size:1.8rem;line-height:1}
+.cat-name{font-weight:800;font-size:1.02rem}
+.cat-desc{font-size:.82rem;color:#888;margin-top:2px}
+
+/* 인기 랭킹 배지 */
+.rvlist .rvcard{position:relative}
+.rvcard.rank .rank-badge{position:absolute;top:8px;left:8px;z-index:2;width:30px;height:30px;background:#111;color:#fff;border-radius:8px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:1rem;box-shadow:0 2px 6px rgba(0,0,0,.3)}
+.rvcard.rank:first-child .rank-badge{background:#e8350e}
+
+/* 카테고리 탭 (리뷰 목록) */
+.cat-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:1.2em 0}
+.cat-tab{border:1.5px solid #e5e7eb;background:#fff;border-radius:22px;padding:8px 16px;font-size:.9rem;font-weight:600;color:#555;cursor:pointer;transition:all .15s}
+.cat-tab:hover{border-color:#0f5bd8;color:#0f5bd8}
+.cat-tab.active{background:#111;color:#fff;border-color:#111}
+
 /* 목차 TOC */
 .rv-toc{background:#f7f8fa;border:1px solid #e5e7eb;border-radius:12px;padding:18px 22px;margin:1.6em 0}
 .rv-toc-t{font-weight:800;font-size:1.05rem;margin-bottom:10px}
