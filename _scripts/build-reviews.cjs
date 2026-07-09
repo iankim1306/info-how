@@ -14,7 +14,7 @@ const BASE = 'https://info-how.com';
 //   partners.coupang.com → 링크 생성(쿠팡 홈 or 골드박스) → 여기 붙여넣기.
 //   이 링크 타고 들어간 사람이 24시간 내 뭘 사든 수수료가 잡힙니다.
 //   비어 있으면 배너가 클릭 안 되는 일반 고지문으로 표시됩니다.
-const COUPANG_BANNER_LINK = '';
+const COUPANG_BANNER_LINK = 'https://link.coupang.com/a/fevTPBckcC'; // 골드박스 딥링크 (API로 자동생성)
 
 function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 const AD = `<div class="ad-slot"><ins class="adsbygoogle" style="display:block" data-ad-client="${ADSENSE}" data-ad-slot="0000000000" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></div>`;
