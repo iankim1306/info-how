@@ -127,18 +127,19 @@ def make(label, hook, top, prompt, badge, color_idx):
                   stroke_width=max(6, fsize//14), stroke_fill=(20, 20, 20))
         y += (bb[3]-bb[1]) + fsize//5
 
-    # ── 후킹 문구: 라벨 아래, 흰 글씨 + 반투명 검정 라운드 바 ──
+    # ── 후킹 문구: 라벨 아래, 흰 글씨 + 반투명 검정 라운드 바 (크게, 노랑 포인트) ──
     if hook:
-        hf = font(44)
-        for hs in range(52, 28, -3):
+        hf = font(70)
+        for hs in range(76, 42, -3):
             hf = font(hs)
-            if draw.textbbox((0, 0), hook, font=hf)[2] <= 620: break
+            if draw.textbbox((0, 0), hook, font=hf)[2] <= 690: break
         hb = draw.textbbox((0, 0), hook, font=hf)
         hw, hh = hb[2]-hb[0], hb[3]-hb[1]
-        px, py = 26, 14
-        hx1 = (W - hw)//2 - px; hy1 = y + 6
-        draw.rounded_rectangle([hx1, hy1, hx1+hw+px*2, hy1+hh+py*2], radius=14, fill=(0, 0, 0, 150))
-        draw.text((hx1+px-hb[0], hy1+py-hb[1]), hook, font=hf, fill=(255, 255, 255))
+        px, py = 30, 18
+        hx1 = (W - hw)//2 - px; hy1 = y + 10
+        draw.rounded_rectangle([hx1, hy1, hx1+hw+px*2, hy1+hh+py*2], radius=16, fill=(200, 30, 20, 205))
+        draw.text((hx1+px-hb[0], hy1+py-hb[1]), hook, font=hf, fill=(255, 240, 60),
+                  stroke_width=3, stroke_fill=(20, 20, 20))
 
     # ── "비교!" 청록 배지 (우하단) ──
     bf = font(60)
