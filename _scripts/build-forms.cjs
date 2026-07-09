@@ -4,6 +4,7 @@ const path = require('path');
 const forms = require('./forms-data.cjs');
 
 const ROOT = path.resolve(__dirname, '..');
+const CSSV = Date.now().toString(36); // CSS 캐시버스팅
 const ADSENSE = 'ca-pub-7852008102553944';
 const BASE = 'https://info-how.com';
 const CATS = ['직장', '부동산', '법률', '생활'];
@@ -27,7 +28,7 @@ function head(title, desc, canonical, extraJsonLd) {
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE}" crossorigin="anonymous"></script>
 ${extraJsonLd || ''}
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="/home.css">
+<link rel="stylesheet" href="/home.css?v=${CSSV}">
 </head><body>`;
 }
 
@@ -46,7 +47,7 @@ function header() {
 function footer() {
   return `<footer class="site-footer">
 <div class="footer-inner">
-<p class="footer-brand">생활서식 모음 · info-how.com</p>
+<p class="footer-brand">info-how — 제대로 비교하고 산다</p>
 <p>사직서·계약서·내용증명 등 무료 생활서식을 제공합니다.</p>
 <div class="footer-links"><a href="/about/">소개</a> · <a href="/privacy/">개인정보처리방침</a> · <a href="/contact/">문의</a></div>
 <p class="footer-note">※ 제공되는 서식은 표준 참고용이며 법적 효력을 보장하지 않습니다. 중요한 계약·법률 문서는 전문가 검토를 권장합니다.</p>

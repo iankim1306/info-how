@@ -7,6 +7,7 @@ const path = require('path');
 const reviews = require('./reviews-data.cjs');
 
 const ROOT = path.resolve(__dirname, '..');
+const CSSV = Date.now().toString(36); // CSS 캐시버스팅 (배포마다 갱신)
 const ADSENSE = 'ca-pub-7852008102553944';
 const BASE = 'https://info-how.com';
 
@@ -44,8 +45,8 @@ ${og?`<meta property="og:image" content="${og}">`:''}
 <meta name="google-adsense-account" content="${ADSENSE}">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE}" crossorigin="anonymous"></script>
 ${extraJsonLd||''}
-<link rel="stylesheet" href="/home.css">
-<link rel="stylesheet" href="/reviews.css">
+<link rel="stylesheet" href="/home.css?v=${CSSV}">
+<link rel="stylesheet" href="/reviews.css?v=${CSSV}">
 </head><body>`;
 }
 
@@ -76,8 +77,8 @@ ${navCats}
 
 function footer(){
   return `<footer class="site-footer"><div class="footer-inner">
-<p class="footer-brand">생활서식 모음 · info-how.com</p>
-<p>무료 생활서식과 제품 비교 리뷰를 제공합니다.</p>
+<p class="footer-brand">info-how — 제대로 비교하고 산다</p>
+<p>제품 추천 · 비교 리뷰 · 구매가이드, 그리고 무료 생활서식을 제공합니다.</p>
 <div class="footer-links"><a href="/about/">소개</a> · <a href="/privacy/">개인정보처리방침</a> · <a href="/contact/">문의</a></div>
 <p class="footer-note">파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.<br>※ 리뷰 내 가격·스펙은 작성 시점 기준이며 변동될 수 있습니다. 구매 전 판매 페이지에서 최종 확인하세요.</p>
 </div></footer>`;
