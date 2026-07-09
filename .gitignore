@@ -4,3 +4,5 @@ node_modules/
 .env.*
 _scripts/auto/cache/
 _scripts/auto/queue.json
+_scripts/auto/.*
+_scripts/.thumbjobs.json
