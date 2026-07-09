@@ -3,3 +3,4 @@ node_modules/
 .env
 .env.*
 _scripts/auto/cache/
+_scripts/auto/queue.json

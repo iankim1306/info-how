@@ -56,7 +56,9 @@ async function call(method, pathWithQuery, body) {
 }
 
 // 상품 검색 — 트래킹 URL(productUrl)·이미지·가격이 바로 옴
-async function search(keyword, limit = 20) {
+// ⚠️ 쿠팡 search API는 limit>10 을 "out of range"로 거부 → 10으로 클램프
+async function search(keyword, limit = 10) {
+  limit = Math.min(Math.max(1, limit | 0), 10);
   const q = `/v2/providers/affiliate_open_api/apis/openapi/products/search?keyword=${encodeURIComponent(keyword)}&limit=${limit}`;
   const r = await call('GET', q);
   if (r.rCode !== '0') throw new Error(`검색 실패: ${r.rMessage || JSON.stringify(r).slice(0,200)}`);
