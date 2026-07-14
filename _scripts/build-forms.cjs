@@ -197,13 +197,15 @@ fs.writeFileSync(path.join(ROOT,'contact','index.html'), buildStatic('문의',
   '<p>서식 추가 요청, 오류 제보, 제휴 문의는 아래 이메일로 보내주세요.</p><p>이메일: <a href="mailto:holy3320@gmail.com">holy3320@gmail.com</a></p>','contact'), 'utf8');
 
 // sitemap (리뷰 글 포함)
+const today=new Date().toISOString().slice(0,10);
 let reviewUrls=[];
 try{
   const reviews=require('./reviews-data.cjs');
-  reviewUrls=[`${BASE}/reviews/`,...reviews.map(r=>`${BASE}/reviews/${r.slug}/`)];
+  // 예약발행: publishAt 미래인 글은 사이트맵에서도 제외
+  const liveReviews=reviews.filter(r=>!r.publishAt||String(r.publishAt)<=today);
+  reviewUrls=[`${BASE}/reviews/`,...liveReviews.map(r=>`${BASE}/reviews/${r.slug}/`)];
 }catch(e){/* reviews-data 없으면 서식만 */}
 const urls=[`${BASE}/`,`${BASE}/forms/`,`${BASE}/about/`,`${BASE}/privacy/`,`${BASE}/contact/`,...reviewUrls,...forms.map(f=>`${BASE}/forms/${f.id}/`)];
-const today=new Date().toISOString().slice(0,10);
 fs.writeFileSync(path.join(ROOT,'sitemap.xml'),
 `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`+
 urls.map(u=>`<url><loc>${u}</loc><lastmod>${today}</lastmod></url>`).join('\n')+`\n</urlset>\n`,'utf8');

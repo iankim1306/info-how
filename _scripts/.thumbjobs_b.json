@@ -1,0 +1,74 @@
+[
+ {
+  "label": "눈마사지기",
+  "hook": "온열·강도·착용감부터",
+  "top": "TOP 3",
+  "prompt": "a person relaxing wearing an eye massager device at home on a sofa, cozy lifestyle product photography, soft warm light",
+  "badge": "비교!",
+  "out": "reviews/best-eye-massager/thumb.png",
+  "color": 3
+ },
+ {
+  "label": "종아리 마사지기",
+  "hook": "공기압 강도·휴대성부터",
+  "top": "TOP 3",
+  "prompt": "a leg and calf air compression massager on a living room floor next to a sofa, lifestyle product photography, warm light",
+  "badge": "비교!",
+  "out": "reviews/best-calf-massager/thumb.png",
+  "color": 2
+ },
+ {
+  "label": "태블릿 거치대",
+  "hook": "침대냐 책상이냐, 높이조절",
+  "top": "TOP 3",
+  "prompt": "a tablet mounted on an adjustable stand on a clean desk, minimal tech product photography, bright natural light",
+  "badge": "비교!",
+  "out": "reviews/best-tablet-stand/thumb.png",
+  "color": 0
+ },
+ {
+  "label": "노트북 쿨러",
+  "hook": "풍량·소음·거치 각도부터",
+  "top": "TOP 3",
+  "prompt": "a laptop placed on a cooling pad stand on a desk with fans, tech product photography, natural light",
+  "badge": "비교!",
+  "out": "reviews/best-laptop-cooler/thumb.png",
+  "color": 4
+ },
+ {
+  "label": "와플기",
+  "hook": "탈착 플레이트·크로플까지",
+  "top": "TOP 3",
+  "prompt": "golden crispy waffles on a waffle maker on a bright kitchen counter, warm food product photography",
+  "badge": "비교!",
+  "out": "reviews/best-waffle-maker/thumb.png",
+  "color": 1
+ },
+ {
+  "label": "전기장판",
+  "hook": "전자파 저감·크기·세탁부터",
+  "top": "TOP 3",
+  "prompt": "a cozy warm heating blanket spread on a bed in a warm bedroom, lifestyle product photography, warm evening light",
+  "badge": "비교!",
+  "out": "reviews/best-electric-blanket/thumb.png",
+  "color": 3
+ },
+ {
+  "label": "써큘레이터",
+  "hook": "직진풍·저소음·회전부터",
+  "top": "TOP 3",
+  "prompt": "an air circulator fan in a bright modern living room, minimal product photography, natural light",
+  "badge": "비교!",
+  "out": "reviews/best-circulator/thumb.png",
+  "color": 2
+ },
+ {
+  "label": "캠핑 매트",
+  "hook": "두께(쿠션)와 수납부터",
+  "top": "TOP 3",
+  "prompt": "a camping sleeping mat laid out inside a tent at a campsite, cozy lifestyle outdoor photography, natural light",
+  "badge": "비교!",
+  "out": "reviews/best-camping-mat/thumb.png",
+  "color": 0
+ }
+]

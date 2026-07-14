@@ -1,0 +1,48 @@
+name: Daily scheduled publish
+
+# PC가 꺼져 있어도 GitHub 서버가 매일 대신 빌드·배포한다.
+# - 매일 00:00 UTC(= 한국시간 09:00)에 실행
+# - 예약글(publishAt 미래)은 그날이 되면 자동으로 라이브 전환
+# - 수동 실행(workflow_dispatch)도 가능
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 매일 09:00 KST
+  workflow_dispatch:        # GitHub Actions 탭에서 수동 실행 버튼
+  push:
+    branches: [ main ]      # 새 글 push하면 즉시 재빌드·배포
+    paths:
+      - '_scripts/**'
+      - 'reviews/**'
+
+# 동시에 여러 배포가 겹치지 않도록
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node 설치
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 빌드 스크립트는 외부 패키지가 없어 install 불필요.
+      # build-reviews / build-forms 가 "오늘"(UTC) 기준으로
+      # publishAt 이 지난 글만 라이브로 생성한다.
+      - name: 사이트 빌드 (예약글 날짜 필터 적용)
+        run: |
+          node _scripts/build-reviews.cjs
+          node _scripts/build-forms.cjs
+
+      - name: Cloudflare Pages 배포
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy . --project-name=info-how --branch=main --commit-dirty=true

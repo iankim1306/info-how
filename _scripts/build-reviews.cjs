@@ -5,6 +5,10 @@
 const fs = require('fs');
 const path = require('path');
 const reviews = require('./reviews-data.cjs');
+// ── 예약발행: publishAt(YYYY-MM-DD)이 오늘 이후면 아직 노출 안 함(초안). 없으면 즉시 라이브. ──
+const TODAY = new Date().toISOString().slice(0,10);
+const isLive = r => !r.publishAt || String(r.publishAt) <= TODAY;
+const live = reviews.filter(isLive);
 
 const ROOT = path.resolve(__dirname, '..');
 const CSSV = Date.now().toString(36); // CSS 캐시버스팅 (배포마다 갱신)
@@ -77,7 +81,7 @@ ${navCats}
 function footer(){
   return `<footer class="site-footer"><div class="footer-inner">
 <p class="footer-brand">info-how — 제대로 비교하고 산다</p>
-<p>제품 추천 · 비교 리뷰 · 구매가이드, 그리고 무료 생활서식을 제공합니다.</p>
+<p>제품 추천 · 비교 리뷰 · 구매가이드를 제공합니다.</p>
 <div class="footer-links"><a href="/about/">소개</a> · <a href="/privacy/">개인정보처리방침</a> · <a href="/contact/">문의</a></div>
 <p class="footer-note">파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.<br>※ 리뷰 내 가격·스펙은 작성 시점 기준이며 변동될 수 있습니다. 구매 전 판매 페이지에서 최종 확인하세요.</p>
 </div></footer>`;
@@ -211,7 +215,7 @@ ${r.faq.map((q,i)=>`<details><summary>Q${i+1}. ${esc(q.q)}</summary><div class="
   const toc = tocItems.length ? `<nav class="rv-toc"><div class="rv-toc-t">📋 목차</div><ol>${tocItems.map(t => `<li><a href="#${t.id}">${t.txt}</a></li>`).join('')}</ol></nav>` : '';
 
   // 함께 보면 좋은 글 (다른 리뷰 내부링크)
-  const rel = reviews.filter(x => x.slug !== r.slug).slice(0, 4)
+  const rel = live.filter(x => x.slug !== r.slug).slice(0, 4)
     .map(x => `<a href="/reviews/${x.slug}/"><img src="/reviews/${x.slug}/thumb.png" alt="${esc(x.h1)}" loading="lazy"><span>${esc(x.title)}</span></a>`).join('');
   const relatedBlock = rel ? `<section class="rv-related"><h2 class="rv-inv">함께 보면 좋은 글</h2><div class="rvlist">${rel}</div></section>` : '';
 
@@ -246,12 +250,12 @@ function reviewCard(r){
 
 // 리뷰 목록 페이지 (/reviews/) — 카테고리 탭 + 검색 필터
 function buildList(){
-  const cards = reviews.map(reviewCard).join('\n');
-  const tabs = `<button class="cat-tab active" data-cat="all">전체 (${reviews.length})</button>`
-    + CATS.map(c=>{const n=reviews.filter(r=>r.catSlug===c.slug).length; return n?`<button class="cat-tab" data-cat="${c.slug}">${c.emoji} ${c.name} (${n})</button>`:''}).join('');
+  const cards = live.map(reviewCard).join('\n');
+  const tabs = `<button class="cat-tab active" data-cat="all">전체 (${live.length})</button>`
+    + CATS.map(c=>{const n=live.filter(r=>r.catSlug===c.slug).length; return n?`<button class="cat-tab" data-cat="${c.slug}">${c.emoji} ${c.name} (${n})</button>`:''}).join('');
   const ld = `<script type="application/ld+json">${JSON.stringify({
     "@context":"https://schema.org","@type":"ItemList",
-    itemListElement:reviews.map((r,i)=>({"@type":"ListItem",position:i+1,name:r.title,url:`${BASE}/reviews/${r.slug}/`}))
+    itemListElement:live.map((r,i)=>({"@type":"ListItem",position:i+1,name:r.title,url:`${BASE}/reviews/${r.slug}/`}))
   })}</script>`;
   return head('제품 비교 리뷰 모음 | info-how','가전·디지털·주방·캠핑 제품을 가격·스펙 기준으로 직접 비교한 구매가이드 리뷰 모음입니다.',`${BASE}/reviews/`,null,ld)
 + header()
@@ -284,11 +288,11 @@ function buildHome(){
 <div><div class="cat-name">${c.name}</div><div class="cat-desc">${c.desc}</div></div>
 </a>`).join('');
   // 인기 = 앞 5개(랭킹 배지) / 최신 = 날짜 내림차순
-  const popular = reviews.slice(0,5).map((r,i)=>`<a href="/reviews/${r.slug}/" class="rvcard rank">
+  const popular = live.slice(0,5).map((r,i)=>`<a href="/reviews/${r.slug}/" class="rvcard rank">
 <span class="rank-badge">${i+1}</span>
 <img src="/reviews/${r.slug}/thumb.png" alt="${esc(r.h1)}" loading="lazy">
 <div class="t">${esc(r.title)}</div><div class="d">${esc(catName(r.catSlug))}</div></a>`).join('');
-  const latest = [...reviews].sort((a,b)=>String(b.date).localeCompare(String(a.date))).slice(0,8).map(reviewCard).join('');
+  const latest = [...live].sort((a,b)=>String(b.date).localeCompare(String(a.date))).slice(0,8).map(reviewCard).join('');
   const ld = `<script type="application/ld+json">${JSON.stringify({
     "@context":"https://schema.org","@type":"WebSite",name:"info-how",url:BASE,
     potentialAction:{"@type":"SearchAction",target:`${BASE}/reviews/?q={q}`,"query-input":"required name=q"}
@@ -318,7 +322,7 @@ ${DISCLOSURE}
 // ─── 실행 ───
 let n=0;
 const thumbJobs=[];
-for (const r of reviews){
+for (const r of live){
   const dir=path.join(ROOT,'reviews',r.slug);
   fs.mkdirSync(dir,{recursive:true});
   fs.writeFileSync(path.join(dir,'index.html'), buildArticle(r),'utf8');
@@ -329,4 +333,5 @@ fs.mkdirSync(path.join(ROOT,'reviews'),{recursive:true});
 fs.writeFileSync(path.join(ROOT,'reviews','index.html'), buildList(),'utf8');
 fs.writeFileSync(path.join(ROOT,'index.html'), buildHome(),'utf8');  // 홈 = 제휴 허브
 fs.writeFileSync(path.join(ROOT,'_scripts','.thumbjobs.json'), JSON.stringify(thumbJobs,null,1),'utf8');
-console.log(`✓ 홈(허브) + 리뷰목록 + 글 ${n}개 생성. 다음: python _scripts/make_thumb.py && node _scripts/build-forms.cjs`);
+const drafts = reviews.length - live.length;
+console.log(`✓ 홈(허브) + 리뷰목록 + 라이브 글 ${n}개 생성${drafts?` (예약 대기 ${drafts}개 숨김)`:''}. 다음: python _scripts/make_thumb.py && node _scripts/build-forms.cjs`);
