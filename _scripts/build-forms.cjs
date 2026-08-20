@@ -211,7 +211,8 @@ fs.writeFileSync(path.join(ROOT,'sitemap.xml'),
 urls.map(u=>`<url><loc>${u}</loc><lastmod>${today}</lastmod></url>`).join('\n')+`\n</urlset>\n`,'utf8');
 
 // robots + ads
-fs.writeFileSync(path.join(ROOT,'robots.txt'),`User-agent: *\nAllow: /\nSitemap: ${BASE}/sitemap.xml\n`,'utf8');
+// /go/ = CPA 제휴 링크 래퍼(_redirects). 색인 대상이 아니므로 항상 Disallow.
+fs.writeFileSync(path.join(ROOT,'robots.txt'),`User-agent: *\nAllow: /\nDisallow: /go/\nSitemap: ${BASE}/sitemap.xml\n`,'utf8');
 fs.writeFileSync(path.join(ROOT,'ads.txt'),`google.com, pub-7852008102553944, DIRECT, f08c47fec0942fa0\n`,'utf8');
 
 console.log(`✓ 메인 + 서식 ${n}개 + 정적3 + sitemap/robots/ads.txt 생성 완료`);
