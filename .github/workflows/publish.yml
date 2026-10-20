@@ -15,6 +15,10 @@ on:
       - '_scripts/**'
       - 'reviews/**'
 
+# keepalive 커밋을 푸시해야 해서 쓰기 권한이 필요하다
+permissions:
+  contents: write
+
 # 동시에 여러 배포가 겹치지 않도록
 concurrency:
   group: publish
@@ -46,3 +50,21 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy . --project-name=info-how --branch=main --commit-dirty=true
+
+      # 🔴 저장소에 60일 동안 커밋이 없으면 GitHub 가 예약 실행을 자동으로 끈다
+      #    (2026-10-19 실제로 꺼짐 — 마지막 커밋 8/20). 30일 넘게 조용하면 한 줄 커밋을 남긴다.
+      #    .keepalive 는 push 트리거 경로(_scripts·reviews)에 없어서 재배포를 일으키지 않는다.
+      - name: 예약 실행 자동 비활성화 방지 (keepalive)
+        if: github.event_name == 'schedule'
+        run: |
+          DAYS=$(( ( $(date +%s) - $(git log -1 --format=%ct) ) / 86400 ))
+          if [ "$DAYS" -ge 30 ]; then
+            date -u +'%Y-%m-%dT%H:%M:%SZ' > .keepalive
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .keepalive
+            git commit -m "chore: keepalive (스케줄 워크플로 자동 비활성화 방지)"
+            git push
+          else
+            echo "최근 ${DAYS}일 내 활동 있음 — keepalive 생략"
+          fi
