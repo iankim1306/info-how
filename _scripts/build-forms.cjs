@@ -250,6 +250,13 @@ fs.writeFileSync(path.join(ROOT,'contact','index.html'), buildStatic('문의', `
 <li>개별 사건에 대한 법률 상담은 드리기 어렵습니다. 대한법률구조공단(국번 없이 132)이나 가까운 법률 전문가에게 문의해 주세요.</li>
 </ul>`,'contact'), 'utf8');
 
+// 404 — 이 파일이 없으면 Cloudflare Pages 가 없는 주소에도 홈을 200 으로 돌려준다(소프트 404).
+fs.writeFileSync(path.join(ROOT,'404.html'),
+  head('페이지를 찾을 수 없어요 | 생활서식 모음', '요청한 페이지가 없습니다.', `${BASE}/`).replace('<head>', '<head>\n<meta name="robots" content="noindex">')
+  + header()
+  + `<div class="container"><div class="static-page"><h1>페이지를 찾을 수 없어요</h1><p>주소가 바뀌었거나 아직 올라오지 않은 서식이에요. <a href="/">전체 서식 목록</a>에서 찾아보세요.</p></div></div>`
+  + footer() + `</body></html>`, 'utf8');
+
 // sitemap — 서식·소개 페이지만. 제품 추천 글(/reviews/)은 2026-11-03 부터 제외(검색 제외 처리).
 const urls=[[`${BASE}/`,UPDATED],[`${BASE}/about/`,UPDATED],[`${BASE}/privacy/`,UPDATED],[`${BASE}/contact/`,UPDATED],
   ...forms.map(f=>[`${BASE}/forms/${f.id}/`, (f.publishAt && f.publishAt>UPDATED) ? f.publishAt : UPDATED])];
