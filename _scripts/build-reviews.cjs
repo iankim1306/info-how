@@ -37,6 +37,7 @@ function head(title, desc, canonical, og, extraJsonLd){
   return `<!DOCTYPE html><html lang="ko"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,follow">
 <meta name="google-site-verification" content="6Yk8hNMiHDdWrRzcEJn1hf99kJAFrkWbrbBa5kMpxsY">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
@@ -331,7 +332,7 @@ for (const r of live){
 }
 fs.mkdirSync(path.join(ROOT,'reviews'),{recursive:true});
 fs.writeFileSync(path.join(ROOT,'reviews','index.html'), buildList(),'utf8');
-fs.writeFileSync(path.join(ROOT,'index.html'), buildHome(),'utf8');  // 홈 = 제휴 허브
+// 2026-11-03: 홈은 build-forms.cjs 의 서식 첫 화면. 제품 추천 글은 검색 제외(noindex)·메뉴/사이트맵 제외로 남겨 둔다(애드센스 심사 대비).
 fs.writeFileSync(path.join(ROOT,'_scripts','.thumbjobs.json'), JSON.stringify(thumbJobs,null,1),'utf8');
 const drafts = reviews.length - live.length;
 console.log(`✓ 홈(허브) + 리뷰목록 + 라이브 글 ${n}개 생성${drafts?` (예약 대기 ${drafts}개 숨김)`:''}. 다음: python _scripts/make_thumb.py && node _scripts/build-forms.cjs`);
