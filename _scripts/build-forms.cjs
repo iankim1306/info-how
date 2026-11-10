@@ -25,6 +25,7 @@ function head(title, desc, canonical, extraJsonLd) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="6Yk8hNMiHDdWrRzcEJn1hf99kJAFrkWbrbBa5kMpxsY">
+<meta name="naver-site-verification" content="3fc1e5b2b3fdd06916dd0550b1637befa022d6e9" />
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${canonical}">
