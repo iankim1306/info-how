@@ -58,7 +58,7 @@ module.exports = [
         consNote: '최대풍속을 계속 쓰는 물건이 아니라, <strong>중간 풍속+냉각패드 조합으로 쓰는 게 정석</strong>입니다. 한여름 야외에서 강풍이 계속 필요하면 2번 SUNGOD로 가세요.',
         review: '1만원대에서 냉각패드까지 달린 건 사실상 이거 하나입니다. 지하철에서 이마·목에 잠깐 대는 용도로는 상위 모델 부럽지 않아요. 다만 야외에서 강풍을 오래 써야 하는 분한테는 배터리가 아쉬우니, 그 경우 2번이 정답입니다.',
         specs: ['제품: 블라우풍트 에어튠 BLP-PF101W (냉각패드형 손선풍기)', '풍속: 120단 무단 조절 (BLDC 모터)', '냉각: 아이스 쿨링 냉각패드 (전원 시 즉시 냉각)', '배터리: 4,000mAh (풀파워 40~50분, 중풍 수 시간)', '가격: 19,800원 · 로켓배송 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9468421869&itemId=28180058917&vendorItemId=95143593350&traceid=V0-153-53be674952937bbe&requestid=20260709093219804254052406&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9468421869&itemId=28180058917&vendorItemId=95143593350&traceid=V0-153-53be674952937bbe&requestid=20260709093219804254052406&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -77,7 +77,7 @@ module.exports = [
         consNote: '가볍고 저렴한 게 1순위면 1번 블라우풍트가 맞습니다. 다만 "바람이 시원하지 않으면 결국 다시 산다"는 걸 감안하면 <strong>야외 위주 사용자는 처음부터 이걸 사는 게 이득</strong>입니다.',
         review: '손풍기 여러 개 거쳐본 사람들이 정착하는 유형이 이 터보형입니다. 무게와 가격을 감수할 가치가 있는 풍량이에요. 실내·출퇴근 위주라면 과한 스펙이니 1번으로 아끼는 게 맞습니다.',
         specs: ['제품: SUNGOD F9 (터보 손선풍기)', '풍속: 199단 조절, 4단 이상 강력 직접풍', '무게: 약 300g', '배터리: 대용량 (풍량 대비 밸런스 우수)', '가격: 39,900원 · 로켓배송 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9414321185&itemId=27973887352&vendorItemId=95061023099&traceid=V0-153-89817cd2218f4649&requestid=20260709093220049318344200&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9414321185&itemId=27973887352&vendorItemId=95061023099&traceid=V0-153-89817cd2218f4649&requestid=20260709093220049318344200&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -96,7 +96,7 @@ module.exports = [
         consNote: '냉각판 없는 2~3만원대 넥밴드는 미지근한 바람만 도는 경우가 많아서, <strong>넥밴드는 냉각판 유무가 만족도를 가릅니다.</strong> 예산이 부담되면 1번 블라우풍트(손풍기+냉각패드)로 시작하는 것도 방법입니다.',
         review: '손풍기와 별개 카테고리라고 보는 게 맞습니다. "바람 세기"보다 "두 손 자유"가 필요한 분 — 특히 유모차 끄는 부모님들 만족도가 가장 높아요. 강풍이 목적이면 2번, 가성비 냉각이 목적이면 1번입니다.',
         specs: ['제품: SmartGo S8 넥밴드 선풍기', '풍속: 3단 조절 (저소음 설계)', '냉각: 아이스 냉각판 (목덜미 접촉식)', '배송: 로켓배송', '가격: 79,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8750627582&itemId=25438375531&vendorItemId=92431292095&traceid=V0-153-3fc31d6e52b72f70&requestid=20260709093220269057846322&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8750627582&itemId=25438375531&vendorItemId=92431292095&traceid=V0-153-3fc31d6e52b72f70&requestid=20260709093220269057846322&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -184,7 +184,7 @@ module.exports = [
         consNote: '경쟁전에서 1프레임을 다투는 용도는 아닙니다. 다만 <strong>입문·캐주얼 게임엔 이 가격에 이만한 게 없어요.</strong> 반응속도가 아쉬워지면 그때 2번·3번으로 올라가면 됩니다.',
         review: '"무선 게이밍 마우스 = 비싸다"는 편견을 깨는 입문기입니다. 롤·오버워치 캐주얼하게 즐기는 정도면 차고 넘치고, 초경량이라 손 작은 분도 편하게 씁니다. 스펙 욕심이 나면 2번 FURYCUBE로.',
         specs: ['제품: 지클릭커 슈퍼히어로 르캄프 라이트', '무게: 초경량 설계', '연결: 블루투스 + 2.4GHz 무선', '기능: 매크로 지원', '가격: 19,800원 · 로켓배송 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9133270125&itemId=26876432152&vendorItemId=93869894079&traceid=V0-153-e29d23e691396d28&requestid=20260709135451304305922456&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9133270125&itemId=26876432152&vendorItemId=93869894079&traceid=V0-153-e29d23e691396d28&requestid=20260709135451304305922456&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -201,7 +201,7 @@ module.exports = [
         consNote: '프로 대회급 최상위 스펙은 아니지만, <strong>일반 게이머 99%에겐 여기서 결론이 납니다.</strong> 폴링레이트·센서 최상위까지 원하면 3번 VGN으로 가세요.',
         review: '가성비 무선 게이밍 마우스를 물으면 요즘 가장 자주 추천되는 유형입니다. PAW3311 센서 + 초경량 + 3모드를 3만원대에 담아서, 입문기에서 넘어오는 분들이 "이거면 됐다" 하고 정착해요. 예산 여유가 있고 반응속도에 진심이면 3번.',
         specs: ['제품: FURYCUBE G11 (컨투어 화이트)', '센서: PAW3311 게이밍 센서', '연결: 3모드(유선/2.4GHz/블루투스)', 'DPI: 6단계 조절', '가격: 33,900원 · 로켓배송 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9233186930&itemId=27294999090&vendorItemId=94261578245&traceid=V0-153-79a0c2615cc6d17b&requestid=20260709135451304305922456&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9233186930&itemId=27294999090&vendorItemId=94261578245&traceid=V0-153-79a0c2615cc6d17b&requestid=20260709135451304305922456&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -218,7 +218,7 @@ module.exports = [
         consNote: '캐주얼 게임 위주면 과한 스펙이라 2번 FURYCUBE가 맞습니다. 다만 <strong>FPS 경쟁전에서 반응속도로 손해 보기 싫다면</strong> 처음부터 이걸 사는 게 이득이에요.',
         review: 'FPS를 진지하게 하는 사람이 결국 도착하는 스펙이 8K 폴링레이트입니다. 반응속도 체감을 아는 분한텐 5만원대가 아깝지 않아요. 반대로 롤·캐주얼 위주면 2번으로 아끼는 게 현명합니다.',
         specs: ['제품: VGN F2 Pro Max 8K나노', '폴링레이트: 8K (초저지연)', '연결: 유무선 겸용', '용도: FPS·경쟁전 프로용', '가격: 53,900원 · 로켓배송 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9296640849&itemId=27537074568&vendorItemId=94501582124&traceid=V0-153-b11f26c1942ea5bc&requestid=20260709135451304305922456&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9296640849&itemId=27537074568&vendorItemId=94501582124&traceid=V0-153-b11f26c1942ea5bc&requestid=20260709135451304305922456&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -300,7 +300,7 @@ module.exports = [
         consNote: '1~2인 간단 조리엔 딱이지만, <strong>가족이 많거나 통구이를 자주 하면 용량이 아쉽습니다.</strong> 그런 경우 2번(브랜드 5.5L)이나 3번(오븐형 18L)으로 가세요.',
         review: '자취·1인 가구가 "일단 하나" 들이기 좋은 입문 에어프라이어입니다. 냉동 감자·만두·치킨텐더 정도면 차고 넘치고, 저소음이라 밤에 돌려도 부담이 적어요. 가족 단위거나 대량조리가 잦으면 처음부터 큰 걸 보세요.',
         specs: ['제품: OYEAH 저소음 에어프라이어 AF-4501', '용량: 4.5L (1~2인)', '특징: 즉시 발열, 저소음, 간편세척', '배송: 로켓배송', '가격: 36,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8447894672&itemId=25556749986&vendorItemId=95497731848&traceid=V0-153-8ed14d19546ea4f4&requestid=20260709135452420117191103&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8447894672&itemId=25556749986&vendorItemId=95497731848&traceid=V0-153-8ed14d19546ea4f4&requestid=20260709135452420117191103&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -317,7 +317,7 @@ module.exports = [
         consNote: '일반 가정 조리엔 5.5L가 가장 무난합니다. 다만 <strong>통닭·대량 밀프렙을 자주 한다면</strong> 3번 오븐형 18L가 더 맞아요. 반대로 1~2인이면 1번으로 아끼세요.',
         review: '"에어프라이어 = 브랜드 하나 오래 쓰자"는 분들이 정착하는 가정용 표준입니다. 5.5L 용량에 쿠쿠 A/S가 붙어서, 노브랜드 저가가 불안한 분께 안심 선택이에요. 대량조리·통구이가 잦으면 3번, 1~2인이면 1번이 낫습니다.',
         specs: ['제품: 쿠쿠 에어프라이어 5.5L', '용량: 5.5L (3~4인 가정)', '강점: 브랜드 A/S, 내구성', '배송: 로켓배송', '가격: 73,010원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5562885266&itemId=8830028095&vendorItemId=76116838178&traceid=V0-153-84a4a8150d37b680&requestid=20260709135452420117191103&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5562885266&itemId=8830028095&vendorItemId=76116838178&traceid=V0-153-84a4a8150d37b680&requestid=20260709135452420117191103&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -334,7 +334,7 @@ module.exports = [
         consNote: '용량이 깡패인 대신 자리를 차지합니다. <strong>1~2인이거나 주방이 좁으면 오히려 짐</strong>이니 1번 소형이 맞아요. 4인 이상 + 통구이·대량조리가 잦다면 이만한 게 없습니다.',
         review: '"에어프라이어인데 사실상 미니 오븐"인 대용량형입니다. 통닭 한 마리, 피자 한 판이 통째로 들어가서 홈파티·대가족한테 활용도가 높아요. 다만 부피가 크니 자리와 인원을 먼저 따져보세요. 소량·자취면 1번이 정답입니다.',
         specs: ['제품: 눕눕 오븐형 에어프라이어 18L', '용량: 18L 오븐형 (대가족·통구이)', '강점: 통닭·피자 통째 조리, 다단 조리', '배송: 로켓배송', '가격: 64,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8926574068&itemId=26091575198&vendorItemId=94232058147&traceid=V0-153-839776f2ace68b79&requestid=20260709135452420117191103&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8926574068&itemId=26091575198&vendorItemId=94232058147&traceid=V0-153-839776f2ace68b79&requestid=20260709135452420117191103&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -417,7 +417,7 @@ module.exports = [
         consNote: '오래 눕거나 자주 들고 다니는 용도는 아닙니다. 다만 <strong>가끔 나가는 입문·예비 의자로는 이 가격에 충분해요.</strong> 편함이 1순위면 3번 릴렉스, 가벼움이 1순위면 2번 경량으로.',
         review: '"일단 하나 장만"에 부담 없는 입문 캠핑의자입니다. 각도조절이 되어 저가치고 활용도가 있고, 예비용·손님용으로 하나 더 두기에도 좋아요. 자주 다니거나 오래 쉴 거면 2·3번의 편의 기능이 아쉬워질 수 있습니다.',
         specs: ['제품: 캠핑힐스 각도조절 접이식 의자', '형태: 접이식 각도조절', '용도: 입문·예비·피크닉', '배송: 로켓배송', '가격: 19,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9535804820&itemId=28441006862&vendorItemId=95391769030&traceid=V0-153-dcc13ccf217f1fb0&requestid=20260709135453633220790825&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9535804820&itemId=28441006862&vendorItemId=95391769030&traceid=V0-153-dcc13ccf217f1fb0&requestid=20260709135453633220790825&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -434,7 +434,7 @@ module.exports = [
         consNote: '로우 체어 특성상 좌고가 낮아, 무릎이 불편한 분은 적응이 필요합니다. <strong>가벼움·휴대성·감성이 목적이면</strong> 최적이고, 푹 눕고 쉬는 게 목적이면 3번 릴렉스가 맞아요.',
         review: '자주 들고 다니는 사람에게 무게는 곧 편의입니다. 경량 로우 체어 2개 + 가방 세트라 커플·부부 캠핑에 딱이고, 낮은 시야의 감성 캠핑·불멍에 잘 어울려요. 오래 눕고 싶으면 3번, 저렴한 입문이면 1번입니다.',
         specs: ['제품: 로티캠프 경량 로우 체어 2p + 전용가방 2p', '형태: 경량 로우 체어', '구성: 의자 2개 + 수납가방', '배송: 로켓배송', '가격: 35,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8605213420&itemId=20982977436&vendorItemId=92097848832&traceid=V0-153-6952c83541242b3c&requestid=20260709135453633220790825&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8605213420&itemId=20982977436&vendorItemId=92097848832&traceid=V0-153-6952c83541242b3c&requestid=20260709135453633220790825&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -451,7 +451,7 @@ module.exports = [
         consNote: '편함이 깡패인 대신 부피·무게가 큽니다. <strong>도보·백패킹 위주면 오히려 짐</strong>이니 2번 경량이 맞아요. 차로 이동하는 오토캠핑·차박에서 푹 쉬는 게 목적이면 이만한 게 없습니다.',
         review: '"캠핑 가서 눕고 싶다"는 분들의 최종 정착지입니다. 발받침+각도조절로 거의 침대처럼 젖혀지고, 1+1이라 부부가 나란히 쉬기 좋아요. 다만 크고 무거우니 차 이동 전제입니다. 들고 다녀야 하면 2번, 저렴한 입문이면 1번이 낫습니다.',
         specs: ['제품: DXZ 발받침 릴렉스 리클라이너 1+1 (카키)', '형태: 발받침 각도조절 리클라이너', '구성: 의자 2개(1+1)', '배송: 로켓배송', '가격: 54,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9459656870&itemId=28147372887&vendorItemId=95103252017&traceid=V0-153-c66610decf8de696&requestid=20260709135453633220790825&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9459656870&itemId=28147372887&vendorItemId=95103252017&traceid=V0-153-c66610decf8de696&requestid=20260709135453633220790825&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -539,7 +539,7 @@ module.exports = [
         consNote: '이 제품은 <strong>메인 청소기가 아니라 보조용 핸디</strong>로 보는 게 맞습니다. 30평 집 바닥을 매일 이걸로 밀 생각이면 2번 홈리아 스틱으로 가세요.',
         review: '가격을 생각하면 "차량·틈새 전용 서브"로 아주 합리적입니다. 문제는 이걸 집 전체 메인으로 기대하고 샀을 때 생깁니다. 용도만 맞으면 만족도가 높고, 메인이 필요하면 2·3번을 보세요.',
         specs: ['제품: 디에스가추몰 충전식 무선 멀티 핸디 청소기', '형태: 핸디형(초경량) · 차량/틈새 보조용', '방식: 충전식 무선 진공', '배송: 로켓배송', '가격: 약 19,140원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9427713974&itemId=28026946675&vendorItemId=95509128564&traceid=V0-153-9f4d45253e4894f3&requestid=20260709224625577220791705&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9427713974&itemId=28026946675&vendorItemId=95509128564&traceid=V0-153-9f4d45253e4894f3&requestid=20260709224625577220791705&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -558,7 +558,7 @@ module.exports = [
         consNote: '먼지통을 매번 손으로 비우는 게 귀찮거나 물걸레까지 한 번에 원하면 3번 올인원이 맞습니다. 다만 그 편의기능에 8만원 이상을 더 낼 가치가 있느냐는 사람마다 갈립니다.',
         review: '"무선청소기 처음인데 집 전체를 이걸로 쓰겠다"는 분에게 가장 무난한 선택입니다. 프리미엄의 자동비움·물걸레가 없을 뿐, 청소기 본연의 흡입력은 이 가격대에서 충분해요. 편의기능이 꼭 필요하면 3번으로.',
         specs: ['제품: 홈리아 BLDC 무선 진공청소기 (화이트)', '형태: 스틱형(무선) · 집 전체 메인용', '모터: BLDC(브러시리스) 모터', '배송: 일반배송(로켓 아님)', '가격: 약 136,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8234329353&itemId=23772129061&vendorItemId=90796397649&traceid=V0-153-849c5ae500c3bfe2&clickBeacon=94293840-7b9c-11f1-8218-2337bb59034a%7E3&requestid=20260709224625577220791705&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8234329353&itemId=23772129061&vendorItemId=90796397649&traceid=V0-153-849c5ae500c3bfe2&clickBeacon=94293840-7b9c-11f1-8218-2337bb59034a%7E3&requestid=20260709224625577220791705&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -577,7 +577,7 @@ module.exports = [
         consNote: '자동비움·물걸레 같은 편의기능이 필요 없고 <strong>순수 흡입력만 원하면 2번 홈리아가 더 합리적</strong>입니다. 편의기능에 값을 낼 의향이 있는 분에게만 이득입니다.',
         review: '"청소 자체보다 뒤처리(먼지통 비우기)가 싫다"는 분에게 정확히 맞는 제품입니다. 물걸레까지 겸하니 청소기 두 개 살 걸 하나로 줄이는 효과도 있어요. 반대로 그런 편의가 필요 없으면 2번이 돈값을 더 합니다.',
         specs: ['제품: 차이슨 AI TOWER 올인원 무선청소기 + 물걸레키트 (화이트)', '형태: 스틱형 + 자동비움 스테이션(타워)', '기능: 먼지통 자동비움 · 물걸레 키트 포함', '배송: 로켓배송', '가격: 약 211,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9126460962&itemId=26849445326&vendorItemId=93860944233&traceid=V0-153-8a0e64bc06f80bb9&clickBeacon=94293840-7b9c-11f1-abb9-dae2ee3f7e3e%7E3&requestid=20260709224625577220791705&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9126460962&itemId=26849445326&vendorItemId=93860944233&traceid=V0-153-8a0e64bc06f80bb9&clickBeacon=94293840-7b9c-11f1-abb9-dae2ee3f7e3e%7E3&requestid=20260709224625577220791705&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -669,7 +669,7 @@ module.exports = [
         consNote: '이 제품은 <strong>내 주변 좁은 공간용</strong>입니다. 거실이나 20평대 전체를 커버하려면 2번 쿠쿠 대형으로 가세요. 좁은 공간에 쓰면 가성비 최고, 넓은 곳에 쓰면 가장 실망하는 유형입니다.',
         review: '"공기청정기 하나로 집 전체"를 기대하면 실패하지만, "내 책상·차량·머리맡 공기"가 목적이면 4만원대에서 아주 합리적입니다. 용도만 맞으면 만족도가 높아요. 넓은 공간이면 2·3번을 보세요.',
         specs: ['제품: WoWo 차량용 미니 휴대용 실내공기청정기', '적용: 좁은 공간(책상·차량·머리맡)용 소형', '특징: 저소음 · 휴대형', '배송: 로켓배송', '가격: 약 42,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9138608345&itemId=26899344482&vendorItemId=94863869869&traceid=V0-153-46f3beb4672afb63&requestid=20260709224626296069379905&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9138608345&itemId=26899344482&vendorItemId=94863869869&traceid=V0-153-46f3beb4672afb63&requestid=20260709224626296069379905&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -688,7 +688,7 @@ module.exports = [
         consNote: '원룸·책상용으로는 과합니다. 좁은 공간이면 1번 미니가 전기·자리 면에서 합리적이에요. 반대로 넓은 집을 미니로 버티려 하면 필터가 혹사돼 오히려 손해입니다.',
         review: '"거실 공기청정기 추천"을 찾는 분에게 가장 무난한 대형입니다. 적용면적이 넉넉해 조용히 돌아가고, 국내 브랜드라 관리도 편해요. 브랜드 프리미엄·디자인·설치서비스까지 원하면 3번 LG로.',
         specs: ['제품: 쿠쿠 W8300 공기청정기', '적용면적: 96.8㎡ (거실·집 전체급)', '브랜드: 쿠쿠 (국내 A/S)', '배송: 로켓배송', '가격: 약 239,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=2305830613&itemId=3974357873&vendorItemId=71958694734&traceid=V0-153-5f24038e8dde1a46&requestid=20260709224626296069379905&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=2305830613&itemId=3974357873&vendorItemId=71958694734&traceid=V0-153-5f24038e8dde1a46&requestid=20260709224626296069379905&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -707,7 +707,7 @@ module.exports = [
         consNote: '똑같이 넓은 집을 커버하면서 <strong>가격을 아끼려면 2번 쿠쿠</strong>가 합리적입니다. 3번은 브랜드·디자인·설치서비스에 값을 낼 의향이 있는 분에게 어울립니다.',
         review: '성능만 보면 2번 쿠쿠와의 가격차가 크게 느껴질 수 있습니다. 다만 거실 한가운데 두는 가전이라 디자인·브랜드·설치 편의가 구매 이유가 되는 분들이 분명 있어요. 그런 분에겐 만족도가 높습니다.',
         specs: ['제품: LG 퓨리케어 360도 오브제컬렉션 플러스', '적용면적: 100㎡ (대면적)', '특징: 360도 청정 · 오브제 디자인 · 방문설치', '배송: 로켓배송(방문설치)', '가격: 약 732,350원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8603929492&itemId=24949570681&vendorItemId=91960066542&traceid=V0-153-24cb32713a8f7224&requestid=20260709224626296069379905&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8603929492&itemId=24949570681&vendorItemId=91960066542&traceid=V0-153-24cb32713a8f7224&requestid=20260709224626296069379905&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -798,7 +798,7 @@ module.exports = [
         consNote: '이 제품은 <strong>좁고 습한 국소 공간용</strong>입니다. 거실·방 전체 눅눅함이나 빨래 건조가 목적이면 2번 12L 이상으로 가세요. 용도만 맞으면 미니가 가장 알뜰합니다.',
         review: '"집 전체 제습"을 기대하면 실패하지만, "화장실·옷장 곰팡이·눅눅함"이 목적이면 4만원대에서 아주 합리적입니다. 좁은 곳 국소 제습으로는 만족도가 높아요. 넓은 공간이면 2·3번을 보세요.',
         specs: ['제품: FANOBO 미니 제습기 (화장실·옷장용)', '용량: 소형(국소 제습)', '특징: 저소음 · 4계절 겸용 · 자동건조', '배송: 로켓배송', '가격: 약 39,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8453198698&itemId=28556638112&vendorItemId=95501329380&traceid=V0-153-02850a7809f4d990&requestid=20260709224626899224912296&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8453198698&itemId=28556638112&vendorItemId=95501329380&traceid=V0-153-02850a7809f4d990&requestid=20260709224626899224912296&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -817,7 +817,7 @@ module.exports = [
         consNote: '좁은 화장실·옷장만 노린다면 1번 미니가 자리·전기 면에서 합리적입니다. 반대로 넓은 집·지하·반지하처럼 습기가 심한 곳이면 3번 20L가 여유롭습니다.',
         review: '"제습기 처음인데 방·거실용"이라면 가장 무난한 표준 용량입니다. 대부분의 가정 습기·빨래 건조를 커버하고 브랜드 A/S도 편해요. 공간이 아주 넓거나 습기가 심하면 3번 20L로.',
         specs: ['제품: 롯데알미늄 제습기 12L', '제습량: 하루 12L (방·거실급)', '용도: 생활공간 제습·빨래 건조', '배송: 로켓배송', '가격: 약 178,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8411430700&itemId=24320878878&vendorItemId=5011010804&traceid=V0-153-34862a4408ad3c65&requestid=20260709224626899224912296&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8411430700&itemId=24320878878&vendorItemId=5011010804&traceid=V0-153-34862a4408ad3c65&requestid=20260709224626899224912296&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -836,7 +836,7 @@ module.exports = [
         consNote: '방 하나·좁은 공간엔 과합니다. 그 경우 2번 12L가 자리·가격 면에서 합리적이에요. 반대로 습기 심한 넓은 집을 12L로 버티면 종일 돌려도 벅찰 수 있으니 20L가 정답입니다.',
         review: '"습기가 유난히 심하다" "지하·반지하다" "빨래를 많이 말린다"는 분에게 정확히 맞습니다. 용량 여유가 있어 목표 습도까지 빠르게 떨어뜨려요. 일반 방·거실이면 2번 12L로 충분합니다.',
         specs: ['제품: 신일 제습기 20L SDH-S530IF', '제습량: 하루 20L (대용량)', '용도: 넓은 집·지하·반지하·다량 빨래건조', '배송: 로켓배송', '가격: 약 218,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8813863727&itemId=25679422915&vendorItemId=94498300669&traceid=V0-153-e56b16993f135cf4&requestid=20260709224626899224912296&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8813863727&itemId=25679422915&vendorItemId=94498300669&traceid=V0-153-e56b16993f135cf4&requestid=20260709224626899224912296&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -927,7 +927,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·서브용</strong>으로 보는 게 맞습니다. 물걸레 뒤처리 자동화나 정교한 집 구조 맵핑이 필요하면 2·3번으로 가세요. "자동 바닥 훑기"만 원하면 가성비 최고입니다.',
         review: '"로봇청소기가 우리 집에 맞을까?"를 3만원으로 시험해보기 좋은 제품입니다. 맵핑·자동세척 같은 고급 기능은 없지만, 매일 바닥 먼지를 자동으로 한 번 훑어주는 것만으로도 체감이 큽니다. 뒤처리까지 자동을 원하면 2번으로.',
         specs: ['제품: HU LULU 무선 스마트 로봇청소기', '기능: 자동 진공 + 간단 물걸레', '급: 입문형(맵핑·자동세척 미포함)', '배송: 로켓배송', '가격: 약 28,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8239529752&itemId=23713824857&vendorItemId=90738705409&traceid=V0-153-e01dad6af4401fa4&requestid=20260709235833079275583258&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8239529752&itemId=23713824857&vendorItemId=90738705409&traceid=V0-153-e01dad6af4401fa4&requestid=20260709235833079275583258&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -946,7 +946,7 @@ module.exports = [
         consNote: '입문·경험이 목적이면 1번이 부담 없고, 브랜드·AI·방문설치까지 원하면 3번 삼성입니다. 2번은 <strong>"기능 대비 가격"의 실속 구간</strong> — 뒤처리 자동화가 꼭 필요한 분에게 가장 합리적입니다.',
         review: '로봇청소기에서 가장 귀찮은 게 물걸레 뒤처리인데, 그걸 고온세척+열풍건조로 자동화한 게 핵심입니다. 브랜드 프리미엄을 빼고 "자동세척 기능"만 실속 있게 챙기고 싶은 분에게 정확히 맞아요. 브랜드·A/S가 중요하면 3번으로.',
         specs: ['제품: JONR X9 Pro 올인원 로봇청소기 (화이트)', '물걸레: 롤러형 + 고온 자동세척', '건조: 열풍건조(걸레 냄새 방지)', '배송: 로켓배송', '가격: 약 699,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9470371148&itemId=28195643113&vendorItemId=95150044326&traceid=V0-153-246c45cb7285ead4&clickBeacon=a78c66a0-7ba6-11f1-9444-78117f224266%7E3&requestid=20260709235833079275583258&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9470371148&itemId=28195643113&vendorItemId=95150044326&traceid=V0-153-246c45cb7285ead4&clickBeacon=a78c66a0-7ba6-11f1-9444-78117f224266%7E3&requestid=20260709235833079275583258&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -965,7 +965,7 @@ module.exports = [
         consNote: '똑같이 물걸레 자동세척을 원하면서 <strong>가격을 아끼려면 2번 JONR</strong>이 실속 있습니다. 3번은 삼성 브랜드·AI·방문설치·앱 생태계에 값을 낼 의향이 있는 분에게 어울립니다.',
         review: '순수 기능 대비 가격은 분명 높습니다. 다만 "가전은 삼성으로 통일" "A/S가 확실해야 마음이 편하다" "앱으로 다 제어하고 싶다"는 분에게는 그 값이 이유가 됩니다. 실속이 우선이면 2번, 브랜드·생태계가 우선이면 3번입니다.',
         specs: ['제품: 삼성 비스포크 AI 스팀 9700 로봇청소기', '기능: AI 사물인식 주행 · 스팀 물걸레', '설치: 방문설치 · 스마트싱스 앱 연동', '배송: 로켓배송(방문설치)', '가격: 약 1,249,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7989878606&itemId=22212808581&vendorItemId=89258830122&traceid=V0-153-3261e97808e8de1e&requestid=20260709235833079275583258&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7989878606&itemId=22212808581&vendorItemId=89258830122&traceid=V0-153-3261e97808e8de1e&requestid=20260709235833079275583258&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -1057,7 +1057,7 @@ module.exports = [
         consNote: '초음파 가습기는 저렴하고 가습량이 좋은 대신 <strong>세척을 게을리하면 물때가 분사될 수 있어</strong> 주기적 청소가 필수입니다. 자동 습도조절·UV 살균까지 원하면 3번으로, 개인 책상용이면 2번으로.',
         review: '"대용량인데 1만원대"라는 게 가장 큰 강점입니다. 입구가 넓어 세척이 편한 것도 실사용에서 크게 체감돼요. 초음파식이라 청소만 부지런히 하면 가성비로는 최고입니다. 자동화·살균을 원하면 3번을 보세요.',
         specs: ['제품: 해피스마일 4.5L 초음파 가습기', '용량: 4.5L 대용량', '방식: 초음파 · 듀얼분사 · 간편세척', '배송: 로켓배송', '가격: 약 15,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9131963062&itemId=26871476177&vendorItemId=95422897499&traceid=V0-153-2337ed65419b30eb&requestid=20260709235833652283942044&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9131963062&itemId=26871476177&vendorItemId=95422897499&traceid=V0-153-2337ed65419b30eb&requestid=20260709235833652283942044&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1076,7 +1076,7 @@ module.exports = [
         consNote: '이 제품은 <strong>내 주변 개인 공간용</strong>입니다. 침실 전체·거실을 촉촉하게 하려면 1번 대용량이나 3번 8L로 가세요. 책상·머리맡 국소 가습이면 무선·무소음이라 만족도가 높습니다.',
         review: '"방 전체"가 아니라 "내 얼굴 주변" 가습이 목적이면 딱입니다. 무선이라 위치 제약이 없고 무소음·무드등이라 침대 곁에 두기 좋아요. 넓은 공간이 목적이면 1·3번이 맞습니다.',
         specs: ['제품: 풀라스 무선 UV 미니 가습기', '전원: 무선(충전식) · 휴대형', '기능: UV 살균 · 무소음 · 무드등', '배송: 로켓배송', '가격: 약 45,660원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9156272560&itemId=26966144024&vendorItemId=93935084187&traceid=V0-153-55b65c60fc7d6fad&clickBeacon=a7e3fc80-7ba6-11f1-9650-7a17eb2e3a3a%7E3&requestid=20260709235833652283942044&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9156272560&itemId=26966144024&vendorItemId=93935084187&traceid=V0-153-55b65c60fc7d6fad&clickBeacon=a7e3fc80-7ba6-11f1-9650-7a17eb2e3a3a%7E3&requestid=20260709235833652283942044&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1095,7 +1095,7 @@ module.exports = [
         consNote: '개인 책상용으로는 과합니다. 그 경우 2번 미니가 합리적이에요. 1번 4.5L로도 침실은 충분하니, <strong>넓은 거실 + 자동 습도조절</strong>이 필요할 때 3번의 값어치가 나옵니다.',
         review: '"넓은 거실을 자동으로, 신경 안 쓰고 촉촉하게"가 목적이면 이 구간입니다. 8L 용량과 AI 습도조절 덕에 하루 종일 손댈 일이 없어요. 침실·책상 위주면 1·2번이 훨씬 합리적입니다.',
         specs: ['제품: LANGDOO 8L AI 가습기 (JSQ6, 흰색)', '용량: 8L 초대용량', '기능: AI 습도조절 · UV 살균', '배송: 로켓배송', '가격: 약 158,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9156445291&itemId=26966971636&vendorItemId=95542649352&traceid=V0-153-ade9e4fc528a58dd&clickBeacon=a7e3fc80-7ba6-11f1-b5f5-dc3f1ee60c73%7E3&requestid=20260709235833652283942044&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9156445291&itemId=26966971636&vendorItemId=95542649352&traceid=V0-153-ade9e4fc528a58dd&clickBeacon=a7e3fc80-7ba6-11f1-b5f5-dc3f1ee60c73%7E3&requestid=20260709235833652283942044&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -1187,7 +1187,7 @@ module.exports = [
         consNote: '집에서 각을 제대로 잡는 게 목적이면 이게 정석입니다. 다만 <strong>여행·자취로 가볍게 들고 다니려면</strong> 2번 접이식 핸디가 훨씬 편해요. 용도가 "집이냐 이동이냐"로 갈립니다.',
         review: '핸디 스팀만 써본 분들이 "각이 안 잡힌다"며 돌아오는 정통 다리미입니다. 눌러 다리는 판압 덕에 셔츠·정장 마감이 확실해요. 대신 휴대성은 핸디에 양보하니, 이동이 잦으면 2번을 보세요.',
         specs: ['제품: 필립스 스팀다리미 1000시리즈', '방식: 판압 스팀 다리미(기본형)', '용도: 집에서 셔츠·정장 각 잡기', '배송: 로켓배송', '가격: 약 24,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7351060844&itemId=18916598311&vendorItemId=86043823961&traceid=V0-153-f3b54fc53565622e&requestid=20260709235834025054744058&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7351060844&itemId=18916598311&vendorItemId=86043823961&traceid=V0-153-f3b54fc53565622e&requestid=20260709235834025054744058&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1206,7 +1206,7 @@ module.exports = [
         consNote: '"이동 중 구김 펴기"엔 최고지만, <strong>셔츠 칼라·정장 각을 매일 빳빳하게</strong> 잡을 거면 1번 기본형이 낫습니다. 집에선 기본형, 여행엔 핸디로 두 개 두는 분도 많아요.',
         review: '자취·여행에서 "옷걸이에 건 채로 슥슥 구김만 펴는" 용도로는 정말 편합니다. 접이식이라 짐도 안 되고요. 다만 두꺼운 정장 각까지 기대하면 아쉬우니, 각이 중요하면 1번과 병행하세요.',
         specs: ['제품: 풀라스 2in1 접이식 핸디 스팀다리미 (민트)', '형태: 접이식 휴대용 핸디', '기능: 스팀 + 눌러다리기 2in1', '배송: 로켓배송', '가격: 약 70,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9388115642&itemId=27876909823&vendorItemId=94836027481&traceid=V0-153-f3831e030260afa1&clickBeacon=a81d34f0-7ba6-11f1-9ab8-e0b506201260%7E3&requestid=20260709235834025054744058&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9388115642&itemId=27876909823&vendorItemId=94836027481&traceid=V0-153-f3831e030260afa1&clickBeacon=a81d34f0-7ba6-11f1-9ab8-e0b506201260%7E3&requestid=20260709235834025054744058&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1225,7 +1225,7 @@ module.exports = [
         consNote: '가볍게 구김만 펴면 되면 2번으로 충분하고, 집에서 정통 각 잡기는 1번이 가성비입니다. 3번은 <strong>핸디 편의 + 마감·살균</strong>을 모두 원하는, 값을 낼 의향이 있는 분에게 어울립니다.',
         review: '"핸디는 편한데 각이 아쉽다"는 지점을 진공 흡착으로 보완한 제품입니다. 살균까지 챙기니 위생에 민감한 분에게 좋아요. 다만 가격대가 있으니, 단순 구김 펴기면 2번이 합리적입니다.',
         specs: ['제품: 브리브 진공 스팀다리미 (핸디형)', '특징: 진공 흡착 다림 · 스팀 살균', '용도: 핸디 편의 + 마감·위생', '배송: 일반배송(로켓 아님)', '가격: 약 137,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9207182684&itemId=27192598058&vendorItemId=95503857352&traceid=V0-153-e2870db98d466db3&requestid=20260709235834025054744058&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9207182684&itemId=27192598058&vendorItemId=95503857352&traceid=V0-153-e2870db98d466db3&requestid=20260709235834025054744058&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -1317,7 +1317,7 @@ module.exports = [
         consNote: '데일리·입문에는 딱이지만, <strong>진세노사이드 고함량으로 제대로 챙기거나 선물용</strong>이면 3번이 낫습니다. "일단 습관부터"라면 이 가성비가 가장 부담 없어요.',
         review: '"홍삼을 매일 챙기는 습관"을 부담 없이 시작하기 좋은 제품입니다. 100포라 단가도 낮고요. 진한 농도·선물 포장을 원하면 아쉬울 수 있으니, 그 경우 2·3번을 보세요.',
         specs: ['제품: 풍년보감 6년근 고려홍삼정 올데이굿타임 스틱', '구성: 100포(스틱)', '원료: 6년근 고려홍삼', '배송: 로켓배송', '가격: 약 23,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7895335455&itemId=21625226047&vendorItemId=94200197879&traceid=V0-153-0ea2c798c26b03f5&requestid=20260709235834511012911885&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7895335455&itemId=21625226047&vendorItemId=94200197879&traceid=V0-153-0ea2c798c26b03f5&requestid=20260709235834511012911885&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1336,7 +1336,7 @@ module.exports = [
         consNote: '"입문은 지났고 매일 꾸준히"라면 이 구간이 밸런스가 좋습니다. 다만 <strong>선물용이거나 진세노사이드를 확실히 챙길 거면</strong> 3번 고함량이 맞아요.',
         review: '데일리(1번)와 고함량(3번) 사이에서 "매일 꾸준"을 노린 실속 제품입니다. 농도와 가격 밸런스가 무난해 자가소비용으로 많이 찾아요. 확실한 고함량·선물이 목적이면 3번으로.',
         specs: ['제품: 순수식품 홍삼정진액 에브리데이365 스틱', '형태: 홍삼정 진액 스틱', '용도: 매일 꾸준 섭취용', '배송: 로켓배송', '가격: 약 47,250원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=2359354854&itemId=27367044744&vendorItemId=91763479058&traceid=V0-153-dde6383f7d0b8a51&requestid=20260709235834511012911885&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=2359354854&itemId=27367044744&vendorItemId=91763479058&traceid=V0-153-dde6383f7d0b8a51&requestid=20260709235834511012911885&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1355,7 +1355,7 @@ module.exports = [
         consNote: '"일단 습관부터"라면 1번이 부담 없고, 매일 꾸준 밸런스는 2번입니다. 3번은 <strong>진세노사이드를 확실히 챙기거나 선물용</strong>으로 값을 낼 분에게 어울립니다.',
         review: '홍삼은 "진세노사이드 함량"이 하나의 기준인데, 이 제품은 57.2mg을 명시해 농도 비교가 명확합니다. 선물이나 "제대로 진하게"가 목적이면 만족스럽고, 부담 없는 데일리면 1번이 합리적입니다.',
         specs: ['제품: 고려홍삼면역57 진세노사이드 홍삼스틱', '함량: 진세노사이드 57.2mg 표기', '구성: 10ml 스틱 100개', '배송: 로켓배송', '가격: 약 119,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7950190701&itemId=21938493563&vendorItemId=89097291325&traceid=V0-153-ddfc14041b990730&clickBeacon=a8678460-7ba6-11f1-9f47-3b33f5b838ea%7E3&requestid=20260709235834511012911885&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7950190701&itemId=21938493563&vendorItemId=89097291325&traceid=V0-153-ddfc14041b990730&clickBeacon=a8678460-7ba6-11f1-9f47-3b33f5b838ea%7E3&requestid=20260709235834511012911885&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -1447,7 +1447,7 @@ module.exports = [
         consNote: '<strong>이건 "살 찌우는" 제품입니다.</strong> 다이어트하며 근육을 지키려는 목적이면 오히려 역효과이니 2번 프로틴으로 가세요. 목적이 증량이면 게이너가 정답입니다.',
         review: '"아무리 먹어도 안 찐다"는 하드게이너에게 맞는 유형입니다. 탄수까지 들어 총 열량을 채우는 게 핵심이라, 증량이 목적이면 좋고 다이어트가 목적이면 절대 사면 안 됩니다. 목적부터 확인하세요.',
         specs: ['제품: 퍼스널벌크포뮬러 게이너 3.2kg', '유형: 게이너(탄수+단백) · 증량용', '용량: 3.2kg 대용량', '배송: 로켓배송', '가격: 약 25,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7207782395&itemId=20471841885&vendorItemId=91742371475&traceid=V0-153-0d74b04232fc9790&requestid=20260709235834995106729697&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7207782395&itemId=20471841885&vendorItemId=91742371475&traceid=V0-153-0d74b04232fc9790&requestid=20260709235834995106729697&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1466,7 +1466,7 @@ module.exports = [
         consNote: '"제대로 고단백"이 목적이면 3번 수입 웨이가 낫고, "살 찌우기"면 1번 게이너입니다. 2번은 <strong>다이어트·입문·음용성</strong>의 실속 구간 — 꾸준히 먹는 게 가장 중요한 분에게 맞습니다.',
         review: '프로틴은 "맛없으면 안 먹게 되고, 안 먹으면 소용없는" 게 함정인데, 이 제품은 음용성으로 그 문제를 잡았습니다. 다이어트·입문에 딱이에요. 1회 단백량을 극대화하려면 3번을 보세요.',
         specs: ['제품: 프로틴스토리 퓨어프로틴7', '유형: 다이어트·근육 유지용 프로틴', '강점: 맛·음용성(꾸준 섭취)', '배송: 로켓배송', '가격: 약 39,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7941691707&itemId=20989787462&vendorItemId=94862801359&traceid=V0-153-26cdbd34364a0c27&requestid=20260709235834995106729697&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7941691707&itemId=20989787462&vendorItemId=94862801359&traceid=V0-153-26cdbd34364a0c27&requestid=20260709235834995106729697&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1485,7 +1485,7 @@ module.exports = [
         consNote: '다이어트·입문·음용성이면 2번이 부담 없고, 증량이 목적이면 1번 게이너입니다. 3번은 <strong>제대로 운동하며 고단백·정통 품질</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '헬스를 오래 한 분들이 결국 찾는 정통 수입 웨이입니다. 1회 단백량과 품질이 강점이라 목적이 "제대로 근육"이면 만족스러워요. 다만 가격대가 있으니, 입문·다이어트면 2번이 합리적입니다.',
         specs: ['제품: 다이마타이즈 엘리트 웨이 프로틴 (리치 초콜릿)', '유형: 수입 정통 웨이 프로틴(고단백)', '강점: 1회 단백질 함량·브랜드 신뢰', '배송: 일반배송(로켓 아닐 수 있음)', '가격: 약 89,050원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8288993222&itemId=5000002470&vendorItemId=4041837027&traceid=V0-153-03cbd5b031a8db7d&requestid=20260709235834995106729697&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8288993222&itemId=5000002470&vendorItemId=4041837027&traceid=V0-153-03cbd5b031a8db7d&requestid=20260709235834995106729697&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -1577,7 +1577,7 @@ module.exports = [
         consNote: '"일단 입맛부터"에는 완벽하지만, <strong>매일 식사 대용으로 든든히 먹을 거면</strong> 2·3번 대용량이 단가·양 면에서 낫습니다. 취향 확인 후 대용량으로 넘어가는 순서를 추천합니다.',
         review: '닭가슴살 대용량을 샀다가 맛이 안 맞아 냉동실에 방치하는 실패를 막아주는 제품입니다. 소스맛+볼이라 입문자도 먹기 편해요. 입맛이 맞으면 그때 2·3번 대용량으로 넘어가면 됩니다.',
         specs: ['제품: 한끼통살 순삭 10팩 세트(소스통살5+닭가슴살볼5)', '구성: 혼합 10팩(소량)', '용도: 입문·입맛 테스트', '배송: 일반배송', '가격: 약 19,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8476066137&itemId=24528559371&vendorItemId=91541190031&traceid=V0-153-f30ab0ae24923ea1&requestid=20260709235835422151777588&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8476066137&itemId=24528559371&vendorItemId=91541190031&traceid=V0-153-f30ab0ae24923ea1&requestid=20260709235835422151777588&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1596,7 +1596,7 @@ module.exports = [
         consNote: '입맛 확인 전이면 1번 소량이 안전하고, 한 끼 식사 대용으로 든든한 덩어리를 원하면 3번 스테이크입니다. 2번은 <strong>"간편함+질리지 않는 맛"</strong>의 실속 구간 — 매일 꾸준히 먹기에 가장 무난합니다.',
         review: '닭가슴살을 매일 챙기는 사람들이 결국 정착하는 유형이 이 "한입 큐브+간 있는 맛"입니다. 데우기만 하면 되고 질리지 않아 지속률이 높아요. 무염 관리 중이면 아쉬울 수 있으니 그 경우 담백한 스테이크형을 보세요.',
         specs: ['제품: 흑닭 한입 닭가슴살 갈릭', '구성: 100g × 30개(대용량)', '강점: 한입 큐브 · 간이 된 맛(질림 방지)', '배송: 일반배송', '가격: 약 58,740원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8904261816&itemId=26003867544&vendorItemId=91650852908&traceid=V0-153-c8bc3fec9cae7b2c&clickBeacon=a8f23830-7ba6-11f1-b86a-9fa6fcec6953%7E3&requestid=20260709235835422151777588&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8904261816&itemId=26003867544&vendorItemId=91650852908&traceid=V0-153-c8bc3fec9cae7b2c&clickBeacon=a8f23830-7ba6-11f1-b86a-9fa6fcec6953%7E3&requestid=20260709235835422151777588&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1615,7 +1615,7 @@ module.exports = [
         consNote: '입맛 확인 전이면 1번부터, 간편한 한입 소비면 2번이 낫습니다. 3번은 <strong>입맛이 확실하고 매일 든든히 많이 먹는</strong> 분에게 대용량 단가로 값어치가 있습니다.',
         review: '"맛있닭 오리지널"은 담백한 스테이크형의 스테디셀러라 호불호가 적습니다. 한 끼 대용으로 든든하고 대용량이라 단가도 낮아요. 다만 입맛 확인 전 60개는 부담이니, 처음이면 1번으로 테스트 후 넘어오세요.',
         specs: ['제품: 맛있닭 닭가슴살 스테이크 오리지널', '구성: 100g × 60개(대용량)', '강점: 덩어리 스테이크(식사 대용) · 로켓프레시', '배송: 로켓프레시', '가격: 약 100,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8721477488&itemId=25333874559&vendorItemId=92328646578&traceid=V0-153-9f975a3a2ad9bb63&clickBeacon=a8f23830-7ba6-11f1-bc0c-126f7ede57c4%7E3&requestid=20260709235835422151777588&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8721477488&itemId=25333874559&vendorItemId=92328646578&traceid=V0-153-9f975a3a2ad9bb63&clickBeacon=a8f23830-7ba6-11f1-bc0c-126f7ede57c4%7E3&requestid=20260709235835422151777588&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -1707,7 +1707,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·서브용</strong>입니다. 통화 품질이 중요하면 2번 필립스 ENC, 소음 차단이 중요하면 3번 ANC로 가세요. "일단 무선"이면 가성비 최고입니다.',
         review: '"무선이어폰이 필요한데 비싼 건 부담"일 때 딱입니다. 음질·기능을 크게 기대하진 마시고, 서브·운동·경험용으로 접근하면 만족스러워요. 통화·소음차단이 목적이면 2·3번을 보세요.',
         specs: ['제품: 어반사운드 에어 프로 커널형 블루투스 이어폰', '형태: 커널형(인이어)', '급: 입문·서브용', '배송: 로켓배송', '가격: 약 12,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8464317239&itemId=24489097210&vendorItemId=91502383018&traceid=V0-153-dfed1b8b99372337&requestid=20260710082608826011826825&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8464317239&itemId=24489097210&vendorItemId=91502383018&traceid=V0-153-dfed1b8b99372337&requestid=20260710082608826011826825&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -1726,7 +1726,7 @@ module.exports = [
         consNote: 'ENC와 ANC를 헷갈리기 쉬운데, <strong>ENC=상대가 듣는 내 통화 잡음 제거, ANC=내가 듣는 주변 소음 차단</strong>입니다. 지하철 소음을 막고 싶으면 3번 ANC로 가세요.',
         review: '통화가 잦은 분에게 2만원 안팎에서 가장 실속 있는 선택입니다. ENC 덕에 통화 품질이 확실히 낫고 필립스라 안정적이에요. 단, "음악 들을 때 주변 소음 차단"이 목적이면 ENC가 아니라 3번 ANC입니다.',
         specs: ['제품: 필립스 ENC 노이즈캔슬링 블루투스 이어폰', '기능: ENC(통화 노이즈캔슬링)', '강점: 통화 품질·브랜드 안정성', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8498887873&itemId=24600675528&vendorItemId=91612183770&traceid=V0-153-53ee2dd24dc6f077&requestid=20260710082608826011826825&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8498887873&itemId=24600675528&vendorItemId=91612183770&traceid=V0-153-53ee2dd24dc6f077&requestid=20260710082608826011826825&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -1745,7 +1745,7 @@ module.exports = [
         consNote: '통화가 주목적이면 2번 ENC가 맞고, 일단 저렴하게면 1번입니다. 3번은 <strong>"내가 듣는 주변 소음 차단(ANC)"</strong>이 목적일 때 — 2만원대에서 그 기능을 원하는 분에게 가성비가 좋습니다.',
         review: '"지하철에서 이어폰 껴도 시끄럽다"는 분에게 2만원대 ANC는 체감이 큽니다. 고가 프리미엄만큼은 아니어도 저음 소음을 확실히 눌러줘요. 통화 위주면 2번, 경험·서브면 1번이 맞습니다.',
         specs: ['제품: OMIIYA ANC 무선 블루투스 이어폰(커널형)', '기능: ANC(액티브 노이즈캔슬링) · 케이스 디스플레이', '강점: 주변 소음 차단', '배송: 로켓배송', '가격: 약 21,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8623039667&itemId=25017401018&vendorItemId=95670628797&traceid=V0-153-77969e459e7d6222&requestid=20260710082608826011826825&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8623039667&itemId=25017401018&vendorItemId=95670628797&traceid=V0-153-77969e459e7d6222&requestid=20260710082608826011826825&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -1837,7 +1837,7 @@ module.exports = [
         consNote: '입문·경험엔 딱이지만, <strong>게임 반응속도를 극대화</strong>하려면 2번 적축 게이밍, <strong>무선·슬림</strong>을 원하면 3번입니다. "기계식 처음"이면 이 가성비가 부담 없어요.',
         review: '"기계식이 궁금한데 비싼 건 부담"일 때 딱입니다. 멤브레인과의 타건감 차이를 2만원대로 체험하기 좋아요. 게임 성능·무선을 원하면 2·3번으로 넘어가면 됩니다.',
         specs: ['제품: 한성컴퓨터 게이밍 유선 기계식 키보드', '연결: 유선', '급: 입문·가성비', '배송: 로켓배송', '가격: 약 23,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8586363207&itemId=24949261941&vendorItemId=91955169755&traceid=V0-153-57b5e0fcfb88f166&requestid=20260710082609335107920269&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8586363207&itemId=24949261941&vendorItemId=91955169755&traceid=V0-153-57b5e0fcfb88f166&requestid=20260710082609335107920269&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1856,7 +1856,7 @@ module.exports = [
         consNote: '타이핑의 <strong>또렷한 구분감</strong>이 좋으면 갈축(3번)이 낫고, 조용한 사무실이면 소음도 고려해야 합니다. 2번은 <strong>게임 반응속도</strong>가 목적일 때 가장 무난합니다.',
         review: '게임용으로 가장 무난한 선택이 이 적축 게이밍입니다. 가벼운 키압에 반응이 빨라 연타가 편하고 LED·풀배열로 구성도 좋아요. 다만 딸깍이는 타건감·무선을 원하면 3번 갈축 무선을 보세요.',
         specs: ['제품: 에이투 게이밍 LED 기계식 풀배열 키보드 (적축)', '축: 적축(가볍고 빠름)', '연결: 유선 · LED 백라이트 · 풀배열', '배송: 로켓배송', '가격: 약 59,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6764000977&itemId=15859702694&vendorItemId=83396841154&traceid=V0-153-cb44dda131dada70&clickBeacon=90e4b7d0-7bed-11f1-9754-9c4c02f3d0cd%7E3&requestid=20260710082609335107920269&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6764000977&itemId=15859702694&vendorItemId=83396841154&traceid=V0-153-cb44dda131dada70&clickBeacon=90e4b7d0-7bed-11f1-9754-9c4c02f3d0cd%7E3&requestid=20260710082609335107920269&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1875,7 +1875,7 @@ module.exports = [
         consNote: '게임 반응속도가 최우선이면 2번 유선 적축이 낫고, 일단 입문이면 1번입니다. 3번은 <strong>무선·슬림·타이핑 구분감</strong>을 모두 원하는, 값을 낼 의향이 있는 분에게 어울립니다.',
         review: '"책상 깔끔하게, 여러 기기 무선, 타이핑 좋게"를 한 번에 잡은 제품입니다. 맥·노트북 데스크에 특히 잘 어울려요. 다만 게임 극한 성능·가성비면 2번·1번이 합리적입니다.',
         specs: ['제품: 사테치 SM1 슬림 무선 기계식 키보드 (갈축)', '축: 갈축(구분감·중간 소음)', '연결: 무선 멀티페어링 · 슬림 알루미늄', '배송: 로켓배송', '가격: 약 119,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8302006494&itemId=23950786169&vendorItemId=90972488467&traceid=V0-153-6df6f2fa9e9ae53e&clickBeacon=90e4dee0-7bed-11f1-a571-9d07a4822e9c%7E3&requestid=20260710082609335107920269&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8302006494&itemId=23950786169&vendorItemId=90972488467&traceid=V0-153-6df6f2fa9e9ae53e&clickBeacon=90e4dee0-7bed-11f1-a571-9d07a4822e9c%7E3&requestid=20260710082609335107920269&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -1967,7 +1967,7 @@ module.exports = [
         consNote: '데일리·간편함엔 최고지만, <strong>여행·야외로 2~3회 충전</strong>이 필요하면 3번 20000mAh가 낫습니다. 케이블 편의가 1순위면 이게 딱이에요.',
         review: '"보조배터리는 있는데 케이블을 맨날 깜빡한다"는 분에게 딱입니다. 일체형이라 그냥 꺼내 꽂으면 되고 22.5W라 속도도 준수해요. 대용량이 필요하면 3번을 보세요.',
         specs: ['제품: 팬톤 PD 22.5W 케이블일체형 보조배터리 10000mAh', '용량: 10000mAh', '출력: PD 22.5W 고속 · 케이블 일체형', '배송: 로켓배송', '가격: 약 18,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7925483056&itemId=21787007370&vendorItemId=88835705792&traceid=V0-153-f89728f61fd6871b&requestid=20260710082609920089335847&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7925483056&itemId=21787007370&vendorItemId=88835705792&traceid=V0-153-f89728f61fd6871b&requestid=20260710082609920089335847&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -1986,7 +1986,7 @@ module.exports = [
         consNote: '케이블 챙기기 싫으면 1번 일체형이 편하고, 여행·다회 충전이면 3번 대용량입니다. 2번은 <strong>"작고 가벼운 데일리"</strong>의 밸런스 — 매일 휴대성이 중요한 분에게 무난합니다.',
         review: '매일 들고 다니기 좋은 크기·무게가 강점입니다. 케이블도 포함돼 바로 쓰기 좋고요. "가볍게 하루 한 번 충전"이면 딱이에요. 여행·야외는 3번 대용량이 맞습니다.',
         specs: ['제품: 코드웨이 미니 고속충전 보조배터리 10000mAh', '용량: 10000mAh · 미니 사이즈', '구성: C타입 초고속 케이블 포함', '배송: 로켓배송', '가격: 약 32,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9339213093&itemId=27695488772&vendorItemId=94657277421&traceid=V0-153-89373d7d3605e58a&clickBeacon=913ebeb0-7bed-11f1-adc7-75bb960a89f1%7E3&requestid=20260710082609920089335847&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9339213093&itemId=27695488772&vendorItemId=94657277421&traceid=V0-153-89373d7d3605e58a&clickBeacon=913ebeb0-7bed-11f1-adc7-75bb960a89f1%7E3&requestid=20260710082609920089335847&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2005,7 +2005,7 @@ module.exports = [
         consNote: '매일 가볍게 쓸 거면 2번 미니가 낫고, 케이블 편의면 1번입니다. 3번은 <strong>여행·야외·다회 충전</strong>이 목적일 때 — 용량 여유가 필요한 분에게 값어치가 있습니다.',
         review: '"콘센트 없이 하루 버텨야 하는" 여행·캠핑에 맞는 대용량입니다. 22.5W라 큰 용량도 빠르게 채워지고요. 다만 무거우니 매일 출퇴근용으로는 2번이 합리적입니다.',
         specs: ['제품: 보바 그립 22.5W 보조배터리 20000mAh', '용량: 20000mAh 대용량', '출력: PD 22.5W 고속', '배송: 로켓배송', '가격: 약 43,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9326353225&itemId=27646278809&vendorItemId=94608823412&traceid=V0-153-f98d73c924c342ab&clickBeacon=913ebeb0-7bed-11f1-97c7-12ea1d58f98b%7E3&requestid=20260710082609920089335847&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9326353225&itemId=27646278809&vendorItemId=94608823412&traceid=V0-153-f98d73c924c342ab&clickBeacon=913ebeb0-7bed-11f1-97c7-12ea1d58f98b%7E3&requestid=20260710082609920089335847&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -2097,7 +2097,7 @@ module.exports = [
         consNote: '이 제품은 <strong>개인 책상·무드용</strong>입니다. 야외·방수가 필요하면 2번, 홈파티·넓은 공간이면 3번 고출력으로 가세요. "가볍게 BGM"이면 가성비 최고입니다.',
         review: '"큰 소리가 아니라 책상에서 잔잔한 BGM"이 목적이면 딱입니다. LED까지 있어 무드용으로 좋아요. 야외·파티용으로 기대하면 볼륨이 아쉬우니 그 경우 2·3번을 보세요.',
         specs: ['제품: PLEIGO LED 패브릭 블루투스 스피커', '급: 미니(개인·무드용)', '특징: LED 무드등 겸용', '배송: 로켓배송', '가격: 약 9,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7456542331&itemId=19425189583&vendorItemId=86536553267&traceid=V0-153-8cc96a805273f35f&requestid=20260710082610352220798280&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7456542331&itemId=19425189583&vendorItemId=86536553267&traceid=V0-153-8cc96a805273f35f&requestid=20260710082610352220798280&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2116,7 +2116,7 @@ module.exports = [
         consNote: '책상 무드용이면 1번이 저렴하고, 홈파티·넓은 공간 볼륨이면 3번 고출력입니다. 2번은 <strong>"휴대+방수"</strong>의 실속 구간 — 밖으로 들고 다니는 분에게 가장 무난합니다.',
         review: '"밖으로 들고 다니고 물 튀는 데서도 쓴다"면 이 방수 휴대용이 정답입니다. TWS로 2대 연결하면 소리도 커지고요. 넓은 공간을 꽉 채우는 볼륨이 목적이면 3번을 보세요.',
         specs: ['제품: 비파노 휴대용 생활방수 TWS 블루투스 스피커', '방수: 생활방수', '특징: TWS(2대 연결 스테레오) · 휴대형', '배송: 로켓배송', '가격: 약 69,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8402114144&itemId=24288061512&vendorItemId=91304286391&traceid=V0-153-b0bd7478810c281a&clickBeacon=918082a0-7bed-11f1-bd39-b89302bf0ab5%7E3&requestid=20260710082610352220798280&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8402114144&itemId=24288061512&vendorItemId=91304286391&traceid=V0-153-b0bd7478810c281a&clickBeacon=918082a0-7bed-11f1-bd39-b89302bf0ab5%7E3&requestid=20260710082610352220798280&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2135,7 +2135,7 @@ module.exports = [
         consNote: '책상 무드용이면 1번, 들고 다니는 방수 휴대면 2번입니다. 3번은 <strong>넓은 공간·홈파티 볼륨</strong>이 목적일 때 — 소리 존재감에 값을 낼 분에게 어울립니다.',
         review: '"거실을 꽉 채우는 소리, 홈파티 메인"이 목적이면 이 고출력 구간입니다. 볼륨을 올려도 소리가 여유로워요. 다만 크고 무거우니 들고 다니는 용도면 2번 방수 휴대용이 맞습니다.',
         specs: ['제품: 볼티움 리버브온 R-800 블루투스 스피커', '출력: 50W 고출력', '용도: 홈파티·넓은 공간 메인', '배송: 로켓배송', '가격: 약 149,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8591309795&itemId=24910158786&vendorItemId=94011615907&traceid=V0-153-91f033687e4935b4&clickBeacon=918082a0-7bed-11f1-92e3-cae09518cb69%7E3&requestid=20260710082610352220798280&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8591309795&itemId=24910158786&vendorItemId=94011615907&traceid=V0-153-91f033687e4935b4&clickBeacon=918082a0-7bed-11f1-92e3-cae09518cb69%7E3&requestid=20260710082610352220798280&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -2227,7 +2227,7 @@ module.exports = [
         consNote: '정통 에스프레소·크레마를 원하면 2번 네스프레소, 원두를 갈아 제대로면 3번 전자동입니다. "다양한 음료를 편하게 입문"이면 이 캡슐머신이 부담 없어요.',
         review: '"커피머신 입문인데 라떼·초코도 마시고 싶다"면 돌체구스토가 무난합니다. 본체 싸고 캡슐 종류가 많아 다양하게 즐겨요. 정통 에스프레소·원두 풍미가 목적이면 2·3번으로.',
         specs: ['제품: 돌체구스토 지니오S 캡슐 커피머신', '방식: 캡슐(다양한 음료)', '강점: 입문 가격·음료 다양성·간편', '배송: 로켓배송', '가격: 약 66,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1947444077&itemId=3306694424&vendorItemId=71293600701&traceid=V0-153-8fcf8f7d91b9f86d&requestid=20260710082610846245585415&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1947444077&itemId=3306694424&vendorItemId=71293600701&traceid=V0-153-8fcf8f7d91b9f86d&requestid=20260710082610846245585415&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2246,7 +2246,7 @@ module.exports = [
         consNote: '다양한 음료·최저 입문가면 1번 돌체구스토, 원두를 갈아 경제적으로면 3번 전자동입니다. 2번은 <strong>"캡슐 편의 + 정통 크레마"</strong>를 모두 원하는 분에게 무난합니다.',
         review: '"편의는 캡슐, 맛은 카페급"을 원하면 네스프레소 버츄오가 정석입니다. 크레마가 풍부해 만족도가 높아요. 다만 전용 캡슐값이 계속 드니, 원두로 유지비를 낮추려면 3번 전자동을 보세요.',
         specs: ['제품: 네스프레소 버츄오 업 캡슐 커피머신 (MD1-BK)', '방식: 네스프레소 전용 캡슐(버츄오)', '강점: 풍부한 크레마·용량별 추출', '배송: 로켓배송', '가격: 약 230,430원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9398213111&itemId=27904605100&vendorItemId=94863381250&traceid=V0-153-9be04b7cbfbc3b16&clickBeacon=91cb2030-7bed-11f1-8998-658a578b5f0f%7E3&requestid=20260710082610846245585415&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9398213111&itemId=27904605100&vendorItemId=94863381250&traceid=V0-153-9be04b7cbfbc3b16&clickBeacon=91cb2030-7bed-11f1-8998-658a578b5f0f%7E3&requestid=20260710082610846245585415&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2265,7 +2265,7 @@ module.exports = [
         consNote: '가끔·소량이면 캡슐(1·2번)이 관리 면에서 편하고 초기비용도 낮습니다. 3번은 <strong>커피를 자주 마셔 원두 신선도·경제성</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"매일 여러 잔, 원두로 제대로"면 전자동이 결국 이득입니다. 갈아 내려 신선하고 캡슐값이 안 들어요. 다만 초기비용·청소 관리가 있으니, 가끔 마시면 캡슐머신이 합리적입니다.',
         specs: ['제품: 필립스 바리스티나 전자동 커피머신 (BAR300/00)', '방식: 원두 전자동(그라인더 내장)', '강점: 신선한 원두 추출·잔당 단가 경제적', '배송: 로켓배송', '가격: 약 430,120원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8758434956&itemId=25465404119&vendorItemId=92457973770&traceid=V0-153-eb9c418e9ff0840c&clickBeacon=91cb2030-7bed-11f1-a61a-72c07ade60b8%7E3&requestid=20260710082610846245585415&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8758434956&itemId=25465404119&vendorItemId=92457973770&traceid=V0-153-eb9c418e9ff0840c&clickBeacon=91cb2030-7bed-11f1-a61a-72c07ade60b8%7E3&requestid=20260710082610846245585415&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -2357,7 +2357,7 @@ module.exports = [
         consNote: '밥맛·보온을 제대로 원하면 2번 IH압력, 대가족·위생이면 3번 스테인리스입니다. "1~2인 기본 밥"이면 이 가성비가 부담 없어요.',
         review: '"자취라 밥솥은 최소한만"이면 딱입니다. 취사·보온 되고 크기도 적당해요. 다만 밥이 차지고 보온해도 덜 마르는 걸 원하면 IH압력(2번)과 체감 차이가 있으니 참고하세요.',
         specs: ['제품: 대웅 모닝컴 취사 보온 전기밥솥 4인용', '방식: 열판(일반)', '용량: 4인용(1~2인 가구 적합)', '배송: 로켓배송', '가격: 약 29,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8327026885&itemId=24038750793&vendorItemId=94472405909&traceid=V0-153-ab503409312065c8&requestid=20260710082611285225319280&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8327026885&itemId=24038750793&vendorItemId=94472405909&traceid=V0-153-ab503409312065c8&requestid=20260710082611285225319280&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2376,7 +2376,7 @@ module.exports = [
         consNote: '1~2인이면 1번 소형이 자리·가격 면에서 합리적이고, 대가족·위생 스테인리스면 3번입니다. 2번은 <strong>"가족 밥맛"</strong>의 표준 구간 — 매일 밥이 중요한 가정에 가장 무난합니다.',
         review: '"밥맛 때문에 밥솥 바꾼다"는 분들이 정착하는 IH압력 표준입니다. 갓 지은 밥은 물론 보온해도 덜 말라 만족도가 높아요. 1~2인이면 과하고, 대가족이면 3번 대용량을 보세요.',
         specs: ['제품: 쿠첸 브레인 듀얼프레셔 IH압력 전기밥솥 6인용 (CRH-TWS0610W)', '방식: IH(유도가열)+압력', '용량: 6인용(3~4인 가족)', '배송: 로켓배송', '가격: 약 236,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8519963498&itemId=20498133979&vendorItemId=87756145912&traceid=V0-153-9bb3f8357719c138&clickBeacon=920d8060-7bed-11f1-b34c-c1cc57512445%7E3&requestid=20260710082611285225319280&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8519963498&itemId=20498133979&vendorItemId=87756145912&traceid=V0-153-9bb3f8357719c138&clickBeacon=920d8060-7bed-11f1-b34c-c1cc57512445%7E3&requestid=20260710082611285225319280&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2395,7 +2395,7 @@ module.exports = [
         consNote: '1~2인이면 1번, 3~4인 가족 밥맛이면 2번이 합리적입니다. 3번은 <strong>대가족·다량 취사·스테인리스 위생</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"코팅 벗겨진 내솥이 찜찜하다" "밥을 많이 한다"는 분에게 올스테인리스 대용량이 맞습니다. 위생·용량이 강점이에요. 반대로 1~2인이 쓰면 늘 반만 채우게 되니 크기를 꼭 가늠하세요.',
         specs: ['제품: 쿠첸 121 플러스 올스테인리스 전기압력밥솥 10인용 (CRT-RPS1071BW)', '방식: 전기압력 · 올스테인리스 내솥', '용량: 10인용(대가족)', '배송: 로켓배송', '가격: 약 304,060원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8635655742&itemId=18936066700&vendorItemId=86062681911&traceid=V0-153-445785de58720d73&clickBeacon=920da770-7bed-11f1-90f0-53c604243a0a%7E3&requestid=20260710082611285225319280&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8635655742&itemId=18936066700&vendorItemId=86062681911&traceid=V0-153-445785de58720d73&clickBeacon=920da770-7bed-11f1-90f0-53c604243a0a%7E3&requestid=20260710082611285225319280&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -2487,7 +2487,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·서브용</strong>입니다. 발소리 방향감·마이크 품질을 제대로 원하면 2번, 무선 편의·브랜드면 3번으로 가세요. "일단 입문"이면 가성비 최고입니다.',
         review: '"게이밍 헤드셋이 처음"이면 2만원 이하로 경험하기 좋습니다. 7.1 가상·마이크가 있어 기본은 하고요. 다만 FPS에서 방향감·팀 보이스 품질이 중요하면 2번, 무선이면 3번이 낫습니다.',
         specs: ['제품: OMIIYA 7.1 USB 게이밍 헤드셋', '연결: USB(유선) · 7.1 가상서라운드', '기능: LED · 노이즈캔슬링 마이크', '배송: 로켓배송', '가격: 약 18,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8976117738&itemId=26275925840&vendorItemId=95670822928&traceid=V0-153-7ce3572d472ed2e6&requestid=20260710090703776286718293&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8976117738&itemId=26275925840&vendorItemId=95670822928&traceid=V0-153-7ce3572d472ed2e6&requestid=20260710090703776286718293&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2506,7 +2506,7 @@ module.exports = [
         consNote: '일단 입문·최저가면 1번, 선 없이 편하게·브랜드면 3번 무선입니다. 2번은 <strong>"게이밍 성능(방향감·마이크) 대비 가격"</strong>의 실속 구간 — 유선이어도 제대로 쓰려는 분에게 무난합니다.',
         review: '게이밍 성능을 실속 있게 챙기고 싶으면 이 구간입니다. 7.1 방향감과 마이크가 입문형보다 확실히 낫고 유선이라 안정적이에요. 선이 거슬리거나 브랜드를 원하면 3번 무선으로.',
         specs: ['제품: ONIKUMA X25 게이밍 헤드셋', '연결: USB(유선) · 7.1 가상서라운드', '기능: RGB · 노이즈캔슬링 마이크', '배송: 로켓배송', '가격: 약 51,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9068654218&itemId=26631532732&vendorItemId=92923106044&traceid=V0-153-2bccd141afff4435&clickBeacon=47daff80-7bf3-11f1-a267-adb5944a0363%7E3&requestid=20260710090703776286718293&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9068654218&itemId=26631532732&vendorItemId=92923106044&traceid=V0-153-2bccd141afff4435&clickBeacon=47daff80-7bf3-11f1-a267-adb5944a0363%7E3&requestid=20260710090703776286718293&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2525,7 +2525,7 @@ module.exports = [
         consNote: '일단 입문이면 1번, 유선으로 게이밍 성능 실속이면 2번입니다. 3번은 <strong>무선 편의 + 브랜드 완성도</strong>를 원하는, 값을 낼 의향이 있는 분에게 어울립니다.',
         review: '"선이 정말 거슬린다" "브랜드 완성도를 원한다"면 레이저 무선이 만족스럽습니다. 착용감·기본기가 좋아요. 다만 가성비·유선 안정성이면 1·2번이 합리적입니다.',
         specs: ['제품: 레이저 Barracuda X PLUS 무선 헤드셋 (RZ04-0443)', '연결: 무선', '강점: 브랜드 완성도 · 멀티기기', '배송: 로켓배송', '가격: 약 99,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6687684845&itemId=15443972771&vendorItemId=82663595039&traceid=V0-153-4a481234ec0802f2&clickBeacon=47daff80-7bf3-11f1-88af-5891af0bf8c6%7E3&requestid=20260710090703776286718293&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6687684845&itemId=15443972771&vendorItemId=82663595039&traceid=V0-153-4a481234ec0802f2&clickBeacon=47daff80-7bf3-11f1-88af-5891af0bf8c6%7E3&requestid=20260710090703776286718293&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -2617,7 +2617,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가끔 화상회의용 입문</strong>입니다. 얼굴이 또렷해야 하는 수업·방송이면 2번 QHD, 고화질 스트리밍이면 3번 4K로 가세요. "얼굴만 나오면 됨"이면 가성비 최고입니다.',
         review: '"화상회의 때만 잠깐"이면 1만원대로 충분합니다. 화질·마이크를 크게 기대하진 마시고요. 얼굴이 선명해야 하거나 방송·수업 용도면 2·3번을 보세요.',
         specs: ['제품: 컴썸 USB HD 웹캠 PWC-500', '해상도: HD급', '연결: USB(플러그앤플레이)', '배송: 일반배송', '가격: 약 15,950원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4673454518&itemId=3498666264&vendorItemId=81427678077&traceid=V0-153-7b5b3dcafd35cdd1&requestid=20260710090819834008260739&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4673454518&itemId=3498666264&vendorItemId=81427678077&traceid=V0-153-7b5b3dcafd35cdd1&requestid=20260710090819834008260739&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2636,7 +2636,7 @@ module.exports = [
         consNote: '가끔 화상회의만이면 1번이 저렴하고, 4K 고화질 스트리밍이면 3번입니다. 2번은 <strong>"오토포커스+마이크+선명함"</strong>의 실속 구간 — 수업·재택·방송 입문에 가장 무난합니다.',
         review: '"얼굴이 흐릿하게 나온다"는 불만을 오토포커스+QHD로 해결한 실속 제품입니다. 마이크도 내장이라 하나로 끝나요. 4K 전문 방송이 목적이면 3번, 가끔 회의면 1번이 맞습니다.',
         specs: ['제품: 홈플래닛 QHD 웹캠', '해상도: QHD 500만화소', '기능: 오토포커스 · 마이크 내장 · 광시야각', '배송: 로켓배송', '가격: 약 32,080원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4315840103&itemId=5014910386&vendorItemId=72324789589&traceid=V0-153-f28f7c2233896e35&requestid=20260710090819834008260739&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4315840103&itemId=5014910386&vendorItemId=72324789589&traceid=V0-153-f28f7c2233896e35&requestid=20260710090819834008260739&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2655,7 +2655,7 @@ module.exports = [
         consNote: '가끔 회의면 1번, 수업·방송 입문이면 2번이 합리적입니다. 3번은 <strong>고화질 스트리밍·전문 방송</strong>이 목적일 때 — 화질에 값을 낼 분에게 어울립니다.',
         review: '"화질이 곧 퀄리티"인 스트리밍·전문 방송이면 4K가 값을 합니다. 마이크 노이즈캔슬링까지 되고요. 다만 4K를 살리려면 PC·조명이 받쳐줘야 하니, 일반 회의·수업이면 1·2번이 실속 있습니다.',
         specs: ['제품: AOC 4K UHD 웹캠 AC310', '해상도: 4K UHD', '기능: 노이즈캔슬링 마이크 내장', '배송: 로켓배송', '가격: 약 64,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9480909228&itemId=28228048526&vendorItemId=95181869676&traceid=V0-153-efde7ba90e42b33f&clickBeacon=752feae0-7bf3-11f1-b87c-abe293cf91e2%7E3&requestid=20260710090819834008260739&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9480909228&itemId=28228048526&vendorItemId=95181869676&traceid=V0-153-efde7ba90e42b33f&clickBeacon=752feae0-7bf3-11f1-b87c-abe293cf91e2%7E3&requestid=20260710090819834008260739&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -2747,7 +2747,7 @@ module.exports = [
         consNote: '각도를 자유롭게 이리저리 옮기려면 2번 다기능, 32인치+ 대형·게이밍이면 3번 고중량입니다. "일반 모니터 높이 맞추기"면 이 가성비가 딱이에요.',
         review: '"모니터가 낮아 목이 아프다"를 저렴하게 해결하기 좋은 입문 싱글입니다. 높이·공간이 좋아져요. 다만 자유로운 다관절 조정이나 대형 모니터면 2·3번이 맞습니다.',
         specs: ['제품: 카멜 싱글 모니터암 CA1N', '구성: 싱글(모니터 1대)', '급: 입문·일반 모니터용', '배송: 로켓배송', '가격: 약 25,630원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8785144160&itemId=25563893032&vendorItemId=92743584244&traceid=V0-153-8c30d195201f90a8&requestid=20260710090820426140030765&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8785144160&itemId=25563893032&vendorItemId=92743584244&traceid=V0-153-8c30d195201f90a8&requestid=20260710090820426140030765&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2766,7 +2766,7 @@ module.exports = [
         consNote: '단순 높이만이면 1번이 저렴하고, 32인치+ 무거운 대형·게이밍이면 3번 고중량입니다. 2번은 <strong>"일반 모니터 + 자유로운 각도"</strong>의 실속 구간 — 위치를 자주 바꾸는 분에게 무난합니다.',
         review: '"모니터를 이리저리 자유롭게 옮기고 세로로도 쓰고 싶다"면 다기능 암이 편합니다. 3만원대에서 자유도가 좋아요. 다만 내 모니터가 지원 무게를 넘는지 꼭 확인하고, 대형·곡면이면 3번을 보세요.',
         specs: ['제품: 다기능 회전 높이조절 모니터암', '조절: 회전·높이·각도·피벗(가로↔세로)', '용도: 일반 모니터 자유 배치', '배송: 로켓배송', '가격: 약 35,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9591968967&itemId=28633700174&vendorItemId=95576671011&traceid=V0-153-76aa0fad4ecb9c69&clickBeacon=758adc20-7bf3-11f1-afa5-d3362740bea4%7E3&requestid=20260710090820426140030765&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9591968967&itemId=28633700174&vendorItemId=95576671011&traceid=V0-153-76aa0fad4ecb9c69&clickBeacon=758adc20-7bf3-11f1-afa5-d3362740bea4%7E3&requestid=20260710090820426140030765&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2785,7 +2785,7 @@ module.exports = [
         consNote: '일반 24~27인치면 1·2번으로 충분하고 3번은 과합니다. 3번은 <strong>32인치+ 대형·무거운 곡면·게이밍 모니터</strong>를 처짐 없이 쓰려는 분에게 값어치가 있습니다.',
         review: '"대형 모니터가 무거워 싼 암이 못 버틴다"는 분에게 고중량 암이 답입니다. 가스스프링이라 조절도 부드럽고 견고해요. 다만 일반 모니터엔 과하니, 24~27인치면 1·2번이 합리적입니다.',
         specs: ['제품: 카멜마운트 초고중량 모니터암 PMA2X', '지원: 초고중량(대형·곡면 대응)', '방식: 가스스프링 · 견고 구조', '배송: 로켓배송', '가격: 약 86,740원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7802570930&itemId=21135845542&vendorItemId=88197515624&traceid=V0-153-ddb7df4c9e3f7431&clickBeacon=758adc20-7bf3-11f1-9d06-9638750d568c%7E3&requestid=20260710090820426140030765&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7802570930&itemId=21135845542&vendorItemId=88197515624&traceid=V0-153-ddb7df4c9e3f7431&clickBeacon=758adc20-7bf3-11f1-9d06-9638750d568c%7E3&requestid=20260710090820426140030765&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -2877,7 +2877,7 @@ module.exports = [
         consNote: '이 제품은 <strong>1인·보조용</strong>입니다. 두 요리를 동시에 하려면 2번 2구, 주방에 제대로 붙박이로 넣으려면 3번 3구 빌트인입니다. "자취 화구 하나"면 이 가성비가 딱이에요.',
         review: '"자취라 화구 하나면 충분"이면 이동형 1구가 부담 없습니다. 공사 없이 콘센트만 있으면 되고요. 다만 동시 조리·가족 요리엔 부족하니 그 경우 2·3번을 보세요.',
         specs: ['제품: 1구 이동형 전기레인지', '화구: 1구(이동형)', '설치: 콘센트 연결(공사 불필요)', '배송: 로켓배송', '가격: 약 29,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9261893060&itemId=27404530413&vendorItemId=95623539979&traceid=V0-153-a920073247ade6da&requestid=20260710090705333106722233&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9261893060&itemId=27404530413&vendorItemId=95623539979&traceid=V0-153-a920073247ade6da&requestid=20260710090705333106722233&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2896,7 +2896,7 @@ module.exports = [
         consNote: '자취·1인이면 1번이 충분하고, 세 가지 동시 조리·제대로 빌트인이면 3번 3구 인덕션입니다. 2번은 <strong>"동시 조리 + 가성비"</strong>의 실속 구간 — 대부분 가정에 무난합니다.',
         review: '"1구는 답답하고 3구는 과하다"는 대부분의 가정에 2구가 정답입니다. 국 끓이며 반찬을 볶을 수 있어 편해요. 구매 전 인덕션인지 하이라이트인지 방식만 확인하세요. 제대로 빌트인이면 3번으로.',
         specs: ['제품: 키친아트 2구 전기레인지 (KWS-2050)', '화구: 2구', '설치: 프리스탠딩/빌트인', '배송: 로켓배송', '가격: 약 168,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8087777631&itemId=4093953725&vendorItemId=91465349093&traceid=V0-153-495879730570316d&clickBeacon=48c7f790-7bf3-11f1-b85e-7fd456a07328%7E3&requestid=20260710090705333106722233&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8087777631&itemId=4093953725&vendorItemId=91465349093&traceid=V0-153-495879730570316d&clickBeacon=48c7f790-7bf3-11f1-b85e-7fd456a07328%7E3&requestid=20260710090705333106722233&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -2915,7 +2915,7 @@ module.exports = [
         consNote: '자취면 1번, 부부·가족 동시 조리 가성비면 2번입니다. 3번은 <strong>가족 주방에 제대로 빌트인 + 인덕션 화력·1등급</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"주방에 제대로 인덕션을 넣겠다"면 3구 빌트인이 완성형입니다. 화력·상판·에너지등급이 좋아요. 다만 인덕션 전용 냄비가 필요하고 설치가 있으니, 간단히 쓸 거면 1·2번이 맞습니다.',
         specs: ['제품: 린나이 3구 인덕션 빌트인 전기레인지', '화구: 인덕션 3구(초고화력)', '사양: 에너지 1등급 · 독일 쇼트 상판 · 자가설치', '배송: 일반배송', '가격: 약 369,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9537105425&itemId=28446044533&vendorItemId=94093937263&traceid=V0-153-59b2b7c2eee9e9f4&clickBeacon=48c7f790-7bf3-11f1-9922-8fb52fb0ce6c%7E3&requestid=20260710090705333106722233&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9537105425&itemId=28446044533&vendorItemId=94093937263&traceid=V0-153-59b2b7c2eee9e9f4&clickBeacon=48c7f790-7bf3-11f1-9922-8fb52fb0ce6c%7E3&requestid=20260710090705333106722233&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -3007,7 +3007,7 @@ module.exports = [
         consNote: '이 제품은 <strong>소량·다용도용</strong>입니다. 가족 주스·대용량이면 2번, 얼음·냉동과일 곱게+저소음이면 3번으로 가세요. "이유식·소량"이면 가성비 최고입니다.',
         review: '"이유식·소스 갈고 가끔 다지기"면 소형 다용도가 딱입니다. 세척도 간편하고요. 얼음을 곱게 갈거나 가족용 대용량이 필요하면 2·3번을 보세요.',
         specs: ['제품: 홈플래닛 소형 다용도 믹서기', '용량: 소형', '용도: 이유식·소스·다지기 등 소량', '배송: 로켓배송', '가격: 약 29,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1762434613&itemId=3001686704&vendorItemId=70989931753&traceid=V0-153-7d95aba9ffc9b584&requestid=20260710090705862008263718&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1762434613&itemId=3001686704&vendorItemId=70989931753&traceid=V0-153-7d95aba9ffc9b584&requestid=20260710090705862008263718&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -3026,7 +3026,7 @@ module.exports = [
         consNote: '이유식·소량이면 1번이 세척·보관에 편하고, 얼음·냉동과일 곱게+저소음이면 3번입니다. 2번은 <strong>"가족 대용량 + 스텐 위생"</strong>의 실속 구간 — 넉넉히 만드는 가정에 무난합니다.',
         review: '"가족 주스·미숫가루를 한 번에 넉넉히"면 대용량 스텐이 편합니다. 위생·내구도 좋고요. 소량만 갈면 과하니 1번, 얼음·스무디를 곱게+조용히면 3번을 보세요.',
         specs: ['제품: 키친플라워 대용량 스텐 믹서기 (KMX-R4509)', '용량: 4.5L 대용량', '용기: 스테인리스', '배송: 로켓배송', '가격: 약 99,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9016626279&itemId=26434600958&vendorItemId=93416405658&traceid=V0-153-391b2ef06a682259&clickBeacon=4918d6b0-7bf3-11f1-ab1a-d6bc19c90be1%7E3&requestid=20260710090705862008263718&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9016626279&itemId=26434600958&vendorItemId=93416405658&traceid=V0-153-391b2ef06a682259&clickBeacon=4918d6b0-7bf3-11f1-ab1a-d6bc19c90be1%7E3&requestid=20260710090705862008263718&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -3045,7 +3045,7 @@ module.exports = [
         consNote: '이유식·소량이면 1번, 가족 대용량 주스면 2번이 합리적입니다. 3번은 <strong>얼음·냉동과일을 곱게 + 저소음 + 파워</strong>를 원하는, 스무디 퀄리티에 값을 낼 분에게 어울립니다.',
         review: '"저가 믹서기는 얼음이 거칠고 시끄럽다"는 불만을 초고속+저소음으로 잡은 제품입니다. 스무디가 매끈하고 아침에도 조용해요. 소량·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 신일 초고속 저소음 블렌더 (SMX-BR2205NW)', '강점: 초고속(얼음·냉동과일) · 저소음', '급: 전문가용 대형', '배송: 로켓배송', '가격: 약 158,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9170154944&itemId=27024650405&vendorItemId=93993227553&traceid=V0-153-a24ea33085cd1f17&clickBeacon=4918d6b0-7bf3-11f1-acf5-87a5d0980915%7E3&requestid=20260710090705862008263718&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9170154944&itemId=27024650405&vendorItemId=93993227553&traceid=V0-153-a24ea33085cd1f17&clickBeacon=4918d6b0-7bf3-11f1-acf5-87a5d0980915%7E3&requestid=20260710090705862008263718&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -3137,7 +3137,7 @@ module.exports = [
         consNote: '이 제품은 <strong>피크닉·소인원 입문용</strong>입니다. 가족이 그늘 아래 쉬고 짐도 두려면 2번 리빙쉘, 5~6인이 안에서 자려면 3번 대형 돔으로 가세요. "잠깐 나들이"면 가성비 최고입니다.',
         review: '"피크닉·물놀이 때 잠깐 그늘"이면 원터치 입문이 딱입니다. 펼치면 서니 설치 스트레스가 없어요. 가족 취침·본격 캠핑이면 2·3번을 보세요.',
         specs: ['제품: 코멧 원터치 텐트(보관가방 포함)', '설치: 원터치(펼치면 설치)', '용도: 피크닉·1~2인·차박 보조', '배송: 로켓배송', '가격: 약 19,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=2229091647&itemId=3802999067&vendorItemId=71787967160&traceid=V0-153-ae95c0fd7a2ac2c1&requestid=20260710090706337054741386&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=2229091647&itemId=3802999067&vendorItemId=71787967160&traceid=V0-153-ae95c0fd7a2ac2c1&requestid=20260710090706337054741386&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -3156,7 +3156,7 @@ module.exports = [
         consNote: '피크닉·1~2인이면 1번이 저렴하고, 5~6인이 안에서 자려면 3번 대형 돔입니다. 2번은 <strong>"가족 그늘·거실 공간"</strong>의 실속 구간 — 앉아 쉬고 짐 두는 용도에 무난합니다.',
         review: '"가족이 그늘 아래 앉아 쉬고 짐도 두는" 거실형이 목적이면 리빙쉘이 편합니다. 원터치라 설치도 수월하고요. 5~6인 취침 위주면 3번 대형 돔이 맞습니다.',
         specs: ['제품: 한소 원터치 리빙쉘 텐트', '인원: 3-4인(거실형)', '설치: 원터치 그늘막', '배송: 일반배송', '가격: 약 59,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6606591671&itemId=14962619246&vendorItemId=82185863616&traceid=V0-153-72ed5306c6ccb53e&clickBeacon=49615160-7bf3-11f1-adfd-12463844d0b3%7E3&requestid=20260710090706337054741386&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6606591671&itemId=14962619246&vendorItemId=82185863616&traceid=V0-153-72ed5306c6ccb53e&clickBeacon=49615160-7bf3-11f1-adfd-12463844d0b3%7E3&requestid=20260710090706337054741386&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -3175,7 +3175,7 @@ module.exports = [
         consNote: '피크닉·1~2인이면 1번, 그늘 아래 쉬는 거실형이면 2번이 합리적입니다. 3번은 <strong>5~6인 가족이 안에서 자는 본격 캠핑</strong>이 목적일 때 값어치가 있습니다.',
         review: '"가족이 텐트 안에서 자는 본격 캠핑"이면 대형 돔이 필요합니다. 자동 원터치라 대형치고 설치가 수월해요. 다만 부피가 크니, 피크닉·소인원이면 1·2번이 합리적입니다.',
         specs: ['제품: 자동 원터치 육각 대형 돔 텐트', '인원: 5-6인(대형 취침)', '설치: 자동 원터치', '배송: 로켓배송', '가격: 약 91,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7537411358&itemId=19805716194&vendorItemId=87522604684&traceid=V0-153-422a8e7e803df783&clickBeacon=49615160-7bf3-11f1-a167-6cca9f11dadb%7E3&requestid=20260710090706337054741386&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7537411358&itemId=19805716194&vendorItemId=87522604684&traceid=V0-153-422a8e7e803df783&clickBeacon=49615160-7bf3-11f1-a167-6cca9f11dadb%7E3&requestid=20260710090706337054741386&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -3267,7 +3267,7 @@ module.exports = [
         consNote: '이 제품은 <strong>피크닉·소량용</strong>입니다. 가족 캠핑으로 많이 담으려면 2번 대용량, 1박 이상 얼음을 오래 유지하려면 3번 보냉 프리미엄으로 가세요. "잠깐 나들이"면 가성비 최고입니다.',
         review: '"음료 몇 개·도시락 잠깐"이면 소형으로 충분합니다. 가벼워 들고 다니기 좋고요. 가족 캠핑·장시간 보냉이면 2·3번을 보세요.',
         specs: ['제품: 도피오 소형 아이스박스', '용량: 소형', '용도: 피크닉·도시락·음료 몇 개', '배송: 일반배송', '가격: 약 11,520원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8792339714&itemId=25592233695&vendorItemId=86542550266&traceid=V0-153-88a57efa0e17a946&requestid=20260710090706747174694843&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8792339714&itemId=25592233695&vendorItemId=86542550266&traceid=V0-153-88a57efa0e17a946&requestid=20260710090706747174694843&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -3286,7 +3286,7 @@ module.exports = [
         consNote: '잠깐 피크닉이면 1번이 가볍고, 1박 이상 얼음을 오래 유지해야 하면 3번 보냉 프리미엄입니다. 2번은 <strong>"대용량 + 가성비"</strong>의 실속 구간 — 가족 캠핑에 무난합니다.',
         review: '"가족 캠핑·바비큐에 음식·음료를 넉넉히"면 27L 대용량이 편합니다. 뚜껑을 테이블로 쓰는 것도 실용적이고요. 1박 이상 강력한 보냉이 필요하면 3번을 보세요.',
         specs: ['제품: 코멧 테이블 아이스박스 27L', '용량: 27L 대용량', '특징: 뚜껑 테이블 활용', '배송: 로켓배송', '가격: 약 34,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7327986084&itemId=18807686149&vendorItemId=85938298410&traceid=V0-153-51c216ffacec4035&requestid=20260710090706747174694843&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7327986084&itemId=18807686149&vendorItemId=85938298410&traceid=V0-153-51c216ffacec4035&requestid=20260710090706747174694843&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -3305,7 +3305,7 @@ module.exports = [
         consNote: '많이 담는 게 목적이면 2번 27L가 낫고, 잠깐이면 1번입니다. 3번은 <strong>용량보다 "얼음 오래 유지"·내구·브랜드</strong>가 목적일 때 값어치가 있습니다.',
         review: '"1박인데 아침까지 얼음이 남아야 한다"면 보냉력 좋은 스탠리가 값을 합니다. 단열·마감이 좋아요. 다만 용량 대비 가격이 있으니, 많이 담는 게 목적이면 2번이 합리적입니다.',
         specs: ['제품: 스탠리 이지 캐리 쿨러 15.1L', '용량: 15.1L', '강점: 보냉 지속력 · 내구 · 휴대 손잡이', '배송: 로켓배송', '가격: 약 101,300원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1821246794&itemId=24662349303&vendorItemId=91672762947&traceid=V0-153-b3e8a91dcdaf8762&clickBeacon=499fb9f0-7bf3-11f1-a991-ab19d86942b1%7E3&requestid=20260710090706747174694843&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1821246794&itemId=24662349303&vendorItemId=91672762947&traceid=V0-153-b3e8a91dcdaf8762&clickBeacon=499fb9f0-7bf3-11f1-a991-ab19d86942b1%7E3&requestid=20260710090706747174694843&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -3397,7 +3397,7 @@ module.exports = [
         consNote: '이 제품은 <strong>분위기·서브 조명</strong>입니다. 텐트·테이블을 밝히는 메인이면 2번 다기능, 여름 선풍기·충전 겸용이면 3번으로 가세요. "무드·서브"면 가성비 최고입니다.',
         review: '"텐트에 걸어두는 감성 조명·서브"면 8천원대로 딱입니다. 여러 개 두기도 좋고요. 넓은 공간을 밝히는 메인이 필요하면 2·3번을 보세요.',
         specs: ['제품: 코멧 충전식 감성 캠핑 랜턴', '전원: 충전식', '용도: 분위기·서브 조명(걸이형)', '배송: 로켓배송', '가격: 약 8,290원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8512052933&itemId=24639798903&vendorItemId=91650673932&traceid=V0-153-46d1204a2bcad66e&requestid=20260710090707185155730166&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8512052933&itemId=24639798903&vendorItemId=91650673932&traceid=V0-153-46d1204a2bcad66e&requestid=20260710090707185155730166&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -3416,7 +3416,7 @@ module.exports = [
         consNote: '분위기·서브면 1번이 저렴하고, 여름 선풍기·충전 겸용이면 3번입니다. 2번은 <strong>"밝기+배터리 메인 조명"</strong>의 실속 구간 — 캠핑 메인 랜턴으로 무난합니다.',
         review: '"텐트·테이블을 제대로 밝히는 메인"이면 다기능 대용량이 무난합니다. 손전등 겸용에 배터리도 넉넉해요. 분위기용이면 1번, 여름 선풍기 겸용이면 3번을 보세요.',
         specs: ['제품: Axylon 다기능 캠핑 랜턴', '배터리: 3000mAh 대용량', '기능: 랜턴+손전등 겸용', '배송: 로켓배송', '가격: 약 25,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9198886543&itemId=27157194384&vendorItemId=95384280277&traceid=V0-153-83e535b7c176246e&clickBeacon=49e3a0c0-7bf3-11f1-8ad9-8977809a1838%7E3&requestid=20260710090707185155730166&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9198886543&itemId=27157194384&vendorItemId=95384280277&traceid=V0-153-83e535b7c176246e&clickBeacon=49e3a0c0-7bf3-11f1-8ad9-8977809a1838%7E3&requestid=20260710090707185155730166&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -3435,7 +3435,7 @@ module.exports = [
         consNote: '분위기 조명만이면 1번, 밝은 메인 조명이면 2번이 합리적입니다. 3번은 <strong>여름 선풍기·조명·충전을 하나로</strong> 원하는, 짐을 줄이려는 분에게 값어치가 있습니다.',
         review: '"여름 캠핑에 선풍기·랜턴·보조배터리를 다 챙기기 번거롭다"면 3in1이 짐을 확 줄여줍니다. 20000mAh라 충전도 넉넉해요. 조명만 필요하면 1·2번이 합리적입니다.',
         specs: ['제품: COUCAMP 선풍기·랜턴·보조배터리 겸용', '기능: 선풍기 + 랜턴 + 보조배터리(20000mAh)', '용도: 여름 캠핑 다기능 겸용', '배송: 로켓배송', '가격: 약 53,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9363704184&itemId=27762872600&vendorItemId=94723548051&traceid=V0-153-adba8fb5779e08d2&clickBeacon=49e3c7d0-7bf3-11f1-adde-46fae0879db4%7E3&requestid=20260710090707185155730166&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9363704184&itemId=27762872600&vendorItemId=94723548051&traceid=V0-153-adba8fb5779e08d2&clickBeacon=49e3c7d0-7bf3-11f1-adde-46fae0879db4%7E3&requestid=20260710090707185155730166&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -3526,7 +3526,7 @@ module.exports = [
         consNote: '입문·가성비엔 딱이지만, <strong>강도·승모근 지압</strong>을 제대로 원하면 3번, 브랜드 밸런스면 2번입니다. "일단 무선 온열"이면 이 가성비가 부담 없어요.',
         review: '"목어깨 안마기가 처음"이면 2만원대로 경험하기 좋습니다. 온열+3D텐션으로 기본은 하고요. 강한 지압·내구를 원하면 2·3번을 보세요.',
         specs: ['제품: 무선 온열 목어깨 3D텐션 안마기', '방식: 무선 · 온열 · 3D텐션 지압', '용도: 목·어깨·승모근 이완', '배송: 로켓배송', '가격: 약 26,880원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8536270964&itemId=24711748072&vendorItemId=91795690027&traceid=V0-153-48cf5f8b7397eaef&requestid=20260714154729675040790510&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8536270964&itemId=24711748072&vendorItemId=91795690027&traceid=V0-153-48cf5f8b7397eaef&requestid=20260714154729675040790510&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -3545,7 +3545,7 @@ module.exports = [
         consNote: '저렴하게면 1번, 지압을 강하게·승모근 집중이면 3번입니다. 2번은 <strong>"강도+착용감 밸런스"</strong>의 실속 구간 — 두루 쓰기 가장 무난합니다.',
         review: '"집·사무실 겸용으로 무난하게"면 이 3D텐션이 밸런스가 좋습니다. 강도·온열·착용감이 두루 준수해요. 아주 강한 지압을 원하면 3번을 보세요.',
         specs: ['제품: 릴렉스파 목어깨 3D텐션 안마기', '방식: 3D텐션 지압 · 온열 · 무선', '용도: 목·어깨 이완(재택·사무)', '배송: 로켓배송', '가격: 약 31,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8370192568&itemId=27990955353&vendorItemId=95629484546&traceid=V0-153-dba2a6ea61a256c1&requestid=20260714154729675040790510&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8370192568&itemId=27990955353&vendorItemId=95629484546&traceid=V0-153-dba2a6ea61a256c1&requestid=20260714154729675040790510&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -3564,7 +3564,7 @@ module.exports = [
         consNote: '자극이 부담되거나 저렴하게면 1·2번이 낫습니다. 3번은 <strong>강한 지압·승모근 집중</strong>을 원하는 분에게 어울립니다. 처음엔 약하게 시작해 강도를 올리세요.',
         review: '"약한 안마기는 시원한 맛이 없다"는 분에게 강한 지압형이 맞습니다. 승모근 뭉침에 특히 만족도가 높아요. 다만 자극에 민감하면 2번 밸런스형이 안전합니다.',
         specs: ['제품: 비스카 목어깨 지압 온열 안마기', '방식: 강한 지압 · 온열 · 승모근 집중', '용도: 강한 목·어깨 이완', '배송: 로켓배송', '가격: 약 49,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9348041702&itemId=27729238318&vendorItemId=94755775902&traceid=V0-153-5860e2454bca0c91&requestid=20260714154729675040790510&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9348041702&itemId=27729238318&vendorItemId=94755775902&traceid=V0-153-5860e2454bca0c91&requestid=20260714154729675040790510&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -3655,7 +3655,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·휴대용</strong>입니다. 강도·부위 다양성을 원하면 3번, 등까지 혼자 쓰려면 2번 갈고리형으로 가세요. "일단 경험"이면 가성비 최고입니다.',
         review: '"마사지건이 궁금한데 비싼 건 부담"이면 미니로 시작하기 좋습니다. 가벼운 이완엔 충분해요. 강한 자극·다양한 부위면 2·3번을 보세요.',
         specs: ['제품: 아이스페이스 휴대용 마사지건 GUN-300', '급: 미니·입문', '용도: 가벼운 근육 이완·휴대', '배송: 일반배송', '가격: 약 11,540원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7537063805&itemId=19804086490&vendorItemId=86906372803&traceid=V0-153-2622ca9e5d2effe6&requestid=20260714154730616041710947&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7537063805&itemId=19804086490&vendorItemId=86906372803&traceid=V0-153-2622ca9e5d2effe6&requestid=20260714154730616041710947&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -3674,7 +3674,7 @@ module.exports = [
         consNote: '가볍게 입문이면 1번, 여러 부위·헤드 다양성이면 3번입니다. 2번은 <strong>"혼자 등까지"</strong>가 목적일 때 특화된 실속 구간입니다.',
         review: '"등이 뭉쳤는데 혼자 손이 안 닿는다"는 분에게 갈고리형이 답입니다. 강력 진동으로 큰 근육을 풀기 좋아요. 부위별 헤드 다양성이 중요하면 3번을 보세요.',
         specs: ['제품: AOSS 갈고리형 무선 마사지건', '형태: 갈고리형(등·손 안 닿는 부위)', '강점: 강력 진동 · 무선', '배송: 로켓배송', '가격: 약 27,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8451191184&itemId=24451045608&vendorItemId=91464913232&traceid=V0-153-cc3b35991bde7b77&requestid=20260714154730616041710947&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8451191184&itemId=24451045608&vendorItemId=91464913232&traceid=V0-153-cc3b35991bde7b77&requestid=20260714154730616041710947&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -3693,7 +3693,7 @@ module.exports = [
         consNote: '등까지 혼자면 2번 갈고리형, 가볍게 입문이면 1번입니다. 3번은 <strong>여러 부위를 헤드 바꿔 두루</strong> 쓰려는 분에게 어울립니다.',
         review: '"부위마다 다르게 풀고 싶다"면 헤드 8종 다용도가 알찹니다. 파우치로 챙기기도 좋고요. 등처럼 혼자 닿기 어려운 곳이 주목적이면 2번이 낫습니다.',
         specs: ['제품: RUNDX 미니 무선 마사지건 (헤드 8종·파우치)', '구성: 헤드 8종 · 미니 무선 · 파우치', '용도: 부위별 다용도 이완', '배송: 로켓배송', '가격: 약 38,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8675905569&itemId=25186104691&vendorItemId=92957719953&traceid=V0-153-c9c17097f5bb238c&requestid=20260714154730616041710947&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8675905569&itemId=25186104691&vendorItemId=92957719953&traceid=V0-153-c9c17097f5bb238c&requestid=20260714154730616041710947&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -3784,7 +3784,7 @@ module.exports = [
         consNote: '입문·가성비엔 딱이지만, <strong>세게 닦는 습관 방지(압력센서)</strong>면 2번, 브랜드 신뢰·부드러운 음파면 3번입니다. "일단 음파"면 이 가성비가 부담 없어요.',
         review: '"전동칫솔이 처음"이면 2만원대 음파로 시작하기 좋습니다. 일반 칫솔보다 확실히 꼼꼼해요. 압력센서·브랜드를 원하면 2·3번을 보세요.',
         specs: ['제품: JLS 스마트 음파 전동칫솔', '방식: 음파 진동', '급: 입문·가성비', '배송: 로켓배송', '가격: 약 24,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9558355273&itemId=28522454637&vendorItemId=95482035309&traceid=V0-153-37c43e4c945e723e&requestid=20260714154731354272508897&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9558355273&itemId=28522454637&vendorItemId=95482035309&traceid=V0-153-37c43e4c945e723e&requestid=20260714154731354272508897&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -3803,7 +3803,7 @@ module.exports = [
         consNote: '저렴하게 음파 입문이면 1번, 브랜드·부드러운 음파면 3번입니다. 2번은 <strong>"압력센서+알찬 구성"</strong>의 실속 구간 — 세게 닦는 습관이 걱정인 분에게 무난합니다.',
         review: '"나도 모르게 세게 닦아 잇몸이 시리다"는 분에게 압력센서가 유용합니다. 칫솔모·케이스 구성도 알차고요. 부드러운 음파·브랜드를 원하면 3번을 보세요.',
         specs: ['제품: 비트베이 R2 회전 전동칫솔', '방식: 회전 + 스마트 압력센서', '구성: 칫솔모 8개 · 휴대 케이스', '배송: 로켓배송', '가격: 약 43,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7811946196&itemId=25075087650&vendorItemId=92079083780&traceid=V0-153-56b39729aca1181d&clickBeacon=e30eadd0-7f4f-11f1-a3ba-b25df8e7eb9d%7E3&requestid=20260714154731354272508897&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7811946196&itemId=25075087650&vendorItemId=92079083780&traceid=V0-153-56b39729aca1181d&clickBeacon=e30eadd0-7f4f-11f1-a3ba-b25df8e7eb9d%7E3&requestid=20260714154731354272508897&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -3822,7 +3822,7 @@ module.exports = [
         consNote: '저렴하게 음파 입문이면 1번, 압력센서·알찬 구성이면 2번이 합리적입니다. 3번은 <strong>브랜드 신뢰·부드러운 음파</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"이왕이면 믿을 만한 브랜드"면 필립스 소닉케어가 무난합니다. 부드러운 음파라 잇몸 부담이 적어요. 다만 정품 칫솔모값이 드니, 가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 필립스 소닉케어 3100 시리즈', '방식: 음파(소닉케어)', '강점: 브랜드 신뢰 · 칫솔모 수급', '배송: 로켓배송', '가격: 약 54,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6239624318&itemId=27622386096&vendorItemId=94585346047&traceid=V0-153-c6566e97c79881fc&requestid=20260714154902818073090359&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6239624318&itemId=27622386096&vendorItemId=94585346047&traceid=V0-153-c6566e97c79881fc&requestid=20260714154902818073090359&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -3913,7 +3913,7 @@ module.exports = [
         consNote: '이 제품은 <strong>발바닥 저주파 입문용</strong>입니다. 발을 감싸는 시원함·종아리까지면 2번 에어압박, 지압+에어 제대로면 3번으로 가세요. "발바닥만 저렴하게"면 가성비 최고입니다.',
         review: '"발바닥이 피곤한데 저렴하게"면 저주파 패드가 부담 없습니다. 얇아 보관도 편하고요. 발을 감싸는 시원함이나 종아리까지 원하면 2·3번을 보세요.',
         specs: ['제품: KORELAN 저주파 발마사지기', '방식: 저주파(미세전류) 패드', '부위: 발바닥', '배송: 로켓배송', '가격: 약 18,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7635114684&itemId=20272626728&vendorItemId=95439779422&traceid=V0-153-fd600fb7ed5bd7c8&requestid=20260714154731760220792569&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7635114684&itemId=20272626728&vendorItemId=95439779422&traceid=V0-153-fd600fb7ed5bd7c8&requestid=20260714154731760220792569&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -3932,7 +3932,7 @@ module.exports = [
         consNote: '저렴하게 발바닥만이면 1번, 지압+에어까지 제대로면 3번입니다. 2번은 <strong>"감싸는 에어압박"</strong>의 실속 구간 — 붓고 피곤한 발에 무난합니다.',
         review: '"종일 서서 일해 발이 붓는다"는 분에게 감싸는 에어압박이 시원합니다. 발 전체를 눌러줘 만족도가 좋아요. 지압+에어 프리미엄을 원하면 3번을 보세요.',
         specs: ['제품: 비타그램 에어그라운드 플러스 발마사지기', '방식: 에어(공기압) 4방향', '부위: 발 전체(감싸는 형)', '배송: 로켓배송', '가격: 약 99,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7196277043&itemId=18179653531&vendorItemId=85328706919&traceid=V0-153-ce995f06930853c9&requestid=20260714154731760220792569&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7196277043&itemId=18179653531&vendorItemId=85328706919&traceid=V0-153-ce995f06930853c9&requestid=20260714154731760220792569&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -3951,7 +3951,7 @@ module.exports = [
         consNote: '저렴하게면 1번, 감싸는 에어압박 실속이면 2번이 합리적입니다. 3번은 <strong>지압+에어 제대로·브랜드</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"발 마사지를 제대로 받고 싶다"면 지압 롤러+에어의 코지마가 만족스럽습니다. 입체 자극이 확실해요. 다만 가격·부피가 있으니, 가볍게면 1·2번이 합리적입니다.',
         specs: ['제품: 코지마 포르테 발마사지기', '방식: 지압 롤러 + 에어압박', '부위: 발바닥·발등 입체', '배송: 일반배송', '가격: 약 279,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=2155371142&itemId=3660928371&vendorItemId=80235335124&traceid=V0-153-c8f38d7e3b0a9bc7&requestid=20260714154731760220792569&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=2155371142&itemId=3660928371&vendorItemId=80235335124&traceid=V0-153-c8f38d7e3b0a9bc7&requestid=20260714154731760220792569&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -4042,7 +4042,7 @@ module.exports = [
         consNote: '이 제품은 <strong>수동 초저가</strong>입니다. 샴푸하며 시원하게 쓰려면 2번 전동 방수, 헤드스파처럼 제대로면 3번으로 가세요. "아주 저렴하게"면 가성비 최고예요.',
         review: '"두피 좀 시원하게, 아주 저렴하게"면 수동 핸디가 부담 없습니다. 대신 손힘이 들어요. 진동·방수·제대로 된 자극을 원하면 2·3번을 보세요.',
         specs: ['제품: 히든템 수동 두피 마사지기', '방식: 수동(핸디)', '용도: 두피 지압', '배송: 일반배송', '가격: 약 2,970원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=116849014&itemId=349828529&vendorItemId=3853186211&traceid=V0-153-f7b28a73aea59e7e&requestid=20260714154732199136793701&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=116849014&itemId=349828529&vendorItemId=3853186211&traceid=V0-153-f7b28a73aea59e7e&requestid=20260714154732199136793701&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4061,7 +4061,7 @@ module.exports = [
         consNote: '아주 저렴하게 수동이면 1번, 헤드스파처럼 제대로면 3번입니다. 2번은 <strong>"전동+방수 샴푸 겸용"</strong>의 실속 구간 — 손 안 아프게 시원하게 쓰기 무난합니다.',
         review: '"수동은 팔이 아프고, 샴푸할 때 쓰고 싶다"면 전동 방수가 딱입니다. 손힘 없이 시원해요. 더 강한 헤드스파 자극을 원하면 3번을 보세요.',
         specs: ['제품: 슈퍼인 전동 무선 두피 마사지기', '방식: 전동 무선 진동 · 건습양용(방수)', '용도: 샴푸 겸용 두피 자극', '배송: 로켓배송', '가격: 약 37,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9522144098&itemId=28387176240&vendorItemId=95338776833&traceid=V0-153-85af54d3c57845b6&requestid=20260714154732199136793701&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9522144098&itemId=28387176240&vendorItemId=95338776833&traceid=V0-153-85af54d3c57845b6&requestid=20260714154732199136793701&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4080,7 +4080,7 @@ module.exports = [
         consNote: '아주 저렴하게 수동이면 1번, 샴푸 겸용 전동이면 2번이 합리적입니다. 3번은 <strong>헤드스파 같은 강한 그립 자극</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"샵 헤드스파 느낌을 집에서"면 그립·리프트 프리미엄이 만족스럽습니다. 주무르는 자극이 확실해요. 다만 가격이 있으니, 가볍게·샴푸 겸용이면 1·2번이 합리적입니다.',
         specs: ['제품: 뷰앤디 리프트 헤드스파 두피 마사지기', '방식: 그립·리프트(헤드스파형)', '용도: 강한 두피 자극·홈케어', '배송: 일반배송', '가격: 약 132,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9302503069&itemId=28529348361&vendorItemId=95475472778&traceid=V0-153-9373256fe0fbf44c&clickBeacon=e390d620-7f4f-11f1-a5ec-39561d52295d%7E3&requestid=20260714154732199136793701&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9302503069&itemId=28529348361&vendorItemId=95475472778&traceid=V0-153-9373256fe0fbf44c&clickBeacon=e390d620-7f4f-11f1-a5ec-39561d52295d%7E3&requestid=20260714154732199136793701&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -4172,7 +4172,7 @@ module.exports = [
         consNote: '이 제품은 <strong>자취·기본용</strong>입니다. 브랜드·무선 편의면 2번, 사무실·가족 보온이면 3번으로 가세요. "라면·커피만"이면 가성비 최고입니다.',
         review: '"물만 빨리 끓으면 된다"는 자취용으로 딱입니다. 저렴하고 단순해요. 보온·브랜드·대용량을 원하면 2·3번을 보세요.',
         specs: ['제품: 키친아트 솔리드 전기주전자', '급: 기본형(자취·1인)', '기능: 물 끓이기(보온 없음)', '배송: 로켓배송', '가격: 약 9,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=54610901&itemId=190569020&vendorItemId=3452026171&traceid=V0-153-dde80951f4b65c5c&requestid=20260714160709400126753204&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=54610901&itemId=190569020&vendorItemId=3452026171&traceid=V0-153-dde80951f4b65c5c&requestid=20260714160709400126753204&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4191,7 +4191,7 @@ module.exports = [
         consNote: '자취·최저가면 1번, 사무실·가족 보온이면 3번입니다. 2번은 <strong>"브랜드+무선 편의"</strong>의 실속 구간 — 가정에서 두루 쓰기 가장 무난합니다.',
         review: '"이왕이면 브랜드로 무난하게"면 필립스가 안정적입니다. 무선이라 편하고 마감도 좋아요. 보온·대용량이 필요하면 3번을 보세요.',
         specs: ['제품: 필립스 3000 시리즈 무선 전기주전자', '연결: 무선(베이스 분리)', '강점: 브랜드 · 마감 · 편의', '배송: 로켓배송', '가격: 약 23,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=2068932759&itemId=3515436045&vendorItemId=71501561558&traceid=V0-153-4e57f5c60cc75e80&requestid=20260714160709400126753204&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=2068932759&itemId=3515436045&vendorItemId=71501561558&traceid=V0-153-4e57f5c60cc75e80&requestid=20260714160709400126753204&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4210,7 +4210,7 @@ module.exports = [
         consNote: '라면·커피만이면 1번, 브랜드·무선 편의면 2번이 합리적입니다. 3번은 <strong>사무실·가족 온종일 뜨거운 물</strong>이 필요할 때 값어치가 있습니다.',
         review: '"차·커피를 온종일, 여러 명이"면 보온 대용량이 편합니다. 다시 끓일 필요가 없어요. 자취·소량이면 과하니 1·2번이 합리적입니다.',
         specs: ['제품: 키친아트 자동급수 보온포트 5L (KPT-2150WS)', '용량: 5L 대용량', '기능: 보온 유지 · 자동급수', '배송: 로켓배송', '가격: 약 69,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6304319350&itemId=13052896929&vendorItemId=91880379177&traceid=V0-153-6c524fad67cf90a2&clickBeacon=a13a89d0-7f52-11f1-9bb3-a5649691c3b5%7E3&requestid=20260714160709400126753204&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6304319350&itemId=13052896929&vendorItemId=91880379177&traceid=V0-153-6c524fad67cf90a2&clickBeacon=a13a89d0-7f52-11f1-9bb3-a5649691c3b5%7E3&requestid=20260714160709400126753204&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -4302,7 +4302,7 @@ module.exports = [
         consNote: '이 제품은 <strong>자취·기본용</strong>입니다. 가족이 여러 장이면 2번 4구, 빵맛을 제대로면 3번 발뮤다로 가세요. "한두 장 간편하게"면 가성비 최고입니다.',
         review: '"아침 식빵 한두 장"이면 2구 가성비로 충분합니다. 저렴하고 간단해요. 여러 장·빵맛을 원하면 2·3번을 보세요.',
         specs: ['제품: 홈플래닛 베이직 2구 토스터', '슬롯: 2구', '용도: 자취·한두 장', '배송: 로켓배송', '가격: 약 13,490원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4883100337&itemId=6359448286&vendorItemId=73654717945&traceid=V0-153-831dc263e9ef7c8b&requestid=20260714160709949123619708&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4883100337&itemId=6359448286&vendorItemId=73654717945&traceid=V0-153-831dc263e9ef7c8b&requestid=20260714160709949123619708&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4321,7 +4321,7 @@ module.exports = [
         consNote: '자취·한두 장이면 1번, 빵맛을 제대로면 3번 발뮤다입니다. 2번은 <strong>"여러 장 + 굽기 조절"</strong>의 실속 구간 — 가족 아침에 가장 무난합니다.',
         review: '"가족이 아침에 토스트를 여러 장"이면 4구가 편합니다. 굽기 조절도 되고요. 겉바속촉 빵맛·디자인이 목적이면 3번 발뮤다를 보세요.',
         specs: ['제품: 로븐 4구 토스터 (RV-T401W)', '슬롯: 4구 · 6단계 굽기조절', '용도: 가족·여러 장', '배송: 로켓배송', '가격: 약 42,300원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9366752243&itemId=27796077249&vendorItemId=94771829148&traceid=V0-153-6d583b059e9a7e4a&clickBeacon=a193a650-7f52-11f1-83fa-f98cdc5e66ef%7E3&requestid=20260714160709949123619708&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9366752243&itemId=27796077249&vendorItemId=94771829148&traceid=V0-153-6d583b059e9a7e4a&clickBeacon=a193a650-7f52-11f1-83fa-f98cdc5e66ef%7E3&requestid=20260714160709949123619708&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4340,7 +4340,7 @@ module.exports = [
         consNote: '한두 장 간편·저렴이면 1번, 가족 여러 장이면 2번이 합리적입니다. 3번은 <strong>빵맛·디자인·브랜드</strong>에 값을 낼 의향이 있는 분에게 어울립니다.',
         review: '"빵을 진짜 좋아해서 빵맛을 제대로"면 발뮤다가 값을 합니다. 스팀 겉바속촉이 확실히 달라요. 다만 매우 비싸고 여러 장은 아니니, 실용·가성비면 1·2번이 맞습니다.',
         specs: ['제품: 발뮤다 더 토스터 (K11B-WH)', '방식: 스팀 · 빵 종류별 모드', '강점: 빵맛(겉바속촉) · 디자인', '배송: 로켓배송', '가격: 약 270,630원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8409288746&itemId=24313146759&vendorItemId=91328979324&traceid=V0-153-2ac500b05d77a7c4&clickBeacon=a1937f40-7f52-11f1-abe6-cc2b9ea4da9f%7E3&requestid=20260714160709949123619708&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8409288746&itemId=24313146759&vendorItemId=91328979324&traceid=V0-153-2ac500b05d77a7c4&clickBeacon=a1937f40-7f52-11f1-abe6-cc2b9ea4da9f%7E3&requestid=20260714160709949123619708&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -4432,7 +4432,7 @@ module.exports = [
         consNote: '이 제품은 <strong>경량·입문용</strong>입니다. 가족 오토캠핑 넉넉함이면 2번 롤테이블, 좌식 감성이면 3번으로 가세요. "가볍게 입문"이면 가성비 최고입니다.',
         review: '"가볍게 들고 다니는 입문용"이면 경량 접이식이 딱입니다. 부피가 안 나가요. 가족용 넓은 상판·좌식이면 2·3번을 보세요.',
         specs: ['제품: 모아캠프 알루미늄 접이식 캠핑 테이블', '재질: 경량 알루미늄', '용도: 백패킹·피크닉·입문', '배송: 로켓배송', '가격: 약 16,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7967399746&itemId=22052018515&vendorItemId=95508342919&traceid=V0-153-69a7a4b0013430a5&requestid=20260714160710577089334151&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7967399746&itemId=22052018515&vendorItemId=95508342919&traceid=V0-153-69a7a4b0013430a5&requestid=20260714160710577089334151&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4451,7 +4451,7 @@ module.exports = [
         consNote: '가볍게 백패킹이면 1번, 낮은 좌식 감성이면 3번입니다. 2번은 <strong>"넉넉함+컵홀더 안정"</strong>의 실속 구간 — 가족 오토캠핑에 가장 무난합니다.',
         review: '"가족 오토캠핑에 넉넉하게"면 컵홀더 롤테이블이 편합니다. 컵도 안 넘어지고 상판도 넓어요. 백패킹으로 가볍게면 1번, 좌식이면 3번을 보세요.',
         specs: ['제품: 바이데이 롤테이블 (4구 컵홀더)', '형태: 롤테이블(말아서 수납) · 컵홀더', '용도: 가족 오토캠핑', '배송: 로켓배송', '가격: 약 45,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9617551494&itemId=28717680330&vendorItemId=95658278393&traceid=V0-153-c751c2cd8a2adfbc&clickBeacon=a1ee2260-7f52-11f1-8e80-bb5412f6f709%7E3&requestid=20260714160710577089334151&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9617551494&itemId=28717680330&vendorItemId=95658278393&traceid=V0-153-c751c2cd8a2adfbc&clickBeacon=a1ee2260-7f52-11f1-8e80-bb5412f6f709%7E3&requestid=20260714160710577089334151&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4470,7 +4470,7 @@ module.exports = [
         consNote: '가볍게 입문이면 1번, 가족 오토캠핑 넉넉함이면 2번이 합리적입니다. 3번은 <strong>낮은 의자·좌식 감성</strong>을 원하는 분에게 어울립니다.',
         review: '"로우체어 좌식 스타일, 감성 세팅"이면 좌식 사이드 테이블이 잘 맞습니다. 낮고 경량이라 세팅이 깔끔해요. 입식·대형 상판이 필요하면 2번을 보세요.',
         specs: ['제품: Ageye 경량 좌식 사이드 폴딩 테이블', '형태: 좌식(낮은 높이) · 경량 폴딩', '용도: 좌식·감성 캠핑', '배송: 로켓배송', '가격: 약 85,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9093577612&itemId=26725507440&vendorItemId=93696998391&traceid=V0-153-85d583bceb6c5551&clickBeacon=a1ee2260-7f52-11f1-b68f-4ca16994f137%7E3&requestid=20260714160710577089334151&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9093577612&itemId=26725507440&vendorItemId=93696998391&traceid=V0-153-85d583bceb6c5551&clickBeacon=a1ee2260-7f52-11f1-b68f-4ca16994f137%7E3&requestid=20260714160710577089334151&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -4561,7 +4561,7 @@ module.exports = [
         consNote: '이 제품은 <strong>소형·입문용</strong>입니다. 장작 넉넉히·바베큐 겸용이면 2번 대형, 오래 튼튼하게면 3번 프리미엄으로 가세요. "가볍게 소형"이면 가성비 최고입니다.',
         review: '"혼자·둘이 소형 불멍·숯불"이면 저가 스텐 화로로 충분합니다. 부담 없이 시작하기 좋아요. 큰 장작·여러 명이면 2·3번을 보세요.',
         specs: ['제품: 루아즈 스텐 화로대', '크기: 소형', '용도: 소형 불멍·숯불', '배송: 로켓배송', '가격: 약 9,330원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8230666187&itemId=23687736656&vendorItemId=90712900381&traceid=V0-153-4a04dc90fdd99683&requestid=20260714160710938080313918&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8230666187&itemId=23687736656&vendorItemId=90712900381&traceid=V0-153-4a04dc90fdd99683&requestid=20260714160710938080313918&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4580,7 +4580,7 @@ module.exports = [
         consNote: '가볍게 소형이면 1번, 오래 튼튼하게면 3번 프리미엄입니다. 2번은 <strong>"대형+접이식 수납"</strong>의 실속 구간 — 불멍·바베큐 두루에 가장 무난합니다.',
         review: '"가족·친구와 불멍하고 고기도 굽는다"면 접이식 대형이 실속 있습니다. 장작도 넉넉하고 접어서 수납도 편해요. 오래 튼튼하게면 3번을 보세요.',
         specs: ['제품: 코멧 접이식 별빛 화로대 (대형·수납가방)', '크기: 대형 · 접이식', '용도: 불멍·바베큐 겸용', '배송: 로켓배송', '가격: 약 28,420원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8670868528&itemId=25170910457&vendorItemId=92168203457&traceid=V0-153-fe01bca6d13e15ca&requestid=20260714160710938080313918&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8670868528&itemId=25170910457&vendorItemId=92168203457&traceid=V0-153-fe01bca6d13e15ca&requestid=20260714160710938080313918&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4599,7 +4599,7 @@ module.exports = [
         consNote: '가볍게 소형이면 1번, 접이식 대형 실속이면 2번이 합리적입니다. 3번은 <strong>오래 튼튼하게·완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"캠핑을 자주 다녀 화로대를 제대로"면 두꺼운 사각 화로가 오래갑니다. 내구·감성이 좋아요. 가볍게·저렴하게면 1·2번이 합리적입니다.',
         specs: ['제품: 갑도리 프리미엄 사각 화로대', '형태: 두꺼운 사각 화로', '용도: 불멍·바베큐(내구 중시)', '배송: 일반배송', '가격: 약 59,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8765288835&itemId=25490483452&vendorItemId=92482713023&traceid=V0-153-f97573fb382f84d1&clickBeacon=a2255f00-7f52-11f1-97ac-d30f078aecb5%7E3&requestid=20260714160710938080313918&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8765288835&itemId=25490483452&vendorItemId=92482713023&traceid=V0-153-f97573fb382f84d1&clickBeacon=a2255f00-7f52-11f1-97ac-d30f078aecb5%7E3&requestid=20260714160710938080313918&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -4691,7 +4691,7 @@ module.exports = [
         consNote: '이 제품은 <strong>집에서 대용량 자가소비용</strong>입니다. 매일 개별포장으로 챙기려면 2번 하루견과, 격식 선물이면 3번 홀넛으로 가세요. "집에서 넉넉히"면 가성비 최고예요.',
         review: '"집에 두고 간식·요리에 넉넉히"면 4종 대용량이 알뜰합니다. 여러 종류를 저렴하게 즐겨요. 매일 개별포장·선물용이면 2·3번을 보세요.',
         specs: ['제품: 다반사 4종 견과 선물세트 (710g)', '구성: 견과 4종 · 710g 대용량', '용도: 자가소비·간단 선물', '배송: 로켓배송', '가격: 약 16,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7826376778&itemId=21272824673&vendorItemId=79580504534&traceid=V0-153-fb3536d7d8a660c3&clickBeacon=a2911920-7f52-11f1-b814-e6efac41ba83%7E3&requestid=20260714160711631220798212&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7826376778&itemId=21272824673&vendorItemId=79580504534&traceid=V0-153-fb3536d7d8a660c3&clickBeacon=a2911920-7f52-11f1-b814-e6efac41ba83%7E3&requestid=20260714160711631220798212&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4710,7 +4710,7 @@ module.exports = [
         consNote: '집에서 넉넉히 대용량이면 1번, 격식 선물이면 3번 홀넛입니다. 2번은 <strong>"개별포장 신선·간편"</strong>의 실속 구간 — 매일 챙기는 분에게 가장 무난합니다.',
         review: '"매일 견과 한 봉씩 신선하게"면 개별포장 하루견과가 편합니다. 눅눅할 걱정 없고 챙기기도 좋아요. 집에서 대용량·격식 선물이면 1·3번을 보세요.',
         specs: ['제품: 닥터넛츠 하루견과 선물세트 (840g)', '구성: 개별포장 하루견과', '용도: 매일 섭취·선물 겸용', '배송: 로켓배송', '가격: 약 38,390원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1319868979&itemId=2340147855&vendorItemId=70336737126&traceid=V0-153-2a9f2288b9961f3c&requestid=20260714160711631220798212&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1319868979&itemId=2340147855&vendorItemId=70336737126&traceid=V0-153-2a9f2288b9961f3c&requestid=20260714160711631220798212&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4729,7 +4729,7 @@ module.exports = [
         consNote: '집에서 자가소비 대용량이면 1번, 매일 개별포장이면 2번이 합리적입니다. 3번은 <strong>격식 있는 선물</strong>이 목적일 때 값어치가 있습니다.',
         review: '"명절·윗분 선물로 격식 있게"면 홀넛 프리미엄이 좋습니다. 통 견과에 포장도 고급스러워요. 자가소비·매일용이면 1·2번이 실속 있습니다.',
         specs: ['제품: 리치팜너트 홀넛 주얼 견과세트 (605g)', '구성: 통 견과(홀넛) · 고급 포장', '용도: 명절·격식 선물', '배송: 로켓배송', '가격: 약 67,830원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4310964981&itemId=5002848057&vendorItemId=72312807904&traceid=V0-153-d98918a9a5d2c847&clickBeacon=a290f210-7f52-11f1-9b09-eb0821eb1b39%7E3&requestid=20260714160711631220798212&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4310964981&itemId=5002848057&vendorItemId=72312807904&traceid=V0-153-d98918a9a5d2c847&clickBeacon=a290f210-7f52-11f1-9b09-eb0821eb1b39%7E3&requestid=20260714160711631220798212&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -4820,7 +4820,7 @@ module.exports = [
         consNote: '입문·가성비엔 딱이지만, <strong>밸런스</strong>면 2번, 브랜드 완성도면 3번 필립스입니다. "온열 위주로 저렴하게"면 이 가성비가 부담 없어요.',
         review: '"눈이 뻐근한데 저렴하게"면 온열 가성비로 시작하기 좋습니다. 온열이 은근히 시원해요. 밸런스·브랜드를 원하면 2·3번을 보세요.',
         specs: ['제품: 릴렉스파 무선 온열 눈마사지기', '방식: 무선 · 온열 · 압박', '용도: 눈 주변 피로 완화 휴식', '배송: 로켓배송', '가격: 약 32,890원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8121631998&itemId=23038305198&vendorItemId=91492415482&traceid=V0-153-c6e3f407dd2f8566&requestid=20260714164656785194115874&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8121631998&itemId=23038305198&vendorItemId=91492415482&traceid=V0-153-c6e3f407dd2f8566&requestid=20260714164656785194115874&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4839,7 +4839,7 @@ module.exports = [
         consNote: '저렴하게 온열 위주면 1번, 브랜드 완성도면 3번 필립스입니다. 2번은 <strong>"온열+압박 밸런스"</strong>의 실속 구간 — 두루 쓰기 무난합니다.',
         review: '"온열도 압박도 무난하게"면 이 밸런스형이 좋습니다. 착용감도 무난해요. 브랜드·완성도를 원하면 3번을 보세요.',
         specs: ['제품: 휴그랩 무선 온열 눈마사지기', '방식: 무선 · 온열 · 압박', '강점: 밸런스 · 착용감', '배송: 로켓배송', '가격: 약 69,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6512121344&itemId=14388318832&vendorItemId=86839579274&traceid=V0-153-6c1f343618a28fb2&clickBeacon=303c8c00-7f58-11f1-85e2-a5fa0369548a%7E3&requestid=20260714164656785194115874&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6512121344&itemId=14388318832&vendorItemId=86839579274&traceid=V0-153-6c1f343618a28fb2&clickBeacon=303c8c00-7f58-11f1-85e2-a5fa0369548a%7E3&requestid=20260714164656785194115874&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4858,7 +4858,7 @@ module.exports = [
         consNote: '저렴하게면 1번, 밸런스 실속이면 2번이 합리적입니다. 3번은 <strong>브랜드 신뢰·완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"이왕이면 브랜드로 제대로"면 필립스 뷰아이가 무난합니다. 온열·압박이 정교해요. 가성비·밸런스면 1·2번이 합리적입니다.',
         specs: ['제품: 필립스 뷰아이 눈마사지기 (PPM2702)', '방식: 온열 · 압박 프로그램', '강점: 브랜드 · 완성도 · A/S', '배송: 로켓배송', '가격: 약 139,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9307614733&itemId=27577210690&vendorItemId=94540957088&traceid=V0-153-d28ed11660d85720&clickBeacon=303c8c00-7f58-11f1-9423-8672624317ad%7E3&requestid=20260714164656785194115874&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9307614733&itemId=27577210690&vendorItemId=94540957088&traceid=V0-153-d28ed11660d85720&clickBeacon=303c8c00-7f58-11f1-9423-8672624317ad%7E3&requestid=20260714164656785194115874&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -4949,7 +4949,7 @@ module.exports = [
         consNote: '입문·가성비엔 딱이지만, <strong>포터블 감싸는 압박</strong>이면 2번, 강도·완성도면 3번입니다. "저렴하게 공기압"이면 가성비 최고예요.',
         review: '"종아리가 뻐근한데 저렴하게"면 무선 공기압으로 시작하기 좋습니다. 강도 조절도 되고 휴대도 편해요. 감싸는 압박·완성도를 원하면 2·3번을 보세요.',
         specs: ['제품: HMAX 무선 공기압 종아리 마사지기', '방식: 공기압 · 3단 강도 · 3모드', '전원: Type-C 충전 무선', '배송: 로켓배송', '가격: 약 23,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9262549245&itemId=27406925227&vendorItemId=94395184224&traceid=V0-153-0e91217cfb07b8e3&requestid=20260714164657371056219441&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9262549245&itemId=27406925227&vendorItemId=94395184224&traceid=V0-153-0e91217cfb07b8e3&requestid=20260714164657371056219441&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4968,7 +4968,7 @@ module.exports = [
         consNote: '저렴하게 입문이면 1번, 강도·완성도 제대로면 3번 PRO입니다. 2번은 <strong>"감싸는 공기압+휴대"</strong>의 실속 구간 — 붓고 피곤한 종아리에 무난합니다.',
         review: '"종일 서서 종아리가 붓는다"는 분에게 감싸는 포터블 공기압이 시원합니다. 휴대도 편해요. 최고 강도·완성도면 3번을 보세요.',
         specs: ['제품: 추성훈 스파알 포터블 종아리 마사지기', '방식: 공기압(감싸는 형) · 포터블', '용도: 종아리 피로 완화 휴식', '배송: 로켓배송', '가격: 약 69,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7473961765&itemId=22274838154&vendorItemId=91729025960&traceid=V0-153-37e1297286c203b5&requestid=20260714164657371056219441&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7473961765&itemId=22274838154&vendorItemId=91729025960&traceid=V0-153-37e1297286c203b5&requestid=20260714164657371056219441&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -4987,7 +4987,7 @@ module.exports = [
         consNote: '저렴하게 입문이면 1번, 감싸는 포터블 실속이면 2번이 합리적입니다. 3번은 <strong>강한 강도·완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"확실한 강도로 제대로"면 PRO 완성도가 만족스럽습니다. 프로그램도 다양해요. 가성비·실속이면 1·2번이 합리적입니다.',
         specs: ['제품: 스파알 포터블 다리 마사지기 PRO V2', '방식: 강한 공기압 · 다양한 프로그램', '급: 포터블 프리미엄', '배송: 일반배송', '가격: 약 169,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8464929270&itemId=24491165274&vendorItemId=91504403366&traceid=V0-153-1f7b6e165bb7ad6b&clickBeacon=3091b0e0-7f58-11f1-84a3-f0b3758cfeb0%7E3&requestid=20260714164657371056219441&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8464929270&itemId=24491165274&vendorItemId=91504403366&traceid=V0-153-1f7b6e165bb7ad6b&clickBeacon=3091b0e0-7f58-11f1-84a3-f0b3758cfeb0%7E3&requestid=20260714164657371056219441&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -5079,7 +5079,7 @@ module.exports = [
         consNote: '이 제품은 <strong>침대·누워서용</strong>입니다. 책상에서 영상통화·필기면 2번 높이조절, 튼튼하게면 3번 프리미엄으로 가세요. "누워서 영상"이면 가성비 최고예요.',
         review: '"침대에 누워 영상·웹툰"이면 8천원대 침대용이 딱입니다. 팔이 안 아파요. 책상 작업·튼튼함이면 2·3번을 보세요.',
         specs: ['제품: LOCKMAG 침대 태블릿 거치대', '용도: 침대·누워서', '겸용: 핸드폰·태블릿', '배송: 로켓배송', '가격: 약 8,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9513308026&itemId=28351295130&vendorItemId=95303421458&traceid=V0-153-462ff7510d1afcac&requestid=20260714164657868162910513&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9513308026&itemId=28351295130&vendorItemId=95303421458&traceid=V0-153-462ff7510d1afcac&requestid=20260714164657868162910513&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5098,7 +5098,7 @@ module.exports = [
         consNote: '침대·누워서면 1번, 튼튼한 고정이면 3번 프리미엄입니다. 2번은 <strong>"높이·각도 자유"</strong>의 실속 구간 — 책상에서 두루 쓰기 가장 무난합니다.',
         review: '"책상에서 영상통화도 하고 필기도 하고"면 360도 높이조절이 편합니다. 접어서 들고 다니기도 좋고요. 아주 무거운 태블릿·강한 고정이면 3번을 보세요.',
         specs: ['제품: 비티냐 360도 회전 태블릿 거치대', '조절: 360도 회전 · 높이조절 · 접이식', '용도: 책상 올라운드', '배송: 로켓배송', '가격: 약 24,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7951471763&itemId=21948561571&vendorItemId=89476170427&traceid=V0-153-95334c89a4eec682&clickBeacon=30de2330-7f58-11f1-bebb-3f2a1e145b48%7E3&requestid=20260714164657868162910513&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7951471763&itemId=21948561571&vendorItemId=89476170427&traceid=V0-153-95334c89a4eec682&clickBeacon=30de2330-7f58-11f1-bebb-3f2a1e145b48%7E3&requestid=20260714164657868162910513&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5117,7 +5117,7 @@ module.exports = [
         consNote: '누워서·저렴하게면 1번, 높이·각도 자유면 2번이 합리적입니다. 3번은 <strong>튼튼한 고정·완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"싼 거는 흔들려서 싫다"는 분에게 튼튼한 고정이 만족스럽습니다. 마감도 좋아요. 가성비·휴대면 1·2번이 합리적입니다.',
         specs: ['제품: 타이탄랩 태블릿 거치대 (TITAN LAB)', '강점: 튼튼한 고정 · 안정성 · 완성도', '용도: 침대·책상', '배송: 로켓배송', '가격: 약 34,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8734833886&itemId=25383787502&vendorItemId=92377694935&traceid=V0-153-801bddb7b1922816&clickBeacon=30de4a40-7f58-11f1-a811-5e0af4d1f6ee%7E3&requestid=20260714164657868162910513&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8734833886&itemId=25383787502&vendorItemId=92377694935&traceid=V0-153-801bddb7b1922816&clickBeacon=30de4a40-7f58-11f1-a811-5e0af4d1f6ee%7E3&requestid=20260714164657868162910513&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -5209,7 +5209,7 @@ module.exports = [
         consNote: '이 제품은 <strong>사무·가벼운 발열용</strong>입니다. 고사양 게임 고발열이면 2번 게이밍, 자세·거치 완성도면 3번으로 가세요. "조용히 살짝"이면 가성비 최고예요.',
         review: '"사무용 노트북이 미지근하게 더운" 정도면 듀얼팬으로 충분합니다. 거치대 겸용이라 자세도 좋아져요. 고사양 게임 발열이면 2번을 보세요.',
         specs: ['제품: 레토 메탈 듀얼쿨러 노트북 거치대 (LCS-S01)', '구성: 듀얼팬 + 메탈 거치대', '용도: 사무·가벼운 발열', '배송: 로켓배송', '가격: 약 13,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1323490&itemId=5731287&vendorItemId=3007277169&traceid=V0-153-c4e6a22d192f3bf6&requestid=20260714164658372123612362&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1323490&itemId=5731287&vendorItemId=3007277169&traceid=V0-153-c4e6a22d192f3bf6&requestid=20260714164658372123612362&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5228,7 +5228,7 @@ module.exports = [
         consNote: '사무·조용함이면 1번, 자세·완성도면 3번입니다. 2번은 <strong>"강력 쿨링"</strong>의 실속 구간 — 게이밍 고발열에 가장 무난합니다.',
         review: '"게임하면 노트북이 불덩이"인 분에게 강력 쿨러가 체감이 큽니다. 각도 조절도 되고요. 조용한 사무용이면 1번, 자세·완성도면 3번을 보세요.',
         specs: ['제품: 노벨뷰 게이밍 노트북 쿨러 거치대', '구성: 다중팬 강력 쿨링 · 각도 조절', '용도: 게이밍·고발열', '배송: 로켓배송', '가격: 약 25,410원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=115777942&itemId=346903304&vendorItemId=3847365702&traceid=V0-153-11fb8fd6984df484&clickBeacon=312b31c0-7f58-11f1-aa2c-7af59bb2f588%7E3&requestid=20260714164658372123612362&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=115777942&itemId=346903304&vendorItemId=3847365702&traceid=V0-153-11fb8fd6984df484&clickBeacon=312b31c0-7f58-11f1-aa2c-7af59bb2f588%7E3&requestid=20260714164658372123612362&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5247,7 +5247,7 @@ module.exports = [
         consNote: '사무·조용함이면 1번, 강력 쿨링 실속이면 2번이 합리적입니다. 3번은 <strong>쿨링+자세·완성도</strong>를 모두 원하는 분에게 값어치가 있습니다.',
         review: '"쿨링도, 목·손목 자세도 제대로"면 거치 완성도가 좋은 이 구간이 만족스럽습니다. 세팅도 깔끔해요. 가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 에스앤코 게이밍 쿨러 노트북 거치대', '구성: 강력 쿨링 + 거치 각도·높이', '강점: 완성도 · 자세', '배송: 로켓배송', '가격: 약 36,190원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8298301497&itemId=23936318922&vendorItemId=90958254578&traceid=V0-153-af6fd64b5550a14e&clickBeacon=312b31c0-7f58-11f1-a539-171ac1510177%7E3&requestid=20260714164658372123612362&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8298301497&itemId=23936318922&vendorItemId=90958254578&traceid=V0-153-af6fd64b5550a14e&clickBeacon=312b31c0-7f58-11f1-a539-171ac1510177%7E3&requestid=20260714164658372123612362&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -5339,7 +5339,7 @@ module.exports = [
         consNote: '이 제품은 <strong>미니 와플용</strong>입니다. 와플+샌드위치면 2번 2in1, 크로플·붕어빵까지면 3번 플레이트 교체형으로 가세요. "미니 와플만"이면 가성비 최고예요.',
         review: '"자취방에서 미니 와플 가끔"이면 8천원대로 충분합니다. 부담 없어요. 샌드위치·크로플 등 다양하게면 2·3번을 보세요.',
         specs: ['제품: 대우 미니 와플메이커', '크기: 미니', '용도: 미니 와플', '배송: 로켓배송', '가격: 약 8,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=18753810&itemId=75316782&vendorItemId=3125456851&traceid=V0-153-a516c37da077eb83&requestid=20260714164658964214616766&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=18753810&itemId=75316782&vendorItemId=3125456851&traceid=V0-153-a516c37da077eb83&requestid=20260714164658964214616766&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5358,7 +5358,7 @@ module.exports = [
         consNote: '미니 와플만이면 1번, 크로플·붕어빵까지 다양하게면 3번 교체형입니다. 2번은 <strong>"와플+샌드위치"</strong>의 실속 구간 — 아침 겸용에 무난합니다.',
         review: '"와플도 굽고 샌드위치도"면 2in1이 활용도가 좋습니다. 아침에 두루 써요. 크로플·붕어빵 등 더 다양하게면 3번을 보세요.',
         specs: ['제품: 쿠킨 2in1 샌드위치 와플메이커', '기능: 와플 + 샌드위치 2in1', '용도: 아침 겸용', '배송: 로켓배송', '가격: 약 24,360원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8549361089&itemId=11963196369&vendorItemId=79235772194&traceid=V0-153-b802d4910d11c836&requestid=20260714164658964214616766&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8549361089&itemId=11963196369&vendorItemId=79235772194&traceid=V0-153-b802d4910d11c836&requestid=20260714164658964214616766&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5377,7 +5377,7 @@ module.exports = [
         consNote: '미니 와플만이면 1번, 와플+샌드위치면 2번이 합리적입니다. 3번은 <strong>다양한 플레이트로 크로플·붕어빵까지</strong> 즐기려는 분에게 값어치가 있습니다.',
         review: '"크로플도 붕어빵도 다양하게, 세척도 편하게"면 플레이트 교체형이 알찹니다. 탈착이라 설거지가 편해요. 미니·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 보본 딜라이트 와플메이커 (플레이트 6종)', '구성: 플레이트 6종(탈착) · 브러쉬·세척솔', '용도: 와플·크로플·붕어빵 등 다양', '배송: 일반배송', '가격: 약 68,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4774593425&itemId=6099123230&vendorItemId=85228565285&traceid=V0-153-5c86b42f1dc5f095&clickBeacon=3189a570-7f58-11f1-aa34-1a7faf779053%7E3&requestid=20260714164658964214616766&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4774593425&itemId=6099123230&vendorItemId=85228565285&traceid=V0-153-5c86b42f1dc5f095&clickBeacon=3189a570-7f58-11f1-aa34-1a7faf779053%7E3&requestid=20260714164658964214616766&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -5468,7 +5468,7 @@ module.exports = [
         consNote: '이 제품은 <strong>1인·가성비용</strong>입니다. 상위 발열·넓게면 2번 그래핀, 부부·대형이면 3번 탄소매트로 가세요. "혼자 저렴하게"면 가성비 최고예요.',
         review: '"혼자 쓰는데 전자파는 신경 쓰인다"면 2만원대 저감형으로 충분합니다. 크기도 적당해요. 넓게·부부용이면 2·3번을 보세요.',
         specs: ['제품: 한일 전자파 저감 전기요', '방식: 전자파(EMF) 저감 · 무자계', '크기: 1인용', '배송: 일반배송', '가격: 약 28,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9312076435&itemId=27593896880&vendorItemId=91169627280&traceid=V0-153-599c3f591f57df7f&requestid=20260714164659610056219964&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9312076435&itemId=27593896880&vendorItemId=91169627280&traceid=V0-153-599c3f591f57df7f&requestid=20260714164659610056219964&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5487,7 +5487,7 @@ module.exports = [
         consNote: '혼자 저렴하게면 1번, 부부·대형이면 3번 탄소매트입니다. 2번은 <strong>"상위 발열+전자파 저감"</strong>의 실속 구간 — 따뜻함과 전자파를 함께 챙기기 무난합니다.',
         review: '"고르게 따뜻하고 전자파도 신경"이면 그래핀 상위형이 무난합니다. 온기가 고르게 퍼져요. 부부·대형이면 3번을 보세요.',
         specs: ['제품: 한일 그래핀 전자파 저감 전기요(5세대)', '방식: 그래핀 발열 · EMF 저감', '강점: 고른 발열', '배송: 일반배송', '가격: 약 79,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7641059686&itemId=26240945454&vendorItemId=93219613397&traceid=V0-153-9f8990f3655ebe0e&requestid=20260714164659610056219964&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7641059686&itemId=26240945454&vendorItemId=93219613397&traceid=V0-153-9f8990f3655ebe0e&requestid=20260714164659610056219964&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5506,7 +5506,7 @@ module.exports = [
         consNote: '혼자 저렴하게면 1번, 상위 발열 1인이면 2번이 합리적입니다. 3번은 <strong>부부·넓은 면적 대형</strong>이 필요할 때 값어치가 있습니다.',
         review: '"부부가 넓게 따뜻하게"면 더블 대형 탄소매트가 무난합니다. 면적이 넉넉해요. 혼자·저렴하게면 1·2번이 합리적입니다.',
         specs: ['제품: 한일 탄소매트 (더블 200×150cm)', '방식: 카본(탄소) 발열 · EMF 저감', '크기: 더블 대형', '배송: 일반배송', '가격: 약 169,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9037015743&itemId=26511987875&vendorItemId=93486531386&traceid=V0-153-bdf786204a77e311&clickBeacon=31e7a3f0-7f58-11f1-8a70-e36a11c64fd9%7E3&requestid=20260714164659610056219964&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9037015743&itemId=26511987875&vendorItemId=93486531386&traceid=V0-153-bdf786204a77e311&clickBeacon=31e7a3f0-7f58-11f1-8a70-e36a11c64fd9%7E3&requestid=20260714164659610056219964&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -5597,7 +5597,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·순환용</strong>입니다. 리모컨·입체회전이면 2번, 잘 때 조용히면 3번 BLDC로 가세요. "저렴하게 순환"이면 가성비 최고예요.',
         review: '"에어컨 바람을 방 안에 돌리는" 순환용이면 1만원대로 충분합니다. 냉난방 효율이 좋아져요. 리모컨·저소음이면 2·3번을 보세요.',
         specs: ['제품: 듀플렉스 에어 써큘레이터', '급: 입문·순환', '용도: 냉난방 공기 순환·환기', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5346040112&itemId=15352534032&vendorItemId=82572762509&traceid=V0-153-7793dcc037732503&requestid=20260714164700194010061216&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5346040112&itemId=15352534032&vendorItemId=82572762509&traceid=V0-153-7793dcc037732503&requestid=20260714164700194010061216&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5616,7 +5616,7 @@ module.exports = [
         consNote: '저렴하게 순환이면 1번, 잘 때 조용히면 3번 BLDC입니다. 2번은 <strong>"입체회전+리모컨 편의"</strong>의 실속 구간 — 집 전체 순환에 무난합니다.',
         review: '"집 전체 공기를 골고루, 리모컨으로 편하게"면 360도 입체회전이 편합니다. 두루 순환돼요. 취침 저소음이 최우선이면 3번을 보세요.',
         specs: ['제품: ELDA 리모컨 360도 써큘레이터', '기능: 360도 입체회전 · 리모컨', '용도: 집 전체 순환', '배송: 로켓배송', '가격: 약 69,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9611873303&itemId=28697095157&vendorItemId=95649382853&traceid=V0-153-1583cdb2ba3f1cdc&requestid=20260714164700194010061216&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9611873303&itemId=28697095157&vendorItemId=95649382853&traceid=V0-153-1583cdb2ba3f1cdc&requestid=20260714164700194010061216&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5635,7 +5635,7 @@ module.exports = [
         consNote: '저렴하게 순환이면 1번, 입체회전·리모컨이면 2번이 합리적입니다. 3번은 <strong>취침 저소음·전기 효율</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"잘 때도 켜두고 싶은데 소리가 거슬린다"는 분에게 BLDC 저소음이 만족스럽습니다. 조용하고 전기도 덜 먹어요. 가성비·순환이면 1·2번이 합리적입니다.',
         specs: ['제품: 신일 BLDC 리모컨 써큘레이터', '모터: BLDC(저소음·고효율)', '강점: 취침 저소음 · 미세 풍량', '배송: 로켓배송', '가격: 약 129,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9556048299&itemId=28514367323&vendorItemId=95459910300&traceid=V0-153-766c86a6d1597dda&clickBeacon=324135a0-7f58-11f1-9925-9543013fd110%7E3&requestid=20260714164700194010061216&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9556048299&itemId=28514367323&vendorItemId=95459910300&traceid=V0-153-766c86a6d1597dda&clickBeacon=324135a0-7f58-11f1-9925-9543013fd110%7E3&requestid=20260714164700194010061216&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -5727,7 +5727,7 @@ module.exports = [
         consNote: '이 제품은 <strong>피크닉·깔개용</strong>입니다. 넓게 돗자리처럼이면 2번, 차박·취침 푹신함이면 3번 자충 에어매트로 가세요. "깔개·피크닉"이면 가성비 최고예요.',
         review: '"피크닉·나들이 깔개"면 1만원대 폼 매트로 충분합니다. 접어서 들고 다니기 좋아요. 차박·취침이면 두께가 아쉬우니 2·3번을 보세요.',
         specs: ['제품: 코멧 2단 엠보싱 캠핑매트 (202×140, 보관가방)', '방식: 폼(엠보싱) · 2단 접이', '용도: 피크닉·깔개', '배송: 로켓배송', '가격: 약 10,890원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5197274270&itemId=7234685239&vendorItemId=74526154157&traceid=V0-153-ab4411117468fe60&requestid=20260714164700705277713268&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5197274270&itemId=7234685239&vendorItemId=74526154157&traceid=V0-153-ab4411117468fe60&requestid=20260714164700705277713268&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5746,7 +5746,7 @@ module.exports = [
         consNote: '피크닉·깔개면 1번, 차박·취침 푹신함이면 3번입니다. 2번은 <strong>"두툼한 돗자리+방수"</strong>의 실속 구간 — 넓게 깔고 앉기에 무난합니다.',
         review: '"가족이 넓게 깔고 앉는" 돗자리 겸용이면 두툼한 매트가 좋습니다. 방수·청소도 편해요. 차박·취침 푹신함이면 3번을 보세요.',
         specs: ['제품: 캠피오 두꺼운 캠핑매트 (돗자리, 200×240)', '방식: 두꺼운 폼 · 특수코팅(방수)', '용도: 넓게·돗자리 겸용', '배송: 일반배송', '가격: 약 28,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9620991480&itemId=28729851659&vendorItemId=95192793585&traceid=V0-153-ceedfb0ebbe2e306&clickBeacon=32910350-7f58-11f1-a2d5-49368184ea1c%7E3&requestid=20260714164700705277713268&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9620991480&itemId=28729851659&vendorItemId=95192793585&traceid=V0-153-ceedfb0ebbe2e306&clickBeacon=32910350-7f58-11f1-a2d5-49368184ea1c%7E3&requestid=20260714164700705277713268&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5765,7 +5765,7 @@ module.exports = [
         consNote: '피크닉·깔개면 1번, 넓은 돗자리면 2번이 합리적입니다. 3번은 <strong>차박·취침을 푹신하게</strong> 하려는 분에게 값어치가 있습니다.',
         review: '"차박에서 바닥이 배겨 잠을 설친다"는 분에게 자충 에어매트가 답입니다. 자동펌프라 설치도 편하고 푹신해요. 깔개·피크닉이면 1·2번이 합리적입니다.',
         specs: ['제품: TANSTRIDER 자충 에어매트(자동펌프 내장)', '방식: 자충 · 높이 40cm', '용도: 차박·취침', '배송: 로켓배송', '가격: 약 75,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8601153617&itemId=24940591497&vendorItemId=91946610169&traceid=V0-153-836b2a88cca534f1&clickBeacon=32910350-7f58-11f1-a242-c35deb125246%7E3&requestid=20260714164700705277713268&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8601153617&itemId=24940591497&vendorItemId=91946610169&traceid=V0-153-836b2a88cca534f1&clickBeacon=32910350-7f58-11f1-a242-c35deb125246%7E3&requestid=20260714164700705277713268&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -5856,7 +5856,7 @@ module.exports = [
         consNote: '이 제품은 <strong>1인·가성비용</strong>입니다. 세탁·부부용이면 2번 워셔블, 여름 냉수까지면 3번 냉온수로 가세요. "혼자 저렴하게"면 가성비 최고예요.',
         review: '"온수매트 처음, 혼자, 전자파는 신경"이면 6만원대로 시작하기 좋습니다. 온수라 은은하게 따뜻해요. 세탁·부부·냉수면 2·3번을 보세요.',
         specs: ['제품: MIGA 스마트 터치식 온수매트', '방식: 온수(물 순환) · 무소음 지향', '크기: 1인용', '배송: 로켓배송', '가격: 약 63,590원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9116101767&itemId=26812937323&vendorItemId=93783233392&traceid=V0-153-7fd4a2340f93ad05&requestid=20260714165934130241844113&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9116101767&itemId=26812937323&vendorItemId=93783233392&traceid=V0-153-7fd4a2340f93ad05&requestid=20260714165934130241844113&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5875,7 +5875,7 @@ module.exports = [
         consNote: '혼자 저렴하게면 1번, 여름 냉수까지면 3번 냉온수입니다. 2번은 <strong>"세탁 위생+부부 크기"</strong>의 실속 구간 — 위생·2인 난방에 무난합니다.',
         review: '"땀·위생 때문에 세탁이 되는 게 좋다"는 부부에게 워셔블 퀸이 편합니다. 통째 빨 수 있어요. 여름 냉수까지 원하면 3번을 보세요.',
         specs: ['제품: 비나잇 워셔블 온수매트 (퀸 1500×1900)', '방식: 온수 · 워셔블(세탁) · 양면', '크기: 퀸(부부)', '배송: 일반배송', '가격: 약 289,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9124441644&itemId=26890795027&vendorItemId=93860290433&traceid=V0-153-2e9128a47edce02c&clickBeacon=f3a26880-7f59-11f1-b6c6-69413bc9ac0b%7E3&requestid=20260714165934130241844113&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9124441644&itemId=26890795027&vendorItemId=93860290433&traceid=V0-153-2e9128a47edce02c&clickBeacon=f3a26880-7f59-11f1-b6c6-69413bc9ac0b%7E3&requestid=20260714165934130241844113&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -5894,7 +5894,7 @@ module.exports = [
         consNote: '혼자 저렴하게면 1번, 세탁·부부면 2번이 합리적입니다. 3번은 <strong>사계절(냉+온)·브랜드</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"겨울 난방도, 여름 냉방도 한 매트로"면 나비엔 냉온수가 값을 합니다. 사계절 쓰니 활용도가 높아요. 겨울 난방만·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 나비엔 사계절 냉온수 PRO 슬림형 매트 (EMF503, 커버 세트)', '방식: 온수+냉수(사계절)', '강점: 브랜드 · 슬림 · 커버 세트', '배송: 로켓배송', '가격: 약 649,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9593924068&itemId=28639821543&vendorItemId=95582587747&traceid=V0-153-41b6699d383f544c&clickBeacon=f3a26880-7f59-11f1-8390-b9a9e2cfcdeb%7E3&requestid=20260714165934130241844113&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9593924068&itemId=28639821543&vendorItemId=95582587747&traceid=V0-153-41b6699d383f544c&clickBeacon=f3a26880-7f59-11f1-8390-b9a9e2cfcdeb%7E3&requestid=20260714165934130241844113&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -5985,7 +5985,7 @@ module.exports = [
         consNote: '이 제품은 <strong>자취·소량용</strong>입니다. 이불까지 널면 2번 확장형, 많은 빨래 이동이면 3번 3단 이동식으로 가세요. "자취 소량"이면 가성비 최고예요.',
         review: '"혼자 소량 빨래"면 1만원대 접이식으로 충분합니다. 접어서 보관도 편해요. 가족 빨래·이불이면 2·3번을 보세요.',
         specs: ['제품: 팬물산 스텐 접이식 빨래건조대', '재질: 스테인리스 · 접이식', '용도: 자취·소량', '배송: 로켓배송', '가격: 약 13,770원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7742165254&itemId=20832569871&vendorItemId=87900674997&traceid=V0-153-16d32bbc7f7ee403&requestid=20260714165934673202186599&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7742165254&itemId=20832569871&vendorItemId=87900674997&traceid=V0-153-16d32bbc7f7ee403&requestid=20260714165934673202186599&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6004,7 +6004,7 @@ module.exports = [
         consNote: '자취·소량이면 1번, 많은 빨래를 이동하며 널면 3번 3단 이동식입니다. 2번은 <strong>"이불까지 대용량"</strong>의 실속 구간 — 가족 빨래에 무난합니다.',
         review: '"가족 빨래에 이불까지 널 데가 없다"는 분에게 확장형이 넉넉합니다. 튼튼해서 잘 안 흔들려요. 자주 이동하며 널면 3번을 보세요.',
         specs: ['제품: 딤즈 확장형 이불건조대', '형태: 확장형(용량 조절) · 스텐', '용도: 가족·이불', '배송: 로켓배송', '가격: 약 43,110원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7980422207&itemId=22139022487&vendorItemId=89340343151&traceid=V0-153-f1bda76d9fdc7257&clickBeacon=f3f54370-7f59-11f1-ba4b-c1c66918d13f%7E3&requestid=20260714165934673202186599&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7980422207&itemId=22139022487&vendorItemId=89340343151&traceid=V0-153-f1bda76d9fdc7257&clickBeacon=f3f54370-7f59-11f1-ba4b-c1c66918d13f%7E3&requestid=20260714165934673202186599&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6023,7 +6023,7 @@ module.exports = [
         consNote: '자취·소량이면 1번, 이불 중심 대용량이면 2번이 합리적입니다. 3번은 <strong>많은 빨래+이동 편의</strong>가 필요할 때 값어치가 있습니다.',
         review: '"빨래가 많아 3단으로, 옮기며 널고 싶다"면 이동식이 편합니다. 바퀴로 햇빛 따라 옮겨요. 소량·좁은 집이면 1·2번이 합리적입니다.',
         specs: ['제품: New World 3단 이동식 빨래건조대 (170cm)', '형태: 3단 · 바퀴 이동식 · 접이식', '용도: 많은 빨래·이동', '배송: 로켓배송', '가격: 약 100,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9555566635&itemId=28512714711&vendorItemId=95175549527&traceid=V0-153-f1aee238815f9b4b&clickBeacon=f3f54370-7f59-11f1-956b-f4508386370b%7E3&requestid=20260714165934673202186599&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9555566635&itemId=28512714711&vendorItemId=95175549527&traceid=V0-153-f1aee238815f9b4b&clickBeacon=f3f54370-7f59-11f1-956b-f4508386370b%7E3&requestid=20260714165934673202186599&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -6115,7 +6115,7 @@ module.exports = [
         consNote: '이 제품은 <strong>이유식·입문용</strong>입니다. 브랜드 파워면 2번, 다지기·거품까지면 3번 다용도 세트로 가세요. "이유식·가볍게"면 가성비 최고예요.',
         review: '"이유식·소스 정도"면 2만원대로 충분합니다. 가볍고 세척도 간단해요. 단단한 재료·다지기·거품이면 2·3번을 보세요.',
         specs: ['제품: 키친아트 코코 핸드블렌더', '급: 가성비·입문', '용도: 이유식·소스·수프', '배송: 로켓배송', '가격: 약 19,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6060611261&itemId=11142767962&vendorItemId=78421177066&traceid=V0-153-e34926134f3ced63&requestid=20260714165935181220799317&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6060611261&itemId=11142767962&vendorItemId=78421177066&traceid=V0-153-e34926134f3ced63&requestid=20260714165935181220799317&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6134,7 +6134,7 @@ module.exports = [
         consNote: '이유식·가볍게면 1번, 다지기·거품까지면 3번 세트입니다. 2번은 <strong>"브랜드 파워+내구"</strong>의 실속 구간 — 든든하게 쓰기 무난합니다.',
         review: '"이왕이면 브랜드로 힘 있게"면 필립스 파워가 든든합니다. 단단한 것도 잘 갈려요. 다지기·거품 등 다양한 부속이 필요하면 3번을 보세요.',
         specs: ['제품: 필립스 파워 핸드블렌더 5000 (블랙 메탈)', '강점: 파워 · 메탈 내구 · 브랜드', '용도: 다용도(단단한 재료 포함)', '배송: 로켓배송', '가격: 약 68,890원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8018806520&itemId=22400287066&vendorItemId=89544419302&traceid=V0-153-b3d550bd74ab0f3a&requestid=20260714165935181220799317&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8018806520&itemId=22400287066&vendorItemId=89544419302&traceid=V0-153-b3d550bd74ab0f3a&requestid=20260714165935181220799317&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6153,7 +6153,7 @@ module.exports = [
         consNote: '이유식·가볍게면 1번, 브랜드 파워만이면 2번이 합리적입니다. 3번은 <strong>다지기·거품 등 다양한 요리</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"갈기만이 아니라 다지기·거품까지"면 부속 많은 세트가 알찹니다. 요리 폭이 넓어져요. 이유식·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 엔유씨 핸드블렌더 HANDY 1000 (NHB-200K)', '구성: 다지기·거품기 등 부속 · 고출력', '용도: 갈기·다지기·거품', '배송: 로켓배송', '가격: 약 79,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7413185644&itemId=19212832216&vendorItemId=86329890913&traceid=V0-153-7f266f38e2c899cc&clickBeacon=f442a020-7f59-11f1-b71b-4acec0433682%7E3&requestid=20260714165935181220799317&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7413185644&itemId=19212832216&vendorItemId=86329890913&traceid=V0-153-7f266f38e2c899cc&clickBeacon=f442a020-7f59-11f1-b71b-4acec0433682%7E3&requestid=20260714165935181220799317&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -6245,7 +6245,7 @@ module.exports = [
         consNote: '이 제품은 <strong>수동·소량·감성용</strong>입니다. 매일 편하게면 2번 전동, 무선 프리미엄이면 3번으로 가세요. "저렴하게 소량"이면 가성비 최고예요.',
         review: '"소량씩 갈아 마시는 감성"이면 수동 핸드밀이 좋습니다. 조용하고 캠핑에도 챙겨요. 매일 많은 양·편의면 2·3번을 보세요.',
         specs: ['제품: Baristar 수동 원두 그라인더', '방식: 수동(핸드밀)', '용도: 소량·감성·캠핑', '배송: 로켓배송', '가격: 약 23,490원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1748743100&itemId=16091691950&vendorItemId=83289371164&traceid=V0-153-9deaba0749fd2a14&requestid=20260714165935621220799414&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1748743100&itemId=16091691950&vendorItemId=83289371164&traceid=V0-153-9deaba0749fd2a14&requestid=20260714165935621220799414&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6264,7 +6264,7 @@ module.exports = [
         consNote: '수동·감성이면 1번, 무선·프리미엄이면 3번입니다. 2번은 <strong>"전동 편의+브랜드"</strong>의 실속 구간 — 매일 편하게 갈기에 무난합니다.',
         review: '"매일 편하게 갈고 싶다"면 전동이 확실히 편합니다. 드롱기라 무난해요. 무선·분쇄 균일도를 더 원하면 3번을 보세요.',
         specs: ['제품: 드롱기 심플 원두 그라인더 (KG200)', '방식: 전동', '강점: 편의 · 브랜드', '배송: 일반배송', '가격: 약 42,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7164542326&itemId=18037114131&vendorItemId=88549494586&traceid=V0-153-8ea28601a29ef633&clickBeacon=f4859c90-7f59-11f1-96bc-83f062f90796%7E3&requestid=20260714165935621220799414&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7164542326&itemId=18037114131&vendorItemId=88549494586&traceid=V0-153-8ea28601a29ef633&clickBeacon=f4859c90-7f59-11f1-96bc-83f062f90796%7E3&requestid=20260714165935621220799414&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6283,7 +6283,7 @@ module.exports = [
         consNote: '저렴하게 수동이면 1번, 유선 전동 편의면 2번이 합리적입니다. 3번은 <strong>무선 편의·완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"전동인데 선 없이 어디서나"면 무선 전동이 편합니다. 캠핑·오피스에도 좋아요. 가성비·감성이면 1·2번이 합리적입니다.',
         specs: ['제품: 리큅 무선 전동 커피 그라인더 (LCG-C2400BK)', '방식: 무선(충전식) 전동', '강점: 무선 편의 · 완성도', '배송: 로켓배송', '가격: 약 139,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9397550721&itemId=27911460773&vendorItemId=94870155876&traceid=V0-153-a6dcaf42964ae3a1&clickBeacon=f4859c90-7f59-11f1-87de-ae78e99726b1%7E3&requestid=20260714165935621220799414&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9397550721&itemId=27911460773&vendorItemId=94870155876&traceid=V0-153-a6dcaf42964ae3a1&clickBeacon=f4859c90-7f59-11f1-87de-ae78e99726b1%7E3&requestid=20260714165935621220799414&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -6374,7 +6374,7 @@ module.exports = [
         consNote: '이 제품은 <strong>간식·가성비용</strong>입니다. 맛으로 꾸준히면 2번 소프트, 단백질 확실히면 3번 고단백으로 가세요. "한입 간식"이면 가성비 최고예요.',
         review: '"출출할 때 한입씩, 저렴하게"면 34개 대용량이 알뜰합니다. 크런치라 간식 느낌이에요. 확실한 단백질·부드러운 맛이면 2·3번을 보세요.',
         specs: ['제품: 닥터유 프로단백질바 크런치 한입 34p', '구성: 한입 크기 34개', '용도: 간식·단백질 보충', '배송: 로켓배송', '가격: 약 12,140원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9636925698&itemId=19804404986&vendorItemId=86906686317&traceid=V0-153-76ac2997a70d7447&requestid=20260714165935981277714793&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9636925698&itemId=19804404986&vendorItemId=86906686317&traceid=V0-153-76ac2997a70d7447&requestid=20260714165935981277714793&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6393,7 +6393,7 @@ module.exports = [
         consNote: '저렴하게 간식이면 1번, 단백질 확실히면 3번 고단백입니다. 2번은 <strong>"맛+부드러움"</strong>의 실속 구간 — 꾸준히 먹는 게 중요한 분에게 무난합니다.',
         review: '"프로틴바가 딱딱하고 맛없어 안 먹게 된다"는 분에게 소프트 바가 맞습니다. 맛있어서 꾸준해요. 단백질 함량을 극대화하려면 3번을 보세요.',
         specs: ['제품: 마이프로틴 소프트 단백질 바 (딸기 요거트)', '식감: 소프트(부드러움)', '용도: 맛·다이어트 간식', '배송: 로켓배송', '가격: 약 29,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9160773423&itemId=26983040750&vendorItemId=93951862229&traceid=V0-153-c554f675d8949090&clickBeacon=f4c1bb30-7f59-11f1-b454-8765c66d3b77%7E3&requestid=20260714165935981277714793&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9160773423&itemId=26983040750&vendorItemId=93951862229&traceid=V0-153-c554f675d8949090&clickBeacon=f4c1bb30-7f59-11f1-b454-8765c66d3b77%7E3&requestid=20260714165935981277714793&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6412,7 +6412,7 @@ module.exports = [
         consNote: '한입 간식이면 1번, 맛·부드러움이면 2번이 합리적입니다. 3번은 <strong>운동 후 단백질을 확실히</strong> 챙기려는 분에게 값어치가 있습니다.',
         review: '"운동하고 단백질을 제대로"면 1개 고단백 바가 든든합니다. 함량이 높아요. 가벼운 간식·맛이면 1·2번이 합리적입니다.',
         specs: ['제품: 곰곰 25 고단백질바 크런치', '단백질: 1개 고단백(약 25g급)', '용도: 운동 후 단백질 보충', '배송: 로켓배송', '가격: 약 41,640원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7905299362&itemId=22410091929&vendorItemId=89454938925&traceid=V0-153-79d5626d011746f8&requestid=20260714165935981277714793&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7905299362&itemId=22410091929&vendorItemId=89454938925&traceid=V0-153-79d5626d011746f8&requestid=20260714165935981277714793&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -6504,7 +6504,7 @@ module.exports = [
         consNote: '이 제품은 <strong>유청분리(그릭 전환)용</strong>입니다. 우유로 직접 발효면 2번 요거트메이커, 온도·스마트면 3번으로 가세요. "시판 요거트를 그릭으로"면 가성비 최고예요.',
         review: '"시판 요거트 사서 꾸덕한 그릭으로만"이면 유청분리기로 충분합니다. 간단하고 저렴해요. 우유로 직접 발효하려면 2·3번을 보세요.',
         specs: ['제품: 요거잇 유청분리기 (그릭 메이커)', '방식: 유청분리(시판 요거트 → 그릭)', '용도: 그릭요거트 전환', '배송: 로켓배송', '가격: 약 10,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7543492677&itemId=19836197725&vendorItemId=86937843552&traceid=V0-153-c40181f562d7056b&requestid=20260714165936501106726852&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7543492677&itemId=19836197725&vendorItemId=86937843552&traceid=V0-153-c40181f562d7056b&requestid=20260714165936501106726852&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6523,7 +6523,7 @@ module.exports = [
         consNote: '시판 요거트를 그릭으로만이면 1번, 온도·스마트 편의면 3번입니다. 2번은 <strong>"우유 발효 요거트메이커"</strong>의 실속 구간 — 직접 만들기에 무난합니다.',
         review: '"우유로 요거트부터 직접, 저렴하게 많이"면 발효 요거트메이커가 알찹니다. 계속 사먹는 것보다 이득이에요. 온도·스마트 편의면 3번을 보세요.',
         specs: ['제품: 엔유씨 요거트 메이커 (NYM-200K)', '방식: 발효(우유+유산균)', '용도: 홈메이드 요거트', '배송: 로켓배송', '가격: 약 49,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8150913520&itemId=25320696032&vendorItemId=92315659944&traceid=V0-153-a2842780cf1a74ea&clickBeacon=f50be390-7f59-11f1-b6c9-8fddd743bbbb%7E3&requestid=20260714165936501106726852&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8150913520&itemId=25320696032&vendorItemId=92315659944&traceid=V0-153-a2842780cf1a74ea&clickBeacon=f50be390-7f59-11f1-b6c9-8fddd743bbbb%7E3&requestid=20260714165936501106726852&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6542,7 +6542,7 @@ module.exports = [
         consNote: '시판 요거트를 그릭으로만이면 1번, 기본 발효면 2번이 합리적입니다. 3번은 <strong>온도·스마트 제어로 실패 없이 다양하게</strong> 만들려는 분에게 값어치가 있습니다.',
         review: '"발효 온도·시간을 정확히, 실패 없이 다양하게"면 스마트 발효기가 만족스럽습니다. 온도 관리가 편해요. 단순 유청분리·기본이면 1·2번이 합리적입니다.',
         specs: ['제품: 엔유씨 스마트 요거트 메이커 (NYM-8500K)', '방식: 발효(온도·시간 스마트 제어)', '용도: 요거트·그릭 등 다양', '배송: 로켓배송', '가격: 약 91,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8675290511&itemId=25184203190&vendorItemId=92563597889&traceid=V0-153-b390967b12445acc&clickBeacon=f50bbc80-7f59-11f1-a80d-e1e54c623900%7E3&requestid=20260714165936501106726852&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8675290511&itemId=25184203190&vendorItemId=92563597889&traceid=V0-153-b390967b12445acc&clickBeacon=f50bbc80-7f59-11f1-a80d-e1e54c623900%7E3&requestid=20260714165936501106726852&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -6634,7 +6634,7 @@ module.exports = [
         consNote: '이 제품은 <strong>봄가을·여름·입문용</strong>입니다. 사계절 가볍게면 2번 경량, 겨울 추위면 3번 구스로 가세요. "봄가을 저렴하게"면 가성비 최고예요.',
         review: '"봄가을·여름 캠핑에 가볍게"면 1만원대 머미형으로 충분합니다. 서브로도 좋아요. 사계절·겨울이면 2·3번을 보세요.',
         specs: ['제품: 코멧 머미형 침낭 (210×75)', '형태: 머미형', '계절: 봄가을·여름', '배송: 로켓배송', '가격: 약 10,290원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8901910231&itemId=25995420502&vendorItemId=92977675486&traceid=V0-153-50fbd96bd188f043&requestid=20260714165936947146247623&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8901910231&itemId=25995420502&vendorItemId=92977675486&traceid=V0-153-50fbd96bd188f043&requestid=20260714165936947146247623&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6653,7 +6653,7 @@ module.exports = [
         consNote: '봄가을·여름 저렴하게면 1번, 겨울 극한 추위면 3번 구스입니다. 2번은 <strong>"사계절+경량"</strong>의 실속 구간 — 두루 쓰기 가장 무난합니다.',
         review: '"사계절 하나로, 가볍게"면 초경량 사계절이 무난합니다. 백패킹에도 좋고요. 한겨울 강추위를 확실히 막으려면 3번 구스를 보세요.',
         specs: ['제품: AIFLYCY 사계절 초경량 침낭 (약 1000g)', '형태: 머미형 · 초경량', '계절: 사계절', '배송: 로켓배송', '가격: 약 25,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9459425244&itemId=28146604723&vendorItemId=95102002602&traceid=V0-153-6da2258c91115bd2&clickBeacon=f54ff170-7f59-11f1-b6aa-66e617806cd6%7E3&requestid=20260714165936947146247623&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9459425244&itemId=28146604723&vendorItemId=95102002602&traceid=V0-153-6da2258c91115bd2&clickBeacon=f54ff170-7f59-11f1-b6aa-66e617806cd6%7E3&requestid=20260714165936947146247623&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6672,7 +6672,7 @@ module.exports = [
         consNote: '봄가을·여름이면 1번, 사계절 경량이면 2번이 합리적입니다. 3번은 <strong>겨울 추위·동계 차박</strong>을 확실히 대비하려는 분에게 값어치가 있습니다.',
         review: '"겨울 캠핑·차박에 추워서 못 잔다"는 분에게 구스다운이 따뜻합니다. 가볍고 압축도 잘 돼요. 봄가을·여름이면 1·2번이 합리적입니다.',
         specs: ['제품: 돌핀 거위털 구스 침낭', '충전재: 거위털(구스다운)', '계절: 겨울·차박(동계)', '배송: 로켓배송', '가격: 약 100,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9433158966&itemId=28048891726&vendorItemId=95036004604&traceid=V0-153-f9e920e8337da954&clickBeacon=f5501880-7f59-11f1-8ee1-2b21046c3fe7%7E3&requestid=20260714165936947146247623&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9433158966&itemId=28048891726&vendorItemId=95036004604&traceid=V0-153-f9e920e8337da954&clickBeacon=f5501880-7f59-11f1-8ee1-2b21046c3fe7%7E3&requestid=20260714165936947146247623&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -6764,7 +6764,7 @@ module.exports = [
         consNote: '이 제품은 <strong>거치만·가성비용</strong>입니다. 아이폰 자석+무선충전이면 2번, 폴드·대화면이면 3번으로 가세요. "거치만 저렴하게"면 가성비 최고예요.',
         review: '"내비만 보면 되고 저렴하게"면 흡착형으로 충분합니다. 설치도 간단해요. 무선충전·강한 고정이면 2·3번을 보세요.',
         specs: ['제품: 팸픽 차량용 흡착 거치대', '방식: 대시보드 흡착 · 거치만', '용도: 내비·통화 거치', '배송: 로켓배송', '가격: 약 7,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9567948631&itemId=28555991791&vendorItemId=95500691390&traceid=V0-153-0fb312184eb6e927&requestid=20260714165937484089330848&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9567948631&itemId=28555991791&vendorItemId=95500691390&traceid=V0-153-0fb312184eb6e927&requestid=20260714165937484089330848&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6783,7 +6783,7 @@ module.exports = [
         consNote: '저렴하게 거치만이면 1번, 폴드·대화면이면 3번입니다. 2번은 <strong>"아이폰 자석+무선충전"</strong>의 실속 구간 — 아이폰 사용자에게 가장 편합니다.',
         review: '"아이폰이라 자석으로 붙이고 충전까지"면 맥세이프 거치대가 정말 편합니다. 한 손으로 착 붙어요. 폴드·대화면이면 3번, 거치만이면 1번을 보세요.',
         specs: ['제품: 맥세이프 무선충전 차량용 거치대 (15W)', '방식: 맥세이프 자석 · 15W 고속 무선충전', '용도: 아이폰 거치+충전', '배송: 로켓배송', '가격: 약 28,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9003853949&itemId=26385722990&vendorItemId=93362136308&traceid=V0-153-a119081707cda318&clickBeacon=f5a2a550-7f59-11f1-bd04-7152d0530b79%7E3&requestid=20260714165937484089330848&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9003853949&itemId=26385722990&vendorItemId=93362136308&traceid=V0-153-a119081707cda318&clickBeacon=f5a2a550-7f59-11f1-bd04-7152d0530b79%7E3&requestid=20260714165937484089330848&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6802,7 +6802,7 @@ module.exports = [
         consNote: '저렴하게 거치만이면 1번, 아이폰 맥세이프면 2번이 합리적입니다. 3번은 <strong>폴드·대화면 폰+무선충전</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"폴드·대화면이라 일반 거치대엔 불안하다"는 분에게 폴드 호환 거치대가 안정적입니다. 무선충전도 되고요. 일반 폰·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: Toocki 폴드 호환 무선충전 차량용 거치대', '방식: 폴드·대화면 호환 · 무선충전', '용도: 대화면 폰 거치+충전', '배송: 로켓배송', '가격: 약 43,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9487495521&itemId=28253182550&vendorItemId=94033807530&traceid=V0-153-7ad377cc1fa6ff42&clickBeacon=f5a2a550-7f59-11f1-ae18-1ad9dc31df57%7E3&requestid=20260714165937484089330848&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9487495521&itemId=28253182550&vendorItemId=94033807530&traceid=V0-153-7ad377cc1fa6ff42&clickBeacon=f5a2a550-7f59-11f1-ae18-1ad9dc31df57%7E3&requestid=20260714165937484089330848&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -6894,7 +6894,7 @@ module.exports = [
         consNote: '이 제품은 <strong>부분·틈새 스팀용</strong>입니다. 바닥 물걸레면 2번, 전동 듀얼스핀이면 3번으로 가세요. "주방·틈새 스팀분사"면 가성비 최고예요.',
         review: '"주방 기름때·틈새를 스팀으로"면 핸디 분사기가 유용합니다. 살균도 되고요. 바닥 전체를 밀어 닦으려면 2·3번을 보세요.',
         specs: ['제품: 고온 핸디 스팀 분사 청소기', '방식: 핸디 스팀분사(부분)', '용도: 주방·틈새·에어컨 등', '배송: 일반배송', '가격: 약 26,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9084352580&itemId=26690346146&vendorItemId=95693813525&traceid=V0-153-b1e3e7379ecdbd38&requestid=20260714171218317162914494&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9084352580&itemId=26690346146&vendorItemId=95693813525&traceid=V0-153-b1e3e7379ecdbd38&requestid=20260714171218317162914494&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6913,7 +6913,7 @@ module.exports = [
         consNote: '부분·틈새 스팀이면 1번, 전동으로 힘 안 들이고면 3번 듀얼스핀입니다. 2번은 <strong>"바닥 스팀 물걸레"</strong>의 실속 구간 — 바닥 위생 청소에 무난합니다.',
         review: '"바닥을 세제 없이 스팀으로 닦고 살균"이면 스팀 물걸레가 좋습니다. 밀대라 편해요. 주방·틈새면 1번, 전동 회전이면 3번을 보세요.',
         specs: ['제품: 신일 스팀 물걸레 청소기 (SDC-W7800, IPX4)', '방식: 바닥 스팀 물걸레(밀대형)', '강점: 고온 살균', '배송: 로켓배송', '가격: 약 129,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9294336678&itemId=27529204201&vendorItemId=95535712178&traceid=V0-153-f096e8a36da33f89&clickBeacon=bb208c60-7f5b-11f1-95df-5a6d9e2b7e04%7E3&requestid=20260714171218317162914494&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9294336678&itemId=27529204201&vendorItemId=95535712178&traceid=V0-153-f096e8a36da33f89&clickBeacon=bb208c60-7f5b-11f1-95df-5a6d9e2b7e04%7E3&requestid=20260714171218317162914494&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -6932,7 +6932,7 @@ module.exports = [
         consNote: '부분·틈새면 1번, 밀대 스팀 물걸레 실속이면 2번이 합리적입니다. 3번은 <strong>전동 회전+2in1으로 힘 안 들이고</strong> 닦으려는 분에게 값어치가 있습니다.',
         review: '"바닥 닦기가 힘들다"는 분에게 전동 듀얼스핀이 편합니다. 회전 패드가 알아서 닦고 살균도 돼요. 부분·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: LANGDOO 듀얼스핀 스팀청소기 (2in1, 550ml)', '방식: 전동 듀얼스핀 · 스팀 살균 · 흡입+물걸레', '강점: 힘 안 들이고 · 대용량', '배송: 로켓배송', '가격: 약 279,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9593863161&itemId=28639587001&vendorItemId=95582362702&traceid=V0-153-a1dc55eca1bc927b&clickBeacon=bb208c60-7f5b-11f1-b574-9b7d26d1ff8e%7E3&requestid=20260714171218317162914494&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9593863161&itemId=28639587001&vendorItemId=95582362702&traceid=V0-153-a1dc55eca1bc927b&clickBeacon=bb208c60-7f5b-11f1-b574-9b7d26d1ff8e%7E3&requestid=20260714171218317162914494&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -7024,7 +7024,7 @@ module.exports = [
         consNote: '이 제품은 <strong>위생·가성비용</strong>입니다. 숙면 지지력이면 2번 라텍스, 바닥·자취 접이식이면 3번으로 가세요. "통세탁 위생"이면 가성비 최고예요.',
         review: '"땀·위생 때문에 세탁이 되는 게 좋다"면 통세탁 토퍼가 편합니다. 사계절 무난해요. 숙면 지지력·바닥용이면 2·3번을 보세요.',
         specs: ['제품: OYEAH 통세탁 사계절 매트리스 토퍼', '소재: 통세탁 가능 · 사계절', '용도: 위생·가벼운 쿠션', '배송: 로켓배송', '가격: 약 19,790원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9417178836&itemId=27051029231&vendorItemId=95509858702&traceid=V0-153-23cc39e3f43897d1&requestid=20260714171218996123614417&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9417178836&itemId=27051029231&vendorItemId=95509858702&traceid=V0-153-23cc39e3f43897d1&requestid=20260714171218996123614417&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7043,7 +7043,7 @@ module.exports = [
         consNote: '통세탁 위생·가벼움이면 1번, 바닥·자취 접이식이면 3번입니다. 2번은 <strong>"라텍스+메모리폼 숙면"</strong>의 실속 구간 — 지지력·쿠션이 필요한 분에게 무난합니다.',
         review: '"매트리스가 배기고 딱딱하다"면 라텍스+메모리폼 토퍼가 숙면감을 줍니다. 몸을 받쳐줘요. 통세탁·바닥용이면 1·3번을 보세요.',
         specs: ['제품: 지오리스 라텍스+메모리폼 토퍼', '소재: 천연 라텍스 + 메모리폼', '강점: 숙면 지지력 · 체압 분산', '배송: 로켓배송', '가격: 약 73,880원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8938627601&itemId=26136752492&vendorItemId=93116927142&traceid=V0-153-3d7919f5d0a3804a&requestid=20260714171218996123614417&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8938627601&itemId=26136752492&vendorItemId=93116927142&traceid=V0-153-3d7919f5d0a3804a&requestid=20260714171218996123614417&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7062,7 +7062,7 @@ module.exports = [
         consNote: '통세탁 위생·가벼움이면 1번, 침대 위 숙면 지지력이면 2번이 합리적입니다. 3번은 <strong>바닥·자취·접이식 겸용</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"바닥에 깔고 자거나 손님용으로 접어 보관"이면 3단 접이식이 편합니다. 두루 써요. 침대 위 숙면 지지력이면 2번, 통세탁이면 1번을 보세요.',
         specs: ['제품: 몽스홈 3단 접이식 매트리스 토퍼', '형태: 3단 접이식', '용도: 바닥·자취·손님용 겸용', '배송: 일반배송', '가격: 약 129,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9466691091&itemId=28173265216&vendorItemId=90026973935&traceid=V0-153-7d798272caa733f7&clickBeacon=bb87d9b0-7f5b-11f1-8aee-eeba3a555377%7E3&requestid=20260714171218996123614417&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9466691091&itemId=28173265216&vendorItemId=90026973935&traceid=V0-153-7d798272caa733f7&clickBeacon=bb87d9b0-7f5b-11f1-8aee-eeba3a555377%7E3&requestid=20260714171218996123614417&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -7154,7 +7154,7 @@ module.exports = [
         consNote: '이 제품은 <strong>1~2인·가성비용</strong>입니다. 가족이 넉넉히면 2번 특대형, 구이+전골+볶음이면 3번 멀티로 가세요. "1~2인 구이"면 가성비 최고예요.',
         review: '"둘이 집에서 삼겹살 구이"면 2만원대 와이드로 충분합니다. 간단해요. 가족 여럿·다용도면 2·3번을 보세요.',
         specs: ['제품: 홈플래닛 와이드 전기그릴 (48cm)', '크기: 와이드(1~2인)', '용도: 고기구이', '배송: 로켓배송', '가격: 약 29,570원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9018740087&itemId=26441239963&vendorItemId=93416850090&traceid=V0-153-1e27b27fcdec3abf&requestid=20260714171219526214610724&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9018740087&itemId=26441239963&vendorItemId=93416850090&traceid=V0-153-1e27b27fcdec3abf&requestid=20260714171219526214610724&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7173,7 +7173,7 @@ module.exports = [
         consNote: '1~2인이면 1번 와이드, 구이+전골+볶음이면 3번 멀티입니다. 2번은 <strong>"가족 특대형 구이"</strong>의 실속 구간 — 여럿이 넉넉히 굽기에 무난합니다.',
         review: '"가족·손님과 고기를 넉넉히"면 특대형이 편합니다. 넓어서 한 번에 많이 구워요. 1~2인이면 1번, 전골·볶음이면 3번을 보세요.',
         specs: ['제품: 신일 와이드 특대형 전기그릴 세트', '크기: 특대형(가족)', '용도: 고기구이(넉넉)', '배송: 로켓배송', '가격: 약 98,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=286565402&itemId=24017970219&vendorItemId=91476696903&traceid=V0-153-e80e58efc706482b&requestid=20260714171219526214610724&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=286565402&itemId=24017970219&vendorItemId=91476696903&traceid=V0-153-e80e58efc706482b&requestid=20260714171219526214610724&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7192,7 +7192,7 @@ module.exports = [
         consNote: '1~2인 구이면 1번, 가족 특대형 구이면 2번이 합리적입니다. 3번은 <strong>구이+전골+볶음 다용도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"고기도 굽고 전골·볶음도"면 멀티쿠커가 알찹니다. 판 바꿔 다양하게 써요. 단순 구이·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 신일 전기그릴 멀티쿠커 (SPP-H1700OSG)', '기능: 구이+전골+볶음 · 전기후라이팬 겸용', '용도: 다용도 조리', '배송: 일반배송', '가격: 약 131,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7899455608&itemId=21645572469&vendorItemId=88696350514&traceid=V0-153-356a40b624033111&clickBeacon=bbddc1e0-7f5b-11f1-80c3-9baaa4541628%7E3&requestid=20260714171219526214610724&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7899455608&itemId=21645572469&vendorItemId=88696350514&traceid=V0-153-356a40b624033111&clickBeacon=bbddc1e0-7f5b-11f1-80c3-9baaa4541628%7E3&requestid=20260714171219526214610724&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -7283,7 +7283,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 브랜드 완성도면 2번 풀리오, 손가락까지면 3번으로 가세요. "공기압+온열 저렴하게"면 가성비 최고예요.',
         review: '"손이 뻐근한데 저렴하게"면 공기압+온열 가성비로 시작하기 좋습니다. 손을 감싸 눌러줘요. 손가락·브랜드면 2·3번을 보세요.',
         specs: ['제품: AERLANG 손 손목 마사지기 (HM08)', '방식: 공기압 + 온열 · 무선', '용도: 손·손목 이완', '배송: 로켓배송', '가격: 약 62,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8643203441&itemId=25490800411&vendorItemId=92482998001&traceid=V0-153-bfed5dcd0a02d070&clickBeacon=bc202210-7f5b-11f1-9422-3484ecb9c9f2%7E3&requestid=20260714171219996214610808&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8643203441&itemId=25490800411&vendorItemId=92482998001&traceid=V0-153-bfed5dcd0a02d070&clickBeacon=bc202210-7f5b-11f1-9422-3484ecb9c9f2%7E3&requestid=20260714171219996214610808&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7302,7 +7302,7 @@ module.exports = [
         consNote: '가성비로 공기압+온열이면 1번, 손가락 개별까지면 3번입니다. 2번은 <strong>"브랜드 완성도"</strong>의 실속 구간 — 믿고 두루 쓰기 무난합니다.',
         review: '"이왕이면 브랜드로 제대로"면 풀리오가 무난합니다. 완성도가 좋아요. 가성비·손가락 개별이면 1·3번을 보세요.',
         specs: ['제품: 풀리오 손 손목 마사지기', '방식: 공기압 + 온열', '강점: 브랜드 · 완성도 · A/S', '배송: 로켓배송', '가격: 약 94,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8672753707&itemId=25763279088&vendorItemId=93926632211&traceid=V0-153-368819eb68df86b2&requestid=20260714171219996214610808&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8672753707&itemId=25763279088&vendorItemId=93926632211&traceid=V0-153-368819eb68df86b2&requestid=20260714171219996214610808&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7321,7 +7321,7 @@ module.exports = [
         consNote: '가성비로 공기압+온열이면 1번, 브랜드 완성도면 2번이 합리적입니다. 3번은 <strong>손가락까지 하나하나</strong> 풀려는 분에게 값어치가 있습니다.',
         review: '"손가락이 뻐근한데 손바닥만 눌러선 부족"이면 손가락 분리형이 만족스럽습니다. 손가락까지 풀려요. 손바닥·손목 위주면 1·2번이 합리적입니다.',
         specs: ['제품: 손가락 분리형 온열 손 마사지기', '방식: 손가락 스트레칭 + 온열', '용도: 손·손목·손가락 이완', '배송: 로켓배송', '가격: 약 129,930원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9268464991&itemId=27429244272&vendorItemId=94394719524&traceid=V0-153-4e0405c112b1e0e8&requestid=20260714171219996214610808&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9268464991&itemId=27429244272&vendorItemId=94394719524&traceid=V0-153-4e0405c112b1e0e8&requestid=20260714171219996214610808&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -7412,7 +7412,7 @@ module.exports = [
         consNote: '이 제품은 <strong>범용·가성비용</strong>입니다. 아침 초간편이면 2번 퀵, 씹는 식감이면 3번 스틸컷으로 가세요. "범용·저렴하게"면 가성비 좋아요.',
         review: '"오트밀 입문·범용"이면 롤드오트가 무난합니다. 오버나이트·죽에 두루 써요. 초간편·통곡물 식감이면 2·3번을 보세요.',
         specs: ['제품: 대구농산 롤드 오트', '가공: 롤드오트(압착)', '용도: 오버나이트·죽·범용', '배송: 로켓배송', '가격: 약 6,980원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6386799209&itemId=13595060983&vendorItemId=80848192583&traceid=V0-153-6600cd987f084acc&requestid=20260714171220622220792061&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6386799209&itemId=13595060983&vendorItemId=80848192583&traceid=V0-153-6600cd987f084acc&requestid=20260714171220622220792061&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7431,7 +7431,7 @@ module.exports = [
         consNote: '범용·저렴하게면 1번, 씹는 식감이면 3번 스틸컷입니다. 2번은 <strong>"아침 초간편+유기농"</strong>의 실속 구간 — 매일 간편하게 챙기기 무난합니다.',
         review: '"바쁜 아침에 빠르게"면 퀵오트밀이 편합니다. 전자레인지로 금방이에요. 씹는 통곡물 식감을 원하면 3번을 보세요.',
         specs: ['제품: 골든잇츠 유기농 퀵 오트밀 (1kg)', '가공: 퀵오트(빠른 조리)', '용도: 아침·간편', '배송: 로켓배송', '가격: 약 13,860원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7607943826&itemId=21121049462&vendorItemId=88144897185&traceid=V0-153-7e95faf1b8986788&clickBeacon=bc7fce40-7f5b-11f1-b108-c97871ac0755%7E3&requestid=20260714171220622220792061&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7607943826&itemId=21121049462&vendorItemId=88144897185&traceid=V0-153-7e95faf1b8986788&clickBeacon=bc7fce40-7f5b-11f1-b108-c97871ac0755%7E3&requestid=20260714171220622220792061&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7450,7 +7450,7 @@ module.exports = [
         consNote: '범용·저렴하게면 1번, 아침 초간편이면 2번이 합리적입니다. 3번은 <strong>씹는 식감·통곡물감</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"퀵은 죽처럼 퍼져서 싫다"는 분에게 스틸컷의 씹는 식감이 만족스럽습니다. 든든해요. 간편함·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 파머스팬트리 스틸컷 오트밀', '가공: 스틸컷(자른 귀리)', '용도: 씹는 식감·통곡물 죽', '배송: 일반배송', '가격: 약 29,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6233730905&itemId=26364945768&vendorItemId=93341695502&traceid=V0-153-ea4e20f3306adc91&clickBeacon=bc7fce40-7f5b-11f1-9115-657ae924d434%7E3&requestid=20260714171220622220792061&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6233730905&itemId=26364945768&vendorItemId=93341695502&traceid=V0-153-ea4e20f3306adc91&clickBeacon=bc7fce40-7f5b-11f1-9115-657ae924d434%7E3&requestid=20260714171220622220792061&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -7542,7 +7542,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·그늘막용</strong>입니다. 가족 넓게면 2번 렉타, 장박·풀세트면 3번으로 가세요. "가볍게 그늘막"이면 가성비 최고예요.',
         review: '"피크닉·나들이 그늘막"이면 2만원대 방수 타프로 충분합니다. 가볍고 저렴해요. 가족 넓게·장박이면 2·3번을 보세요.',
         specs: ['제품: Kingfishe 방수 타프 (옥스퍼드·실버코팅)', '원단: 옥스퍼드 · 실버코팅(차광)', '용도: 그늘막·가벼운 비 대비', '배송: 로켓배송', '가격: 약 22,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8915431994&itemId=26047921700&vendorItemId=93554627258&traceid=V0-153-4e61df2d04e7cb38&requestid=20260714171221336287905230&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8915431994&itemId=26047921700&vendorItemId=93554627258&traceid=V0-153-4e61df2d04e7cb38&requestid=20260714171221336287905230&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7561,7 +7561,7 @@ module.exports = [
         consNote: '가볍게 그늘막이면 1번, 장박·풀세트면 3번입니다. 2번은 <strong>"두꺼운 원단+넓은 렉타"</strong>의 실속 구간 — 가족 그늘·비 대비에 무난합니다.',
         review: '"가족이 넓게 그늘, 방수·차광도 제대로"면 210D 렉타가 무난합니다. 두꺼워서 든든해요. 장박·풀세트면 3번, 가볍게면 1번을 보세요.',
         specs: ['제품: 마일후 210D 렉타 타프 (블랙·실버 코팅)', '원단: 210D 옥스포드 · 차광 코팅', '용도: 가족 그늘·비 대비(렉타)', '배송: 로켓배송', '가격: 약 50,580원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9419078055&itemId=27991960112&vendorItemId=95271897788&traceid=V0-153-c8b9ec0dd309147e&clickBeacon=bcebd680-7f5b-11f1-90e5-a3e8ad14be7a%7E3&requestid=20260714171221336287905230&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9419078055&itemId=27991960112&vendorItemId=95271897788&traceid=V0-153-c8b9ec0dd309147e&clickBeacon=bcebd680-7f5b-11f1-90e5-a3e8ad14be7a%7E3&requestid=20260714171221336287905230&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7580,7 +7580,7 @@ module.exports = [
         consNote: '가볍게 그늘막이면 1번, 가족 렉타면 2번이 합리적입니다. 3번은 <strong>장박·스크린 풀세트</strong>로 제대로 갖추려는 분에게 값어치가 있습니다.',
         review: '"장박으로 오래 머물고 벌레·바람까지 막는다"면 스크린 풀세트가 완성형입니다. 거실처럼 써요. 가볍게·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 제드 마티렉타 스크린 세트 (장박 풀세트, 5.5×4.4m)', '구성: 타프+스크린 · 대형 블랙코팅', '용도: 장박·벌레/바람 차단', '배송: 일반배송', '가격: 약 429,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9228518480&itemId=27278124655&vendorItemId=94244825827&traceid=V0-153-05c4df881e8babed&clickBeacon=bcebd680-7f5b-11f1-bf3d-a14fd084f14c%7E3&requestid=20260714171221336287905230&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9228518480&itemId=27278124655&vendorItemId=94244825827&traceid=V0-153-05c4df881e8babed&clickBeacon=bcebd680-7f5b-11f1-bf3d-a14fd084f14c%7E3&requestid=20260714171221336287905230&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -7672,7 +7672,7 @@ module.exports = [
         consNote: '이 제품은 <strong>폰만·가성비용</strong>입니다. 워치·이어폰까지면 2번 3in1, 휴대·여행이면 3번 접이식으로 가세요. "폰만 저렴하게"면 가성비 최고예요.',
         review: '"폰만 무선충전, 저렴하게"면 15W 단품으로 충분합니다. 세워두니 편해요. 워치·이어폰까지면 2·3번을 보세요.',
         specs: ['제품: 스피디 15W 고속 무선충전 거치대', '출력: 15W · 거치대형', '용도: 폰 무선충전', '배송: 로켓배송', '가격: 약 7,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7762543485&itemId=20936430689&vendorItemId=70852253517&traceid=V0-153-bee6f4acef5c3757&clickBeacon=bd345130-7f5b-11f1-be49-0bc90fc5b247%7E3&requestid=20260714171221803123615160&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7762543485&itemId=20936430689&vendorItemId=70852253517&traceid=V0-153-bee6f4acef5c3757&clickBeacon=bd345130-7f5b-11f1-be49-0bc90fc5b247%7E3&requestid=20260714171221803123615160&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7691,7 +7691,7 @@ module.exports = [
         consNote: '폰만·저렴하게면 1번, 휴대·여행이면 3번 접이식입니다. 2번은 <strong>"3in1 한 번에"</strong>의 실속 구간 — 여러 기기를 쓰는 분에게 가장 편합니다.',
         review: '"폰·워치·이어폰을 다 무선충전"이면 3in1이 정말 편합니다. 선도 정리되고요. 폰만이면 1번, 휴대용이면 3번을 보세요.',
         specs: ['제품: OFIYAA 3in1 무선 충전기 (갤럭시 워치 호환)', '구성: 폰+워치+이어폰 3in1', '용도: 여러 기기 동시 충전', '배송: 일반배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9568363517&itemId=28557525994&vendorItemId=95681673204&traceid=V0-153-7889ef748d91891c&requestid=20260714171221803123615160&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9568363517&itemId=28557525994&vendorItemId=95681673204&traceid=V0-153-7889ef748d91891c&requestid=20260714171221803123615160&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7710,7 +7710,7 @@ module.exports = [
         consNote: '폰만·저렴하게면 1번, 집에서 3in1이면 2번이 합리적입니다. 3번은 <strong>여행·휴대용 접이식 3in1</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"여행 갈 때 충전기 여러 개 챙기기 번거롭다"면 접이식 3in1이 딱입니다. 접어서 쏙 들어가요. 집에서·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: Mankiw 접이식 3in1 무선충전기 (아이폰·워치·에어팟)', '구성: 접이식 3in1 · 고속충전', '용도: 여행·휴대(어댑터 별도)', '배송: 로켓배송', '가격: 약 33,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9606479201&itemId=28678659938&vendorItemId=94995973251&traceid=V0-153-847035ff3189bb3d&clickBeacon=bd342a20-7f5b-11f1-860f-b94e2800716c%7E3&requestid=20260714171221803123615160&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9606479201&itemId=28678659938&vendorItemId=94995973251&traceid=V0-153-847035ff3189bb3d&clickBeacon=bd342a20-7f5b-11f1-860f-b94e2800716c%7E3&requestid=20260714171221803123615160&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -7802,7 +7802,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 키보드+마우스 팜레스트 세트면 2번, 부드러운 촉감·완성도면 3번으로 가세요. "저렴하게 하나"면 가성비 최고예요.',
         review: '"손목받침대 처음, 패드까지"면 8천원대로 충분합니다. 부드럽게 받쳐줘요. 세트·완성도면 2·3번을 보세요.',
         specs: ['제품: ikoikwan 메모리폼 손목받침+마우스패드', '소재: 메모리폼', '구성: 손목받침 + 마우스패드', '배송: 로켓배송', '가격: 약 7,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8827386488&itemId=980669887&vendorItemId=72799644667&traceid=V0-153-49f14c8276b22e10&requestid=20260714171222208309170322&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8827386488&itemId=980669887&vendorItemId=72799644667&traceid=V0-153-49f14c8276b22e10&requestid=20260714171222208309170322&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7821,7 +7821,7 @@ module.exports = [
         consNote: '저렴하게 하나면 1번, 부드러운 촉감·완성도면 3번 벨루어입니다. 2번은 <strong>"키보드+마우스 세트"</strong>의 실속 구간 — 양쪽 손목을 받치기에 무난합니다.',
         review: '"타이핑도 마우스도 손목이 뻐근하다"면 팜레스트 세트가 좋습니다. 양쪽을 받쳐줘요. 부드러운 촉감·완성도면 3번을 보세요.',
         specs: ['제품: 워키즈 메모리폼 팜레스트 세트', '구성: 키보드+마우스 손목받침', '소재: 메모리폼', '배송: 로켓배송', '가격: 약 17,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9339687786&itemId=27697255468&vendorItemId=94659004556&traceid=V0-153-74b592d1f990771e&clickBeacon=bd71f670-7f5b-11f1-88f9-a1b8509beff1%7E3&requestid=20260714171222208309170322&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9339687786&itemId=27697255468&vendorItemId=94659004556&traceid=V0-153-74b592d1f990771e&clickBeacon=bd71f670-7f5b-11f1-88f9-a1b8509beff1%7E3&requestid=20260714171222208309170322&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7840,7 +7840,7 @@ module.exports = [
         consNote: '저렴하게 하나면 1번, 실용 세트면 2번이 합리적입니다. 3번은 <strong>부드러운 촉감·완성도·감성</strong>을 원하는 분에게 어울립니다.',
         review: '"기왕이면 촉감 좋고 예쁘게"면 벨루어 컴포트가 만족스럽습니다. 부드럽고 마감도 좋아요. 실용·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 아라리오 벨루어 컴포트 손목받침 세트', '소재: 벨루어(부드러운 촉감)', '구성: 키보드+마우스', '배송: 로켓배송', '가격: 약 21,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9097193756&itemId=26741104586&vendorItemId=93712356379&traceid=V0-153-fcdf13f9ec3406ca&clickBeacon=bd71cf60-7f5b-11f1-9885-cbe36a2bd818%7E3&requestid=20260714171222208309170322&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9097193756&itemId=26741104586&vendorItemId=93712356379&traceid=V0-153-fcdf13f9ec3406ca&clickBeacon=bd71cf60-7f5b-11f1-9885-cbe36a2bd818%7E3&requestid=20260714171222208309170322&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -7932,7 +7932,7 @@ module.exports = [
         consNote: '이 제품은 <strong>원룸·입문용</strong>입니다. 국민 브랜드 무난함이면 2번, WiFi6·여러 기기면 3번으로 가세요. "원룸 저렴하게"면 가성비 최고예요.',
         review: '"원룸에서 인터넷만 되면"이면 1만원대 ipTIME으로 충분합니다. 안정적이에요. 넓은 집·WiFi6면 2·3번을 보세요.',
         specs: ['제품: ipTIME 유무선 공유기', '급: 가성비(원룸·소형)', '강점: 국민 브랜드 안정성', '배송: 로켓배송', '가격: 약 15,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=238442605&itemId=23846843503&vendorItemId=90870283328&traceid=V0-153-a5056e9f05f2ecca&requestid=20260714172613775287901173&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=238442605&itemId=23846843503&vendorItemId=90870283328&traceid=V0-153-a5056e9f05f2ecca&requestid=20260714172613775287901173&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7951,7 +7951,7 @@ module.exports = [
         consNote: '원룸·저렴하게면 1번, WiFi6·여러 기기·빠른 속도면 3번입니다. 2번은 <strong>"국민 브랜드 무난함"</strong>의 실속 구간 — 일반 가정에 가장 무난합니다.',
         review: '"국민 공유기로 무난하게"면 ipTIME White가 안정적입니다. 설정도 쉬워요. 빠른 WiFi6·많은 기기면 3번을 보세요.',
         specs: ['제품: ipTIME 유무선공유기 (White)', '급: 가정용(무난)', '강점: 국민 브랜드 · 설정 쉬움', '배송: 로켓배송', '가격: 약 34,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8976795636&itemId=26269634773&vendorItemId=93932650403&traceid=V0-153-67dd430ed75732b1&requestid=20260714172613775287901173&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8976795636&itemId=26269634773&vendorItemId=93932650403&traceid=V0-153-67dd430ed75732b1&requestid=20260714172613775287901173&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -7970,7 +7970,7 @@ module.exports = [
         consNote: '원룸·저렴하게면 1번, 국민 브랜드 무난함이면 2번이 합리적입니다. 3번은 <strong>WiFi6·여러 기기·빠른 속도</strong>가 필요한 분에게 값어치가 있습니다.',
         review: '"기기가 많고 인터넷이 느리다"면 WiFi6 공유기가 체감이 큽니다. 여러 대 물려도 안정적이에요. 원룸·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 티피링크 AX1500 WiFi6 공유기 (Archer AX1500)', '규격: WiFi6(AX) · 기가비트', '강점: 빠른 속도 · 여러 기기 안정', '배송: 로켓배송', '가격: 약 39,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8791684179&itemId=25589513991&vendorItemId=92580338876&traceid=V0-153-067691fac5722743&clickBeacon=ad195280-7f5d-11f1-90d0-24a3ca029c3b%7E3&requestid=20260714172613775287901173&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8791684179&itemId=25589513991&vendorItemId=92580338876&traceid=V0-153-067691fac5722743&clickBeacon=ad195280-7f5d-11f1-90d0-24a3ca029c3b%7E3&requestid=20260714172613775287901173&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -8062,7 +8062,7 @@ module.exports = [
         consNote: '이 제품은 <strong>저전력 USB 확장용</strong>입니다. 외장하드까지 안정적이면 2번 유전원, 노트북 HDMI·SD면 3번 C타입으로 가세요. "포트만 몇 개"면 가성비 최고예요.',
         review: '"마우스·키보드·USB 좀 더 꽂을 데"면 4포트로 충분합니다. 저렴해요. 외장하드·노트북 C타입이면 2·3번을 보세요.',
         specs: ['제품: 홈플래닛 USB 3.0 4포트 허브', '포트: USB 3.0 × 4', '용도: 저전력 USB 확장', '배송: 로켓배송', '가격: 약 9,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7170574913&itemId=18064020307&vendorItemId=85217690771&traceid=V0-153-12e64c3e992bf316&requestid=20260714172614321040793263&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7170574913&itemId=18064020307&vendorItemId=85217690771&traceid=V0-153-12e64c3e992bf316&requestid=20260714172614321040793263&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -8081,7 +8081,7 @@ module.exports = [
         consNote: 'USB만 몇 개면 1번, 노트북 C타입 HDMI·SD면 3번입니다. 2번은 <strong>"유전원+다포트"</strong>의 실속 구간 — 외장하드·여러 기기에 안정적입니다.',
         review: '"외장하드가 자꾸 튕긴다" "기기가 많다"면 유전원 8포트가 안정적입니다. 전력 걱정이 없어요. 노트북 C타입이면 3번을 보세요.',
         specs: ['제품: 넥스트유 유전원 USB3.2 8포트 허브 (NEXT-UH358)', '포트: USB3.2 × 8 · 유전원', '용도: 외장하드·다연결', '배송: 로켓배송', '가격: 약 29,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7516370732&itemId=19705010755&vendorItemId=86809622852&traceid=V0-153-64880c76a66c4dda&requestid=20260714172614321040793263&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7516370732&itemId=19705010755&vendorItemId=86809622852&traceid=V0-153-64880c76a66c4dda&requestid=20260714172614321040793263&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -8100,7 +8100,7 @@ module.exports = [
         consNote: 'USB만 몇 개면 1번, 외장하드 유전원이면 2번이 합리적입니다. 3번은 <strong>C타입 노트북에서 HDMI·SD·충전까지</strong> 필요한 분에게 값어치가 있습니다.',
         review: '"맥북처럼 C타입만 있어 HDMI·SD가 필요"하면 7in1 멀티허브가 필수템입니다. 하나로 다 돼요. USB만·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: ACMEZING 7in1 C타입 멀티허브 (HC-7)', '포트: USB3.0·4K HDMI·SD·PD100W 등 7in1', '용도: C타입 노트북 확장', '배송: 로켓배송', '가격: 약 45,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9438262201&itemId=28069621259&vendorItemId=95026232049&traceid=V0-153-9aaaa3a07afec2b2&clickBeacon=ad6c5480-7f5d-11f1-b936-fedcc190c09f%7E3&requestid=20260714172614321040793263&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9438262201&itemId=28069621259&vendorItemId=95026232049&traceid=V0-153-9aaaa3a07afec2b2&clickBeacon=ad6c5480-7f5d-11f1-b936-fedcc190c09f%7E3&requestid=20260714172614321040793263&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -8192,7 +8192,7 @@ module.exports = [
         consNote: '이 제품은 <strong>자취·가성비용</strong>입니다. 가족·큰 그릇이면 2번 23L, 인테리어 디자인이면 3번 오브제로 가세요. "자취 데우기"면 가성비 최고예요.',
         review: '"자취방에서 데우기·간단 조리"면 18L 다이얼로 충분합니다. 조작도 간단해요. 가족·큰 그릇·디자인이면 2·3번을 보세요.',
         specs: ['제품: 홈플래닛 베이직 전자레인지 18L', '용량: 18L · 다이얼식', '용도: 자취·1~2인', '배송: 로켓배송', '가격: 약 51,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7660428989&itemId=20407125459&vendorItemId=87489288057&traceid=V0-153-97f7c29ff733d481&requestid=20260714172614780032779631&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7660428989&itemId=20407125459&vendorItemId=87489288057&traceid=V0-153-97f7c29ff733d481&requestid=20260714172614780032779631&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -8211,7 +8211,7 @@ module.exports = [
         consNote: '자취·1~2인이면 1번 18L, 인테리어 디자인이면 3번 오브제입니다. 2번은 <strong>"가족 대용량"</strong>의 실속 구간 — 큰 그릇·많은 양에 무난합니다.',
         review: '"가족이라 큰 그릇이 들어가야"면 23L가 넉넉합니다. 브랜드도 안심이고요. 자취면 1번, 디자인이면 3번을 보세요.',
         specs: ['제품: 쿠쿠 전자레인지 23L', '용량: 23L · 다이얼식', '용도: 가족·대용량', '배송: 로켓배송', '가격: 약 77,190원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6382671329&itemId=6860864606&vendorItemId=76172083155&traceid=V0-153-591782b1a97ddb9a&requestid=20260714172614780032779631&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6382671329&itemId=6860864606&vendorItemId=76172083155&traceid=V0-153-591782b1a97ddb9a&requestid=20260714172614780032779631&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -8230,7 +8230,7 @@ module.exports = [
         consNote: '자취·가성비면 1번, 가족 대용량이면 2번이 합리적입니다. 3번은 <strong>주방 인테리어·브랜드·터치 조작</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"주방에 두는 만큼 디자인도 중요"면 LG 오브제가 만족스럽습니다. 예쁘고 터치라 깔끔해요. 성능·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: LG 디오스 오브제 전자레인지 20L', '용량: 20L · 판넬 터치식', '강점: 오브제 디자인 · 브랜드', '배송: 로켓배송', '가격: 약 150,580원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8266941078&itemId=17594509193&vendorItemId=84760891612&traceid=V0-153-93a515399b1d1bcb&requestid=20260714172614780032779631&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8266941078&itemId=17594509193&vendorItemId=84760891612&traceid=V0-153-93a515399b1d1bcb&requestid=20260714172614780032779631&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -8322,7 +8322,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가정·가성비용</strong>입니다. 풀스테인리스 포터블이면 2번, 대용량 업소급이면 3번으로 가세요. "가정 급속"이면 가성비 최고예요.',
         review: '"여름에 집에서 얼음 자주"면 8만원대 슬림 급속으로 충분합니다. 자리도 적게 차지해요. 대용량·업소급이면 2·3번을 보세요.',
         specs: ['제품: 대웅 슬림형 급속 제빙기 (12kg)', '용량: 하루 제빙 12kg급 · 슬림형', '내부: SUS304 스텐', '배송: 로켓배송', '가격: 약 85,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9572503495&itemId=28572051891&vendorItemId=95516392166&traceid=V0-153-9c4ddc4017a6a45f&requestid=20260714172615206194112888&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9572503495&itemId=28572051891&vendorItemId=95516392166&traceid=V0-153-9c4ddc4017a6a45f&requestid=20260714172615206194112888&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -8341,7 +8341,7 @@ module.exports = [
         consNote: '가성비 슬림이면 1번, 대용량 업소급이면 3번입니다. 2번은 <strong>"풀스테인리스 위생+포터블"</strong>의 실속 구간 — 위생·이동을 챙기는 분에게 무난합니다.',
         review: '"위생 때문에 풀스테인리스, 캠핑도"면 쿠쿠 포터블이 무난합니다. 위생·이동이 좋아요. 가성비·대용량이면 1·3번을 보세요.',
         specs: ['제품: 쿠쿠 풀스테인리스 포터블 제빙기', '소재: 풀스테인리스 · 포터블', '강점: 위생 · 브랜드', '배송: 로켓배송', '가격: 약 210,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7478564384&itemId=19529512779&vendorItemId=86752712979&traceid=V0-153-09b27d5dff319026&requestid=20260714172615206194112888&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7478564384&itemId=19529512779&vendorItemId=86752712979&traceid=V0-153-09b27d5dff319026&requestid=20260714172615206194112888&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -8360,7 +8360,7 @@ module.exports = [
         consNote: '가정 급속이면 1번, 위생 포터블이면 2번이 합리적입니다. 3번은 <strong>업소·대용량 얼음</strong>이 필요할 때 값어치가 있습니다.',
         review: '"카페·업소라 얼음이 많이 필요"하면 22kg 대용량이 여유롭습니다. 올스텐이라 위생도 좋아요. 가정·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 르젠 올스텐 제빙기 22kg (LP-IM100)', '용량: 하루 22kg 대용량', '소재: 올스텐 · 이지클린', '배송: 로켓배송', '가격: 약 438,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8299769916&itemId=23942185234&vendorItemId=94924835221&traceid=V0-153-43d11b91026cf8df&clickBeacon=adf29b80-7f5d-11f1-a0a2-b548e2a016f8%7E3&requestid=20260714172615206194112888&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8299769916&itemId=23942185234&vendorItemId=94924835221&traceid=V0-153-43d11b91026cf8df&clickBeacon=adf29b80-7f5d-11f1-a0a2-b548e2a016f8%7E3&requestid=20260714172615206194112888&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -8452,7 +8452,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·짐 운반용</strong>입니다. 짐 많고 특대형이면 2번, 의자 겸용이면 3번 벤치형으로 가세요. "가볍게 운반"이면 가성비 최고예요.',
         review: '"짐 나르기가 힘든데 저렴하게"면 접이식 웨건으로 충분합니다. 접어서 수납도 되고요. 많은 짐·의자 겸용이면 2·3번을 보세요.',
         specs: ['제품: DXZ 다기능 접이식 캠핑웨건', '형태: 접이식', '용도: 짐 운반(캠핑·나들이)', '배송: 로켓배송', '가격: 약 23,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8732450488&itemId=25375113429&vendorItemId=92369975930&traceid=V0-153-737d2acc00c6c3ae&requestid=20260714172615590136484599&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8732450488&itemId=25375113429&vendorItemId=92369975930&traceid=V0-153-737d2acc00c6c3ae&requestid=20260714172615590136484599&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -8471,7 +8471,7 @@ module.exports = [
         consNote: '가볍게 운반이면 1번, 의자 겸용이면 3번 벤치형입니다. 2번은 <strong>"특대형+튼튼한 하중"</strong>의 실속 구간 — 짐 많은 캠핑에 무난합니다.',
         review: '"가족 캠핑이라 짐이 산더미"면 특대형 확장 웨건이 든든합니다. 한 번에 많이 실어요. 가볍게·의자 겸용이면 1·3번을 보세요.',
         specs: ['제품: COUCAMP 특대형 확장 캠핑 웨건', '형태: 특대형 확장 · 접이식', '용도: 많은 짐 운반', '배송: 로켓배송', '가격: 약 60,910원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9328644597&itemId=27655359135&vendorItemId=94617776984&traceid=V0-153-303096a8e8712ba4&requestid=20260714172615590136484599&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9328644597&itemId=27655359135&vendorItemId=94617776984&traceid=V0-153-303096a8e8712ba4&requestid=20260714172615590136484599&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -8490,7 +8490,7 @@ module.exports = [
         consNote: '가볍게 운반이면 1번, 짐 많은 특대형이면 2번이 합리적입니다. 3번은 <strong>웨건+의자 겸용</strong>으로 짐을 간소화하려는 분에게 값어치가 있습니다.',
         review: '"의자까지 챙기기 번거로운데 웨건이 의자도 되면"이면 벤치형이 알찹니다. 짐이 간소해져요. 순수 적재·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 어반콘크리트 벤치형 캠핑 웨건', '형태: 웨건+벤치(의자) 겸용 · 접이식', '용도: 짐 운반+앉기', '배송: 로켓배송', '가격: 약 159,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8497254633&itemId=24593938161&vendorItemId=91749015222&traceid=V0-153-011e740eedff1c16&clickBeacon=ae2d81a0-7f5d-11f1-a042-9b5dead65da6%7E3&requestid=20260714172615590136484599&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8497254633&itemId=24593938161&vendorItemId=91749015222&traceid=V0-153-011e740eedff1c16&clickBeacon=ae2d81a0-7f5d-11f1-a042-9b5dead65da6%7E3&requestid=20260714172615590136484599&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -8582,7 +8582,7 @@ module.exports = [
         consNote: '이 제품은 <strong>미니·입문용</strong>입니다. 미생물 분해면 2번, 대용량 가족이면 3번으로 가세요. "미니로 시작"이면 부담 없어요.',
         review: '"자취라 음식물이 적은데 냄새는 싫다"면 미니 건조분쇄가 딱입니다. 부피가 확 줄어요. 가족·많은 양이면 2·3번을 보세요.',
         specs: ['제품: 리쿡 큐브 음식물처리기 (2.5L)', '방식: 건조·분쇄 · 미니', '용도: 자취·소형 주방', '배송: 로켓배송', '가격: 약 229,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8593565800&itemId=24916908243&vendorItemId=95257379803&traceid=V0-153-9e056ff658cb5174&requestid=20260714172616618214617678&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8593565800&itemId=24916908243&vendorItemId=95257379803&traceid=V0-153-9e056ff658cb5174&requestid=20260714172616618214617678&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -8601,7 +8601,7 @@ module.exports = [
         consNote: '미니로 시작이면 1번, 대용량 가족이면 3번입니다. 2번은 <strong>"건조분쇄 냄새·부피 감소"</strong>의 실속 구간 — 대부분 가정에 무난합니다.',
         review: '"음식물 냄새·물기가 정말 싫다"면 건조분쇄 인기 모델이 만족스럽습니다. 부피·냄새가 확 줄어요. 미니·대용량이면 1·3번을 보세요.',
         specs: ['제품: 미닉스 더 플렌더 PRO 음식물처리기', '방식: 건조·분쇄', '강점: 냄새·부피 감소', '배송: 로켓배송', '가격: 약 382,110원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8658187977&itemId=25128899200&vendorItemId=92128065542&traceid=V0-153-434d0f6e7fbb5df5&requestid=20260714172616618214617678&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8658187977&itemId=25128899200&vendorItemId=92128065542&traceid=V0-153-434d0f6e7fbb5df5&requestid=20260714172616618214617678&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -8620,7 +8620,7 @@ module.exports = [
         consNote: '미니로 시작이면 1번, 건조분쇄 인기 모델이면 2번이 합리적입니다. 3번은 <strong>대용량·가족 음식물 많은</strong> 집에 값어치가 있습니다.',
         review: '"가족이라 음식물이 많이 나온다"면 대용량이 편합니다. 자주 안 비워도 돼요. 자취·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 푸드사이클러 ECO5 대용량 음식물처리기', '방식: 분쇄·감량 · 대용량', '용도: 가족·많은 음식물', '배송: 로켓배송', '가격: 약 629,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8538451222&itemId=24718910604&vendorItemId=92625840951&traceid=V0-153-d0e3feba3fe7cb62&clickBeacon=aec9c1a0-7f5d-11f1-84ad-f69601716857%7E3&requestid=20260714172616618214617678&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8538451222&itemId=24718910604&vendorItemId=92625840951&traceid=V0-153-d0e3feba3fe7cb62&clickBeacon=aec9c1a0-7f5d-11f1-84ad-f69601716857%7E3&requestid=20260714172616618214617678&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -8712,7 +8712,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 조용하게면 2번 BLDC, 음이온·완성도면 3번 하이엔드로 가세요. "저렴하게 고출력"이면 가성비 최고예요.',
         review: '"드라이어 저렴하게, 빨리 말리기만"이면 2000W로 충분합니다. 가볍고요. 조용함·음이온이면 2·3번을 보세요.',
         specs: ['제품: 켄바르 헤어드라이어 2000W', '출력: 2000W · 초경량', '용도: 빠른 건조', '배송: 로켓배송', '가격: 약 16,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9619659963&itemId=28725197122&vendorItemId=95665520013&traceid=V0-153-616baf8b511d2bd5&requestid=20260714172617019241849213&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9619659963&itemId=28725197122&vendorItemId=95665520013&traceid=V0-153-616baf8b511d2bd5&requestid=20260714172617019241849213&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -8731,7 +8731,7 @@ module.exports = [
         consNote: '저렴하게 고출력이면 1번, 음이온·완성도면 3번 하이엔드입니다. 2번은 <strong>"BLDC 저소음+빠른 건조"</strong>의 실속 구간 — 다이슨 대안으로 무난합니다.',
         review: '"빨리 말리는데 소리가 조용했으면"이면 BLDC 항공모터가 만족스럽습니다. 강풍인데 덜 시끄러워요. 음이온·완성도면 3번을 보세요.',
         specs: ['제품: BLDC 항공모터 헤어드라이어', '모터: BLDC 항공모터(저소음)', '강점: 초고출력 · 저소음 · 순환', '배송: 로켓배송', '가격: 약 69,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9591331764&itemId=28631536827&vendorItemId=95591663153&traceid=V0-153-203fd672b31ee44d&clickBeacon=af0fcb50-7f5d-11f1-b3bb-05b77876cb40%7E3&requestid=20260714172617019241849213&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9591331764&itemId=28631536827&vendorItemId=95591663153&traceid=V0-153-203fd672b31ee44d&clickBeacon=af0fcb50-7f5d-11f1-b3bb-05b77876cb40%7E3&requestid=20260714172617019241849213&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -8750,7 +8750,7 @@ module.exports = [
         consNote: '저렴하게 고출력이면 1번, BLDC 저소음 실속이면 2번이 합리적입니다. 3번은 <strong>음이온 모발 케어+완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"머릿결 정전기·푸석함까지 챙기고 싶다"면 음이온 하이엔드가 만족스럽습니다. 빠르고 조용하고 케어까지요. 가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 음이온 BLDC 하이엔드 헤어드라이어', '기능: 음이온 · BLDC 초고출력 · 순환', '강점: 모발 케어 · 완성도', '배송: 로켓배송', '가격: 약 119,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8610610349&itemId=24974129530&vendorItemId=92010928744&traceid=V0-153-49f720ead8f39fe1&clickBeacon=af0fcb50-7f5d-11f1-a463-9b83244de544%7E3&requestid=20260714172617019241849213&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8610610349&itemId=24974129530&vendorItemId=92010928744&traceid=V0-153-49f720ead8f39fe1&clickBeacon=af0fcb50-7f5d-11f1-a463-9b83244de544%7E3&requestid=20260714172617019241849213&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -8842,7 +8842,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·비상식용</strong>입니다. 국산 우리쌀이면 2번, 잡곡으로 건강하게면 3번으로 가세요. "저렴하게 흰밥"이면 가성비 최고예요.',
         review: '"저렴하게 즉석밥 쟁여두기"면 가성비 흰밥이 무난합니다. 2분이면 밥이 돼요. 국산 쌀·잡곡을 원하면 2·3번을 보세요.',
         specs: ['제품: 오뚜기 흰밥', '종류: 흰밥(가성비)', '용도: 비상식·자취', '배송: 로켓배송', '가격: 약 11,560원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9052582961&itemId=24263208524&vendorItemId=80641989278&traceid=V0-153-2ebe9079b13a94d7&requestid=20260714172617677266619045&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9052582961&itemId=24263208524&vendorItemId=80641989278&traceid=V0-153-2ebe9079b13a94d7&requestid=20260714172617677266619045&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -8861,7 +8861,7 @@ module.exports = [
         consNote: '저렴하게 흰밥이면 1번, 잡곡으로 건강하게면 3번입니다. 2번은 <strong>"국산 쌀+무난한 밥맛"</strong>의 실속 구간 — 매일 먹기에 무난합니다.',
         review: '"이왕이면 국산 쌀로 무난하게"면 곰곰 우리쌀밥이 좋습니다. 매일 먹기 좋아요. 저렴하게·잡곡이면 1·3번을 보세요.',
         specs: ['제품: 곰곰 소중한 우리쌀밥', '종류: 국산 우리쌀 흰밥', '용도: 매일·대용량', '배송: 로켓배송', '가격: 약 29,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1258945808&itemId=14500557940&vendorItemId=81743595278&traceid=V0-153-99f87c1562eae252&requestid=20260714172617677266619045&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1258945808&itemId=14500557940&vendorItemId=81743595278&traceid=V0-153-99f87c1562eae252&requestid=20260714172617677266619045&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -8880,7 +8880,7 @@ module.exports = [
         consNote: '저렴하게 흰밥이면 1번, 국산 우리쌀 흰밥이면 2번이 합리적입니다. 3번은 <strong>잡곡으로 건강·식감</strong>을 챙기려는 분에게 어울립니다.',
         review: '"흰밥만 먹기는 좀 그렇고 잡곡을 간편하게"면 흑미잡곡밥이 딱입니다. 찰지고 든든해요. 저렴하게·흰밥이면 1·2번이 합리적입니다.',
         specs: ['제품: 오뚜기 식감만족 찰진 흑미잡곡밥', '종류: 흑미·잡곡밥', '용도: 잡곡·건강', '배송: 로켓배송', '가격: 약 33,570원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6958932916&itemId=25631218147&vendorItemId=92621356927&traceid=V0-153-b84b23d644b101dc&requestid=20260714172617677266619045&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6958932916&itemId=25631218147&vendorItemId=92621356927&traceid=V0-153-b84b23d644b101dc&requestid=20260714172617677266619045&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -8970,7 +8970,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 무소음+여러 기기면 2번, 게이밍이면 3번으로 가세요. "저렴하게 하나"면 가성비 최고예요.',
         review: '"마우스 하나 저렴하게"면 1만원 가성비로 충분합니다. 사무용엔 무난해요. 무소음·게이밍이면 2·3번을 보세요.',
         specs: ['제품: PANWEST 무선 마우스 (PW815)', '급: 가성비(사무·기본)', '연결: 무선', '배송: 로켓배송', '가격: 약 10,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=2352716938&itemId=4081597101&vendorItemId=82815202941&traceid=V0-153-afc38779e2919526&clickBeacon=7786ce20-7f5f-11f1-828f-934f3281e1d3%7E3&requestid=20260714173902892214610355&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=2352716938&itemId=4081597101&vendorItemId=82815202941&traceid=V0-153-afc38779e2919526&clickBeacon=7786ce20-7f5f-11f1-828f-934f3281e1d3%7E3&requestid=20260714173902892214610355&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -8989,7 +8989,7 @@ module.exports = [
         consNote: '저렴하게 하나면 1번, 게이밍이면 3번입니다. 2번은 <strong>"무소음+멀티연결"</strong>의 실속 구간 — 사무·여러 기기에 가장 무난합니다.',
         review: '"클릭음이 조용하고 노트북·PC를 오간다"면 무소음 멀티연결이 편합니다. 버튼으로 기기 전환도 되고요. 게이밍이면 3번을 보세요.',
         specs: ['제품: Inphic 무소음 멀티연결 마우스 (A1)', '기능: 무소음 · 3연결 모드 · 충전식 · 6버튼', '용도: 사무·여러 기기', '배송: 로켓배송', '가격: 약 25,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9305669785&itemId=27569808847&vendorItemId=94533690263&traceid=V0-153-4033058cb0739082&clickBeacon=7786ce20-7f5f-11f1-ae1f-e757c865fe38%7E3&requestid=20260714173902892214610355&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9305669785&itemId=27569808847&vendorItemId=94533690263&traceid=V0-153-4033058cb0739082&clickBeacon=7786ce20-7f5f-11f1-ae1f-e757c865fe38%7E3&requestid=20260714173902892214610355&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -9008,7 +9008,7 @@ module.exports = [
         consNote: '저렴하게 하나면 1번, 무소음·멀티연결이면 2번이 합리적입니다. 3번은 <strong>게임 반응속도·초경량</strong>이 목적일 때 값어치가 있습니다.',
         review: '"게임할 때 반응이 빠르고 가벼운 마우스"면 초경량 게이밍이 만족스럽습니다. 정확도·반응이 좋아요. 사무·무소음이면 1·2번이 합리적입니다.',
         specs: ['제품: FURYCUBE G11 초경량 게이밍 마우스', '센서: PAW3311 · 6단 DPI · 3모드 · RGB', '용도: 게이밍·반응속도', '배송: 로켓배송', '가격: 약 33,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9233186930&itemId=27294999090&vendorItemId=94261578245&traceid=V0-153-79a0c2615cc6d17b&clickBeacon=7786ce20-7f5f-11f1-8202-f5ee1ee5249b%7E3&requestid=20260714173902892214610355&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9233186930&itemId=27294999090&vendorItemId=94261578245&traceid=V0-153-79a0c2615cc6d17b&clickBeacon=7786ce20-7f5f-11f1-8202-f5ee1ee5249b%7E3&requestid=20260714173902892214610355&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -9100,7 +9100,7 @@ module.exports = [
         consNote: '이 제품은 <strong>태블릿·서브용</strong>입니다. 저소음 사무면 2번, 완성도·멀티페어링이면 3번 로지텍으로 가세요. "태블릿용 저렴하게"면 가성비 최고예요.',
         review: '"태블릿에 연결해 문서 좀 쓰는" 서브용이면 1만원대로 충분합니다. 가벼워요. 저소음·완성도면 2·3번을 보세요.',
         specs: ['제품: 코시 베이직 블루투스 키보드', '급: 가성비(태블릿·서브)', '연결: 블루투스', '배송: 로켓배송', '가격: 약 17,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1426742&itemId=6198698&vendorItemId=3008010221&traceid=V0-153-a11260302bf6576f&requestid=20260714173903349010063321&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1426742&itemId=6198698&vendorItemId=3008010221&traceid=V0-153-a11260302bf6576f&requestid=20260714173903349010063321&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -9119,7 +9119,7 @@ module.exports = [
         consNote: '태블릿·서브면 1번, 완성도·멀티페어링이면 3번 로지텍입니다. 2번은 <strong>"저소음 사무"</strong>의 실속 구간 — 조용한 타이핑에 무난합니다.',
         review: '"사무실에서 조용히 타이핑"이면 저소음 멤브레인이 무난합니다. 타건음이 조용해요. 완성도·멀티페어링이면 3번을 보세요.',
         specs: ['제품: 앱코 무선 저소음 블루투스 멤브레인 키보드', '방식: 저소음 멤브레인 · 무선', '용도: 사무·타이핑', '배송: 로켓배송', '가격: 약 29,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8487506171&itemId=24596804279&vendorItemId=91608363910&traceid=V0-153-3f1bd206df9d3dda&requestid=20260714173903349010063321&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8487506171&itemId=24596804279&vendorItemId=91608363910&traceid=V0-153-3f1bd206df9d3dda&requestid=20260714173903349010063321&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -9138,7 +9138,7 @@ module.exports = [
         consNote: '태블릿·서브면 1번, 저소음 사무면 2번이 합리적입니다. 3번은 <strong>브랜드 완성도·멀티페어링·컴팩트</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"이왕이면 로지텍 완성도로, 여러 기기 전환하며"면 만족스럽습니다. 타건감·내구가 좋아요. 태블릿·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 로지텍 무선 텐키리스 키보드', '배열: 텐키리스(컴팩트)', '강점: 브랜드 완성도 · 멀티페어링', '배송: 로켓배송', '가격: 약 36,390원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7687816904&itemId=20550302052&vendorItemId=87626480811&traceid=V0-153-8138b7311490d870&requestid=20260714173903349010063321&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7687816904&itemId=20550302052&vendorItemId=87626480811&traceid=V0-153-8138b7311490d870&requestid=20260714173903349010063321&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -9230,7 +9230,7 @@ module.exports = [
         consNote: '이 제품은 <strong>감귤류·수동용</strong>입니다. 당근·사과 자동이면 2번 원액기, 자주·대용량이면 3번으로 가세요. "레몬·오렌지 가끔"이면 가성비 최고예요.',
         review: '"레몬청·오렌지주스 가끔"이면 수동 스퀴저로 충분합니다. 세척도 간단해요. 당근·야채·대량이면 2·3번을 보세요.',
         specs: ['제품: 투데이리빙 수동 스텐 착즙기(스퀴저)', '방식: 수동(눌러 짜기)', '용도: 레몬·오렌지 등 감귤류', '배송: 로켓배송', '가격: 약 12,810원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8514782009&itemId=24649563823&vendorItemId=91660196679&traceid=V0-153-654b1a39fb36edda&requestid=20260714173904033327069392&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8514782009&itemId=24649563823&vendorItemId=91660196679&traceid=V0-153-654b1a39fb36edda&requestid=20260714173904033327069392&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -9249,7 +9249,7 @@ module.exports = [
         consNote: '감귤류·수동이면 1번, 자주·대용량이면 3번입니다. 2번은 <strong>"자동 원액기"</strong>의 실속 구간 — 당근·사과 녹즙에 무난합니다.',
         review: '"당근·사과 녹즙을 자주, 편하게"면 자동 원액기가 좋습니다. 즙도 많이 나오고요. 세척 편의·대용량이면 세척 쉬운 제품·3번을 보세요.',
         specs: ['제품: BLENDO 자동 착즙 원액기', '방식: 자동 압착(원액기)', '용도: 당근·사과·야채 녹즙', '배송: 로켓배송', '가격: 약 77,440원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9004013053&itemId=26386500550&vendorItemId=94342340477&traceid=V0-153-f83c5500d673434b&requestid=20260714173904033327069392&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9004013053&itemId=26386500550&vendorItemId=94342340477&traceid=V0-153-f83c5500d673434b&requestid=20260714173904033327069392&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -9268,7 +9268,7 @@ module.exports = [
         consNote: '감귤류·수동이면 1번, 가정용 자동이면 2번이 합리적입니다. 3번은 <strong>자주·대용량으로 많이</strong> 만드는 분에게 값어치가 있습니다.',
         review: '"가족이 매일 건강주스, 많이"면 대용량 원액기가 편합니다. 한 번에 많이 짜요. 가끔·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: coomin 대용량 자동 착즙 원액기', '방식: 자동 압착 · 대용량', '용도: 자주·많은 양 녹즙', '배송: 로켓배송', '가격: 약 126,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9037448403&itemId=26513976191&vendorItemId=94311596357&traceid=V0-153-d389a78721299f3c&requestid=20260714173904033327069392&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9037448403&itemId=26513976191&vendorItemId=94311596357&traceid=V0-153-d389a78721299f3c&requestid=20260714173904033327069392&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -9360,7 +9360,7 @@ module.exports = [
         consNote: '이 제품은 <strong>자취·미니용</strong>입니다. 위생 풀스텐·여러 개면 2번, 만두·옥수수 다용도면 3번으로 가세요. "자취 소량"이면 가성비 최고예요.',
         review: '"삶은계란 자주 먹는데 냄비는 귀찮다"면 미니 에그쿠커가 편합니다. 스위치만 누르면 돼요. 위생·여러 개·다용도면 2·3번을 보세요.',
         specs: ['제품: 에버튼하우스 에그쿠커 (DIHY-ES38)', '급: 미니(자취·소량)', '용도: 삶은계란', '배송: 로켓배송', '가격: 약 8,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=283693738&itemId=18656743421&vendorItemId=70683242414&traceid=V0-153-c77feddeeb9a1c86&clickBeacon=78748980-7f5f-11f1-a202-ad8180f0406c%7E3&requestid=20260714173904451043376520&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=283693738&itemId=18656743421&vendorItemId=70683242414&traceid=V0-153-c77feddeeb9a1c86&clickBeacon=78748980-7f5f-11f1-a202-ad8180f0406c%7E3&requestid=20260714173904451043376520&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -9379,7 +9379,7 @@ module.exports = [
         consNote: '자취·소량이면 1번, 만두·옥수수 다용도면 3번입니다. 2번은 <strong>"풀스텐 위생+2단"</strong>의 실속 구간 — 위생·여러 개에 무난합니다.',
         review: '"플라스틱이 찜찜하고 여러 개 삶고 싶다"면 풀스텐 2단이 좋습니다. 위생·용량이 좋아요. 만두·옥수수 다용도면 3번을 보세요.',
         specs: ['제품: 키친아트 풀스텐 2단 계란찜기', '재질: 풀스테인리스 · 2단', '용도: 위생·여러 개', '배송: 로켓배송', '가격: 약 25,420원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8933624675&itemId=26117595789&vendorItemId=93565366693&traceid=V0-153-874e5489cb27501a&requestid=20260714173904451043376520&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8933624675&itemId=26117595789&vendorItemId=93565366693&traceid=V0-153-874e5489cb27501a&requestid=20260714173904451043376520&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -9398,7 +9398,7 @@ module.exports = [
         consNote: '자취·소량이면 1번, 위생 풀스텐 2단이면 2번이 합리적입니다. 3번은 <strong>만두·옥수수까지 다용도·대용량</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"계란만이 아니라 만두·옥수수도 쪄먹는다"면 7구 다용도가 알찹니다. 한 번에 많이 쪄요. 자취·소량이면 1·2번이 합리적입니다.',
         specs: ['제품: Bear 올스텐 다용도 7구 계란찜기', '용량: 7구 · 올스텐', '용도: 계란·만두·옥수수 등 다용도', '배송: 로켓배송', '가격: 약 33,100원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7045799503&itemId=17436281604&vendorItemId=84613345940&traceid=V0-153-81ef61904ed58d5e&requestid=20260714173904451043376520&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7045799503&itemId=17436281604&vendorItemId=84613345940&traceid=V0-153-81ef61904ed58d5e&requestid=20260714173904451043376520&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -9489,7 +9489,7 @@ module.exports = [
         consNote: '이 제품은 <strong>오토캠핑·안정형</strong>입니다. 백패킹·초경량이면 2번 미니, 서브·감성이면 3번으로 가세요. "안정적 요리"면 가성비 최고예요.',
         review: '"냄비 올려 안정적으로 요리"면 코베아가 무난합니다. 브랜드라 안심이고요. 백패킹으로 가볍게면 2번을 보세요.',
         specs: ['제품: 코베아 K1 가스 버너 (KB-0408)', '형태: 안정형(오토캠핑)', '강점: 안정성 · 브랜드', '배송: 로켓배송', '가격: 약 23,100원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=351143&itemId=862163&vendorItemId=3000727016&traceid=V0-153-17585bbef595c576&requestid=20260714173904927297884135&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=351143&itemId=862163&vendorItemId=3000727016&traceid=V0-153-17585bbef595c576&requestid=20260714173904927297884135&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -9508,7 +9508,7 @@ module.exports = [
         consNote: '오토캠핑·안정적 요리면 1번, 서브·감성이면 3번입니다. 2번은 <strong>"초경량 휴대"</strong>의 실속 구간 — 백패킹·간편 조리에 무난합니다.',
         review: '"백패킹이라 가벼워야, 라면·커피만"이면 미니 스토브가 딱입니다. 가방에 쏙 들어가요. 큰 냄비·안정적 요리면 1번을 보세요.',
         specs: ['제품: 투킷 멜로우 미니 스토브 (TKSCL01-P1)', '형태: 초경량 미니', '용도: 백패킹·간편 조리', '배송: 로켓배송', '가격: 약 42,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9425837978&itemId=28018954266&vendorItemId=94984685481&traceid=V0-153-2d1ded39dab2eb13&clickBeacon=78bcdd20-7f5f-11f1-9fd2-1e8a591fd3c2%7E3&requestid=20260714173904927297884135&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9425837978&itemId=28018954266&vendorItemId=94984685481&traceid=V0-153-2d1ded39dab2eb13&clickBeacon=78bcdd20-7f5f-11f1-9fd2-1e8a591fd3c2%7E3&requestid=20260714173904927297884135&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -9527,7 +9527,7 @@ module.exports = [
         consNote: '오토캠핑 메인이면 1번, 백패킹 초경량이면 2번이 합리적입니다. 3번은 <strong>보조(서브) 버너·감성</strong>을 원하는 분에게 어울립니다.',
         review: '"메인은 있고 커피용 세컨 버너, 예쁜 걸로"면 서브스토브가 좋습니다. 감성·완성도가 있어요. 메인·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 제라 서브스토브 탄 버너 (JB-103)', '형태: 서브(보조) 버너', '강점: 감성 디자인 · 완성도', '배송: 로켓배송', '가격: 약 55,480원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6586175881&itemId=15857835005&vendorItemId=91590755726&traceid=V0-153-f20449754ac9229d&requestid=20260714173904927297884135&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6586175881&itemId=15857835005&vendorItemId=91590755726&traceid=V0-153-f20449754ac9229d&requestid=20260714173904927297884135&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -9619,7 +9619,7 @@ module.exports = [
         consNote: '이 제품은 <strong>스트레이트·가성비용</strong>입니다. 세라믹 매끄러움이면 2번, 뿌리 볼륨이면 3번으로 가세요. "저렴하게 펴기"면 가성비 최고예요.',
         review: '"머리 펴는 용도로 저렴하게"면 매직기로 충분합니다. 무난해요. 세라믹 매끄러움·볼륨이면 2·3번을 보세요.',
         specs: ['제품: 유닉스 매직기', '용도: 스트레이트(펴기)', '급: 가성비', '배송: 일반배송', '가격: 약 13,760원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=218457625&itemId=676391970&vendorItemId=94417116035&traceid=V0-153-99a98ca1acb27f0c&requestid=20260714173905542045279966&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=218457625&itemId=676391970&vendorItemId=94417116035&traceid=V0-153-99a98ca1acb27f0c&requestid=20260714173905542045279966&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -9638,7 +9638,7 @@ module.exports = [
         consNote: '저렴하게 스트레이트면 1번, 뿌리 볼륨이면 3번입니다. 2번은 <strong>"세라믹 매끄러움"</strong>의 실속 구간 — 스트레이트에 가장 무난합니다.',
         review: '"매직기가 머리를 당겨 손상된다"면 세라믹 판고데기가 매끄럽습니다. 덜 당겨져요. 뿌리 볼륨이 목적이면 3번을 보세요.',
         specs: ['제품: 유닉스 세라믹 판고데기', '판: 세라믹(매끄러움)', '용도: 스트레이트·기본 컬', '배송: 로켓배송', '가격: 약 24,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8729115745&itemId=25361584612&vendorItemId=3089081003&traceid=V0-153-c054456fc302c5b1&requestid=20260714173905542045279966&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8729115745&itemId=25361584612&vendorItemId=3089081003&traceid=V0-153-c054456fc302c5b1&requestid=20260714173905542045279966&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -9657,7 +9657,7 @@ module.exports = [
         consNote: '저렴하게 스트레이트면 1번, 세라믹 매끄러움이면 2번이 합리적입니다. 3번은 <strong>뿌리·앞머리 볼륨</strong>이 목적일 때 값어치가 있습니다.',
         review: '"머리가 가라앉아 볼륨이 필요"하면 볼륨 고데기가 딱입니다. 뿌리가 살아나요. 곧게 펴는 스트레이트면 1·2번이 합리적입니다.',
         specs: ['제품: 피닉스 헤어 볼륨 고데기 (PN-734, 22mm)', '용도: 뿌리·앞머리 볼륨·컬', '특징: 손 안 뜨거움 · 국내제조', '배송: 로켓배송', '가격: 약 30,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7839546745&itemId=21338042959&vendorItemId=88396531006&traceid=V0-153-d3d1268b48529d27&clickBeacon=791b29c0-7f5f-11f1-90c7-adba4dcecc70%7E3&requestid=20260714173905542045279966&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7839546745&itemId=21338042959&vendorItemId=88396531006&traceid=V0-153-d3d1268b48529d27&clickBeacon=791b29c0-7f5f-11f1-90c7-adba4dcecc70%7E3&requestid=20260714173905542045279966&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -9748,7 +9748,7 @@ module.exports = [
         consNote: '이 제품은 <strong>체중·가성비용</strong>입니다. 건전지 갈기 싫으면 2번, 체성분까지면 3번 인바디로 가세요. "체중만 저렴하게"면 가성비 최고예요.',
         review: '"체중만 매일 확인"이면 8천원대 LED로 충분합니다. 저렴하고 잘 보여요. 건전지 불필요·체성분이면 2·3번을 보세요.',
         specs: ['제품: 홈플래닛 디지털 LED 체중계', '기능: 체중 측정 · LED', '용도: 체중만', '배송: 로켓배송', '가격: 약 8,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8359676766&itemId=24158126424&vendorItemId=91176755808&traceid=V0-153-bd08c10e4eabdcc5&requestid=20260714173905929202186471&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8359676766&itemId=24158126424&vendorItemId=91176755808&traceid=V0-153-bd08c10e4eabdcc5&requestid=20260714173905929202186471&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -9767,7 +9767,7 @@ module.exports = [
         consNote: '체중만 저렴하게면 1번, 체성분까지면 3번 인바디입니다. 2번은 <strong>"건전지 불필요+정확도"</strong>의 실속 구간 — 체중 관리에 무난합니다.',
         review: '"체중계 건전지 갈기 귀찮고 정확했으면"이면 카스 건전지 불필요가 좋습니다. 관리가 편해요. 체성분까지면 3번을 보세요.',
         specs: ['제품: 카스 건전지 불필요 디지털 체중계', '기능: 체중 측정 · 건전지 불필요', '강점: 정확도 · 편의', '배송: 로켓배송', '가격: 약 25,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8548369396&itemId=24754205292&vendorItemId=91930747792&traceid=V0-153-52bb19176ac2d6ed&requestid=20260714173905929202186471&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8548369396&itemId=24754205292&vendorItemId=91930747792&traceid=V0-153-52bb19176ac2d6ed&requestid=20260714173905929202186471&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -9786,7 +9786,7 @@ module.exports = [
         consNote: '체중만이면 1·2번이 합리적입니다. 3번은 <strong>체지방·근육량까지 수치로 관리</strong>하려는 분에게 값어치가 있습니다. 단, 측정값은 참고용입니다.',
         review: '"다이어트·운동 성과를 체지방·근육으로 보고 싶다"면 인바디가 만족스럽습니다. 앱 기록도 되고요. 체중만이면 1·2번이 합리적입니다.',
         specs: ['제품: 인바디 다이얼 (H40NWi)', '기능: 체성분(체지방·근육량) · 앱 연동', '용도: 체성분·건강관리', '배송: 로켓배송', '가격: 약 406,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8316575572&itemId=24001694443&vendorItemId=91022490603&traceid=V0-153-7f5b57de66637bc5&clickBeacon=79565e00-7f5f-11f1-b9bf-bbf13d6153d5%7E3&requestid=20260714173905929202186471&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8316575572&itemId=24001694443&vendorItemId=91022490603&traceid=V0-153-7f5b57de66637bc5&clickBeacon=79565e00-7f5f-11f1-b9bf-bbf13d6153d5%7E3&requestid=20260714173905929202186471&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -9877,7 +9877,7 @@ module.exports = [
         consNote: '이 제품은 <strong>대용량·가성비용</strong>입니다. 브랜드·여러 맛이면 2번, 저칼로리 식사대용이면 3번으로 가세요. "대용량 저렴하게"면 가성비 좋아요.',
         review: '"저렴하게 잔뜩 쟁여두고 간식으로"면 대용량 혼합맛이 알뜰합니다. 여러 맛이라 골라 먹어요. 브랜드·식사대용이면 2·3번을 보세요.',
         specs: ['제품: 다이어트 곤약젤리 대용량 (혼합맛)', '특징: 무설탕·저칼로리 표방 · 대용량', '용도: 상비 간식', '배송: 일반배송', '가격: 약 11,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9620615544&itemId=28728493836&vendorItemId=95752026067&traceid=V0-153-e5106f98946b1923&requestid=20260714173906328010064011&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9620615544&itemId=28728493836&vendorItemId=95752026067&traceid=V0-153-e5106f98946b1923&requestid=20260714173906328010064011&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -9896,7 +9896,7 @@ module.exports = [
         consNote: '대용량 저렴하게면 1번, 저칼로리 식사대용이면 3번입니다. 2번은 <strong>"여러 맛+브랜드"</strong>의 실속 구간 — 질리지 않게 먹기 무난합니다.',
         review: '"한 맛만 먹으면 질린다"면 여러 맛 30개입이 좋습니다. 골라 먹는 재미가 있어요. 최저 칼로리·식사대용이면 3번을 보세요.',
         specs: ['제품: 곰곰 곤약젤리 버라이어티 (30개입)', '구성: 여러 맛 30개 · 개별 포장', '용도: 간식(질림 방지)', '배송: 로켓배송', '가격: 약 16,630원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6747862869&itemId=15772617113&vendorItemId=82985938083&traceid=V0-153-028dc8b43ace5ebb&requestid=20260714173906328010064011&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6747862869&itemId=15772617113&vendorItemId=82985938083&traceid=V0-153-028dc8b43ace5ebb&requestid=20260714173906328010064011&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -9915,7 +9915,7 @@ module.exports = [
         consNote: '대용량 저렴하게면 1번, 여러 맛이면 2번이 합리적입니다. 3번은 <strong>칼로리 최소화·가벼운 식사대용</strong>을 원하는 분에게 어울립니다.',
         review: '"칼로리를 최대한 낮추고 가볍게"면 11칼로리 젤리가 부담이 적습니다. 포만감도 어느 정도 있어요. 다만 완전한 끼니 대체는 아니니 균형 있게 드세요.',
         specs: ['제품: 빙그레 곤약젤리 (복숭아·청포도)', '칼로리: 개당 약 11kcal · 식사대용 표방', '용도: 저칼로리 간식', '배송: 일반배송', '가격: 약 17,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=330941729&itemId=436076655&vendorItemId=95315583878&traceid=V0-153-4ee545953f13b2dc&requestid=20260714173906328010064011&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=330941729&itemId=436076655&vendorItemId=95315583878&traceid=V0-153-4ee545953f13b2dc&requestid=20260714173906328010064011&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -10005,7 +10005,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·캠핑용</strong>입니다. 자동초점·무난한 화질이면 2번, 제대로 홈시네마면 3번으로 가세요. "어두운 방 입문"이면 가성비 최고예요.',
         review: '"빔프로젝터가 궁금한데 저렴하게, 캠핑용"이면 4만원대로 경험하기 좋습니다. 어두운 방에선 볼 만해요. 화질·밝기·자동초점이면 2·3번을 보세요.',
         specs: ['제품: DS HY300 미니 빔프로젝터', '해상도: 720p · 미러링', '용도: 입문·캠핑(어두운 환경)', '배송: 로켓배송', '가격: 약 44,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9198431738&itemId=27155688068&vendorItemId=95726710344&traceid=V0-153-fcb28d2393189bdc&requestid=20260714175136386043373711&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9198431738&itemId=27155688068&vendorItemId=95726710344&traceid=V0-153-fcb28d2393189bdc&requestid=20260714175136386043373711&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10024,7 +10024,7 @@ module.exports = [
         consNote: '저렴하게 입문이면 1번, 제대로 홈시네마·완성도면 3번입니다. 2번은 <strong>"자동초점+무난한 편의"</strong>의 실속 구간 — 홈시네마 입문에 가장 무난합니다.',
         review: '"초점 맞추기가 귀찮고 넷플릭스를 편하게"면 자동초점이 편합니다. 알아서 맞춰줘요. 밝기·완성도를 제대로면 3번을 보세요.',
         specs: ['제품: NICESUN 미니 빔프로젝터 (자동초점)', '기능: 자동초점 · 4K 지원 · 270도 회전 · 미러링', '용도: 홈시네마 입문', '배송: 로켓배송', '가격: 약 93,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9433026598&itemId=28048368389&vendorItemId=95005218848&traceid=V0-153-0e109abb079994e7&requestid=20260714175136386043373711&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9433026598&itemId=28048368389&vendorItemId=95005218848&traceid=V0-153-0e109abb079994e7&requestid=20260714175136386043373711&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10043,7 +10043,7 @@ module.exports = [
         consNote: '저렴하게 입문이면 1번, 자동초점 실속이면 2번이 합리적입니다. 3번은 <strong>화질·완성도·스마트</strong>로 제대로 홈시네마를 원하는 분에게 값어치가 있습니다.',
         review: '"영화를 제대로 큰 화면으로, 앱도 바로"면 프리미엄 스마트가 만족스럽습니다. 밝고 선명해요. 입문·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 엑스지미 XGIMI MoGo 4 빔프로젝터', '강점: 밝기·화질 완성도 · 스마트 OS · 자동보정', '용도: 홈시네마(제대로)', '배송: 로켓배송', '가격: 약 999,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9136837469&itemId=28464108545&vendorItemId=95414494450&traceid=V0-153-91a03a44404fc749&clickBeacon=38a44140-7f61-11f1-921d-5584533bc7f8%7E3&requestid=20260714175136386043373711&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9136837469&itemId=28464108545&vendorItemId=95414494450&traceid=V0-153-91a03a44404fc749&clickBeacon=38a44140-7f61-11f1-921d-5584533bc7f8%7E3&requestid=20260714175136386043373711&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -10135,7 +10135,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·넓은 장패드용</strong>입니다. 게이밍 정밀 컨트롤이면 2번 천패드, 빠른 손맛·내구면 3번 강화유리로 가세요. "넓게 저렴하게"면 가성비 최고예요.',
         review: '"넓은 장패드 하나 저렴하게"면 5천원대로 충분합니다. 데스크가 깔끔해져요. 게이밍 컨트롤·내구면 2·3번을 보세요.',
         specs: ['제품: 요이치 게이밍 장패드 (800×300×5mm)', '크기: 대형 장패드', '용도: 키보드+마우스', '배송: 로켓배송', '가격: 약 5,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5912978260&itemId=10456923425&vendorItemId=77738725126&traceid=V0-153-df85ee4181c43fc2&requestid=20260714175136976146240036&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5912978260&itemId=10456923425&vendorItemId=77738725126&traceid=V0-153-df85ee4181c43fc2&requestid=20260714175136976146240036&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10154,7 +10154,7 @@ module.exports = [
         consNote: '저렴하게 넓게면 1번, 빠른 손맛·내구면 3번 강화유리입니다. 2번은 <strong>"게이밍 컨트롤 천패드"</strong>의 실속 구간 — 게임에 가장 무난합니다.',
         review: '"게임할 때 조준·컨트롤이 정확했으면"이면 스틸시리즈 Qck가 검증된 선택입니다. 안정적이에요. 빠른 손맛·내구면 3번을 보세요.',
         specs: ['제품: 스틸시리즈 Qck 게이밍 마우스패드', '재질: 천패드(컨트롤)', '강점: 정확한 컨트롤 · 브랜드', '배송: 로켓배송', '가격: 약 17,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7164496684&itemId=18036930020&vendorItemId=4119513680&traceid=V0-153-8e08c9d7b7c23ea2&clickBeacon=38ff0b70-7f61-11f1-9ad2-670613ddacf4%7E3&requestid=20260714175136976146240036&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7164496684&itemId=18036930020&vendorItemId=4119513680&traceid=V0-153-8e08c9d7b7c23ea2&clickBeacon=38ff0b70-7f61-11f1-9ad2-670613ddacf4%7E3&requestid=20260714175136976146240036&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10173,7 +10173,7 @@ module.exports = [
         consNote: '저렴하게 넓게면 1번, 게이밍 컨트롤 천패드면 2번이 합리적입니다. 3번은 <strong>빠른 손맛·물세척·내구</strong>를 원하는 분에게 어울립니다.',
         review: '"천패드는 마찰이 답답하고 빠른 손맛을 원한다"면 강화유리가 만족스럽습니다. 물세척도 되고요. 정밀 컨트롤·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: GOGOFREE 강화유리 마우스패드 (XL 40×50)', '재질: 강화유리(스피드)', '강점: 빠른 손맛 · 물세척 · 내구', '배송: 로켓배송', '가격: 약 38,980원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8936532341&itemId=26146760107&vendorItemId=93126796847&traceid=V0-153-3fc9871aa57c5547&clickBeacon=38ff3280-7f61-11f1-a0f8-8c00664aed0c%7E3&requestid=20260714175136976146240036&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8936532341&itemId=26146760107&vendorItemId=93126796847&traceid=V0-153-3fc9871aa57c5547&clickBeacon=38ff3280-7f61-11f1-a0f8-8c00664aed0c%7E3&requestid=20260714175136976146240036&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -10265,7 +10265,7 @@ module.exports = [
         consNote: '이 제품은 <strong>자취·가성비용</strong>입니다. 인덕션이면 IH 호환(2번), 오래가는 내구·세트면 3번 다이아몬드로 가세요. "자취 저렴하게"면 가성비 좋아요.',
         review: '"자취라 자주 바꿔 쓸 기본 팬"이면 1만원대로 충분합니다. 가볍고요. 인덕션·오래가는 내구면 2·3번을 보세요.',
         specs: ['제품: 키친아트 티타늄 코팅 프라이팬', '코팅: 티타늄', '용도: 자취·기본', '배송: 로켓배송', '가격: 약 12,980원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9171562099&itemId=27031173510&vendorItemId=93999717144&traceid=V0-153-f6e1d94cb50eca80&requestid=20260714175137370266610145&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9171562099&itemId=27031173510&vendorItemId=93999717144&traceid=V0-153-f6e1d94cb50eca80&requestid=20260714175137370266610145&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10284,7 +10284,7 @@ module.exports = [
         consNote: '자취·저렴하게(가스)면 1번, 오래가는 내구·세트면 3번입니다. 2번은 <strong>"IH 호환+겸용"</strong>의 실속 구간 — 인덕션 사용자에게 무난합니다.',
         review: '"인덕션이라 IH 되는 팬이 필요"하면 IH 겸용이 정답입니다. 가스·인덕션 다 돼요. 오래가는 내구·세트면 3번을 보세요.',
         specs: ['제품: 보오든 IH 시그널D 프라이팬 (20cm)', '호환: IH(인덕션)·가스 겸용', '용도: 인덕션 사용', '배송: 로켓배송', '가격: 약 36,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9466953058&itemId=28174254353&vendorItemId=95129026254&traceid=V0-153-29b7b82622f1f676&clickBeacon=393bc650-7f61-11f1-9f6e-5c2f9dda949c%7E3&requestid=20260714175137370266610145&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9466953058&itemId=28174254353&vendorItemId=95129026254&traceid=V0-153-29b7b82622f1f676&clickBeacon=393bc650-7f61-11f1-9f6e-5c2f9dda949c%7E3&requestid=20260714175137370266610145&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10303,7 +10303,7 @@ module.exports = [
         consNote: '자취·저렴하게면 1번, 인덕션 단품이면 2번이 합리적입니다. 3번은 <strong>오래가는 내구+세트</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"코팅 벗겨져 자주 바꾸는 게 지겹다"면 다이아몬드 코팅 세트가 오래갑니다. 세트라 두루 쓰고요. 자취·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 해피콜 다이아몬드 IH 프라이팬 4종세트 (28cm)', '코팅: 다이아몬드 · IH 겸용', '구성: 4종 세트', '배송: 로켓배송', '가격: 약 100,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6593633116&itemId=14888405921&vendorItemId=82127245153&traceid=V0-153-7a1623c68e7d60ba&clickBeacon=393b9f40-7f61-11f1-b706-e49667f29d1f%7E3&requestid=20260714175137370266610145&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6593633116&itemId=14888405921&vendorItemId=82127245153&traceid=V0-153-7a1623c68e7d60ba&clickBeacon=393b9f40-7f61-11f1-b706-e49667f29d1f%7E3&requestid=20260714175137370266610145&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -10395,7 +10395,7 @@ module.exports = [
         consNote: '이 제품은 <strong>냉장고 정리·가성비용</strong>입니다. 위생·데우기면 2번 내열유리, 가볍고 안 깨지면 3번 트라이탄으로 가세요. "냉장고 정리 저렴하게"면 가성비 좋아요.',
         review: '"냉장고를 규격 용기로 깔끔하게, 저렴하게"면 가성비 정리용기가 알뜰합니다. 쌓기 좋아요. 위생·데우기면 2·3번을 보세요.',
         specs: ['제품: 이지앤프리 냉장고 정리용기 (750ml)', '재질: 플라스틱 · 정리용', '용도: 냉장고 정리', '배송: 로켓배송', '가격: 약 11,750원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7937483270&itemId=21851640770&vendorItemId=88899893429&traceid=V0-153-63af1892effca7c9&requestid=20260714175137808277717589&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7937483270&itemId=21851640770&vendorItemId=88899893429&traceid=V0-153-63af1892effca7c9&requestid=20260714175137808277717589&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10414,7 +10414,7 @@ module.exports = [
         consNote: '냉장고 정리·저렴하게면 1번, 가볍고 안 깨지면 3번 트라이탄입니다. 2번은 <strong>"내열유리 위생+데우기"</strong>의 실속 구간 — 반찬 보관에 무난합니다.',
         review: '"반찬통에 냄새·색이 배는 게 싫고 데우기까지"면 내열유리가 좋습니다. 위생적이에요. 가볍고 안 깨지는 걸 원하면 3번을 보세요.',
         specs: ['제품: 네오플램 내열유리 반찬통 세트 (8P)', '재질: 내열유리 · 전자레인지/오븐', '구성: 혼합 8P', '배송: 일반배송', '가격: 약 39,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9605448924&itemId=28675232785&vendorItemId=87708840179&traceid=V0-153-4aa1edbba549b28f&clickBeacon=39955800-7f61-11f1-8841-cf6f96aaeb8e%7E3&requestid=20260714175137808277717589&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9605448924&itemId=28675232785&vendorItemId=87708840179&traceid=V0-153-4aa1edbba549b28f&clickBeacon=39955800-7f61-11f1-8841-cf6f96aaeb8e%7E3&requestid=20260714175137808277717589&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10433,7 +10433,7 @@ module.exports = [
         consNote: '냉장고 정리·저렴하게면 1번, 내열유리 위생·데우기면 2번이 합리적입니다. 3번은 <strong>가볍고 안 깨지는 투명 세트</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"유리는 무겁고 깨질까 불안, 가볍고 투명한 걸"이면 트라이탄이 만족스럽습니다. 안 깨지고 잘 보여요. 가성비·데우기 위생이면 1·2번이 합리적입니다.',
         specs: ['제품: prepara 트라이탄 밀폐용기 세트 (18p)', '재질: 트라이탄(안 깨짐·투명)', '구성: 18p 세트', '배송: 로켓배송', '가격: 약 206,100원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8161091422&itemId=23267237534&vendorItemId=90299596761&traceid=V0-153-172e5becad041e53&clickBeacon=39955800-7f61-11f1-80a1-11f0e1d80e18%7E3&requestid=20260714175137808277717589&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8161091422&itemId=23267237534&vendorItemId=90299596761&traceid=V0-153-172e5becad041e53&clickBeacon=39955800-7f61-11f1-80a1-11f0e1d80e18%7E3&requestid=20260714175137808277717589&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -10525,7 +10525,7 @@ module.exports = [
         consNote: '이 제품은 <strong>수납·가성비용</strong>입니다. 상판 얹어 테이블로면 2번, 집·창고 대용량이면 3번으로 가세요. "저렴하게 수납"이면 가성비 최고예요.',
         review: '"캠핑 짐·트렁크 정리를 저렴하게"면 1만원대로 충분합니다. 접어서 보관도 되고요. 상판·대용량이면 2·3번을 보세요.',
         specs: ['제품: 다용도 접이식 폴딩박스', '형태: 접이식', '용도: 캠핑·트렁크 수납', '배송: 일반배송', '가격: 약 11,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9140645763&itemId=26876806720&vendorItemId=93896380175&traceid=V0-153-113895c13e229c70&requestid=20260714175138440207820144&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9140645763&itemId=26876806720&vendorItemId=93896380175&traceid=V0-153-113895c13e229c70&requestid=20260714175138440207820144&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10544,7 +10544,7 @@ module.exports = [
         consNote: '저렴하게 수납만이면 1번, 집·창고 대용량이면 3번입니다. 2번은 <strong>"수납+상판 테이블+방수팩"</strong>의 실속 구간 — 캠핑 활용도가 가장 좋습니다.',
         review: '"폴딩박스에 상판 얹어 테이블로도 쓰고 방수팩까지"면 세트가 알찹니다. 활용도가 좋아요. 수납만·대용량이면 1·3번을 보세요.',
         specs: ['제품: 슈브릭 폴딩박스 (우드 상판+방수팩, KS4002)', '구성: 폴딩박스+우드 상판+방수팩', '용도: 수납+테이블 겸용', '배송: 로켓배송', '가격: 약 24,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8508438439&itemId=24145181346&vendorItemId=93526933649&traceid=V0-153-ab7cd628ab51ed0a&clickBeacon=39ddf9c0-7f61-11f1-87e0-89a147121305%7E3&requestid=20260714175138440207820144&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8508438439&itemId=24145181346&vendorItemId=93526933649&traceid=V0-153-ab7cd628ab51ed0a&clickBeacon=39ddf9c0-7f61-11f1-87e0-89a147121305%7E3&requestid=20260714175138440207820144&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10563,7 +10563,7 @@ module.exports = [
         consNote: '캠핑 수납·저렴하게면 1번, 상판 테이블 겸용이면 2번이 합리적입니다. 3번은 <strong>집·창고 대용량 정리</strong>가 목적일 때 값어치가 있습니다.',
         review: '"집·창고 짐이 많아 대용량으로 통일감 있게"면 4개 세트가 좋습니다. 접어서 보관도 되고요. 캠핑·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: Kipnos 대용량 폴딩 리빙박스 (4개)', '구성: 대용량 · 4개 세트 · 접이식', '용도: 집·창고 정리', '배송: 로켓배송', '가격: 약 80,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8837247802&itemId=24983983526&vendorItemId=95497331898&traceid=V0-153-1b2493c00f511edd&clickBeacon=39ddf9c0-7f61-11f1-abf1-4cf3402e3e25%7E3&requestid=20260714175138440207820144&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8837247802&itemId=24983983526&vendorItemId=95497331898&traceid=V0-153-1b2493c00f511edd&clickBeacon=39ddf9c0-7f61-11f1-abf1-4cf3402e3e25%7E3&requestid=20260714175138440207820144&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -10655,7 +10655,7 @@ module.exports = [
         consNote: '이 제품은 <strong>공부·가성비용</strong>입니다. 색온도 세밀 조절·클립이면 2번, 넓게 고르게면 3번 듀얼로 가세요. "저렴하게 공부용"이면 가성비 최고예요.',
         review: '"공부용 스탠드 저렴하게"면 8천원대로 충분합니다. 밝기·색상 조절도 되고요. 넓게·색온도 세밀이면 2·3번을 보세요.',
         specs: ['제품: VANKIN 접이식 학습용 LED 스탠드', '기능: 밝기·색상 조절 · 펜꽂이 · 접이식', '용도: 공부·독서', '배송: 로켓배송', '가격: 약 8,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9014311915&itemId=26426090326&vendorItemId=93401928398&traceid=V0-153-0725727a5edaa4ad&requestid=20260714175138962327068769&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9014311915&itemId=26426090326&vendorItemId=93401928398&traceid=V0-153-0725727a5edaa4ad&requestid=20260714175138962327068769&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10674,7 +10674,7 @@ module.exports = [
         consNote: '저렴하게 공부용이면 1번, 넓게 고르게면 3번 듀얼입니다. 2번은 <strong>"클립 위치 자유+색온도 세밀"</strong>의 실속 구간 — 위치·조절 자유가 필요한 분에게 무난합니다.',
         review: '"책상에 물려 쓰고 색온도를 세밀하게"면 클립형이 편합니다. 위치가 자유롭고 조절 폭이 넓어요. 넓게 고르게면 3번을 보세요.',
         specs: ['제품: ACMEZING 클립형 와이드 LED 스탠드 (D8)', '기능: 클립형 · 25색온도/밝기 · 리모컨', '용도: 공부·위치 자유', '배송: 로켓배송', '가격: 약 33,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8924344498&itemId=26082526277&vendorItemId=93063406873&traceid=V0-153-be71b77b806ecc44&requestid=20260714175138962327068769&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8924344498&itemId=26082526277&vendorItemId=93063406873&traceid=V0-153-be71b77b806ecc44&requestid=20260714175138962327068769&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10693,7 +10693,7 @@ module.exports = [
         consNote: '저렴하게 공부용이면 1번, 클립 위치 자유면 2번이 합리적입니다. 3번은 <strong>넓고 고른 조명·눈부심 감소</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"책상 전체를 넓게, 눈부심·그림자 없이"면 듀얼 와이드가 만족스럽습니다. 고르게 밝아요. 저렴하게·위치 자유면 1·2번이 합리적입니다.',
         specs: ['제품: Airwit 듀얼 LED 와이드 스탠드', '기능: 듀얼 와이드 · 무단계 밝기/색온도', '강점: 넓은 조명 · 눈부심 감소', '배송: 로켓배송', '가격: 약 49,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9082227571&itemId=26682763333&vendorItemId=93555924248&traceid=V0-153-2acb59c9438f1bb4&clickBeacon=3a2da060-7f61-11f1-b60c-ec344838e74e%7E3&requestid=20260714175138962327068769&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9082227571&itemId=26682763333&vendorItemId=93555924248&traceid=V0-153-2acb59c9438f1bb4&clickBeacon=3a2da060-7f61-11f1-b60c-ec344838e74e%7E3&requestid=20260714175138962327068769&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -10784,7 +10784,7 @@ module.exports = [
         consNote: '이 제품은 <strong>건강·든든 지향</strong>입니다. 달콤함·아이 간식이면 2번 오레오오즈, 시나몬 단맛이면 3번으로 가세요. "곡물·견과로 든든"이면 무난합니다.',
         review: '"달콤한 시리얼은 물리고 든든하게"면 그래놀라가 좋습니다. 씹는 맛이 있어요. 달콤함·시나몬 단맛이면 2·3번을 보세요. 단, 그래놀라도 당은 확인하세요.',
         specs: ['제품: 포스트 크랜베리 아몬드 그래놀라', '종류: 그래놀라(오트·견과)', '용도: 든든한 아침', '배송: 로켓배송', '가격: 약 9,670원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=257055522&itemId=24736243740&vendorItemId=93082693153&traceid=V0-153-a8da7e7e810c22c8&requestid=20260714175139257207820325&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=257055522&itemId=24736243740&vendorItemId=93082693153&traceid=V0-153-a8da7e7e810c22c8&requestid=20260714175139257207820325&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10803,7 +10803,7 @@ module.exports = [
         consNote: '든든한 곡물이면 1번 그래놀라, 시나몬 단맛이면 3번입니다. 2번은 <strong>"달콤한 인기 맛"</strong>의 실속 구간 — 아이·간식용으로 무난합니다.',
         review: '"아이가 좋아하고 달콤하게 간식으로"면 오레오오즈가 인기입니다. 우유와 찰떡이에요. 든든한 곡물·건강이면 1번을 보세요. 당은 감안하세요.',
         specs: ['제품: 오레오오즈', '종류: 달콤한 시리얼(오레오맛)', '용도: 아이·간식', '배송: 로켓배송', '가격: 약 12,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=193435167&itemId=20095063793&vendorItemId=93362996586&traceid=V0-153-2c70e824b4e59f6f&requestid=20260714175139257207820325&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=193435167&itemId=20095063793&vendorItemId=93362996586&traceid=V0-153-2c70e824b4e59f6f&requestid=20260714175139257207820325&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10822,7 +10822,7 @@ module.exports = [
         consNote: '든든한 곡물이면 1번 그래놀라, 아이·달콤함이면 2번이 합리적입니다. 3번은 <strong>시나몬 향·단맛</strong>을 좋아하는 분에게 어울립니다. 당은 감안하세요.',
         review: '"시나몬 향·단맛을 좋아한다"면 시나몬 토스트 크런치가 마니아층이 두껍습니다. 바삭·달콤해요. 건강·든든이면 1번을 보세요.',
         specs: ['제품: 제너럴밀스 시나몬 토스트 크런치', '종류: 시나몬 달콤 시리얼', '용도: 달콤 간식·디저트', '배송: 일반배송', '가격: 약 15,870원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6485961998&itemId=25020853591&vendorItemId=94054610551&traceid=V0-153-58d5006be25fe3ef&requestid=20260714175139257207820325&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6485961998&itemId=25020853591&vendorItemId=94054610551&traceid=V0-153-58d5006be25fe3ef&requestid=20260714175139257207820325&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -10911,7 +10911,7 @@ module.exports = [
         consNote: '이 제품은 <strong>수동·가성비용</strong>입니다. 물 없이 편하게면 2번 건식, 물 데우고 온열 유지면 3번 습식으로 가세요. "저렴하게 족욕"이면 가성비 최고예요.',
         review: '"따뜻한 물 받아 발 담그기만"이면 6천원대 족욕통으로 충분합니다. 접어서 보관도 되고요. 온열 유지·건식이면 2·3번을 보세요.',
         specs: ['제품: 위드스타 접이식 족욕통', '방식: 수동(물 담기) · 접이식', '용도: 기본 족욕', '배송: 로켓배송', '가격: 약 6,580원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8783220193&itemId=25556670345&vendorItemId=84722877121&traceid=V0-153-137314021e215c54&requestid=20260714175139650198730854&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8783220193&itemId=25556670345&vendorItemId=84722877121&traceid=V0-153-137314021e215c54&requestid=20260714175139650198730854&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10930,7 +10930,7 @@ module.exports = [
         consNote: '저렴하게 물 담아 족욕이면 1번, 물 데우고 온열 유지면 3번 습식입니다. 2번은 <strong>"물 없는 건식+간편"</strong>의 실속 구간 — 뒤처리 없이 자주 쓰기 무난합니다.',
         review: '"물 받고 치우는 게 귀찮다"면 건식 좌훈이 편합니다. 물 없이 온열로 이완돼요. 따뜻한 물 느낌을 원하면 3번을 보세요.',
         specs: ['제품: 에버조이 건식 좌훈 족욕기', '방식: 건식(물 없음) · 온열', '용도: 발 이완·간편', '배송: 로켓배송', '가격: 약 124,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8384075267&itemId=24230667009&vendorItemId=70336680835&traceid=V0-153-a694fcc94b9fc571&requestid=20260714175139650198730854&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8384075267&itemId=24230667009&vendorItemId=70336680835&traceid=V0-153-a694fcc94b9fc571&requestid=20260714175139650198730854&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -10949,7 +10949,7 @@ module.exports = [
         consNote: '저렴하게 족욕이면 1번, 물 없는 건식 간편이면 2번이 합리적입니다. 3번은 <strong>따뜻한 물+온열 유지</strong>로 제대로 족욕하려는 분에게 값어치가 있습니다.',
         review: '"따뜻한 물에 담가 식지 않게 제대로"면 온열 습식이 만족스럽습니다. 물이 안 식어요. 간편·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 가디브 온열 습식 족욕기 (guadiv-fb01)', '방식: 습식 · 물 데움/온열 유지', '용도: 따뜻한 물 족욕', '배송: 로켓배송', '가격: 약 179,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9143093078&itemId=26914416038&vendorItemId=93883782456&traceid=V0-153-eadb8591fd30ed6d&clickBeacon=3a96c270-7f61-11f1-9b3d-25d946866290%7E3&requestid=20260714175139650198730854&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9143093078&itemId=26914416038&vendorItemId=93883782456&traceid=V0-153-eadb8591fd30ed6d&clickBeacon=3a96c270-7f61-11f1-9b3d-25d946866290%7E3&requestid=20260714175139650198730854&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -11041,7 +11041,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·경험용</strong>입니다. 4K 브이로그면 2번, 최고 화질·완성도면 3번으로 가세요. "저렴하게 경험"이면 가성비 최고예요.',
         review: '"액션캠이 궁금한데 저렴하게 경험"이면 1만원대로 시작하기 좋습니다. 화질·보정은 기대 낮추세요. 유튜브·브이로그 제대로면 2·3번을 보세요.',
         specs: ['제품: X4000 HD 스포츠 액션캠', '해상도: HD급 · 입문', '용도: 스포츠·기록 경험', '배송: 로켓배송', '가격: 약 15,960원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7826323183&itemId=296457496&vendorItemId=90570359691&traceid=V0-153-e06e59f87e3675af&requestid=20260714180433265194636082&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7826323183&itemId=296457496&vendorItemId=90570359691&traceid=V0-153-e06e59f87e3675af&requestid=20260714180433265194636082&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11060,7 +11060,7 @@ module.exports = [
         consNote: '저렴하게 입문이면 1번, 최고 화질·완성도면 3번입니다. 2번은 <strong>"4K+방수+듀얼스크린"</strong>의 실속 구간 — 유튜브·브이로그 입문에 무난합니다.',
         review: '"유튜브·브이로그를 4K로, 물놀이도, 셀프 촬영까지"면 K02가 실속 있습니다. 두루 돼요. 최고 화질·손떨림이면 3번을 보세요.',
         specs: ['제품: 포팩트 K02 4K 액션캠', '기능: 4K · 방수 · 듀얼스크린', '용도: 유튜브·브이로그', '배송: 로켓배송', '가격: 약 169,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9200095381&itemId=27162913046&vendorItemId=94341126626&traceid=V0-153-1f3d6dbcca62432a&clickBeacon=07b30a60-7f63-11f1-9c49-8380be57d48b%7E3&requestid=20260714180433265194636082&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9200095381&itemId=27162913046&vendorItemId=94341126626&traceid=V0-153-1f3d6dbcca62432a&clickBeacon=07b30a60-7f63-11f1-9c49-8380be57d48b%7E3&requestid=20260714180433265194636082&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11079,7 +11079,7 @@ module.exports = [
         consNote: '저렴하게 입문이면 1번, 4K 브이로그 실속이면 2번이 합리적입니다. 3번은 <strong>최고 화질·손떨림 보정·완성도</strong>가 필요한 크리에이터에게 값어치가 있습니다.',
         review: '"영상을 제대로, 흔들림 없이 최고 화질로"면 인스타360이 만족스럽습니다. 보정·완성도가 압도적이에요. 입문·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 인스타360 루나 울트라 액션캠', '강점: 최고 화질 · 강력한 손떨림 보정 · 완성도', '용도: 전문·크리에이터', '배송: 로켓배송', '가격: 약 1,135,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9521280320&itemId=28383986471&vendorItemId=95335626566&traceid=V0-153-d16e9f26f8e6d8b6&clickBeacon=07b30a60-7f63-11f1-a1e1-924bd5a8f23b%7E3&requestid=20260714180433265194636082&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9521280320&itemId=28383986471&vendorItemId=95335626566&traceid=V0-153-d16e9f26f8e6d8b6&clickBeacon=07b30a60-7f63-11f1-a1e1-924bd5a8f23b%7E3&requestid=20260714180433265194636082&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -11171,7 +11171,7 @@ module.exports = [
         consNote: '이 제품은 <strong>고속충전·가성비용</strong>입니다. 안 끊어지는 내구면 2번 패브릭, 안심 정품이면 3번 삼성으로 가세요. "저렴하게 고속"이면 가성비 최고예요.',
         review: '"고속충전 케이블 저렴하게 여러 개"면 3천원대로 충분합니다. ㄱ자라 게임할 때 편해요. 내구·정품 안심이면 2·3번을 보세요.',
         specs: ['제품: 노바엑스 ㄱ자 C to C PD100W 케이블', '출력: PD60W/100W · ㄱ자', '용도: 고속충전', '배송: 로켓배송', '가격: 약 3,420원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9559668230&itemId=28527170239&vendorItemId=95249647245&traceid=V0-153-4ea33f2f5ea85757&requestid=20260714180433821089331820&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9559668230&itemId=28527170239&vendorItemId=95249647245&traceid=V0-153-4ea33f2f5ea85757&requestid=20260714180433821089331820&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -11190,7 +11190,7 @@ module.exports = [
         consNote: '저렴하게 고속이면 1번, 안심 정품이면 3번 삼성입니다. 2번은 <strong>"패브릭 내구+엉킴 적음"</strong>의 실속 구간 — 오래 튼튼하게 쓰기 무난합니다.',
         review: '"케이블이 자꾸 끊어져 짜증"이면 패브릭 케이블이 오래갑니다. 엉킴도 적고요. 정품 안심이면 3번을 보세요.',
         specs: ['제품: 신지모루 USB-C 패브릭 케이블', '피복: 패브릭(직물) · 내구', '강점: 안 끊어짐 · 엉킴 적음', '배송: 로켓배송', '가격: 약 5,630원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=141088383&itemId=17321560995&vendorItemId=4007596558&traceid=V0-153-2bc1427d78188032&requestid=20260714180433821089331820&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=141088383&itemId=17321560995&vendorItemId=4007596558&traceid=V0-153-2bc1427d78188032&requestid=20260714180433821089331820&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -11209,7 +11209,7 @@ module.exports = [
         consNote: '저렴하게 고속이면 1번, 패브릭 내구면 2번이 합리적입니다. 3번은 <strong>정품 안심·데이터 확실</strong>을 원하는 분에게 어울립니다.',
         review: '"이왕이면 삼성 정품으로 안심하고"면 정품 1+1이 좋습니다. 충전·데이터가 확실해요. 저렴하게·내구면 1·2번이 합리적입니다.',
         specs: ['제품: 삼성 정품 C타입 고속충전 케이블 (1+1)', '기능: 고속충전 · 데이터 전송', '구성: 1+1(1.5m·1m)', '배송: 로켓배송', '가격: 약 9,680원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9000119493&itemId=26374398565&vendorItemId=82963998448&traceid=V0-153-96367d2db094f3ff&requestid=20260714180433821089331820&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9000119493&itemId=26374398565&vendorItemId=82963998448&traceid=V0-153-96367d2db094f3ff&requestid=20260714180433821089331820&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -11301,7 +11301,7 @@ module.exports = [
         consNote: '이 제품은 <strong>대용량·가성비용</strong>입니다. 안 새는 밀폐면 2번, 쇠맛 없는 세라믹이면 3번으로 가세요. "대용량 저렴하게"면 가성비 최고예요.',
         review: '"물 많이 담을 대용량 저렴하게"면 1.2L로 충분합니다. 빨대라 편해요. 안 새는 밀폐·세라믹이면 2·3번을 보세요.',
         specs: ['제품: FASEN 스텐 텀블러 (1.2L)', '용량: 1.2L · 이중 진공 · 빨대', '용도: 대용량(차량·캠핑)', '배송: 로켓배송', '가격: 약 9,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8787565536&itemId=28576661004&vendorItemId=95520879439&traceid=V0-153-ed45ffb754e1c867&requestid=20260714180434778241843708&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8787565536&itemId=28576661004&vendorItemId=95520879439&traceid=V0-153-ed45ffb754e1c867&requestid=20260714180434778241843708&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11320,7 +11320,7 @@ module.exports = [
         consNote: '저렴하게 대용량이면 1번, 쇠맛 없는 세라믹이면 3번입니다. 2번은 <strong>"밀폐 안 샘+대용량"</strong>의 실속 구간 — 가방 휴대에 무난합니다.',
         review: '"텀블러가 가방에서 새서 곤란"했다면 밀폐 텀블러가 안심입니다. 안 새고 대용량이에요. 쇠맛 없는 세라믹이면 3번을 보세요.',
         specs: ['제품: 근지 밀폐 텀블러 (1.2L)', '기능: 밀폐 · 이중 진공 보온보냉', '용도: 대용량·휴대', '배송: 로켓배송', '가격: 약 24,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9316345380&itemId=27608830564&vendorItemId=94789859040&traceid=V0-153-ef096b2d4b03d662&clickBeacon=089af960-7f63-11f1-820d-9067f9a3ea5f%7E3&requestid=20260714180434778241843708&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9316345380&itemId=27608830564&vendorItemId=94789859040&traceid=V0-153-ef096b2d4b03d662&clickBeacon=089af960-7f63-11f1-820d-9067f9a3ea5f%7E3&requestid=20260714180434778241843708&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11339,7 +11339,7 @@ module.exports = [
         consNote: '저렴하게 대용량이면 1번, 밀폐 안 샘이면 2번이 합리적입니다. 3번은 <strong>쇠맛 없는 세라믹+316L 완성도</strong>를 원하는 분에게 어울립니다.',
         review: '"스텐 텀블러 쇠맛이 싫다"면 세라믹 코팅이 깔끔합니다. 316L에 손잡이까지 좋아요. 가성비·밀폐면 1·2번이 합리적입니다.',
         specs: ['제품: 세다가 세라믹 316L 텀블러 (1L)', '재질: 316L 스테인리스 · 세라믹 코팅', '구성: 빨대·손잡이', '배송: 로켓배송', '가격: 약 59,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9265027008&itemId=27416556201&vendorItemId=94382119082&traceid=V0-153-a4e907d889a00045&clickBeacon=089af960-7f63-11f1-8c1f-df86e0ea2974%7E3&requestid=20260714180434778241843708&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9265027008&itemId=27416556201&vendorItemId=94382119082&traceid=V0-153-a4e907d889a00045&clickBeacon=089af960-7f63-11f1-8c1f-df86e0ea2974%7E3&requestid=20260714180434778241843708&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -11431,7 +11431,7 @@ module.exports = [
         consNote: '이 제품은 <strong>자취·가성비용</strong>입니다. 찜까지 2in1이면 2번, 화력조절 제대로면 3번으로 가세요. "라면·간단 조리"면 가성비 최고예요.',
         review: '"자취방에서 라면·죽 끓이기"면 1만원대 멀티포트로 충분합니다. 가볍고요. 찜·화력조절이면 2·3번을 보세요.',
         specs: ['제품: 키친아트 라팔 멀티 포트 (1.5L)', '용량: 1.5L', '용도: 라면·간단 조리', '배송: 로켓배송', '가격: 약 12,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8566954672&itemId=2419132409&vendorItemId=95290603252&traceid=V0-153-ea234dace5fd2724&requestid=20260714180435381058234534&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8566954672&itemId=2419132409&vendorItemId=95290603252&traceid=V0-153-ea234dace5fd2724&requestid=20260714180435381058234534&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11450,7 +11450,7 @@ module.exports = [
         consNote: '저렴하게 라면만이면 1번, 화력조절 제대로면 3번입니다. 2번은 <strong>"라면+찜 2in1"</strong>의 실속 구간 — 자취 다용도에 무난합니다.',
         review: '"라면도 끓이고 만두·계란도 쪄 먹고"면 2in1이 알찹니다. 다용도예요. 화력조절·대용량이면 3번을 보세요.',
         specs: ['제품: 리쿡 멀티쿠커 (스팀 2in1)', '기능: 라면 조리 + 찜(스팀) 2in1', '용도: 자취 다용도', '배송: 로켓배송', '가격: 약 18,590원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8556570922&itemId=24778350820&vendorItemId=95002054919&traceid=V0-153-aae831a0c611054b&requestid=20260714180435381058234534&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8556570922&itemId=24778350820&vendorItemId=95002054919&traceid=V0-153-aae831a0c611054b&requestid=20260714180435381058234534&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11469,7 +11469,7 @@ module.exports = [
         consNote: '저렴하게 라면만이면 1번, 찜 2in1이면 2번이 합리적입니다. 3번은 <strong>화력조절로 볶음·전골까지</strong> 제대로 하려는 분에게 값어치가 있습니다.',
         review: '"라면뿐 아니라 볶음·전골도 화력 조절해서"면 화력조절 2in1이 좋습니다. 두루 돼요. 단순 라면·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: VisuLink 화력조절 2in1 전기냄비 (1.5L)', '기능: 2단계 화력조절 · 증조리 일체형', '용도: 핫팟·라면·찜 겸용', '배송: 로켓배송', '가격: 약 92,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9208905389&itemId=27200147342&vendorItemId=95305331212&traceid=V0-153-5fc57285c8838fd8&clickBeacon=08fdb2d0-7f63-11f1-9cc5-959f7b034d4a%7E3&requestid=20260714180435381058234534&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9208905389&itemId=27200147342&vendorItemId=95305331212&traceid=V0-153-5fc57285c8838fd8&clickBeacon=08fdb2d0-7f63-11f1-9cc5-959f7b034d4a%7E3&requestid=20260714180435381058234534&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -11561,7 +11561,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 가볍게 접이식이면 2번, 제대로 오래면 3번으로 가세요. "입문·둘이"면 가성비 최고예요.',
         review: '"등산스틱 처음, 저렴하게 둘이"면 1+1 3단이 알뜰합니다. 길이조절도 되고요. 초경량 접이식·프리미엄이면 2·3번을 보세요.',
         specs: ['제품: 몽크로스 두랄루민 3단 등산스틱 (1+1)', '방식: 3단 길이조절 · EVA 손잡이', '용도: 입문·둘레길', '배송: 로켓배송', '가격: 약 14,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8869156215&itemId=25872436933&vendorItemId=93625222858&traceid=V0-153-72284e54e124335c&requestid=20260714180436148041719751&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8869156215&itemId=25872436933&vendorItemId=93625222858&traceid=V0-153-72284e54e124335c&requestid=20260714180436148041719751&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11580,7 +11580,7 @@ module.exports = [
         consNote: '저렴하게 입문이면 1번, 제대로 오래면 3번 프리미엄입니다. 2번은 <strong>"초경량+접이 수납"</strong>의 실속 구간 — 배낭 휴대·산행에 무난합니다.',
         review: '"가볍고 배낭에 접어 넣는 게 중요"하면 초경량 접이식이 좋습니다. 팔이 덜 피로해요. 프리미엄 완성도면 3번을 보세요.',
         specs: ['제품: 본트래커 초경량 접이식 등산스틱 (2개)', '재질: 듀랄루민 7075 · 접이식', '용도: 산행·배낭 휴대', '배송: 로켓배송', '가격: 약 35,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7395742059&itemId=19130906611&vendorItemId=86138220153&traceid=V0-153-12d0c4adcf54de14&requestid=20260714180436148041719751&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7395742059&itemId=19130906611&vendorItemId=86138220153&traceid=V0-153-12d0c4adcf54de14&requestid=20260714180436148041719751&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11599,7 +11599,7 @@ module.exports = [
         consNote: '저렴하게 입문이면 1번, 초경량 접이 실속이면 2번이 합리적입니다. 3번은 <strong>견고한 잠금·완성도·내구</strong>로 오래 쓰려는 분에게 값어치가 있습니다.',
         review: '"산을 자주 다녀 제대로 오래 쓸 것"이면 프리미엄 7075가 견고합니다. 잠금이 튼튼해 미끄러짐이 없어요. 입문·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 서밋크래프트 7075 접이식 등산스틱', '재질: 7075 두랄루민 · 견고한 잠금', '용도: 잦은 산행·오래', '배송: 로켓배송', '가격: 약 109,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9553178658&itemId=28504687304&vendorItemId=95454427909&traceid=V0-153-c1936e250dee56b9&clickBeacon=096a7e60-7f63-11f1-8f47-e1259bd9e6d6%7E3&requestid=20260714180436148041719751&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9553178658&itemId=28504687304&vendorItemId=95454427909&traceid=V0-153-c1936e250dee56b9&clickBeacon=096a7e60-7f63-11f1-8f47-e1259bd9e6d6%7E3&requestid=20260714180436148041719751&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -11691,7 +11691,7 @@ module.exports = [
         consNote: '이 제품은 <strong>침실·가성비용</strong>입니다. 수유·아기방이면 2번 수유등, 별빛 감성이면 3번 프로젝터로 가세요. "저렴하게 무드등"이면 가성비 최고예요.',
         review: '"침실 머리맡 무드등 저렴하게"면 충전식으로 충분합니다. 무선에 리모컨도 되고요. 수유·별빛 감성이면 2·3번을 보세요.',
         specs: ['제품: 홈플래닛 충전식 LED 무드등 (리모컨)', '전원: 충전식(무선) · 리모컨', '용도: 침실·머리맡', '배송: 로켓배송', '가격: 약 11,790원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7600154384&itemId=20102972021&vendorItemId=87198049002&traceid=V0-153-85d784d5e5672a24&requestid=20260714180436710146241916&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7600154384&itemId=20102972021&vendorItemId=87198049002&traceid=V0-153-85d784d5e5672a24&requestid=20260714180436710146241916&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11710,7 +11710,7 @@ module.exports = [
         consNote: '저렴하게 침실 무드등이면 1번, 별빛 감성이면 3번입니다. 2번은 <strong>"수유 편의(뒤집어 켜기)"</strong>의 실속 구간 — 아기방·수유에 가장 무난합니다.',
         review: '"밤 수유 때 켜고 끄기가 번거롭다"면 뒤집는 수유등이 정말 편합니다. 은은해서 아기가 안 깨요. 감성 연출이면 3번을 보세요.',
         specs: ['제품: 말랑하니 뒤집으면 꺼지는 수유등 (우드·주광색)', '기능: 뒤집어 켜짐/꺼짐 · 은은한 밝기', '용도: 수유·아기방', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1258923534&itemId=2259848208&vendorItemId=70257133815&traceid=V0-153-95b0fddbe83a170a&clickBeacon=09c2b080-7f63-11f1-8c54-5460ea1808ce%7E3&requestid=20260714180436710146241916&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1258923534&itemId=2259848208&vendorItemId=70257133815&traceid=V0-153-95b0fddbe83a170a&clickBeacon=09c2b080-7f63-11f1-8c54-5460ea1808ce%7E3&requestid=20260714180436710146241916&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11729,7 +11729,7 @@ module.exports = [
         consNote: '저렴하게 무드등이면 1번, 수유 편의면 2번이 합리적입니다. 3번은 <strong>별빛·우주 감성 연출</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"침실 천장에 별빛 띄워 감성 있게"면 우주 프로젝터가 만족스럽습니다. 분위기가 확 달라져요. 실용·수유·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 아이리버 우주 무드등 프로젝터 (ISV-100)', '기능: 별빛·달빛 투사 · 자동 회전 · 수면등', '용도: 감성 연출', '배송: 로켓배송', '가격: 약 69,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9555527078&itemId=28512593064&vendorItemId=95382383156&traceid=V0-153-320bc7e7ed2d1f87&clickBeacon=09c2b080-7f63-11f1-8242-cf21d2bbb5cd%7E3&requestid=20260714180436710146241916&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9555527078&itemId=28512593064&vendorItemId=95382383156&traceid=V0-153-320bc7e7ed2d1f87&clickBeacon=09c2b080-7f63-11f1-8242-cf21d2bbb5cd%7E3&requestid=20260714180436710146241916&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -11820,7 +11820,7 @@ module.exports = [
         consNote: '이 제품은 <strong>무난·가성비용</strong>입니다. 여러 맛이면 2번, 익숙한 브랜드면 3번 립톤으로 가세요. "무난한 레몬 가성비"면 좋습니다.',
         review: '"콤부차 무난한 맛으로 상큼하게"면 티젠 레몬이 인기입니다. 물에 타면 톡 쏘아요. 여러 맛·브랜드면 2·3번을 보세요.',
         specs: ['제품: 티젠 콤부차 레몬', '맛: 레몬(무난)', '형태: 스틱', '배송: 로켓배송', '가격: 약 13,950원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8565469558&itemId=16371399370&vendorItemId=80080064236&traceid=V0-153-bbbca3438a3c712a&requestid=20260714180437219110010208&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8565469558&itemId=16371399370&vendorItemId=80080064236&traceid=V0-153-bbbca3438a3c712a&requestid=20260714180437219110010208&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11839,7 +11839,7 @@ module.exports = [
         consNote: '무난한 레몬 가성비면 1번, 익숙한 브랜드면 3번 립톤입니다. 2번은 <strong>"여러 맛+대용량"</strong>의 실속 구간 — 질리지 않게 마시기 무난합니다.',
         review: '"한 맛만 마시면 질린다"면 여러 맛 70포가 좋습니다. 골라 마시는 재미가 있어요. 무난한 레몬·브랜드면 1·3번을 보세요.',
         specs: ['제품: 데이앤 콤부차 (다양한 맛 70포)', '맛: 복숭아·자두·파인애플·레몬 등', '구성: 70포 대용량 스틱', '배송: 일반배송', '가격: 약 17,590원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6731797113&itemId=15687586802&vendorItemId=89762326840&traceid=V0-153-c7a99c79241b1661&requestid=20260714180437219110010208&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6731797113&itemId=15687586802&vendorItemId=89762326840&traceid=V0-153-c7a99c79241b1661&requestid=20260714180437219110010208&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11858,7 +11858,7 @@ module.exports = [
         consNote: '무난한 레몬 가성비면 1번, 여러 맛이면 2번이 합리적입니다. 3번은 <strong>익숙한 브랜드·복숭아맛</strong>을 선호하는 분에게 어울립니다.',
         review: '"익숙한 립톤으로 복숭아맛을"이면 무난합니다. 브랜드라 안심이에요. 여러 맛·최저가면 1·2번이 합리적입니다.',
         specs: ['제품: 립톤 콤부차 복숭아 (50개입)', '맛: 복숭아', '구성: 50개입 스틱', '배송: 로켓배송', '가격: 약 15,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9552639340&itemId=28502791942&vendorItemId=95452590159&traceid=V0-153-d9c51b4c844201c1&clickBeacon=0a0e3870-7f63-11f1-aba3-cf79666f34b3%7E3&requestid=20260714180437219110010208&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9552639340&itemId=28502791942&vendorItemId=95452590159&traceid=V0-153-d9c51b4c844201c1&clickBeacon=0a0e3870-7f63-11f1-aba3-cf79666f34b3%7E3&requestid=20260714180437219110010208&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -11948,7 +11948,7 @@ module.exports = [
         consNote: '이 제품은 <strong>반복 사용·가성비용</strong>입니다. 미세플라스틱 없는 젤이면 2번, 택배·대량이면 3번으로 가세요. "저렴하게 반복"이면 가성비 최고예요.',
         review: '"얼려서 반복 쓰는 물팩 저렴하게"면 아이스탱크가 무난합니다. 안 새고 반복돼요. 젤 밀착·대량이면 2·3번을 보세요.',
         specs: ['제품: 코멕스 아이스탱크 팩 (0.6L×2)', '재질: 물팩(케이스형)', '용도: 반복 사용 보냉', '배송: 로켓배송', '가격: 약 7,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9336645294&itemId=2722981753&vendorItemId=85478231479&traceid=V0-153-8964620dfe056cc4&requestid=20260714180519002266611124&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9336645294&itemId=2722981753&vendorItemId=85478231479&traceid=V0-153-8964620dfe056cc4&requestid=20260714180519002266611124&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11967,7 +11967,7 @@ module.exports = [
         consNote: '저렴하게 반복 물팩이면 1번, 업소·대량이면 3번입니다. 2번은 <strong>"미세플라스틱 없는 젤+보냉"</strong>의 실속 구간 — 안심·보냉을 챙기는 분에게 무난합니다.',
         review: '"젤팩 미세플라스틱이 걱정되고 보냉은 좋아야"면 식물성 젤이 안심입니다. 밀착·보냉이 좋아요. 저렴한 반복·대량이면 1·3번을 보세요.',
         specs: ['제품: 다모아 식물성 젤 아이스팩 (15×20cm, 60개)', '재질: 미세플라스틱 제로 식물성 젤', '구성: 완제품 60개', '배송: 로켓배송', '가격: 약 22,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7896897907&itemId=25084639874&vendorItemId=92089772676&traceid=V0-153-a2215bdf84bc72e5&clickBeacon=22f5cce0-7f63-11f1-94e7-d7d9274a8d6d%7E3&requestid=20260714180519002266611124&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7896897907&itemId=25084639874&vendorItemId=92089772676&traceid=V0-153-a2215bdf84bc72e5&clickBeacon=22f5cce0-7f63-11f1-94e7-d7d9274a8d6d%7E3&requestid=20260714180519002266611124&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -11986,7 +11986,7 @@ module.exports = [
         consNote: '개인·소량 반복이면 1번, 미세플라스틱 없는 완제품이면 2번이 합리적입니다. 3번은 <strong>택배·업소 대량</strong>이 목적일 때 값어치가 있습니다.',
         review: '"택배·판매로 아이스팩이 대량 필요"하면 반제품 1500개가 개당 단가로 이득입니다. 직접 채워 얼리면 돼요. 개인·소량이면 1·2번이 합리적입니다.',
         specs: ['제품: 제이제이컴퍼니 아이스팩 반제품 (15×20cm, 1500개)', '재질: 반제품(직접 물 주입)', '용도: 택배·업소 대량', '배송: 로켓배송', '가격: 약 132,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7660277561&itemId=28644373116&vendorItemId=95587010036&traceid=V0-153-a22d5f89aa2bce59&clickBeacon=22f5cce0-7f63-11f1-9a57-97c8f784c3b4%7E3&requestid=20260714180519002266611124&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7660277561&itemId=28644373116&vendorItemId=95587010036&traceid=V0-153-a22d5f89aa2bce59&clickBeacon=22f5cce0-7f63-11f1-9a57-97c8f784c3b4%7E3&requestid=20260714180519002266611124&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -12078,7 +12078,7 @@ module.exports = [
         consNote: '이 제품은 <strong>자취·소량용</strong>입니다. 아기옷 살균이면 2번, 넉넉한 5kg면 3번으로 가세요. "자취 소량"이면 가성비 최고예요.',
         review: '"자취라 소량 빨래를 장마철에도"면 2.5kg로 충분합니다. 컴팩트해요. 살균·대용량이면 2·3번을 보세요.',
         specs: ['제품: IMMU 컴팩트 미니 건조기 (2.5kg)', '용량: 2.5kg · 컴팩트', '설치: 직접 설치', '배송: 로켓배송', '가격: 약 150,170원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8098736474&itemId=22900295665&vendorItemId=89934812190&traceid=V0-153-5bec74aec34fc341&requestid=20260714181812783224860012&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8098736474&itemId=22900295665&vendorItemId=89934812190&traceid=V0-153-5bec74aec34fc341&requestid=20260714181812783224860012&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12097,7 +12097,7 @@ module.exports = [
         consNote: '자취·소량이면 1번, 넉넉한 5kg면 3번입니다. 2번은 <strong>"살균+아기옷 케어"</strong>의 실속 구간 — 위생 건조에 무난합니다.',
         review: '"아기옷·속옷을 살균까지 하며 부드럽게"면 3kg 살균이 좋습니다. 위생이 안심돼요. 이불·대량이면 3번을 보세요.',
         specs: ['제품: 3kg 터치 미니건조기 (살균, EWR03SGW)', '용량: 3kg · 99.9% 살균 · 아기옷 케어', '조작: 터치', '배송: 로켓배송', '가격: 약 229,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8020386608&itemId=15913236422&vendorItemId=88774151217&traceid=V0-153-ee18168fea0eb8bf&clickBeacon=f02b9040-7f64-11f1-a61d-ec623fdacdd3%7E3&requestid=20260714181812783224860012&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8020386608&itemId=15913236422&vendorItemId=88774151217&traceid=V0-153-ee18168fea0eb8bf&clickBeacon=f02b9040-7f64-11f1-a61d-ec623fdacdd3%7E3&requestid=20260714181812783224860012&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12116,7 +12116,7 @@ module.exports = [
         consNote: '자취·소량이면 1번, 아기옷 살균 소량이면 2번이 합리적입니다. 3번은 <strong>넉넉한 5kg+UV살균</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"미니는 너무 작고 대형은 부담"이면 5kg가 넉넉한 절충입니다. UV살균에 브랜드도 안심이에요. 자취·소량이면 1·2번이 합리적입니다.',
         specs: ['제품: 한일 UV살균 미니 의류건조기 (5kg, HLD-5100W)', '용량: 5kg · UV살균', '브랜드: 한일', '배송: 로켓배송', '가격: 약 359,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8332811371&itemId=24058932389&vendorItemId=91347709248&traceid=V0-153-98af4053a058988a&clickBeacon=f02b9040-7f64-11f1-aad5-fc659056d9c9%7E3&requestid=20260714181812783224860012&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8332811371&itemId=24058932389&vendorItemId=91347709248&traceid=V0-153-98af4053a058988a&clickBeacon=f02b9040-7f64-11f1-aad5-fc659056d9c9%7E3&requestid=20260714181812783224860012&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -12208,7 +12208,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·항균용</strong>입니다. 위생 스텐 양면이면 2번, 용도별 세트면 3번으로 가세요. "저렴하게 항균"이면 가성비 최고예요.',
         review: '"항균 도마 하나 저렴하게"면 마블 도마로 충분합니다. 가볍고요. 위생 스텐·용도별 세트면 2·3번을 보세요.',
         specs: ['제품: 락앤락 항균 마블 도마', '재질: 항균', '용도: 기본 도마', '배송: 로켓배송', '가격: 약 7,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1417970198&itemId=12464372228&vendorItemId=70444385818&traceid=V0-153-074499887f1e1def&requestid=20260714181813544224860235&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1417970198&itemId=12464372228&vendorItemId=70444385818&traceid=V0-153-074499887f1e1def&requestid=20260714181813544224860235&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12227,7 +12227,7 @@ module.exports = [
         consNote: '저렴하게 항균이면 1번, 용도별 3종 세트면 3번입니다. 2번은 <strong>"칼집 없는 스텐 위생"</strong>의 실속 구간 — 위생을 챙기는 분에게 무난합니다.',
         review: '"플라스틱 도마 칼집·미세플라스틱이 찜찜"하면 스텐 도마가 위생적입니다. 소독도 쉬워요. 용도별 세트면 3번을 보세요.',
         specs: ['제품: 엔젤쿡 양면 스텐 도마', '재질: 스테인리스(칼집 없음)', '용도: 양면·위생', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8096854841&itemId=22892884868&vendorItemId=91768889497&traceid=V0-153-ef65977fc48d04b9&requestid=20260714181813544224860235&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8096854841&itemId=22892884868&vendorItemId=91768889497&traceid=V0-153-ef65977fc48d04b9&requestid=20260714181813544224860235&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12246,7 +12246,7 @@ module.exports = [
         consNote: '저렴하게 항균이면 1번, 칼집 없는 스텐이면 2번이 합리적입니다. 3번은 <strong>용도별 분리(교차오염 방지)+거치</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"고기·채소 도마를 나눠 위생적으로"면 3종 세트가 좋습니다. 교차오염을 막고 거치대로 깔끔해요. 단품·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 도블레 항균 도마 3종 + ABS 스탠드', '구성: 소·중·대 3종 · 거치대', '용도: 용도별 분리·위생', '배송: 로켓배송', '가격: 약 59,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7464904073&itemId=19714757644&vendorItemId=86819044444&traceid=V0-153-31b0717a9dd5ffbc&clickBeacon=f09ffcf0-7f64-11f1-9ed6-792951806975%7E3&requestid=20260714181813544224860235&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7464904073&itemId=19714757644&vendorItemId=86819044444&traceid=V0-153-31b0717a9dd5ffbc&clickBeacon=f09ffcf0-7f64-11f1-9ed6-792951806975%7E3&requestid=20260714181813544224860235&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -12338,7 +12338,7 @@ module.exports = [
         consNote: '이 제품은 <strong>진한·익숙·가성비용</strong>입니다. 부드러운 국민 맛이면 2번 프렌치카페, 프리미엄 원두 느낌이면 3번 이디야로 가세요. "진하고 익숙"이면 무난합니다.',
         review: '"진하고 익숙한 믹스커피"면 맥스웰 오리지날이 무난합니다. 대용량이라 쟁여두기 좋고요. 부드러움·프리미엄이면 2·3번을 보세요.',
         specs: ['제품: 맥스웰하우스 오리지날 커피믹스', '맛: 진한 오리지날', '용도: 사무실·집(대용량)', '배송: 로켓배송', '가격: 약 18,850원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4663207767&itemId=625952248&vendorItemId=3000128508&traceid=V0-153-5e7b0be4d88ce3dc&requestid=20260714181814303177684232&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4663207767&itemId=625952248&vendorItemId=3000128508&traceid=V0-153-5e7b0be4d88ce3dc&requestid=20260714181814303177684232&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -12357,7 +12357,7 @@ module.exports = [
         consNote: '진하고 익숙하면 1번, 프리미엄 원두 느낌이면 3번 이디야입니다. 2번은 <strong>"부드럽고 무난한 국민 맛"</strong>의 실속 구간 — 두루 즐기기 무난합니다.',
         review: '"부드럽고 누구나 좋아하는 무난한 맛"이면 프렌치카페가 국민템입니다. 공용으로도 좋아요. 진한 맛·프리미엄이면 1·3번을 보세요.',
         specs: ['제품: 프렌치카페 카페믹스 오리지날', '맛: 부드러운·무난', '용도: 사무실·공용', '배송: 로켓배송', '가격: 약 23,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8174675587&itemId=18673639452&vendorItemId=89676592429&traceid=V0-153-fe9c02a89ee5cc76&requestid=20260714181814303177684232&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8174675587&itemId=18673639452&vendorItemId=89676592429&traceid=V0-153-fe9c02a89ee5cc76&requestid=20260714181814303177684232&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -12376,7 +12376,7 @@ module.exports = [
         consNote: '진하고 익숙·저렴하면 1번, 부드러운 국민 맛이면 2번이 합리적입니다. 3번은 <strong>프리미엄 원두 풍미</strong>를 원하는 분에게 어울립니다.',
         review: '"일반 믹스보다 조금 더 원두 느낌으로"면 이디야 골드블렌드가 좋습니다. 프리미엄 느낌이에요. 진한 오리지날·부드러움이면 1·2번이 합리적입니다.',
         specs: ['제품: 이디야 스페셜 골드블렌드 커피믹스', '맛: 프리미엄 블렌드(원두 풍미)', '브랜드: 이디야', '배송: 로켓배송', '가격: 약 25,300원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8535245404&itemId=13567836802&vendorItemId=94808845654&traceid=V0-153-9f025d155cbddf1b&requestid=20260714181814303177684232&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8535245404&itemId=13567836802&vendorItemId=94808845654&traceid=V0-153-9f025d155cbddf1b&requestid=20260714181814303177684232&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -12466,7 +12466,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·짧은 거리용</strong>입니다. 듀얼모니터·5m면 2번, 멀리 10m면 3번으로 가세요. "짧은 거리 8K"면 가성비 최고예요.',
         review: '"모니터·콘솔 가까이 8K로"면 5천원 v2.1로 충분합니다. 대부분 이걸로 돼요. 길이가 필요하면 2·3번을 보세요.',
         specs: ['제품: 홈플래닛 8K HDMI v2.1 케이블', '규격: 8K · v2.1 · 꼬임방지', '용도: 짧은 거리 고화질', '배송: 로켓배송', '가격: 약 5,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7511187077&itemId=19680938703&vendorItemId=86786307658&traceid=V0-153-97bdb2176d9a4479&requestid=20260714181815087177684405&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7511187077&itemId=19680938703&vendorItemId=86786307658&traceid=V0-153-97bdb2176d9a4479&requestid=20260714181815087177684405&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12485,7 +12485,7 @@ module.exports = [
         consNote: '짧은 거리·저렴이면 1번, 멀리 10m면 3번입니다. 2번은 <strong>"5m 여유+8K"</strong>의 실속 구간 — 듀얼모니터·거리 연결에 무난합니다.',
         review: '"모니터·TV가 조금 떨어져 있어 5m 정도"면 이 케이블이 딱입니다. 8K도 유지돼요. 아주 멀면 3번을 보세요.',
         specs: ['제품: 로랜텍 8K HDMI v2.1 케이블 (5m)', '규격: 8K · v2.1 · 5m', '용도: 듀얼모니터·거리', '배송: 로켓배송', '가격: 약 13,550원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8271524885&itemId=23838747978&vendorItemId=94881677476&traceid=V0-153-1b6d0f63677ebc67&clickBeacon=f18be390-7f64-11f1-99ad-f3f5c73692a4%7E3&requestid=20260714181815087177684405&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8271524885&itemId=23838747978&vendorItemId=94881677476&traceid=V0-153-1b6d0f63677ebc67&clickBeacon=f18be390-7f64-11f1-99ad-f3f5c73692a4%7E3&requestid=20260714181815087177684405&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12504,7 +12504,7 @@ module.exports = [
         consNote: '짧은 거리·저렴이면 1번, 5m 듀얼이면 2번이 합리적입니다. 3번은 <strong>10m 멀리 연결(TV·빔)</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"TV·빔프로젝터가 멀리 있어 긴 케이블이 필요"하면 10m가 답입니다. 멀리도 8K로 연결돼요. 짧은 거리면 1·2번이 합리적입니다.',
         specs: ['제품: 코드웨이 8K HDMI v2.1 케이블 (10m)', '규격: 8K · v2.1 · 10m', '용도: 멀리 연결(TV·빔)', '배송: 로켓배송', '가격: 약 28,350원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5268128572&itemId=7371003618&vendorItemId=74776393662&traceid=V0-153-d38db4a4d83b73d7&clickBeacon=f18bbc80-7f64-11f1-951b-03a902d87248%7E3&requestid=20260714181815087177684405&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5268128572&itemId=7371003618&vendorItemId=74776393662&traceid=V0-153-d38db4a4d83b73d7&clickBeacon=f18bbc80-7f64-11f1-951b-03a902d87248%7E3&requestid=20260714181815087177684405&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -12595,7 +12595,7 @@ module.exports = [
         consNote: '이 제품은 <strong>전신·지압·가성비용</strong>입니다. 얼굴 붓기·윤곽이면 2번, 얼굴 여러 개면 3번 세트로 가세요. "전신·저렴"이면 가성비 최고예요.',
         review: '"전신·뭉친 곳을 저렴하게 지압"이면 문어형 1+1이 알뜰합니다. 잡기 편해요. 얼굴 관리 전용이면 2·3번을 보세요.',
         specs: ['제품: 솔리앤 문어 지압 마사지기 (1+1)', '부위: 전신 지압', '구성: 1+1', '배송: 로켓배송', '가격: 약 4,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9457366282&itemId=28139595722&vendorItemId=95612681358&traceid=V0-153-d6af6c4589988b06&clickBeacon=f21d4e20-7f64-11f1-a6d7-6a2297757636%7E3&requestid=20260714181816040043373328&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9457366282&itemId=28139595722&vendorItemId=95612681358&traceid=V0-153-d6af6c4589988b06&clickBeacon=f21d4e20-7f64-11f1-a6d7-6a2297757636%7E3&requestid=20260714181816040043373328&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12614,7 +12614,7 @@ module.exports = [
         consNote: '전신·저렴 지압이면 1번, 얼굴 여러 개 세트면 3번입니다. 2번은 <strong>"얼굴·승모근 관리"</strong>의 실속 구간 — 얼굴 붓기 셀프 관리에 무난합니다.',
         review: '"얼굴 붓기·승모근을 셀프로"면 얼굴 괄사가 좋습니다. 라인에 밀착돼요. 전신 지압·세트면 1·3번을 보세요.',
         specs: ['제품: 베네피센트 얼굴 괄사 마사지기', '부위: 얼굴·승모근·목', '용도: 셀프 이완·붓기 관리', '배송: 로켓배송', '가격: 약 8,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9373372005&itemId=27821604041&vendorItemId=94781320206&traceid=V0-153-bc881a13a8017a88&requestid=20260714181816040043373328&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9373372005&itemId=27821604041&vendorItemId=94781320206&traceid=V0-153-bc881a13a8017a88&requestid=20260714181816040043373328&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12633,7 +12633,7 @@ module.exports = [
         consNote: '전신·저렴이면 1번, 얼굴 한 개면 2번이 합리적입니다. 3번은 <strong>부위별 모양+여러 개</strong>로 얼굴 관리를 갖추려는 분에게 어울립니다.',
         review: '"얼굴 부위별로 모양을 골라 제대로"면 3개 세트가 좋습니다. 부위별 전용이 편해요. 전신·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 에스테 페이스 괄사 (3개 세트)', '부위: 얼굴 부위별', '구성: 3개', '배송: 로켓배송', '가격: 약 15,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5938257306&itemId=18741628075&vendorItemId=85873891596&traceid=V0-153-6050df425cb5e50e&clickBeacon=f21d4e20-7f64-11f1-aba0-334b06b35dc0%7E3&requestid=20260714181816040043373328&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5938257306&itemId=18741628075&vendorItemId=85873891596&traceid=V0-153-6050df425cb5e50e&clickBeacon=f21d4e20-7f64-11f1-aba0-334b06b35dc0%7E3&requestid=20260714181816040043373328&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -12723,7 +12723,7 @@ module.exports = [
         consNote: '이 제품은 <strong>슬림·가성비용</strong>입니다. 파우치째 들고 다니면 2번 손잡이형, 충전기까지 넉넉하면 3번 방수 대용량으로 가세요. "가방 속 슬림"이면 가성비 최고예요.',
         review: '"가방에 넣어 긁힘만 막으면 된다"면 융쿠션 세트로 충분합니다. 슬림해요. 손잡이·대용량이면 2·3번을 보세요.',
         specs: ['제품: 슬루나 융쿠션 노트북 파우치 세트', '보호: 융쿠션 완충', '형태: 슬림 파우치', '배송: 로켓배송', '가격: 약 7,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9557367814&itemId=28519060231&vendorItemId=95289354560&traceid=V0-153-59d967d4b9afc728&requestid=20260714181816690110019214&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9557367814&itemId=28519060231&vendorItemId=95289354560&traceid=V0-153-59d967d4b9afc728&requestid=20260714181816690110019214&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12742,7 +12742,7 @@ module.exports = [
         consNote: '가방 속 슬림이면 1번, 충전기까지 넉넉하면 3번 방수 대용량입니다. 2번은 <strong>"손잡이 휴대"</strong>의 실속 구간 — 파우치째 들고 다니기 무난합니다.',
         review: '"가방 없이 노트북만 손에 들고 회의실로"면 손잡이형이 편합니다. 깔끔해요. 충전기까지 넣으려면 3번을 보세요.',
         specs: ['제품: 모딘 노트북 파우치 (손잡이형)', '크기: 15·16인치 대응', '특징: 손잡이 휴대', '배송: 로켓배송', '가격: 약 21,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9560150174&itemId=28528950499&vendorItemId=95475165740&traceid=V0-153-26eb4901a4fd6550&clickBeacon=f2800790-7f64-11f1-9adb-4e25704aec4b%7E3&requestid=20260714181816690110019214&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9560150174&itemId=28528950499&vendorItemId=95475165740&traceid=V0-153-26eb4901a4fd6550&clickBeacon=f2800790-7f64-11f1-9adb-4e25704aec4b%7E3&requestid=20260714181816690110019214&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12761,7 +12761,7 @@ module.exports = [
         consNote: '가방 속 슬림이면 1번, 손잡이 휴대면 2번이 합리적입니다. 3번은 <strong>충전기 수납+방수</strong>가 필요한 출장·외근 분에게 값어치가 있습니다.',
         review: '"충전기·마우스까지 넣고 비도 걱정"이면 방수 대용량이 안심입니다. 살림이 한 번에 들어가요. 슬림·손잡이면 1·2번이 합리적입니다.',
         specs: ['제품: bagasin 방수 대용량 노트북 파우치', '크기: 13~17인치', '수납: 충전기·주변기기 · 방수', '배송: 로켓배송', '가격: 약 26,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9136615974&itemId=27112775666&vendorItemId=94080865494&traceid=V0-153-0bee2af972884c95&clickBeacon=f2800790-7f64-11f1-9993-bff479d2d14c%7E3&requestid=20260714181816690110019214&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9136615974&itemId=27112775666&vendorItemId=94080865494&traceid=V0-153-0bee2af972884c95&clickBeacon=f2800790-7f64-11f1-9993-bff479d2d14c%7E3&requestid=20260714181816690110019214&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -12853,7 +12853,7 @@ module.exports = [
         consNote: '이 제품은 <strong>고정·가성비용</strong>입니다. 여러 무게를 바꿔 쓰려면 2번 무게조절 세트, 오래 튼튼히면 3번 프리미엄으로 가세요. "정해진 무게"면 가성비 좋아요.',
         review: '"정해진 무게로 간단히 홈트"면 육각 고정이 무난합니다. 안 굴러가요. 여러 무게가 필요하면 2번을 보세요.',
         specs: ['제품: 코멧 스포츠 육각 덤벨 (고정)', '방식: 고정형(육각)', '용도: 홈트·근력', '배송: 로켓배송', '가격: 약 11,980원 (변동 가능, 무게별 상이)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5849009032&itemId=10172839865&vendorItemId=77455406076&traceid=V0-153-28053589bbc86af1&requestid=20260714181817443202183096&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5849009032&itemId=10172839865&vendorItemId=77455406076&traceid=V0-153-28053589bbc86af1&requestid=20260714181817443202183096&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12872,7 +12872,7 @@ module.exports = [
         consNote: '정해진 무게 저렴이면 1번, 오래 튼튼히면 3번 프리미엄입니다. 2번은 <strong>"무게조절+겸용"</strong>의 실속 구간 — 하나로 여러 무게를 쓰기 무난합니다.',
         review: '"부위별로 무게를 바꿔 제대로 홈트"면 무게조절 세트가 효율적입니다. 하나로 여러 무게가 돼요. 정해진 무게·프리미엄이면 1·3번을 보세요.',
         specs: ['제품: 코멧 스포츠 무게조절 덤벨·바벨 세트 (28kg)', '방식: 원판 추가 조절 · 덤벨/바벨 겸용', '무게: 최대 약 28kg', '배송: 로켓배송', '가격: 약 22,330원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8336082275&itemId=24070496412&vendorItemId=91090225336&traceid=V0-153-c6474a8efc780071&requestid=20260714181817443202183096&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8336082275&itemId=24070496412&vendorItemId=91090225336&traceid=V0-153-c6474a8efc780071&requestid=20260714181817443202183096&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -12891,7 +12891,7 @@ module.exports = [
         consNote: '정해진 무게 저렴이면 1번, 여러 무게 조절이면 2번이 합리적입니다. 3번은 <strong>코팅 마감·바닥 보호·내구</strong>로 오래 쓰려는 분에게 값어치가 있습니다.',
         review: '"바닥 긁힘·소음 없이 오래 튼튼히"면 PEV 헥사곤이 좋습니다. 마감이 고급스러워요. 저렴·무게조절이면 1·2번이 합리적입니다.',
         specs: ['제품: 홈짐 PEV 헥사곤 덤벨 (10kg 2개)', '방식: 고정형(PEV 코팅 헥사곤)', '특징: 바닥·소음 보호 · 내구', '배송: 로켓배송', '가격: 약 58,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9234035081&itemId=27298725223&vendorItemId=91507390791&traceid=V0-153-bf6440394d8cc081&clickBeacon=f2f27870-7f64-11f1-b69a-0e7c3ebb1a4c%7E3&requestid=20260714181817443202183096&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9234035081&itemId=27298725223&vendorItemId=91507390791&traceid=V0-153-bf6440394d8cc081&clickBeacon=f2f27870-7f64-11f1-b69a-0e7c3ebb1a4c%7E3&requestid=20260714181817443202183096&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -12983,7 +12983,7 @@ module.exports = [
         consNote: '이 제품은 <strong>사무·가성비용</strong>입니다. 눈 편한 IPS 멀티면 2번, 게임 고주사율이면 3번으로 가세요. "저렴한 사무·서브"면 가성비 좋아요.',
         review: '"문서·웹 위주로 저렴하게, 또는 듀얼 서브"면 22형으로 충분합니다. 피벗도 되고요. IPS·게임이면 2·3번을 보세요.',
         specs: ['제품: 삼성전자 22형 LED 모니터 (LS22C45K)', '크기: 22형 · 피벗 지원', '용도: 사무·서브', '배송: 일반배송', '가격: 약 57,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7752230014&itemId=23172955864&vendorItemId=88309682826&traceid=V0-153-4440b624e1627419&requestid=20260714200716752136799132&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7752230014&itemId=23172955864&vendorItemId=88309682826&traceid=V0-153-4440b624e1627419&requestid=20260714200716752136799132&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13002,7 +13002,7 @@ module.exports = [
         consNote: '저렴한 사무면 1번, 게임 고주사율이면 3번입니다. 2번은 <strong>"24형 IPS(눈 편함)"</strong>의 실속 구간 — 사무·멀티에 가장 무난합니다.',
         review: '"눈 편하게 문서·영상·멀티"면 24형 IPS가 정답입니다. 시야각·색이 좋아요. 본격 게임이면 3번을 보세요.',
         specs: ['제품: 빅트랙 24형 FHD IPS 모니터 (100Hz)', '패널: IPS · 100Hz · 24형', '용도: 사무·멀티', '배송: 로켓배송', '가격: 약 80,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8449280159&itemId=24443734907&vendorItemId=91457687104&traceid=V0-153-a6203d5b06df8c93&clickBeacon=2caf83f0-7f74-11f1-9e64-f185db5f493b%7E3&requestid=20260714200716752136799132&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8449280159&itemId=24443734907&vendorItemId=91457687104&traceid=V0-153-a6203d5b06df8c93&clickBeacon=2caf83f0-7f74-11f1-9e64-f185db5f493b%7E3&requestid=20260714200716752136799132&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13021,7 +13021,7 @@ module.exports = [
         consNote: '저렴한 사무면 1번, 눈 편한 IPS 멀티면 2번이 합리적입니다. 3번은 <strong>게임·부드러운 고주사율</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"게임을 부드럽게, 화면 잔상 없이"면 144Hz가 확실히 다릅니다. IPS라 색도 좋고요. 사무만이면 1·2번이 합리적입니다.',
         specs: ['제품: 한성컴퓨터 FHD IPS 144Hz 게이밍 모니터', '패널: IPS · 144Hz', '용도: 게임·고주사율', '배송: 로켓배송', '가격: 약 109,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8686571087&itemId=25217770729&vendorItemId=92214177209&traceid=V0-153-0a1cbb7bb5b94a05&requestid=20260714200716752136799132&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8686571087&itemId=25217770729&vendorItemId=92214177209&traceid=V0-153-0a1cbb7bb5b94a05&requestid=20260714200716752136799132&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -13112,7 +13112,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·FPS용</strong>입니다. 곡면 몰입·초고주사율이면 2번, 선명한 대화면이면 3번으로 가세요. "가성비 FPS"면 최고예요.',
         review: '"FPS를 부드럽게, 가성비로"면 24형 180Hz가 정석입니다. 시선 이동도 적고요. 몰입·대화면이면 2·3번을 보세요.',
         specs: ['제품: 디엑스 24형 FHD 180Hz 게이밍 모니터', '규격: FHD · 180Hz · 24형', '용도: FPS·가성비', '배송: 로켓배송', '가격: 약 99,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9140535449&itemId=26907370204&vendorItemId=93876779421&traceid=V0-153-c9ded532a239e694&clickBeacon=2cfa4890-7f74-11f1-834d-928893320426%7E3&requestid=20260714200717254214619919&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9140535449&itemId=26907370204&vendorItemId=93876779421&traceid=V0-153-c9ded532a239e694&clickBeacon=2cfa4890-7f74-11f1-834d-928893320426%7E3&requestid=20260714200717254214619919&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13131,7 +13131,7 @@ module.exports = [
         consNote: '가성비 180Hz면 1번, 선명한 QHD 대화면이면 3번입니다. 2번은 <strong>"240Hz+커브드 몰입"</strong>의 실속 구간 — 경쟁 게임·몰입에 무난합니다.',
         review: '"프레임 최대한 뽑아 경쟁 게임, 곡면 몰입까지"면 240Hz 커브드가 좋습니다. 반응이 최상급이에요. 다만 PC 사양이 받쳐줘야 합니다.',
         specs: ['제품: 한성컴퓨터 FHD 240Hz 게이밍 커브드 모니터', '규격: FHD · 240Hz · 커브드', '용도: 경쟁 게임·몰입', '배송: 로켓배송', '가격: 약 209,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8736339636&itemId=25389773206&vendorItemId=92383530125&traceid=V0-153-a1416c4811320036&requestid=20260714200717254214619919&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8736339636&itemId=25389773206&vendorItemId=92383530125&traceid=V0-153-a1416c4811320036&requestid=20260714200717254214619919&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13150,7 +13150,7 @@ module.exports = [
         consNote: '가성비 FPS면 1번, 초고주사율 몰입이면 2번이 합리적입니다. 3번은 <strong>32형 QHD 선명·대화면</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"크고 선명한 화면으로 오픈월드·RPG 몰입"이면 32형 QHD가 만족스럽습니다. 삼성이라 안심이고요. 경쟁 FPS 위주면 1·2번이 합리적입니다.',
         specs: ['제품: 삼성 오디세이 G5 32형 QHD 게이밍 모니터 (LS32FG510)', '규격: QHD · VA · 32형', '용도: 화질·대화면', '배송: 일반배송', '가격: 약 329,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7791072088&itemId=27458373979&vendorItemId=94413909669&traceid=V0-153-d896bd170668ffed&clickBeacon=2cfa4890-7f74-11f1-8930-2bea93d0caf1%7E3&requestid=20260714200717254214619919&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7791072088&itemId=27458373979&vendorItemId=94413909669&traceid=V0-153-d896bd170668ffed&clickBeacon=2cfa4890-7f74-11f1-8930-2bea93d0caf1%7E3&requestid=20260714200717254214619919&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -13240,7 +13240,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·필기용</strong>입니다. 그림 제대로면 2번 와콤 소형, 넓게 그리면 3번 중형으로 가세요. "입문·체험"이면 가성비 좋아요.',
         review: '"그림·필기를 저렴하게 시작"이면 Deco Fun XS가 입문용으로 좋습니다. 화상수업 판서에도 딱이고요. 제대로 그릴 거면 2·3번을 보세요.',
         specs: ['제품: 엑스피펜 Deco Fun XS 펜 타블렛', '작업영역: 소형 · 배터리 없는 펜', '용도: 입문·필기·화상수업', '배송: 로켓배송', '가격: 약 32,450원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8266942145&itemId=10959761256&vendorItemId=80496406283&traceid=V0-153-eb8c7699d8272c0f&requestid=20260714201114087041716301&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8266942145&itemId=10959761256&vendorItemId=80496406283&traceid=V0-153-eb8c7699d8272c0f&requestid=20260714201114087041716301&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13259,7 +13259,7 @@ module.exports = [
         consNote: '입문·필기 체험이면 1번, 넓게 그리면 3번 중형입니다. 2번은 <strong>"와콤 소형(그림 정석)"</strong>의 실속 구간 — 그림 입문에 가장 무난합니다.',
         review: '"그림을 제대로 배울 것"이면 와콤 소형이 정석입니다. 필압·호환이 안정적이라 스트레스가 적어요. 넓게 그릴 거면 3번을 보세요.',
         specs: ['제품: 와콤 인튜어스 소형 타블렛 (CTL-4100)', '작업영역: 소형 · 자연 필압', '용도: 그림 입문·안정', '배송: 로켓배송', '가격: 약 60,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9328607426&itemId=27655209075&vendorItemId=3646009961&traceid=V0-153-faaf4e7972afc362&clickBeacon=ba2496d0-7f74-11f1-b2a2-a8ebba5cb80c%7E3&requestid=20260714201114087041716301&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9328607426&itemId=27655209075&vendorItemId=3646009961&traceid=V0-153-faaf4e7972afc362&clickBeacon=ba2496d0-7f74-11f1-b2a2-a8ebba5cb80c%7E3&requestid=20260714201114087041716301&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13278,7 +13278,7 @@ module.exports = [
         consNote: '입문·필기면 1번, 그림 입문 소형이면 2번이 합리적입니다. 3번은 <strong>넓은 작업 영역(중형)</strong>이 필요한 본격 사용자에게 값어치가 있습니다.',
         review: '"큰 화면에 매핑해 넓게 그릴 것"이면 중형이 편합니다. 팔을 크게 써도 여유가 있어요. 책상이 좁거나 입문이면 1·2번이 합리적입니다.',
         specs: ['제품: 와콤 인튜어스 중형 펜타블렛 (CTL-6100)', '작업영역: 중형(넓음) · 자연 필압', '용도: 넓은 작업·본격', '배송: 로켓배송', '가격: 약 112,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7500931894&itemId=988160473&vendorItemId=5411902974&traceid=V0-153-141cdb86e299de40&clickBeacon=ba2496d0-7f74-11f1-b32a-4c19abf2bec4%7E3&requestid=20260714201114087041716301&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7500931894&itemId=988160473&vendorItemId=5411902974&traceid=V0-153-141cdb86e299de40&clickBeacon=ba2496d0-7f74-11f1-b32a-4c19abf2bec4%7E3&requestid=20260714201114087041716301&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -13369,7 +13369,7 @@ module.exports = [
         consNote: '이 제품은 <strong>휴대·가성비용</strong>입니다. 돌려 쓰면 2번 회전형, 튼튼한 고정이면 3번 와이드로 가세요. "들고 다니는 휴대"면 가성비 최고예요.',
         review: '"카페·회의실로 들고 다니며 자세 개선"이면 접이식이 딱입니다. 가볍고 파우치도 있고요. 튼튼한 고정이면 2·3번을 보세요.',
         specs: ['제품: 홈플래닛 접이식 알루미늄 노트북 거치대', '형태: 접이식 · 파우치 포함', '용도: 휴대', '배송: 로켓배송', '가격: 약 9,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4971807620&itemId=6602194612&vendorItemId=73896221901&traceid=V0-153-ca0b4523740fa542&requestid=20260714200719353194117162&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4971807620&itemId=6602194612&vendorItemId=73896221901&traceid=V0-153-ca0b4523740fa542&requestid=20260714200719353194117162&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -13388,7 +13388,7 @@ module.exports = [
         consNote: '휴대용이면 1번, 튼튼한 각도조절이면 3번입니다. 2번은 <strong>"회전+방열"</strong>의 실속 구간 — 공유·발열 관리에 무난합니다.',
         review: '"화면 돌려 공유하고 발열도 잡고"면 회전 메탈이 좋습니다. 방열·안정감이 낫고요. 휴대·각도 위주면 1·3번을 보세요.',
         specs: ['제품: 홈플래닛 360도 회전 메탈 노트북 거치대', '형태: 360도 회전 · 쿨링홀', '용도: 회전·방열', '배송: 로켓배송', '가격: 약 17,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7475527573&itemId=19515327376&vendorItemId=86624094270&traceid=V0-153-1142e90ae05da909&requestid=20260714200719353194117162&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7475527573&itemId=19515327376&vendorItemId=86624094270&traceid=V0-153-1142e90ae05da909&requestid=20260714200719353194117162&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -13407,7 +13407,7 @@ module.exports = [
         consNote: '들고 다니면 1번, 회전·공유면 2번이 합리적입니다. 3번은 <strong>높이·각도 조절(자세 교정)</strong>을 제대로 하려는 분에게 값어치가 있습니다.',
         review: '"집·사무실에서 자세를 제대로 교정"하려면 와이드 각도조절이 낫습니다. 눈높이를 정확히 맞춰요. 들고 다니면 1번이 합리적입니다.',
         specs: ['제품: 홈플래닛 와이드 메탈 노트북 거치대', '형태: 높이·각도 조절 · 와이드 · 쿨링홀', '용도: 자세·고정', '배송: 로켓배송', '가격: 약 21,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4674285118&itemId=12324270409&vendorItemId=79594310423&traceid=V0-153-1dac7e8b98eb4139&requestid=20260714200719353194117162&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4674285118&itemId=12324270409&vendorItemId=79594310423&traceid=V0-153-1dac7e8b98eb4139&requestid=20260714200719353194117162&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -13498,7 +13498,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·기본용</strong>입니다. 조용한 사무실이면 2번 저소음, 정숙·안정성이면 3번 로지텍으로 가세요. "저렴한 무선"이면 좋아요.',
         review: '"무선으로 저렴하게 깔끔하게"면 이 세트로 충분합니다. 수신기 하나로 둘 다 되고요. 조용함·안정성이면 2·3번을 보세요.',
         specs: ['제품: 아이플렉스 무선 키보드 마우스 세트 (RK-3000C)', '연결: 무선 USB 수신', '용도: 기본 사무', '배송: 로켓배송', '가격: 약 14,170원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=28842499&itemId=110596057&vendorItemId=3216370846&traceid=V0-153-1edc08a12fd8be8d&clickBeacon=2e6ceb60-7f74-11f1-b008-f498d83ece73%7E3&requestid=20260714200719674058237859&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=28842499&itemId=110596057&vendorItemId=3216370846&traceid=V0-153-1edc08a12fd8be8d&clickBeacon=2e6ceb60-7f74-11f1-b008-f498d83ece73%7E3&requestid=20260714200719674058237859&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13517,7 +13517,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 정숙·안정성 최고면 3번 로지텍입니다. 2번은 <strong>"저소음+항균·방수"</strong>의 실속 구간 — 사무실 사용에 무난합니다.',
         review: '"사무실에서 조용하게, 흘림·위생까지"면 저소음 항균 세트가 좋습니다. 부담 없이 조용해요. 최상급 정숙·타건감이면 3번을 보세요.',
         specs: ['제품: 아이리버 저소음 무선 키보드 마우스 세트 (WS101)', '특징: 저소음 · 생활방수 · 항균', '용도: 사무·재택', '배송: 로켓배송', '가격: 약 24,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9071920734&itemId=26643112873&vendorItemId=93615786697&traceid=V0-153-ad70c9e654518c7c&clickBeacon=2e6ceb60-7f74-11f1-9772-5d0f607a6a9a%7E3&requestid=20260714200719674058237859&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9071920734&itemId=26643112873&vendorItemId=93615786697&traceid=V0-153-ad70c9e654518c7c&clickBeacon=2e6ceb60-7f74-11f1-9772-5d0f607a6a9a%7E3&requestid=20260714200719674058237859&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13536,7 +13536,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 저소음·항균이면 2번이 합리적입니다. 3번은 <strong>거의 무소음+로지텍 안정성</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"소음을 최대한 없애고 끊김 없이"면 로지텍 무소음이 최상입니다. 정숙하고 안정적이에요. 저렴·기본이면 1·2번이 합리적입니다.',
         specs: ['제품: 로지텍 무소음 무선 키보드 마우스 세트', '특징: 무소음 · 수신 안정 · 장기 배터리', '용도: 정숙·안정', '배송: 로켓배송', '가격: 약 42,650원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4829338756&itemId=6229002743&vendorItemId=72324802340&traceid=V0-153-bfdd043c133944d7&requestid=20260714200719674058237859&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4829338756&itemId=6229002743&vendorItemId=72324802340&traceid=V0-153-bfdd043c133944d7&requestid=20260714200719674058237859&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -13627,7 +13627,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·입문용</strong>입니다. 오래 쓰려면 2번 장시간, 귀 안 막는 오픈형이면 3번으로 가세요. "저렴한 넥밴드"면 가성비 최고예요.',
         review: '"넥밴드를 저렴하게, 분실 걱정 없이"면 QCY가 인기입니다. 출퇴근·가벼운 운동에 딱이고요. 장시간·오픈형이면 2·3번을 보세요.',
         specs: ['제품: QCY 넥밴드 블루투스 이어폰', '형태: 넥밴드(목걸이형)', '용도: 가성비·입문', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7743734630&itemId=20840741722&vendorItemId=88561313528&traceid=V0-153-9fb520136b95be94&requestid=20260714200720034246868641&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7743734630&itemId=20840741722&vendorItemId=88561313528&traceid=V0-153-9fb520136b95be94&requestid=20260714200720034246868641&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13646,7 +13646,7 @@ module.exports = [
         consNote: '저렴한 가성비면 1번, 귀 안 막는 오픈형이면 3번입니다. 2번은 <strong>"장시간+통화"</strong>의 실속 구간 — 하루 종일 통화·음악에 무난합니다.',
         review: '"하루 종일 끼고 통화·음악"이면 장시간 넥밴드가 편합니다. 자주 충전 안 해도 되고요. 개방감·오픈형이면 3번을 보세요.',
         specs: ['제품: 블루선 넥밴드 블루투스 이어폰', '특징: 장시간 배터리 · 통화 안정', '용도: 장시간·통화', '배송: 로켓배송', '가격: 약 46,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9011895511&itemId=26416599995&vendorItemId=94882062505&traceid=V0-153-3c297627fd320ece&requestid=20260714200720034246868641&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9011895511&itemId=26416599995&vendorItemId=94882062505&traceid=V0-153-3c297627fd320ece&requestid=20260714200720034246868641&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13665,7 +13665,7 @@ module.exports = [
         consNote: '저렴한 넥밴드면 1번, 장시간·통화면 2번이 합리적입니다. 3번은 <strong>귀 안 막는 오픈형(운동·안전)</strong>을 원하는 분을 위한 프리미엄 대안입니다.',
         review: '"운동·산책 때 주변 소리를 들으며 귀는 안 막고"면 오픈형이 좋습니다. 답답함이 없고 안전해요. 목걸이형·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 샥즈 오픈닷2 오픈형 블루투스 이어폰 (E320)', '형태: 오픈형(귀 안 막음) · 이어클립', '용도: 운동·개방감', '배송: 로켓배송', '가격: 약 299,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9536222150&itemId=28442535903&vendorItemId=95393260617&traceid=V0-153-45545c2d2054dbae&clickBeacon=2eb08410-7f74-11f1-bff8-b832c2c8ab53%7E3&requestid=20260714200720034246868641&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9536222150&itemId=28442535903&vendorItemId=95393260617&traceid=V0-153-45545c2d2054dbae&clickBeacon=2eb08410-7f74-11f1-bff8-b832c2c8ab53%7E3&requestid=20260714200720034246868641&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -13755,7 +13755,7 @@ module.exports = [
         consNote: '이 제품은 <strong>알림·기본용</strong>입니다. 갤럭시 연동·운동이면 2번 삼성 핏3, 등산·러닝 GPS면 3번으로 가세요. "저렴한 알림·기본"이면 좋아요.',
         review: '"알림·걸음수 정도를 저렴하게"면 QCY로 충분합니다. 가볍게 입문하기 좋고요. 삼성 연동·GPS면 2·3번을 보세요.',
         specs: ['제품: QCY 스마트워치 GT PRO', '기능: 알림 · 걸음 · 심박(참고용)', '용도: 알림·기본', '배송: 로켓배송', '가격: 약 35,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7867884005&itemId=21485600364&vendorItemId=89645319865&traceid=V0-153-144479f6fcdaec85&requestid=20260714200720582266612066&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7867884005&itemId=21485600364&vendorItemId=89645319865&traceid=V0-153-144479f6fcdaec85&requestid=20260714200720582266612066&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13774,7 +13774,7 @@ module.exports = [
         consNote: '저렴한 알림이면 1번, 등산·러닝 GPS면 3번입니다. 2번은 <strong>"갤럭시 연동+운동·수면"</strong>의 실속 구간 — 안드로이드 사용자에게 무난합니다.',
         review: '"갤럭시폰 쓰고 운동·수면을 제대로 기록"하려면 핏3가 궁합이 좋습니다. 연동이 매끄러워요. 저렴·GPS면 1·3번을 보세요.',
         specs: ['제품: 삼성 갤럭시 핏3 (SM-R390N)', '기능: 갤럭시 연동 · 운동·수면·심박(참고용)', '용도: 갤럭시·운동', '배송: 로켓배송', '가격: 약 77,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8365215718&itemId=24635275654&vendorItemId=91186820398&traceid=V0-153-6c3841dffd0e322d&requestid=20260714200720582266612066&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8365215718&itemId=24635275654&vendorItemId=91186820398&traceid=V0-153-6c3841dffd0e322d&requestid=20260714200720582266612066&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13793,7 +13793,7 @@ module.exports = [
         consNote: '저렴한 알림이면 1번, 갤럭시 연동·운동이면 2번이 합리적입니다. 3번은 <strong>GPS 운동경로·아웃도어</strong>가 필요한 분에게 값어치가 있습니다.',
         review: '"등산·러닝 경로를 GPS로 남기고 아웃도어 기능까지"면 이 제품이 좋습니다. 큰 화면도 잘 보이고요. 일상·연동 위주면 1·2번이 합리적입니다.',
         specs: ['제품: IOWODO W90pro GPS 아웃도어 스마트워치', '기능: GPS 경로 · 나침반·기상 · 큰 화면', '용도: 등산·러닝', '배송: 로켓배송', '가격: 약 150,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9422778788&itemId=28007367513&vendorItemId=94964776050&traceid=V0-153-c22542e47edf9388&clickBeacon=2ef6dbe0-7f74-11f1-a0d5-a82995a01150%7E3&requestid=20260714200720582266612066&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9422778788&itemId=28007367513&vendorItemId=94964776050&traceid=V0-153-c22542e47edf9388&clickBeacon=2ef6dbe0-7f74-11f1-a0d5-a82995a01150%7E3&requestid=20260714200720582266612066&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -13884,7 +13884,7 @@ module.exports = [
         consNote: '이 제품은 <strong>PC·가성비용</strong>입니다. 여러 기기 무선이면 2번, 완성도·내구면 3번 엑스박스 정품으로 가세요. "PC에 저렴하게"면 좋아요.',
         review: '"PC 게임을 저렴하게, 선 있어도 상관없다"면 유선 패드로 충분합니다. 지연도 없고요. 무선·정품이면 2·3번을 보세요.',
         specs: ['제품: 게임프롬 PC 유선 게임패드 (엑박 호환)', '연결: 유선(USB)', '호환: PC', '배송: 일반배송', '가격: 약 14,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9187264019&itemId=27104006821&vendorItemId=93869004398&traceid=V0-153-9223780f914b0e65&requestid=20260714201200935297887278&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9187264019&itemId=27104006821&vendorItemId=93869004398&traceid=V0-153-9223780f914b0e65&requestid=20260714201200935297887278&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13903,7 +13903,7 @@ module.exports = [
         consNote: 'PC 유선 저렴이면 1번, 완성도·내구면 3번 엑스박스입니다. 2번은 <strong>"무선+멀티호환"</strong>의 실속 구간 — 여러 기기 게이머에게 무난합니다.',
         review: '"PC·스위치·폰을 무선으로 두루"면 X05가 활용도 최고입니다. 호환이 넓어요. 정품 완성도·내구면 3번을 보세요.',
         specs: ['제품: EasySMX X05 무선 게임패드', '연결: 무선', '호환: PC·스팀덱·스위치·모바일', '배송: 로켓배송', '가격: 약 42,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7714469769&itemId=20687518601&vendorItemId=92548793726&traceid=V0-153-d9358ed5c95a8ad8&clickBeacon=ba846a10-7f74-11f1-80ab-596518531793%7E3&requestid=20260714201200935297887278&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7714469769&itemId=20687518601&vendorItemId=92548793726&traceid=V0-153-d9358ed5c95a8ad8&clickBeacon=ba846a10-7f74-11f1-80ab-596518531793%7E3&requestid=20260714201200935297887278&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -13922,7 +13922,7 @@ module.exports = [
         consNote: 'PC 유선 저렴이면 1번, 무선·멀티호환 가성비면 2번이 합리적입니다. 3번은 <strong>정품 완성도·내구</strong>로 오래 쓰려는 분에게 값어치가 있습니다.',
         review: '"패드는 정품으로 완성도·내구 있게 오래"면 엑스박스가 표준입니다. 그립·버튼감이 좋아요. 저렴·멀티가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 엑스박스 4세대 무선 컨트롤러 (MS 정품)', '연결: 무선/유선', '호환: PC·엑스박스·모바일', '배송: 로켓배송', '가격: 약 58,490원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9033906629&itemId=26500340025&vendorItemId=73128473615&traceid=V0-153-1d91d09e53426133&requestid=20260714201200935297887278&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9033906629&itemId=26500340025&vendorItemId=73128473615&traceid=V0-153-1d91d09e53426133&requestid=20260714201200935297887278&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -14013,7 +14013,7 @@ module.exports = [
         consNote: '이 제품은 <strong>초저가·기본용</strong>입니다. 깔끔한 데스크 사운드바면 2번, 음질·디자인이면 3번 크리에이티브로 가세요. "소리만"이면 가성비 최고예요.',
         review: '"모니터 소리 대신 최소한의 스피커, 아주 저렴하게"면 초저가로 충분합니다. 소리는 나요. 음질·디자인이면 2·3번을 보세요.',
         specs: ['제품: 앱코 BONITA PC 스피커', '연결: 간편 연결', '용도: 초저가·기본', '배송: 로켓배송', '가격: 약 6,100원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1504273315&itemId=2582705886&vendorItemId=70574936433&traceid=V0-153-15e09180e55e33be&requestid=20260714201236430287904378&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1504273315&itemId=2582705886&vendorItemId=70574936433&traceid=V0-153-15e09180e55e33be&requestid=20260714201236430287904378&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -14032,7 +14032,7 @@ module.exports = [
         consNote: '초저가면 1번, 음질·디자인이면 3번 크리에이티브입니다. 2번은 <strong>"USB 간편+슬림"</strong>의 실속 구간 — 대부분의 데스크에 가장 무난합니다.',
         review: '"USB 하나로 깔끔하게, 모니터 밑에"면 사운드바가 딱입니다. 선이 깔끔해요. 음질·디자인이면 3번을 보세요.',
         specs: ['제품: 브리츠 USB 사운드바', '연결: USB 전원', '용도: 데스크·간편', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1020744&itemId=7079180667&vendorItemId=70918729526&traceid=V0-153-dd4ce8f766d8bca7&requestid=20260714201236430287904378&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1020744&itemId=7079180667&vendorItemId=70918729526&traceid=V0-153-dd4ce8f766d8bca7&requestid=20260714201236430287904378&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -14051,7 +14051,7 @@ module.exports = [
         consNote: '초저가면 1번, USB 간편 사운드바면 2번이 합리적입니다. 3번은 <strong>음질+감성 디자인</strong>을 함께 원하는 분에게 값어치가 있습니다.',
         review: '"음질도 디자인도 챙기고 싶다"면 PEBBLE이 인기입니다. 예쁘고 소리도 또렷해요. 소리만·간편이면 1·2번이 합리적입니다.',
         specs: ['제품: 크리에이티브 PEBBLE V2 스피커', '연결: USB-C · 2채널', '용도: 음질·디자인', '배송: 로켓배송', '가격: 약 29,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1431719811&itemId=23741248241&vendorItemId=86386311190&traceid=V0-153-5a94958d2e4f29b9&requestid=20260714201236430287904378&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1431719811&itemId=23741248241&vendorItemId=86386311190&traceid=V0-153-5a94958d2e4f29b9&requestid=20260714201236430287904378&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -14142,7 +14142,7 @@ module.exports = [
         consNote: '이 제품은 <strong>방·사무실용</strong>입니다. 키 큰 거실용이면 2번, 넓은 거실·업소면 3번 대형으로 가세요. "방·저렴"이면 가성비 좋아요.',
         review: '"방·사무실에 저렴하게 하나"면 14인치로 충분합니다. 기본에 충실하고요. 넓은 공간·강풍이면 2·3번을 보세요.',
         specs: ['제품: 유파 14인치 스탠드 선풍기 (ENF-3562S)', '크기: 14인치 · 5엽', '용도: 방·사무실', '배송: 로켓배송', '가격: 약 24,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9459207251&itemId=28145824264&vendorItemId=95614056033&traceid=V0-153-18c472997035773a&requestid=20260714202711512224869022&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9459207251&itemId=28145824264&vendorItemId=95614056033&traceid=V0-153-18c472997035773a&requestid=20260714202711512224869022&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14161,7 +14161,7 @@ module.exports = [
         consNote: '방·저렴이면 1번, 넓은 거실·업소면 3번 대형입니다. 2번은 <strong>"16인치 키높이"</strong>의 실속 구간 — 거실·넓은 방에 가장 무난합니다.',
         review: '"거실·넓은 방을 시원하게"면 16인치 키높이가 딱입니다. 바람이 넓게 퍼져요. 아주 넓거나 업소면 3번을 보세요.',
         specs: ['제품: 16인치 키높이 스탠드 선풍기 (DF-F166)', '크기: 16인치 · 키높이 135cm', '용도: 거실·넓은 방', '배송: 일반배송', '가격: 약 44,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8645163492&itemId=25092380370&vendorItemId=85906358310&traceid=V0-153-29dc1ebc274f5a66&clickBeacon=f4d033f0-7f76-11f1-a650-ccd867016954%7E3&requestid=20260714202711512224869022&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8645163492&itemId=25092380370&vendorItemId=85906358310&traceid=V0-153-29dc1ebc274f5a66&clickBeacon=f4d033f0-7f76-11f1-a650-ccd867016954%7E3&requestid=20260714202711512224869022&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14180,7 +14180,7 @@ module.exports = [
         consNote: '방·저렴이면 1번, 거실·키높이면 2번이 합리적입니다. 3번은 <strong>넓은 거실·업소 강풍</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"넓은 거실·매장을 강하게 시원하게"면 20인치 대형이 확실합니다. 멀리까지 바람이 가요. 방·작은 공간이면 1·2번이 합리적입니다.',
         specs: ['제품: 신일 20인치 대형 스탠드 선풍기 (SIF-F50S)', '크기: 20인치(50cm) · 키높이', '용도: 넓은 거실·업소', '배송: 로켓배송', '가격: 약 119,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9512520637&itemId=28348208997&vendorItemId=95300356676&traceid=V0-153-9a41dac42bbcac6e&clickBeacon=f4d05b00-7f76-11f1-8f5d-b15d9ab274cd%7E3&requestid=20260714202711512224869022&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9512520637&itemId=28348208997&vendorItemId=95300356676&traceid=V0-153-9a41dac42bbcac6e&clickBeacon=f4d05b00-7f76-11f1-8f5d-b15d9ab274cd%7E3&requestid=20260714202711512224869022&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -14270,7 +14270,7 @@ module.exports = [
         consNote: '이 제품은 <strong>발밑·책상용</strong>입니다. 넓게 복사열이면 2번 석영관, 공간 난방이면 3번 컨벡션으로 가세요. "발밑·저렴"이면 가성비 좋아요.',
         review: '"책상 밑·발밑만 따뜻하게, 저렴하게"면 미니로 충분합니다. 켜면 바로 따뜻해요. 넓은 난방이면 2·3번을 보세요.',
         specs: ['제품: 홈플래닛 미니 전기 히터', '방식: 즉시 온열(개인용)', '범위: 발밑·책상', '배송: 로켓배송', '가격: 약 11,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6135662035&itemId=11731377938&vendorItemId=79005335845&traceid=V0-153-900d496fb6b07d13&requestid=20260714202712101149371640&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6135662035&itemId=11731377938&vendorItemId=79005335845&traceid=V0-153-900d496fb6b07d13&requestid=20260714202712101149371640&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14289,7 +14289,7 @@ module.exports = [
         consNote: '발밑·책상이면 1번, 공간 전체 은은한 난방이면 3번 컨벡션입니다. 2번은 <strong>"넓은 복사열+즉시"</strong>의 실속 구간 — 거실·방 순간 난방에 무난합니다.',
         review: '"켜자마자 넓게 따뜻하게"면 석영관 복사열이 좋습니다. 순간 난방이 강해요. 은은한 공간 난방이면 3번을 보세요.',
         specs: ['제품: 르젠 3면 석영관 전기히터 (LZHQ-3000)', '방식: 석영관 복사열(3면)', '범위: 거실·방(즉시)', '배송: 로켓배송', '가격: 약 42,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4611187826&itemId=5700107575&vendorItemId=72998914446&traceid=V0-153-8c03f51f6646e04e&clickBeacon=f5299e90-7f76-11f1-8e70-87da21a97e36%7E3&requestid=20260714202712101149371640&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4611187826&itemId=5700107575&vendorItemId=72998914446&traceid=V0-153-8c03f51f6646e04e&clickBeacon=f5299e90-7f76-11f1-8e70-87da21a97e36%7E3&requestid=20260714202712101149371640&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14308,7 +14308,7 @@ module.exports = [
         consNote: '발밑·책상이면 1번, 즉시 넓은 복사열이면 2번이 합리적입니다. 3번은 <strong>공간 전체 은은한 난방</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"방·거실을 은은하게 골고루, 오래 켜두고"면 컨벡션이 좋습니다. 국소 뜨거움이 없어 편해요. 즉시성이 중요하면 1·2번이 합리적입니다.',
         specs: ['제품: 신일 컨벡션 히터 (SEH-CH2000A)', '방식: 컨벡션 공간난방', '범위: 방·거실(은은)', '배송: 일반배송', '가격: 약 81,520원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9352526132&itemId=27745892651&vendorItemId=94706877371&traceid=V0-153-dbbd2a049d441e7f&requestid=20260714202936225274985824&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9352526132&itemId=27745892651&vendorItemId=94706877371&traceid=V0-153-dbbd2a049d441e7f&requestid=20260714202936225274985824&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -14399,7 +14399,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·기본용</strong>입니다. 물분사·강한 세정이면 2·3번으로 가세요. "저렴하게 듀얼스핀"이면 가성비 좋아요.',
         review: '"손걸레는 힘들고, 저렴하게 무선 물걸레"면 듀얼스핀으로 충분합니다. 회전이라 편해요. 물분사·강력이면 2·3번을 보세요.',
         specs: ['제품: 한일 무선 물걸레청소기 (듀얼스핀 LED)', '방식: 무선 · 듀얼스핀 회전', '용도: 가성비·기본', '배송: 로켓배송', '가격: 약 69,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9206998605&itemId=27191903152&vendorItemId=94253212967&traceid=V0-153-3a6d2ed16d012bba&requestid=20260714202936721089333675&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9206998605&itemId=27191903152&vendorItemId=94253212967&traceid=V0-153-3a6d2ed16d012bba&requestid=20260714202936721089333675&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14418,7 +14418,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 강력 세정·국내생산이면 3번입니다. 2번은 <strong>"물분사+듀얼회전"</strong>의 실속 구간 — 일상 물걸레에 가장 무난합니다.',
         review: '"물 뿌리며 찌든때까지 닦고, 배터리도 넉넉히"면 물분사 모델이 좋습니다. 힘이 덜 들어요. 최고 세정·국내 A/S면 3번을 보세요.',
         specs: ['제품: 신일 무선 물걸레청소기 (SDC-SC2000W)', '방식: 무선 · 물분사 · 듀얼 회전', '용도: 물분사·세정', '배송: 로켓배송', '가격: 약 87,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9585209877&itemId=28612702308&vendorItemId=95576068196&traceid=V0-153-a85c088c5554c56b&clickBeacon=4b5d5680-7f77-11f1-889d-b346a11e8260%7E3&requestid=20260714202936721089333675&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9585209877&itemId=28612702308&vendorItemId=95576068196&traceid=V0-153-a85c088c5554c56b&clickBeacon=4b5d5680-7f77-11f1-889d-b346a11e8260%7E3&requestid=20260714202936721089333675&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14437,7 +14437,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 물분사 실속이면 2번이 합리적입니다. 3번은 <strong>강한 세정+국내생산 A/S</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"회전력 강하게 확실히 닦고, 국내 A/S까지"면 파워스핀이 낫습니다. 세정력이 좋아요. 저렴·물분사면 1·2번이 합리적입니다.',
         specs: ['제품: 신일 LED 무선 파워스핀 물걸레청소기 (국내생산)', '방식: 무선 · 파워스핀 회전', '용도: 강력·국내 A/S', '배송: 로켓배송', '가격: 약 139,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9638311601&itemId=28796639498&vendorItemId=94492447692&traceid=V0-153-09089d1b1790e64c&requestid=20260714202936721089333675&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9638311601&itemId=28796639498&vendorItemId=94492447692&traceid=V0-153-09089d1b1790e64c&requestid=20260714202936721089333675&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -14527,7 +14527,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·번호형</strong>입니다. 문 손상 없이면 2번 무타공, 손잡이 밀당 편의면 3번 푸시풀로 가세요. "저렴한 번호형"이면 좋아요.',
         review: '"열쇠 대신 번호형을 저렴하게"면 넘버원이 무난합니다. 브랜드도 믿을 만하고요. 무타공·푸시풀이면 2·3번을 보세요.',
         specs: ['제품: 솔리티 웰콤 넘버원 스마트 도어락', '방식: 번호(비밀번호)', '설치: 문 규격 확인', '배송: 로켓배송', '가격: 약 31,300원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5891374885&itemId=10360951388&vendorItemId=77643100374&traceid=V0-153-4a0c9c2da4be82ff&requestid=20260714202713458293190439&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5891374885&itemId=10360951388&vendorItemId=77643100374&traceid=V0-153-4a0c9c2da4be82ff&requestid=20260714202713458293190439&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14546,7 +14546,7 @@ module.exports = [
         consNote: '저렴한 번호형이면 1번, 손잡이 밀당 편의면 3번 푸시풀입니다. 2번은 <strong>"무타공(문 손상 없음)"</strong>의 실속 구간 — 세입자·전월세에 무난합니다.',
         review: '"문에 구멍 안 뚫고, 이사 때 떼어 가려"면 무타공 주키가 딱입니다. 세입자에게 좋아요. 손잡이 편의면 3번을 보세요.',
         specs: ['제품: 솔리티 스마트 무타공 주키 도어락', '설치: 무타공', '방식: 주키(메인 잠금)', '배송: 로켓배송', '가격: 약 89,720원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5613415533&itemId=20622713570&vendorItemId=86261690967&traceid=V0-153-ef1adc089efd087e&requestid=20260714202713458293190439&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5613415533&itemId=20622713570&vendorItemId=86261690967&traceid=V0-153-ef1adc089efd087e&requestid=20260714202713458293190439&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14565,7 +14565,7 @@ module.exports = [
         consNote: '저렴한 번호형이면 1번, 무타공 주키면 2번이 합리적입니다. 3번은 <strong>손잡이 푸시풀 편의+무타공</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"손잡이째 편하게 밀당, 문 손상 없이"면 푸시풀이 편합니다. 여닫기가 확 편해요. 저렴·주키면 1·2번이 합리적입니다.',
         specs: ['제품: 쿠잉전자 무타공 푸시풀 디지털 도어락 (DL-HY02GW)', '방식: 푸시풀 · 1초 잠김', '설치: 무타공 · 방문설치', '배송: 로켓배송', '가격: 약 129,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9494423115&itemId=28280034794&vendorItemId=95233053484&traceid=V0-153-ea672cdda58dbd6a&clickBeacon=f5f94aa0-7f76-11f1-bd09-f756991e747a%7E3&requestid=20260714202713458293190439&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9494423115&itemId=28280034794&vendorItemId=95233053484&traceid=V0-153-ea672cdda58dbd6a&clickBeacon=f5f94aa0-7f76-11f1-bd09-f756991e747a%7E3&requestid=20260714202713458293190439&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -14655,7 +14655,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·회전형</strong>입니다. 4K 고화질이면 2번, 넓은 듀얼 시야면 3번으로 가세요. "저렴한 회전형"이면 가성비 좋아요.',
         review: '"집안을 회전으로 훑어보되 저렴하게"면 TC70이 무난합니다. 앱 회전이 편해요. 4K·듀얼이면 2·3번을 보세요.',
         specs: ['제품: 티피링크 TC70 회전형 홈카메라', '화질: 200만 화소 · 원격 회전', '용도: 가성비·회전', '배송: 일반배송', '가격: 약 55,130원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9639858708&itemId=28802533472&vendorItemId=95737845557&traceid=V0-153-52e3bb0138217460&requestid=20260714202959589106720764&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9639858708&itemId=28802533472&vendorItemId=95737845557&traceid=V0-153-52e3bb0138217460&requestid=20260714202959589106720764&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14674,7 +14674,7 @@ module.exports = [
         consNote: '저렴한 회전형이면 1번, 넓은 듀얼 시야면 3번입니다. 2번은 <strong>"4K 선명+AI 감지"</strong>의 실속 구간 — 대부분의 가정에 가장 무난합니다.',
         review: '"선명한 4K에 AI 감지까지"면 Tapo C250이 좋습니다. 디테일이 잘 보여요. 두 방향 동시면 3번을 보세요.',
         specs: ['제품: 티피링크 Tapo C250 4K 회전형 카메라', '화질: 4K 800만 화소 · AI 감지 · 회전', '용도: 4K·선명', '배송: 로켓배송', '가격: 약 79,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9323145314&itemId=27634309424&vendorItemId=94597085611&traceid=V0-153-8157fe197ab50b46&clickBeacon=4bcd7d70-7f77-11f1-9c11-387bd7b68426%7E3&requestid=20260714202937454246862234&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9323145314&itemId=27634309424&vendorItemId=94597085611&traceid=V0-153-8157fe197ab50b46&clickBeacon=4bcd7d70-7f77-11f1-9c11-387bd7b68426%7E3&requestid=20260714202937454246862234&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14693,7 +14693,7 @@ module.exports = [
         consNote: '저렴한 회전형이면 1번, 4K 단일 회전형이면 2번이 합리적입니다. 3번은 <strong>넓게+당겨보는 듀얼</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"넓게 보면서 특정 부분을 당겨 꼼꼼히"면 4K 듀얼이 강력합니다. 화질·완성도가 좋고요. 단일 감시면 1·2번이 합리적입니다.',
         specs: ['제품: eufy 4K 듀얼 홈카메라 (S350, T8416)', '화질: 4K UHD · 듀얼(광각+줌)', '용도: 듀얼·넓은 시야', '배송: 로켓배송', '가격: 약 126,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7758220239&itemId=20915661054&vendorItemId=92320739358&traceid=V0-153-fd7d92b70e771782&clickBeacon=4bcd7d70-7f77-11f1-a7d6-a4e445b520f2%7E3&requestid=20260714202937454246862234&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7758220239&itemId=20915661054&vendorItemId=92320739358&traceid=V0-153-fd7d92b70e771782&clickBeacon=4bcd7d70-7f77-11f1-a7d6-a4e445b520f2%7E3&requestid=20260714202937454246862234&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -14784,7 +14784,7 @@ module.exports = [
         consNote: '이 제품은 <strong>간편·무타공용</strong>입니다. 봉에 제대로면 2번 아일렛, 단열까지면 3번 3중직으로 가세요. "봉 없이 간편"이면 가성비 좋아요.',
         review: '"커튼봉도 없고 간편하게 햇빛만 막고 싶다"면 붙이는형이 딱입니다. 설치가 쉬워요. 봉형·단열이면 2·3번을 보세요.',
         specs: ['제품: 라멜리 붙이는 암막커튼 (무타공)', '설치: 붙이는(봉 없음)', '차광: 99.9%', '배송: 로켓배송', '가격: 약 9,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9244901874&itemId=27340522990&vendorItemId=94306792794&traceid=V0-153-1a6ab75d69346d75&requestid=20260714202714714320559291&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9244901874&itemId=27340522990&vendorItemId=94306792794&traceid=V0-153-1a6ab75d69346d75&requestid=20260714202714714320559291&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14803,7 +14803,7 @@ module.exports = [
         consNote: '봉 없이 간편하면 1번, 완벽 차광·단열이면 3번 3중직입니다. 2번은 <strong>"아일렛 봉형(표준)"</strong>의 실속 구간 — 봉이 있는 대부분 집에 무난합니다.',
         review: '"커튼봉에 깔끔하게 달고 싶다"면 아일렛형이 표준입니다. 주름도 예쁘고요. 완벽 차광·단열이면 3번을 보세요.',
         specs: ['제품: 코멧 홈 단열 아일렛 암막 커튼', '설치: 아일렛(봉형)', '차광·단열: 단열 원단', '배송: 로켓배송', '가격: 약 9,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=180352941&itemId=536034177&vendorItemId=84147374823&traceid=V0-153-d32e09ffcc978ae2&requestid=20260714202714714320559291&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=180352941&itemId=536034177&vendorItemId=84147374823&traceid=V0-153-d32e09ffcc978ae2&requestid=20260714202714714320559291&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14822,7 +14822,7 @@ module.exports = [
         consNote: '봉 없이 간편이면 1번, 아일렛 표준이면 2번이 합리적입니다. 3번은 <strong>완벽 차광+단열(3중직)</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"대낮에도 깜깜하게, 냉기·냉난방비까지"면 3중직 단열이 확실합니다. 빛이 거의 안 들어와요. 간편·표준이면 1·2번이 합리적입니다.',
         specs: ['제품: HOMEY NEST 3중직 단열 암막커튼 (1+1)', '설치: 아일렛 · 3중직', '차광·단열: 완벽 차광 · 단열·방풍', '배송: 로켓배송', '가격: 약 39,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8729454920&itemId=25363114696&vendorItemId=92357370344&traceid=V0-153-b73ce73b194683a2&requestid=20260714202714714320559291&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8729454920&itemId=25363114696&vendorItemId=92357370344&traceid=V0-153-b73ce73b194683a2&requestid=20260714202714714320559291&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -14913,7 +14913,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·세탁용</strong>입니다. 물 흘림 걱정이면 2번 방수, 넓은 거실이면 3번 대형으로 가세요. "저렴한 워셔블"이면 가성비 좋아요.',
         review: '"저렴하게, 먼지 적고 세탁되는 러그"면 스칸디앤홈이 무난합니다. 관리가 편해요. 방수·대형이면 2·3번을 보세요.',
         specs: ['제품: 스칸디앤홈 쉐브론 워셔블 러그', '특징: 사이잘룩 · 먼지 적음 · 워셔블', '용도: 가성비·세탁', '배송: 로켓배송', '가격: 약 18,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7043431201&itemId=19813638739&vendorItemId=4007615839&traceid=V0-153-419e369e5ef72bc8&requestid=20260714202937826303491320&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7043431201&itemId=19813638739&vendorItemId=4007615839&traceid=V0-153-419e369e5ef72bc8&requestid=20260714202937826303491320&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14932,7 +14932,7 @@ module.exports = [
         consNote: '저렴한 워셔블이면 1번, 넓은 거실 대형이면 3번입니다. 2번은 <strong>"방수(흘림 걱정 없음)"</strong>의 실속 구간 — 아이·반려동물 가정에 무난합니다.',
         review: '"아이가 물·음식을 자주 흘려 방수가 필요"하면 이 러그가 안심입니다. 닦으면 되고 세탁도 돼요. 넓은 거실이면 3번을 보세요.',
         specs: ['제품: VELLARA 물세탁 방수 거실 러그', '특징: 방수 · 물세탁 · 먼지 적음', '용도: 방수·아이', '배송: 로켓배송', '가격: 약 46,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8901184932&itemId=25992294100&vendorItemId=93074625924&traceid=V0-153-0495a60e2a7ba71a&requestid=20260714202937826303491320&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8901184932&itemId=25992294100&vendorItemId=93074625924&traceid=V0-153-0495a60e2a7ba71a&requestid=20260714202937826303491320&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -14951,7 +14951,7 @@ module.exports = [
         consNote: '저렴한 워셔블이면 1번, 방수 실속이면 2번이 합리적입니다. 3번은 <strong>넓은 대형·감성 인테리어</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"넓은 거실을 러그로 아늑하게 채우고 싶다"면 대형이 분위기를 확 바꿉니다. 푹신하고요. 저렴·방수면 1·2번이 합리적입니다.',
         specs: ['제품: HOMEY NEST 클라우드 대형 거실 러그', '특징: 대형 · 푹신 · 워셔블', '용도: 대형·감성', '배송: 로켓배송', '가격: 약 106,440원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9016007472&itemId=26431806890&vendorItemId=93407792073&traceid=V0-153-278bfe26087fed23&clickBeacon=4c0667c0-7f77-11f1-a62a-4bee659bde27%7E3&requestid=20260714202937826303491320&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9016007472&itemId=26431806890&vendorItemId=93407792073&traceid=V0-153-278bfe26087fed23&clickBeacon=4c0667c0-7f77-11f1-a62a-4bee659bde27%7E3&requestid=20260714202937826303491320&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -15042,7 +15042,7 @@ module.exports = [
         consNote: '이 제품은 <strong>틈새·가성비용</strong>입니다. 가볍게 옮기면 2번 패브릭, 튼튼한 원목이면 3번으로 가세요. "좁은 틈새·저렴"이면 가성비 좋아요.',
         review: '"좁은 틈새에 저렴하게 서랍 수납"이면 슬림형이 딱입니다. 자투리 공간에 좋고요. 넓은 수납·원목이면 2·3번을 보세요.',
         specs: ['제품: 코멧 슬림 수납 서랍장', '재질: 플라스틱(슬림) · 국내생산', '용도: 틈새·가성비', '배송: 로켓배송', '가격: 약 13,970원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8234580910&itemId=23703074705&vendorItemId=90728107954&traceid=V0-153-a8385fb0bd36f661&requestid=20260714202716288149372633&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8234580910&itemId=23703074705&vendorItemId=90728107954&traceid=V0-153-a8385fb0bd36f661&requestid=20260714202716288149372633&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -15061,7 +15061,7 @@ module.exports = [
         consNote: '좁은 틈새면 1번, 튼튼한 원목이면 3번입니다. 2번은 <strong>"가벼운 패브릭 다용도"</strong>의 실속 구간 — 옮겨 쓰기·다용도에 무난합니다.',
         review: '"가볍게 옮겨가며 다용도로"면 패브릭 서랍장이 편합니다. 이동이 쉬워요. 튼튼한 원목·고급감이면 3번을 보세요.',
         specs: ['제품: JANAE 패브릭 3서랍 수납장', '재질: 패브릭(경량)', '용도: 다용도·이동', '배송: 로켓배송', '가격: 약 52,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9567199671&itemId=28553416515&vendorItemId=95498139086&traceid=V0-153-2aa47aa9a804b226&clickBeacon=f7b0e5b0-7f76-11f1-96de-3a9f42bd00f4%7E3&requestid=20260714202716288149372633&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9567199671&itemId=28553416515&vendorItemId=95498139086&traceid=V0-153-2aa47aa9a804b226&clickBeacon=f7b0e5b0-7f76-11f1-96de-3a9f42bd00f4%7E3&requestid=20260714202716288149372633&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -15080,7 +15080,7 @@ module.exports = [
         consNote: '좁은 틈새면 1번, 가벼운 패브릭이면 2번이 합리적입니다. 3번은 <strong>넓고 튼튼한 원목형</strong>으로 제대로 쓰려는 분에게 값어치가 있습니다.',
         review: '"침실·거실에 넓고 튼튼한 서랍장을 제대로"면 원목 3단이 만족스럽습니다. 견고하고 고급스러워요. 틈새·가벼움이면 1·2번이 합리적입니다.',
         specs: ['제품: 메이드바이홈 리베르 3단 서랍장 (1200)', '재질: 목재 · 방문설치', '용도: 튼튼·고급', '배송: 로켓배송', '가격: 약 143,100원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9526173198&itemId=28403329122&vendorItemId=95354629394&traceid=V0-153-5ff01dbd1c1708c8&clickBeacon=f7b10cc0-7f76-11f1-a384-5a69378787e2%7E3&requestid=20260714202716288149372633&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9526173198&itemId=28403329122&vendorItemId=95354629394&traceid=V0-153-5ff01dbd1c1708c8&clickBeacon=f7b10cc0-7f76-11f1-a384-5a69378787e2%7E3&requestid=20260714202716288149372633&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -15171,7 +15171,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·통기용</strong>입니다. 접어서 보관하면 2번 접이식, 종류별 분리면 3번 3단으로 가세요. "저렴한 통기성"이면 가성비 좋아요.',
         review: '"빨래바구니 하나 저렴하게, 통기성 좋게"면 오코로가 무난합니다. 습기가 덜 차요. 접이·분리면 2·3번을 보세요.',
         specs: ['제품: 오코로 통기성 빨래바구니', '특징: 통기성 · 경량', '용도: 가성비·통기', '배송: 로켓배송', '가격: 약 7,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8611074743&itemId=27896757061&vendorItemId=94855655633&traceid=V0-153-c2460f7cfd6645ba&requestid=20260714202716932290351504&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8611074743&itemId=27896757061&vendorItemId=94855655633&traceid=V0-153-c2460f7cfd6645ba&requestid=20260714202716932290351504&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -15190,7 +15190,7 @@ module.exports = [
         consNote: '저렴한 통기성이면 1번, 종류별 분리면 3번 3단입니다. 2번은 <strong>"접이 수납+대용량 1+1"</strong>의 실속 구간 — 대부분의 집에 무난합니다.',
         review: '"안 쓸 때 접어두고, 대용량으로 둘"이면 접이식 1+1이 좋습니다. 자리도 안 먹고요. 종류별 분리면 3번을 보세요.',
         specs: ['제품: 매터앤미터 캔버스 접이식 빨래바구니 (1+1)', '특징: 접이식 · 대용량 · 1+1', '용도: 접이·수납', '배송: 로켓배송', '가격: 약 21,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9581760030&itemId=28601860960&vendorItemId=95283556017&traceid=V0-153-7f4e561ec1d01c77&clickBeacon=f80a9e70-7f76-11f1-a66a-8ac2461b67e2%7E3&requestid=20260714202716932290351504&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9581760030&itemId=28601860960&vendorItemId=95283556017&traceid=V0-153-7f4e561ec1d01c77&clickBeacon=f80a9e70-7f76-11f1-a66a-8ac2461b67e2%7E3&requestid=20260714202716932290351504&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -15209,7 +15209,7 @@ module.exports = [
         consNote: '저렴한 통기성이면 1번, 접이 수납이면 2번이 합리적입니다. 3번은 <strong>종류별 분리+다인 가구</strong>에 값어치가 있습니다.',
         review: '"흰옷·색깔옷을 나눠 담고, 식구도 많다"면 3단 분리형이 편합니다. 바퀴로 밀고 가고요. 1인·소량이면 1·2번이 합리적입니다.',
         specs: ['제품: MOOA 3단 분리형 빨래바구니 (이동식)', '특징: 3단 분리 · 바퀴 · 대용량', '용도: 분리·다인', '배송: 로켓배송', '가격: 약 78,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9628140270&itemId=28755874232&vendorItemId=95694628898&traceid=V0-153-2471e7cf45fc5293&clickBeacon=f80a9e70-7f76-11f1-8217-644ec38cedee%7E3&requestid=20260714202716932290351504&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9628140270&itemId=28755874232&vendorItemId=95694628898&traceid=V0-153-2471e7cf45fc5293&clickBeacon=f80a9e70-7f76-11f1-8217-644ec38cedee%7E3&requestid=20260714202716932290351504&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -15299,7 +15299,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·푹신용</strong>입니다. 목이 뻐근하면 2번 경추 메모리폼, 제대로면 3번 프리미엄으로 가세요. "저렴한 솜베개"면 가성비 좋아요.',
         review: '"저렴하게 푹신한 베개, 손님용"이면 솜베개로 충분합니다. 부드럽고요. 목 지지·경추면 2·3번을 보세요.',
         specs: ['제품: 루아베 마이크로화이버 베개', '소재: 마이크로화이버 솜', '특징: 푹신 · 세탁 편함', '배송: 로켓배송', '가격: 약 9,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7733208665&itemId=24456859144&vendorItemId=93527913028&traceid=V0-153-d9571d1ab8d913cc&requestid=20260714202717487106722198&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7733208665&itemId=24456859144&vendorItemId=93527913028&traceid=V0-153-d9571d1ab8d913cc&requestid=20260714202717487106722198&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -15318,7 +15318,7 @@ module.exports = [
         consNote: '저렴한 푹신이면 1번, 최고급 지지·고밀도면 3번 프리미엄입니다. 2번은 <strong>"경추 메모리폼(목 지지)"</strong>의 실속 구간 — 대부분에게 무난합니다.',
         review: '"목·어깨가 뻐근해 지지되는 베개"면 경추 메모리폼이 좋습니다. 목이 받쳐져요. 최고급 지지·고밀도면 3번을 보세요.',
         specs: ['제품: 잠솔솔 경추 메모리폼 베개', '소재: 메모리폼 · 경추 형태', '특징: 목 지지', '배송: 일반배송', '가격: 약 22,780원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8233946379&itemId=24412383477&vendorItemId=82836988803&traceid=V0-153-826b92a3fd530873&requestid=20260714202938496177682151&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8233946379&itemId=24412383477&vendorItemId=82836988803&traceid=V0-153-826b92a3fd530873&requestid=20260714202938496177682151&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -15337,7 +15337,7 @@ module.exports = [
         consNote: '저렴한 푹신이면 1번, 합리적 경추면 2번이 합리적입니다. 3번은 <strong>초고밀도·인체공학 지지</strong>를 제대로 원하는 분에게 값어치가 있습니다.',
         review: '"목 지지를 제대로, 오래 꺼지지 않게"면 고밀도 프리미엄이 만족스럽습니다. 안정적으로 받쳐줘요. 저렴·기본이면 1·2번이 합리적입니다.',
         specs: ['제품: HOMEY NEST 프리미엄 경추 메모리폼 베개', '소재: 초고밀도 메모리폼 · 인체공학', '특징: 고밀도 지지', '배송: 로켓배송', '가격: 약 51,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9485596089&itemId=28246455689&vendorItemId=95199966477&traceid=V0-153-c7e2790539702c86&clickBeacon=4c6c0760-7f77-11f1-b1a1-783a9a318f18%7E3&requestid=20260714202938496177682151&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9485596089&itemId=28246455689&vendorItemId=95199966477&traceid=V0-153-c7e2790539702c86&clickBeacon=4c6c0760-7f77-11f1-b1a1-783a9a318f18%7E3&requestid=20260714202938496177682151&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -15428,7 +15428,7 @@ module.exports = [
         consNote: '이 제품은 <strong>수납·가성비용</strong>입니다. 구성 넉넉히면 2번, 세라믹 코팅이면 3번으로 가세요. "수납·저렴"이면 가성비 좋아요.',
         review: '"좁은 주방에 겹쳐 수납, 인덕션 겸용을 저렴하게"면 탈착형이 딱입니다. 자리 절약돼요. 구성·세라믹이면 2·3번을 보세요.',
         specs: ['제품: 프라임타임 탈착식 멀티핸들 인덕션 냄비 세트', '호환: 인덕션 겸용', '특징: 손잡이 탈착(수납)', '배송: 로켓배송', '가격: 약 24,980원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9272185125&itemId=27444024698&vendorItemId=94409980630&traceid=V0-153-2b3f58ab7fe73273&requestid=20260714205705393194633552&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9272185125&itemId=27444024698&vendorItemId=94409980630&traceid=V0-153-2b3f58ab7fe73273&requestid=20260714205705393194633552&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -15447,7 +15447,7 @@ module.exports = [
         consNote: '수납·가성비면 1번, 세라믹 코팅이면 3번입니다. 2번은 <strong>"인덕션 겸용+6피스 구성"</strong>의 실속 구간 — 새 살림 장만에 가장 무난합니다.',
         review: '"크기별로 넉넉히, 인덕션 겸용으로 한 번에"면 6피스 세트가 좋습니다. 바로 살림이 갖춰져요. 세라믹 질감이면 3번을 보세요.',
         specs: ['제품: IH 인덕션 겸용 냄비 세트 (6피스)', '호환: IH 인덕션·가스 겸용', '구성: 6피스 · 식품등급 코팅', '배송: 로켓배송', '가격: 약 37,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9544784481&itemId=28474678698&vendorItemId=95424906599&traceid=V0-153-f236af35971f1941&requestid=20260714205705393194633552&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9544784481&itemId=28474678698&vendorItemId=95424906599&traceid=V0-153-f236af35971f1941&requestid=20260714205705393194633552&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -15466,7 +15466,7 @@ module.exports = [
         consNote: '수납·가성비면 1번, 인덕션 6피스 구성이면 2번이 합리적입니다. 3번은 <strong>세라믹 코팅+브랜드</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"세라믹 코팅으로 눌음 적게, 브랜드로 안심"이면 키친아트가 좋습니다. 세척이 편해요. 수납·구성이면 1·2번이 합리적입니다.',
         specs: ['제품: 키친아트 세라믹 냄비 세트 (3개)', '코팅: 세라믹', '구성: 3개', '배송: 로켓배송', '가격: 약 40,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8295597995&itemId=261757521&vendorItemId=3096647211&traceid=V0-153-231f022e6ae7b235&requestid=20260714205705393194633552&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8295597995&itemId=261757521&vendorItemId=3096647211&traceid=V0-153-231f022e6ae7b235&requestid=20260714205705393194633552&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -15556,7 +15556,7 @@ module.exports = [
         consNote: '이 제품은 <strong>소가족·누룽지용</strong>입니다. 믿고 오래면 2번 풍년 경질, 인덕션·큰 가족이면 3번으로 가세요. "소가족·누룽지"면 좋아요.',
         review: '"3~4인 소가족, 누룽지 밥맛까지"면 포첸이 재미있습니다. 저렴하게 시작하기 좋고요. 대가족·인덕션이면 2·3번을 보세요.',
         specs: ['제품: 포첸 5분 누룽지 압력밥솥 (1.6L)', '용량: 3~4인용(1.6L)', '특징: 누룽지 가능', '배송: 로켓배송', '가격: 약 69,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9122022785&itemId=26832911211&vendorItemId=93804264515&traceid=V0-153-2cac4380ea2d05d6&clickBeacon=69dfdde0-7f7b-11f1-83a0-090319cbcff8%7E3&requestid=20260714205905901290350733&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9122022785&itemId=26832911211&vendorItemId=93804264515&traceid=V0-153-2cac4380ea2d05d6&clickBeacon=69dfdde0-7f7b-11f1-83a0-090319cbcff8%7E3&requestid=20260714205905901290350733&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -15575,7 +15575,7 @@ module.exports = [
         consNote: '소가족·누룽지면 1번, 인덕션·통3중이면 3번입니다. 2번은 <strong>"풍년 검증+6인용"</strong>의 실속 구간 — 대부분 가정에 가장 무난합니다.',
         review: '"오래 믿고 쓸 압력솥, 6인용"이면 풍년 경질이 정석입니다. 브랜드라 안심이에요. 인덕션·통3중이면 3번을 보세요.',
         specs: ['제품: PN풍년 마레 경질 압력솥 (6인용)', '용량: 6인용', '재질: 경질', '배송: 로켓배송', '가격: 약 87,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=23163489&itemId=90071602&vendorItemId=3156051583&traceid=V0-153-398ee829541dbf81&requestid=20260714205905901290350733&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=23163489&itemId=90071602&vendorItemId=3156051583&traceid=V0-153-398ee829541dbf81&requestid=20260714205905901290350733&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -15594,7 +15594,7 @@ module.exports = [
         consNote: '소가족·누룽지면 1번, 검증 6인용이면 2번이 합리적입니다. 3번은 <strong>인덕션+통3중+8인용</strong>이 필요한 대가족에게 값어치가 있습니다.',
         review: '"인덕션에서, 대가족·손님 요리를 넉넉히"면 통3중 8인용이 좋습니다. 열이 고르고 커요. 소가족·가스면 1·2번이 합리적입니다.',
         specs: ['제품: PN풍년 뉴비엔나 IH 압력솥 (8인용)', '용량: 8인용', '호환: IH 인덕션 · 통3중', '배송: 일반배송', '가격: 약 98,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8817026786&itemId=19468171085&vendorItemId=73551810253&traceid=V0-153-d6d091886e516749&requestid=20260714205905901290350733&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8817026786&itemId=19468171085&vendorItemId=73551810253&traceid=V0-153-d6d091886e516749&requestid=20260714205905901290350733&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -15685,7 +15685,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 탄탄한 키친툴이면 2번, 브랜드 안심이면 3번 락앤락으로 가세요. "저렴한 4종"이면 가성비 좋아요.',
         review: '"코팅냄비용 실리콘 도구를 저렴하게 시작"이면 4종으로 충분합니다. 안 긁혀요. 탄탄함·브랜드면 2·3번을 보세요.',
         specs: ['제품: lilive 실리콘 조리도구 4종', '구성: 4종', '특징: 코팅 보호', '배송: 로켓배송', '가격: 약 10,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8147461415&itemId=23171406646&vendorItemId=90204161343&traceid=V0-153-e85b3b0b3bb81219&requestid=20260714205943663136483791&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8147461415&itemId=23171406646&vendorItemId=90204161343&traceid=V0-153-e85b3b0b3bb81219&requestid=20260714205943663136483791&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -15704,7 +15704,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 브랜드 안심이면 3번 락앤락입니다. 2번은 <strong>"내열+견고함"</strong>의 실속 구간 — 고온 조리·오래 쓰기에 무난합니다.',
         review: '"볶음·튀김 자주 하고 휘지 않는 튼튼한 도구"면 키친툴 4종이 좋습니다. 내열·견고해요. 브랜드·거치면 3번을 보세요.',
         specs: ['제품: 바겐슈타이거 에델 실리콘 키친툴 4종', '구성: 4종', '특징: 내열 · 견고', '배송: 로켓배송', '가격: 약 22,100원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7578530987&itemId=20001025609&vendorItemId=87098140701&traceid=V0-153-09e80cdad95a255a&requestid=20260714205943663136483791&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7578530987&itemId=20001025609&vendorItemId=87098140701&traceid=V0-153-09e80cdad95a255a&requestid=20260714205943663136483791&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -15723,7 +15723,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 내열·견고함이면 2번이 합리적입니다. 3번은 <strong>브랜드 완성도+받침 위생</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"브랜드로 안심하고, 받침까지 깔끔하게"면 락앤락이 좋습니다. 위생적이고 예뻐요. 저렴·내열이면 1·2번이 합리적입니다.',
         specs: ['제품: 락앤락 뉴 서포트 키친툴 세트', '구성: 키친툴 세트', '특징: 브랜드 · 받침 서포트', '배송: 로켓배송', '가격: 약 22,890원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8816492727&itemId=12289420754&vendorItemId=79559718314&traceid=V0-153-2c8bfd3c1380aba5&requestid=20260714205943663136483791&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8816492727&itemId=12289420754&vendorItemId=79559718314&traceid=V0-153-2c8bfd3c1380aba5&requestid=20260714205943663136483791&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -15814,7 +15814,7 @@ module.exports = [
         consNote: '이 제품은 <strong>드리퍼 단품</strong>입니다. 서버까지 필요하면 2번 입문세트, 주전자·저울까지면 3번 5종으로 가세요. "드리퍼만"이면 가성비 좋아요.',
         review: '"서버는 있고 드리퍼만 저렴하게"면 V60 단품이 딱입니다. 정보도 많고요. 서버·주전자가 없으면 2·3번을 보세요.',
         specs: ['제품: 하리오 드립퍼 V60', '구성: 드리퍼 단품', '방식: V60(원추형)', '배송: 로켓배송', '가격: 약 5,790원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=140985&itemId=25017205207&vendorItemId=3000191177&traceid=V0-153-521d5db5c71964d8&requestid=20260714205707251024958895&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=140985&itemId=25017205207&vendorItemId=3000191177&traceid=V0-153-521d5db5c71964d8&requestid=20260714205707251024958895&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -15833,7 +15833,7 @@ module.exports = [
         consNote: '드리퍼만이면 1번, 주전자·저울까지면 3번 5종입니다. 2번은 <strong>"드리퍼+서버 입문세트"</strong>의 실속 구간 — 처음 시작에 가장 무난합니다.',
         review: '"핸드드립 처음, 드리퍼+서버 한 번에"면 입문세트가 딱입니다. 바로 내려 마셔요. 주전자·저울까지면 3번을 보세요.',
         specs: ['제품: 하리오 V60 입문용 핸드드립 세트 (VCND-02B)', '구성: 드리퍼+서버', '용량: 1~4인용', '배송: 로켓배송', '가격: 약 16,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4672486305&itemId=5844065025&vendorItemId=73142357297&traceid=V0-153-b3a9f8cd95bef987&requestid=20260714205707251024958895&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4672486305&itemId=5844065025&vendorItemId=73142357297&traceid=V0-153-b3a9f8cd95bef987&requestid=20260714205707251024958895&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -15852,7 +15852,7 @@ module.exports = [
         consNote: '드리퍼만이면 1번, 드리퍼+서버 입문이면 2번이 합리적입니다. 3번은 <strong>주전자까지 5종 풀세트</strong>로 제대로 시작·선물하려는 분에게 값어치가 있습니다.',
         review: '"드립주전자까지 제대로, 선물로도"면 5종 세트가 좋습니다. 물줄기 조절이 돼 맛이 안정적이에요. 이미 갖췄으면 1·2번이 합리적입니다.',
         specs: ['제품: 칼딘 홈카페 핸드드립 패키지 (5종)', '구성: 드립주전자·드리퍼·서버·필터 등 5종', '용도: 풀세트·선물', '배송: 로켓배송', '가격: 약 32,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5142196802&itemId=7051400036&vendorItemId=75538157659&traceid=V0-153-21b84d75d0799490&clickBeacon=23279e60-7f7b-11f1-a20b-655931964444%7E3&requestid=20260714205707251024958895&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5142196802&itemId=7051400036&vendorItemId=75538157659&traceid=V0-153-21b84d75d0799490&clickBeacon=23279e60-7f7b-11f1-a20b-655931964444%7E3&requestid=20260714205707251024958895&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -15943,7 +15943,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·기본용</strong>입니다. 녹 없이 오래면 2번 스텐, 확장·자동배수면 3번으로 가세요. "저렴한 기본"이면 가성비 좋아요.',
         review: '"저렴하게 그릇 말릴 곳"이면 기본형으로 충분합니다. 1~2인엔 무난해요. 녹·확장·배수면 2·3번을 보세요.',
         specs: ['제품: 스토피아 식기건조대', '재질: 기본형', '용도: 가성비·소량', '배송: 로켓배송', '가격: 약 8,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6592556826&itemId=14882283331&vendorItemId=82121168990&traceid=V0-153-e42fcfecbd9b7097&requestid=20260714205707644136797522&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6592556826&itemId=14882283331&vendorItemId=82121168990&traceid=V0-153-e42fcfecbd9b7097&requestid=20260714205707644136797522&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -15962,7 +15962,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 확장·자동배수면 3번입니다. 2번은 <strong>"스텐(녹 없음)+내구"</strong>의 실속 구간 — 오래 위생적으로 쓰기에 무난합니다.',
         review: '"녹 없이 튼튼하게 오래"면 스테인리스가 정답입니다. 위생적이고요. 확장·물 고임 관리면 3번을 보세요.',
         specs: ['제품: Kdo 스테인리스 식기 건조대', '재질: 스테인리스', '용도: 녹 없음·내구', '배송: 로켓배송', '가격: 약 33,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9262037925&itemId=27405059650&vendorItemId=94370729209&traceid=V0-153-9dc37019b257b353&requestid=20260714205707644136797522&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9262037925&itemId=27405059650&vendorItemId=94370729209&traceid=V0-153-9dc37019b257b353&requestid=20260714205707644136797522&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -15981,7 +15981,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 녹 없는 스텐이면 2번이 합리적입니다. 3번은 <strong>확장+자동배수</strong>로 설거지가 많은 집에 값어치가 있습니다.',
         review: '"설거지가 많고 물받이 비우기가 귀찮다"면 자동배수 확장형이 편합니다. 물이 알아서 빠져요. 소량·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 위시선 올스텐 확장형 자동배수 식기건조대', '재질: 올스텐(무연마제)', '특징: 확장 · 자동배수', '배송: 로켓배송', '가격: 약 55,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9501367815&itemId=28306143026&vendorItemId=95291053876&traceid=V0-153-bdd997c9cec4fa4f&requestid=20260714205707644136797522&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9501367815&itemId=28306143026&vendorItemId=95291053876&traceid=V0-153-bdd997c9cec4fa4f&requestid=20260714205707644136797522&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -16072,7 +16072,7 @@ module.exports = [
         consNote: '이 제품은 <strong>초저가·기본용</strong>입니다. 브랜드 신뢰면 2번 카스, 방수·0.1g이면 3번으로 가세요. "초저가 1g"이면 가성비 좋아요.',
         review: '"요리·베이킹 계량을 저렴하게, 1g이면 충분"이면 초저가로 됩니다. 작고 가벼워요. 방수·정밀이면 2·3번을 보세요.',
         specs: ['제품: 코믈리 디지털 주방저울', '정밀: 1g 단위', '용도: 일반 계량', '배송: 로켓배송', '가격: 약 6,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9317580489&itemId=27613368657&vendorItemId=95646166565&traceid=V0-153-6fd1c8a0207450fd&requestid=20260714205708493058232369&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9317580489&itemId=27613368657&vendorItemId=95646166565&traceid=V0-153-6fd1c8a0207450fd&requestid=20260714205708493058232369&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16091,7 +16091,7 @@ module.exports = [
         consNote: '초저가면 1번, 방수·0.1g이면 3번입니다. 2번은 <strong>"카스 브랜드 신뢰"</strong>의 실속 구간 — 정확도·내구를 챙기기에 무난합니다.',
         review: '"계량은 정확해야 하고 브랜드로 안심"이면 카스가 좋습니다. 저울 전문이라 믿음직해요. 방수·초정밀이면 3번을 보세요.',
         specs: ['제품: 카스 디지털 주방저울', '정밀: 정확한 계량', '특징: 저울 전문 브랜드', '배송: 로켓배송', '가격: 약 36,590원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7199023073&itemId=18192529337&vendorItemId=70327437353&traceid=V0-153-a758613e0debfce9&requestid=20260714205708493058232369&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7199023073&itemId=18192529337&vendorItemId=70327437353&traceid=V0-153-a758613e0debfce9&requestid=20260714205708493058232369&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16110,7 +16110,7 @@ module.exports = [
         consNote: '초저가·1g이면 1번, 브랜드 신뢰면 2번이 합리적입니다. 3번은 <strong>0.1g 정밀+방수 세척</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"베이킹·커피로 0.1g 정밀, 물세척까지"면 방수 정밀이 좋습니다. 정확하고 위생적이에요. 일반 요리면 1·2번이 합리적입니다.',
         specs: ['제품: Loftylife IP67 방수 정밀 주방저울', '정밀: 0.1g 단위', '특징: IP67 방수 · 물세척', '배송: 로켓배송', '가격: 약 42,250원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9425062839&itemId=28016207693&vendorItemId=94973514506&traceid=V0-153-7c79b9771553764f&clickBeacon=23e9b5e0-7f7b-11f1-8885-e02c55f2a543%7E3&requestid=20260714205708493058232369&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9425062839&itemId=28016207693&vendorItemId=94973514506&traceid=V0-153-7c79b9771553764f&clickBeacon=23e9b5e0-7f7b-11f1-8885-e02c55f2a543%7E3&requestid=20260714205708493058232369&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -16201,7 +16201,7 @@ module.exports = [
         consNote: '이 제품은 <strong>자취·2인용</strong>입니다. 예쁜 선물이면 2번 도자기, 안 깨지는 가족용이면 3번 코렐로 가세요. "저렴한 2인"이면 가성비 좋아요.',
         review: '"자취·2인 살림을 저렴하게 한 번에"면 12피스가 무난합니다. 디자인도 깔끔해요. 선물·가족용이면 2·3번을 보세요.',
         specs: ['제품: 모던하우스 어반 2인 식기 홈세트 (12p)', '구성: 2인 12피스', '용도: 자취·2인', '배송: 로켓배송', '가격: 약 17,980원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8854066198&itemId=24995263371&vendorItemId=92000524564&traceid=V0-153-88a6de1bff09e873&requestid=20260714205709205116028893&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8854066198&itemId=24995263371&vendorItemId=92000524564&traceid=V0-153-88a6de1bff09e873&requestid=20260714205709205116028893&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16220,7 +16220,7 @@ module.exports = [
         consNote: '저렴한 2인이면 1번, 안 깨지는 가족용이면 3번 코렐입니다. 2번은 <strong>"예쁜 도자기+선물 포장"</strong>의 실속 구간 — 선물·감성에 무난합니다.',
         review: '"집들이 선물로 예쁘게, 도자기 질감"이면 선물세트가 좋습니다. 포장도 되고요. 안 깨지는 가족용이면 3번을 보세요.',
         specs: ['제품: 메블르 래빗 2인 도자기 식기 선물세트 (10P)', '재질: 도자기', '구성: 2인 10피스 · 선물박스', '배송: 로켓배송', '가격: 약 59,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9427948446&itemId=28027965185&vendorItemId=94986069762&traceid=V0-153-634169dc9ee5dac1&clickBeacon=245289d0-7f7b-11f1-ab0f-f755ddc119cb%7E3&requestid=20260714205709205116028893&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9427948446&itemId=28027965185&vendorItemId=94986069762&traceid=V0-153-634169dc9ee5dac1&clickBeacon=245289d0-7f7b-11f1-ab0f-f755ddc119cb%7E3&requestid=20260714205709205116028893&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16239,7 +16239,7 @@ module.exports = [
         consNote: '저렴한 2인이면 1번, 예쁜 선물이면 2번 도자기가 합리적입니다. 3번은 <strong>안 깨짐+가족용 대구성</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"아이·가족용으로 잘 안 깨지고 넉넉하게"면 코렐이 안심입니다. 얇고 가벼워요. 저렴·선물용이면 1·2번이 합리적입니다.',
         specs: ['제품: 코렐 코디네이츠 도자기 식기세트 (20p)', '재질: 강화(잘 안 깨짐)', '구성: 20피스(4인)', '배송: 일반배송', '가격: 약 198,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8635952675&itemId=27822017504&vendorItemId=94781725823&traceid=V0-153-0d1e070caf491b1f&clickBeacon=245289d0-7f7b-11f1-bebd-6bf1f512b3e2%7E3&requestid=20260714205709205116028893&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8635952675&itemId=27822017504&vendorItemId=94781725823&traceid=V0-153-0d1e070caf491b1f&clickBeacon=245289d0-7f7b-11f1-bebd-6bf1f512b3e2%7E3&requestid=20260714205709205116028893&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -16330,7 +16330,7 @@ module.exports = [
         consNote: '이 제품은 <strong>개인·가성비용</strong>입니다. 캠핑·운동 대용량이면 2번, 위생 316 프리미엄이면 3번으로 가세요. "저렴한 개인용"이면 좋아요.',
         review: '"사무실·외출용 개인 보온병을 저렴하게"면 500ml로 충분합니다. 온도 표시도 편해요. 대용량·프리미엄이면 2·3번을 보세요.',
         specs: ['제품: 다쓱 LED 온도표시 보온병 (500ml)', '용량: 500ml', '특징: LED 온도표시', '배송: 일반배송', '가격: 약 7,010원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7242599503&itemId=27577984898&vendorItemId=94541716785&traceid=V0-153-0d5219cae9e44d25&clickBeacon=24911970-7f7b-11f1-9c82-0bfec27defee%7E3&requestid=20260714205709615194634618&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7242599503&itemId=27577984898&vendorItemId=94541716785&traceid=V0-153-0d5219cae9e44d25&clickBeacon=24911970-7f7b-11f1-9c82-0bfec27defee%7E3&requestid=20260714205709615194634618&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16349,7 +16349,7 @@ module.exports = [
         consNote: '저렴한 개인용이면 1번, 위생 316 프리미엄이면 3번입니다. 2번은 <strong>"대용량+강력 보온보냉"</strong>의 실속 구간 — 캠핑·운동에 무난합니다.',
         review: '"캠핑·운동에 많은 양을 오래 보온·보냉"이면 대용량이 좋습니다. 넉넉하고 오래가요. 개인용·프리미엄이면 1·3번을 보세요.',
         specs: ['제품: 대용량 스텐 보온보냉병', '용량: 대용량', '특징: 강력 보온보냉', '배송: 로켓배송', '가격: 약 26,850원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7899289271&itemId=21644823403&vendorItemId=88695627536&traceid=V0-153-bda501c5e901a3a6&requestid=20260714205709615194634618&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7899289271&itemId=21644823403&vendorItemId=88695627536&traceid=V0-153-bda501c5e901a3a6&requestid=20260714205709615194634618&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16368,7 +16368,7 @@ module.exports = [
         consNote: '저렴한 개인용이면 1번, 캠핑 대용량이면 2번이 합리적입니다. 3번은 <strong>316 위생+대용량+완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"위생 316 스텐으로 안심하고 대용량·예쁘게"면 MOZ가 좋습니다. 위생·디자인이 낫고요. 저렴·개인용이면 1·2번이 합리적입니다.',
         specs: ['제품: MOZ 316 스텐 대용량 보온병 (1.3L)', '용량: 1.3L', '재질: 316 스텐 · 원터치', '배송: 로켓배송', '가격: 약 34,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7654339503&itemId=23815100034&vendorItemId=90838869383&traceid=V0-153-f0f413d48c88e29f&clickBeacon=24911970-7f7b-11f1-a680-4d9fce4ed075%7E3&requestid=20260714205709615194634618&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7654339503&itemId=23815100034&vendorItemId=90838869383&traceid=V0-153-f0f413d48c88e29f&clickBeacon=24911970-7f7b-11f1-a680-4d9fce4ed075%7E3&requestid=20260714205709615194634618&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -16459,7 +16459,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·스텐 1단용</strong>입니다. 밥·반찬 2단이면 2번, 따뜻한 보온이면 3번으로 가세요. "저렴한 스텐 1단"이면 좋아요.',
         review: '"플라스틱 대신 스텐, 저렴하게 구획으로"면 1단으로 충분합니다. 위생적이에요. 2단·보온이면 2·3번을 보세요.',
         specs: ['제품: 호밍사이 304 스텐 도시락통 (구획)', '재질: 304 스텐', '특징: 구획 · 전자레인지 가능', '배송: 로켓배송', '가격: 약 13,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9496307623&itemId=28287269448&vendorItemId=95025320283&traceid=V0-153-b310e085cdf5f3b1&requestid=20260714205710041309176404&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9496307623&itemId=28287269448&vendorItemId=95025320283&traceid=V0-153-b310e085cdf5f3b1&requestid=20260714205710041309176404&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16478,7 +16478,7 @@ module.exports = [
         consNote: '저렴한 1단이면 1번, 따뜻한 보온이면 3번입니다. 2번은 <strong>"2단+가방(밀프랩)"</strong>의 실속 구간 — 직장 도시락에 가장 무난합니다.',
         review: '"밥·반찬 넉넉히 2단, 가방까지"면 밀프랩 세트가 좋습니다. 들고 다니기 편해요. 따뜻함 유지면 3번을 보세요.',
         specs: ['제품: 쿠지 2단 스텐 도시락통 (밀프랩)', '구성: 2단 · 가방 포함', '특징: 전자레인지 가능', '배송: 로켓배송', '가격: 약 27,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8634531633&itemId=25052302579&vendorItemId=92056731635&traceid=V0-153-03712d936d749f1c&clickBeacon=24d1a4e0-7f7b-11f1-90c8-0d4d7a287fbe%7E3&requestid=20260714205710041309176404&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8634531633&itemId=25052302579&vendorItemId=92056731635&traceid=V0-153-03712d936d749f1c&clickBeacon=24d1a4e0-7f7b-11f1-90c8-0d4d7a287fbe%7E3&requestid=20260714205710041309176404&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16497,7 +16497,7 @@ module.exports = [
         consNote: '저렴한 1단이면 1번, 2단 밀프랩이면 2번이 합리적입니다. 3번은 <strong>보온(따뜻함 유지)</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"전자레인지 없이도 점심까지 따뜻하게"면 보온 도시락이 좋습니다. 따뜻함이 유지돼요. 데워 먹을 수 있으면 1·2번이 합리적입니다.',
         specs: ['제품: 피크르 304 스텐 보온 도시락통 (2단)', '재질: 304 스텐 · 2단', '특징: 보온 · 가방 포함', '배송: 로켓배송', '가격: 약 47,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8499289453&itemId=24602246685&vendorItemId=91654688534&traceid=V0-153-73325df873f80b0a&clickBeacon=24d1a4e0-7f7b-11f1-87c4-f8e0c3b9f84a%7E3&requestid=20260714205710041309176404&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8499289453&itemId=24602246685&vendorItemId=91654688534&traceid=V0-153-73325df873f80b0a&clickBeacon=24d1a4e0-7f7b-11f1-87c4-f8e0c3b9f84a%7E3&requestid=20260714205710041309176404&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -16588,7 +16588,7 @@ module.exports = [
         consNote: '이 제품은 <strong>개인·가성비용</strong>입니다. 하루치 대용량이면 2번, 세척·위생이면 3번 세라믹으로 가세요. "개인용 저렴"이면 가성비 좋아요.',
         review: '"개인용 물병을 저렴하게, 보온보냉으로"면 텀블러로 충분합니다. 휴대가 편해요. 대용량·위생이면 2·3번을 보세요.',
         specs: ['제품: 드링보틀 보온보냉 텀블러 물병', '특징: 보온보냉 · 개인용', '용도: 개인·휴대', '배송: 로켓배송', '가격: 약 9,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9504337581&itemId=28317936652&vendorItemId=95270527332&traceid=V0-153-74dcaef058ec658b&requestid=20260714205706632073091335&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9504337581&itemId=28317936652&vendorItemId=95270527332&traceid=V0-153-74dcaef058ec658b&requestid=20260714205706632073091335&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16607,7 +16607,7 @@ module.exports = [
         consNote: '개인 휴대면 1번, 세척·위생 프리미엄이면 3번입니다. 2번은 <strong>"1.2L 대용량+진공 밀폐"</strong>의 실속 구간 — 하루 물마시기·헬스에 무난합니다.',
         review: '"하루 물 목표량을 한 병으로, 헬스·운동에"면 1.2L 대용량이 편합니다. 자주 안 채워도 되고요. 개인 휴대·위생이면 1·3번을 보세요.',
         specs: ['제품: 근지 1.2L 대용량 보온보냉 텀블러', '용량: 1.2L', '특징: 이중 진공 · 밀폐', '배송: 로켓배송', '가격: 약 24,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9316345380&itemId=27608830564&vendorItemId=94789859040&traceid=V0-153-ef096b2d4b03d662&clickBeacon=22d8bb10-7f7b-11f1-96d9-b58e0b8a6f70%7E3&requestid=20260714205706632073091335&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9316345380&itemId=27608830564&vendorItemId=94789859040&traceid=V0-153-ef096b2d4b03d662&clickBeacon=22d8bb10-7f7b-11f1-96d9-b58e0b8a6f70%7E3&requestid=20260714205706632073091335&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16626,7 +16626,7 @@ module.exports = [
         consNote: '개인 휴대·저렴이면 1번, 하루치 대용량이면 2번이 합리적입니다. 3번은 <strong>세라믹 코팅+316 위생</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"물맛 깨끗하게, 냄새·위생 신경 쓰인다"면 세라믹 316이 좋습니다. 물맛이 깔끔해요. 저렴·대용량이면 1·2번이 합리적입니다.',
         specs: ['제품: 세다가 C820 세라믹 316 텀블러 (1L)', '용량: 1L', '재질: 내부 세라믹 · 316 스텐 · 빨대·손잡이', '배송: 로켓배송', '가격: 약 59,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9265027008&itemId=27416556201&vendorItemId=94382119082&traceid=V0-153-a4e907d889a00045&clickBeacon=22d8bb10-7f7b-11f1-8316-025ec0f98fbb%7E3&requestid=20260714205706632073091335&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9265027008&itemId=27416556201&vendorItemId=94382119082&traceid=V0-153-a4e907d889a00045&clickBeacon=22d8bb10-7f7b-11f1-8316-025ec0f98fbb%7E3&requestid=20260714205706632073091335&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -16717,7 +16717,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·스텐용</strong>입니다. 눌음 적게면 2번 3중, 가족 대인원이면 3번으로 가세요. "저렴한 스텐"이면 가성비 좋아요.',
         review: '"캠핑 코펠을 저렴하게, 소인원으로"면 304 스텐으로 충분합니다. 녹도 안 슬고요. 눌음·대인원이면 2·3번을 보세요.',
         specs: ['제품: CookNest 304 스텐 캠핑 코펠 세트', '재질: 304 스텐', '구성: 냄비+식기', '배송: 로켓배송', '가격: 약 26,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9417197105&itemId=27985064720&vendorItemId=94942757579&traceid=V0-153-87461458591d542f&requestid=20260714212224318290355588&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9417197105&itemId=27985064720&vendorItemId=94942757579&traceid=V0-153-87461458591d542f&requestid=20260714212224318290355588&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16736,7 +16736,7 @@ module.exports = [
         consNote: '저렴한 스텐이면 1번, 가족 대인원이면 3번입니다. 2번은 <strong>"3중 바닥+15피스"</strong>의 실속 구간 — 눌음 적고 넉넉히 쓰기에 무난합니다.',
         review: '"눌어붙음이 적고 구성도 넉넉하게"면 3중 15p가 좋습니다. 조리가 편해요. 대인원이면 3번을 보세요.',
         specs: ['제품: 브리즈문 3중 스텐 캠핑 코펠 (15p)', '재질: 3중 바닥 스텐', '구성: 15피스', '배송: 일반배송', '가격: 약 45,300원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8118221139&itemId=23018795728&vendorItemId=90419623430&traceid=V0-153-94edf298680173ff&requestid=20260714212224318290355588&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8118221139&itemId=23018795728&vendorItemId=90419623430&traceid=V0-153-94edf298680173ff&requestid=20260714212224318290355588&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16755,7 +16755,7 @@ module.exports = [
         consNote: '저렴한 스텐이면 1번, 눌음 적은 3중이면 2번이 합리적입니다. 3번은 <strong>5~6인 대용량(가족 캠핑)</strong>에 값어치가 있습니다.',
         review: '"가족·여럿이 넉넉히 조리"면 5~6인 대용량이 든든합니다. 큰 냄비가 편해요. 소인원·백패킹이면 1·2번이 합리적입니다.',
         specs: ['제품: LIBERO 웜벳 스텐 코펠 (5~6인용)', '용량: 5~6인용', '재질: 스텐', '배송: 로켓배송', '가격: 약 64,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8830070250&itemId=25728611001&vendorItemId=92929741505&traceid=V0-153-c5c304d2d37a6d0e&clickBeacon=ab65d320-7f7e-11f1-9b06-4b7f08708575%7E3&requestid=20260714212224318290355588&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8830070250&itemId=25728611001&vendorItemId=92929741505&traceid=V0-153-c5c304d2d37a6d0e&clickBeacon=ab65d320-7f7e-11f1-9b06-4b7f08708575%7E3&requestid=20260714212224318290355588&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -16845,7 +16845,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·둘레길용</strong>입니다. 가벼운 산행 편안함이면 2번, 방수·본격이면 3번으로 가세요. "입문·저렴"이면 부담 없어요.',
         review: '"둘레길·가벼운 산행을 저렴하게 입문"이면 유세븐이 부담 없습니다. 방수·본격 산행이면 2·3번을 보세요.',
         specs: ['제품: 유세븐 남성용 등산화 (D002)', '용도: 입문·둘레길', '특징: 가성비', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6928467&itemId=30684775&vendorItemId=4572738648&traceid=V0-153-1805b6c98b102800&requestid=20260714212229517177681475&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6928467&itemId=30684775&vendorItemId=4572738648&traceid=V0-153-1805b6c98b102800&requestid=20260714212229517177681475&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16864,7 +16864,7 @@ module.exports = [
         consNote: '입문·둘레길이면 1번, 방수·본격이면 3번입니다. 2번은 <strong>"경량·편안+다이얼"</strong>의 실속 구간 — 대부분의 산행에 무난합니다.',
         review: '"가볍고 편안하게, 다이얼로 간편히"면 트레킹화가 좋습니다. 발이 편해요. 방수·본격이면 3번을 보세요.',
         specs: ['제품: 아놀드파마 다이얼 경량 트레킹화', '특징: 다이얼 조임 · 경량 · 미끄럼방지', '용도: 경량·편안', '배송: 일반배송', '가격: 약 54,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9402265981&itemId=27929607913&vendorItemId=94888049548&traceid=V0-153-ea77382c6080906e&clickBeacon=ae80a7b0-7f7e-11f1-aadc-dc4330651104%7E3&requestid=20260714212229517177681475&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9402265981&itemId=27929607913&vendorItemId=94888049548&traceid=V0-153-ea77382c6080906e&clickBeacon=ae80a7b0-7f7e-11f1-aadc-dc4330651104%7E3&requestid=20260714212229517177681475&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16883,7 +16883,7 @@ module.exports = [
         consNote: '입문·둘레길이면 1번, 경량·편안이면 2번이 합리적입니다. 3번은 <strong>방수+접지+본격 산행</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"비·젖은 길에도 보송하게, 본격 산행"이면 방수 브랜드가 든든합니다. 접지도 좋고요. 가벼운 둘레길이면 1·2번이 합리적입니다.',
         specs: ['제품: 블랙야크 방수 트레킹화', '특징: 방수 · 논슬립 · 브랜드', '용도: 방수·본격', '배송: 일반배송', '가격: 약 98,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9436498353&itemId=28062376085&vendorItemId=95019096125&traceid=V0-153-9894f8a17ca51fdb&clickBeacon=ae80a7b0-7f7e-11f1-8b71-dd5f4ba1d5a6%7E3&requestid=20260714212229517177681475&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9436498353&itemId=28062376085&vendorItemId=95019096125&traceid=V0-153-9894f8a17ca51fdb&clickBeacon=ae80a7b0-7f7e-11f1-8b71-dd5f4ba1d5a6%7E3&requestid=20260714212229517177681475&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -16974,7 +16974,7 @@ module.exports = [
         consNote: '이 제품은 <strong>대용량·1박용</strong>입니다. 비 대비 방수면 2번, 당일 초경량이면 3번으로 가세요. "짐 많은 대용량"이면 가성비 좋아요.',
         review: '"1박·짐 많은 산행을 저렴한 대용량으로"면 41L가 넉넉합니다. 부피 큰 짐도 들어가요. 방수·당일이면 2·3번을 보세요.',
         specs: ['제품: 밀리센치 중형 등산 배낭 (41L)', '용량: 41L', '용도: 대용량·1박', '배송: 로켓배송', '가격: 약 19,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7841887950&itemId=21350546910&vendorItemId=95365142662&traceid=V0-153-f086eaa149571b65&clickBeacon=aee8df60-7f7e-11f1-bab2-b09e0ab29238%7E3&requestid=20260714212230203202189734&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7841887950&itemId=21350546910&vendorItemId=95365142662&traceid=V0-153-f086eaa149571b65&clickBeacon=aee8df60-7f7e-11f1-bab2-b09e0ab29238%7E3&requestid=20260714212230203202189734&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -16993,7 +16993,7 @@ module.exports = [
         consNote: '짐 많은 1박이면 1번, 당일 초경량이면 3번입니다. 2번은 <strong>"방수+경량 범용"</strong>의 실속 구간 — 대부분의 산행·여행에 무난합니다.',
         review: '"비 대비 방수, 등산·여행 두루 가볍게"면 방수 경량이 좋습니다. 범용성이 좋아요. 대용량·초경량이면 1·3번을 보세요.',
         specs: ['제품: NUTRIVIO 방수 경량 등산 배낭', '특징: 방수 · 경량', '용도: 방수·범용', '배송: 로켓배송', '가격: 약 29,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9438057663&itemId=28068798517&vendorItemId=95043342477&traceid=V0-153-c4f32f7299a3d280&requestid=20260714212230203202189734&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9438057663&itemId=28068798517&vendorItemId=95043342477&traceid=V0-153-c4f32f7299a3d280&requestid=20260714212230203202189734&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17012,7 +17012,7 @@ module.exports = [
         consNote: '짐 많은 1박이면 1번, 방수 범용이면 2번이 합리적입니다. 3번은 <strong>당일·초경량(최소 짐)</strong>을 원하는 분에게 어울립니다.',
         review: '"당일 산행에 가볍게 최소한만"이면 18L 초경량이 딱입니다. 부담이 없어요. 1박·짐 많으면 1·2번이 합리적입니다.',
         specs: ['제품: 리치모리 초경량 트레킹 배낭 (18L)', '용량: 18L', '용도: 당일·초경량', '배송: 로켓배송', '가격: 약 29,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9417185067&itemId=27985016462&vendorItemId=94942743258&traceid=V0-153-1e475700415e1378&clickBeacon=aee8df60-7f7e-11f1-b389-165293b05733%7E3&requestid=20260714212230203202189734&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9417185067&itemId=27985016462&vendorItemId=94942743258&traceid=V0-153-1e475700415e1378&clickBeacon=aee8df60-7f7e-11f1-b389-165293b05733%7E3&requestid=20260714212230203202189734&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -17103,7 +17103,7 @@ module.exports = [
         consNote: '이 제품은 <strong>휴대·가성비용</strong>입니다. 시원함 유지면 2번 보냉, 튼튼·브랜드면 3번 스탠리로 가세요. "접어 담는 초경량"이면 좋아요.',
         review: '"가볍게 접어 담고, 저렴하게"면 워터백이 딱입니다. 부피가 없어요. 보냉·튼튼함이면 2·3번을 보세요.',
         specs: ['제품: 캠핑 워터저그 초경량 워터백 (8L)', '용량: 8L', '특징: 접이 수납', '배송: 로켓배송', '가격: 약 6,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8187861895&itemId=24873425445&vendorItemId=91395339274&traceid=V0-153-311065ac67d140aa&requestid=20260714212230808041714695&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8187861895&itemId=24873425445&vendorItemId=91395339274&traceid=V0-153-311065ac67d140aa&requestid=20260714212230808041714695&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17122,7 +17122,7 @@ module.exports = [
         consNote: '접어 담는 초경량이면 1번, 튼튼·브랜드면 3번 스탠리입니다. 2번은 <strong>"보냉+꼭지"</strong>의 실속 구간 — 여름 캠핑에 가장 무난합니다.',
         review: '"여름 캠핑에 시원한 물을 오래, 꼭지로 편하게"면 보냉 물통이 좋습니다. 시원함이 유지돼요. 초경량·브랜드면 1·3번을 보세요.',
         specs: ['제품: 코스모스 차박 캠핑 워터저그 (보냉)', '특징: 보냉 · 꼭지 배출', '용도: 차박·캠핑', '배송: 로켓배송', '가격: 약 49,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7390004540&itemId=19104499929&vendorItemId=86224958990&traceid=V0-153-65a88924a319846d&requestid=20260714212230808041714695&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7390004540&itemId=19104499929&vendorItemId=86224958990&traceid=V0-153-65a88924a319846d&requestid=20260714212230808041714695&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17141,7 +17141,7 @@ module.exports = [
         consNote: '접어 담는 초경량이면 1번, 가성비 보냉이면 2번이 합리적입니다. 3번은 <strong>브랜드 내구+보냉</strong>으로 오래 쓰려는 분에게 값어치가 있습니다.',
         review: '"튼튼하게 오래, 브랜드로 캠핑 감성까지"면 스탠리가 좋습니다. 내구가 좋아요. 초경량·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 스탠리 어드벤처 워터저그 (7.5L)', '용량: 7.5L', '특징: 브랜드 · 보냉 · 꼭지', '배송: 로켓배송', '가격: 약 70,300원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1821246624&itemId=24661365126&vendorItemId=91671799186&traceid=V0-153-4b5d8b166b13cad6&clickBeacon=af4c3510-7f7e-11f1-b746-ced373888811%7E3&requestid=20260714212230808041714695&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1821246624&itemId=24661365126&vendorItemId=91671799186&traceid=V0-153-4b5d8b166b13cad6&clickBeacon=af4c3510-7f7e-11f1-b746-ced373888811%7E3&requestid=20260714212230808041714695&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -17231,7 +17231,7 @@ module.exports = [
         consNote: '이 제품은 <strong>일상·라이딩용</strong>입니다. 좁은 집·휴대면 2번 접이식, 험로면 3번 팻바이크로 가세요. "일상·입문"이면 가성비 좋아요.',
         review: '"일상·운동 라이딩을 저렴하게 입문"이면 26인치 MTB가 무난합니다. 변속으로 언덕도 되고요. 휴대·오프로드면 2·3번을 보세요.',
         specs: ['제품: 닥터바이크 26인치 MTB 자전거 (21단)', '종류: MTB · 26인치 · 21단', '용도: 일상·라이딩', '배송: 일반배송', '가격: 약 109,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8763215397&itemId=25482611240&vendorItemId=95140227273&traceid=V0-153-605b68f7165378da&requestid=20260714212231505297889040&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8763215397&itemId=25482611240&vendorItemId=95140227273&traceid=V0-153-605b68f7165378da&requestid=20260714212231505297889040&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17250,7 +17250,7 @@ module.exports = [
         consNote: '일상·라이딩이면 1번, 험로면 3번 팻바이크입니다. 2번은 <strong>"접이 휴대·보관"</strong>의 실속 구간 — 좁은 집·대중교통 병행에 무난합니다.',
         review: '"집이 좁아 접어 보관하고, 지하철·차에 싣고"면 접이식 미니벨로가 편합니다. 휴대가 좋아요. 험로면 3번을 보세요.',
         specs: ['제품: 스마트자전거 FD100 20인치 접이식 미니벨로', '종류: 접이식 미니벨로 · 20인치', '용도: 휴대·보관', '배송: 일반배송', '가격: 약 185,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9493045500&itemId=28274665354&vendorItemId=95298483614&traceid=V0-153-2502bcab3a719fde&clickBeacon=afb41ea0-7f7e-11f1-a207-13b02f9522a4%7E3&requestid=20260714212231505297889040&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9493045500&itemId=28274665354&vendorItemId=95298483614&traceid=V0-153-2502bcab3a719fde&clickBeacon=afb41ea0-7f7e-11f1-a207-13b02f9522a4%7E3&requestid=20260714212231505297889040&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17269,7 +17269,7 @@ module.exports = [
         consNote: '일상·라이딩이면 1번, 휴대·보관이면 2번이 합리적입니다. 3번은 <strong>험로·오프로드</strong>를 즐기는 분에게 값어치가 있습니다.',
         review: '"비포장·모래·눈길 등 험로를 안정적으로"면 팻바이크가 든든합니다. 초광폭이라 안정감이 좋아요. 일상·휴대면 1·2번이 합리적입니다.',
         specs: ['제품: 테라로드 오프로드 팻바이크 (4인치 광폭, 21단)', '종류: 팻바이크 · 4인치 초광폭 · 21단', '용도: 험로·오프로드', '배송: 일반배송', '가격: 약 309,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9225246035&itemId=27264719720&vendorItemId=95204208261&traceid=V0-153-876cb6a6294fbfe3&clickBeacon=afb3f790-7f7e-11f1-a8b5-af18d1811755%7E3&requestid=20260714212231505297889040&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9225246035&itemId=27264719720&vendorItemId=95204208261&traceid=V0-153-876cb6a6294fbfe3&clickBeacon=afb3f790-7f7e-11f1-a8b5-af18d1811755%7E3&requestid=20260714212231505297889040&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -17359,7 +17359,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·기본용</strong>입니다. 캐주얼 데일리면 2번 어반 캡, 야간·초경량이면 3번으로 가세요. "저렴한 기본 안전"이면 좋아요.',
         review: '"헬멧을 저렴하게, 기본 안전만"이면 가성비 헬멧으로 충분합니다. 입문용으로 좋고요. 디자인·후미등이면 2·3번을 보세요.',
         specs: ['제품: DS 충격흡수 안전 자전거 헬멧', '특징: 충격흡수 · 자외선 차단', '용도: 가성비·기본', '배송: 일반배송', '가격: 약 13,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7842904833&itemId=21355179293&vendorItemId=95258178321&traceid=V0-153-222467f64390a257&requestid=20260714212231974089335470&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7842904833&itemId=21355179293&vendorItemId=95258178321&traceid=V0-153-222467f64390a257&requestid=20260714212231974089335470&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17378,7 +17378,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 야간·초경량이면 3번입니다. 2번은 <strong>"캐주얼 어반 디자인"</strong>의 실속 구간 — 데일리·다용도에 무난합니다.',
         review: '"헬멧 티 덜 나게 캐주얼하게, 킥보드도"면 어반 캡이 좋습니다. 데일리로 편해요. 야간·초경량이면 3번을 보세요.',
         specs: ['제품: 웨스트바이킹 어반 캡 헬멧 (YPZ119)', '특징: 캡 디자인 · 다용도', '용도: 캐주얼·데일리', '배송: 로켓배송', '가격: 약 29,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8350171614&itemId=24122871341&vendorItemId=91173046705&traceid=V0-153-6ee4ae58bb003861&clickBeacon=aff6ccf0-7f7e-11f1-924a-34312b5264d3%7E3&requestid=20260714212231974089335470&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8350171614&itemId=24122871341&vendorItemId=91173046705&traceid=V0-153-6ee4ae58bb003861&clickBeacon=aff6ccf0-7f7e-11f1-924a-34312b5264d3%7E3&requestid=20260714212231974089335470&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17397,7 +17397,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 캐주얼 데일리면 2번이 합리적입니다. 3번은 <strong>후미등(야간 안전)+초경량</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"야간·새벽 라이딩이 잦아 뒤차에 잘 보여야"면 후미등 헬멧이 안전합니다. 가볍고요. 낮·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 시그니처베이지 초경량 후미등 헬멧 (YPZ439)', '특징: 후미등 · 초경량', '용도: 야간·초경량', '배송: 로켓배송', '가격: 약 39,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7731921332&itemId=23041852158&vendorItemId=90098277542&traceid=V0-153-620a2d76e8f2fc18&clickBeacon=aff6ccf0-7f7e-11f1-a8fc-d6375d9ba51f%7E3&requestid=20260714212231974089335470&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7731921332&itemId=23041852158&vendorItemId=90098277542&traceid=V0-153-620a2d76e8f2fc18&clickBeacon=aff6ccf0-7f7e-11f1-a8fc-d6375d9ba51f%7E3&requestid=20260714212231974089335470&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -17487,7 +17487,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·연습용</strong>입니다. 아이 전용 발광이면 2번, 성인·청소년 튼튼함이면 3번으로 가세요. "입문·저렴"이면 가성비 좋아요.',
         review: '"킥보드를 저렴하게 입문·연습용으로"면 접이식이 무난합니다. 높이조절도 되고요. 아이 전용·성인용이면 2·3번을 보세요.',
         specs: ['제품: MG 접이식 LED 킥보드 (3단 높이조절)', '특징: 접이식 · 높이조절 · LED', '용도: 입문·연습', '배송: 일반배송', '가격: 약 19,710원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7984205601&itemId=22168908870&vendorItemId=89215339723&traceid=V0-153-6ca23b8c20271f55&requestid=20260714212232589214612648&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7984205601&itemId=22168908870&vendorItemId=89215339723&traceid=V0-153-6ca23b8c20271f55&requestid=20260714212232589214612648&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17506,7 +17506,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 성인·청소년 튼튼함이면 3번입니다. 2번은 <strong>"아동 전용+발광"</strong>의 실속 구간 — 아이 선물·놀이에 무난합니다.',
         review: '"아이 전용으로, 발광 바퀴로 흥미까지"면 아동 킥보드가 좋습니다. 아이가 좋아해요. 성인·청소년이면 3번을 보세요.',
         specs: ['제품: 아동용 접이식 발광 킥보드 (험머휠)', '대상: 아동', '특징: 발광 · 탈부착 · 접이', '배송: 로켓배송', '가격: 약 68,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8999757942&itemId=26372808005&vendorItemId=94044015028&traceid=V0-153-37b1b97990bb8c29&clickBeacon=b0545640-7f7e-11f1-b252-5966e5b15d4e%7E3&requestid=20260714212232589214612648&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8999757942&itemId=26372808005&vendorItemId=94044015028&traceid=V0-153-37b1b97990bb8c29&clickBeacon=b0545640-7f7e-11f1-b252-5966e5b15d4e%7E3&requestid=20260714212232589214612648&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17525,7 +17525,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 아이 전용이면 2번이 합리적입니다. 3번은 <strong>성인·청소년 하중+서스펜션 승차감</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"성인·청소년이 튼튼하게, 충격 흡수 승차감까지"면 서스펜션 킥보드가 좋습니다. 노면이 편해요. 아이·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 성인·청소년 접이식 듀얼 서스펜션 킥보드', '대상: 성인·청소년', '특징: 듀얼 서스펜션 · 접이', '배송: 로켓배송', '가격: 약 80,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9344721535&itemId=27716367682&vendorItemId=95274291957&traceid=V0-153-7057eb5b734f2f77&clickBeacon=b0545640-7f7e-11f1-a731-2d8a83f30fbb%7E3&requestid=20260714212232589214612648&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9344721535&itemId=27716367682&vendorItemId=95274291957&traceid=V0-153-7057eb5b734f2f77&clickBeacon=b0545640-7f7e-11f1-a731-2d8a83f30fbb%7E3&requestid=20260714212232589214612648&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -17615,7 +17615,7 @@ module.exports = [
         consNote: '이 제품은 <strong>휴대·소인원용</strong>입니다. 가족·모임이면 2번 특대형, 대인원·훈제면 3번으로 가세요. "소인원·휴대"면 가성비 좋아요.',
         review: '"소인원·백패킹으로 가볍게 구워 먹기"면 폴딩 휴대용이 딱입니다. 접어서 편해요. 대인원·훈제면 2·3번을 보세요.',
         specs: ['제품: 폴딩 휴대용 숯불 바베큐 그릴', '특징: 접이 휴대', '용도: 휴대·소인원', '배송: 로켓배송', '가격: 약 29,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9541958092&itemId=28463606161&vendorItemId=95415634621&traceid=V0-153-f081b6a6a537cc8b&requestid=20260714212233325149376110&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9541958092&itemId=28463606161&vendorItemId=95415634621&traceid=V0-153-f081b6a6a537cc8b&requestid=20260714212233325149376110&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17634,7 +17634,7 @@ module.exports = [
         consNote: '소인원·휴대면 1번, 대인원·최대 크기면 3번 초특대형입니다. 2번은 <strong>"특대형+훈제"</strong>의 실속 구간 — 가족·모임에 가장 무난합니다.',
         review: '"가족·모임에 넉넉히, 훈제까지"면 특대형이 좋습니다. 인원이 넉넉해요. 소인원·최대 크기면 1·3번을 보세요.',
         specs: ['제품: 카나모 특대형 훈제 바베큐 그릴', '크기: 특대형 · 훈제', '용도: 가족·모임', '배송: 일반배송', '가격: 약 135,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1877528662&itemId=15970925396&vendorItemId=83542381573&traceid=V0-153-c8c635dcad5a23f8&requestid=20260714212233325149376110&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1877528662&itemId=15970925396&vendorItemId=83542381573&traceid=V0-153-c8c635dcad5a23f8&requestid=20260714212233325149376110&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17653,7 +17653,7 @@ module.exports = [
         consNote: '소인원·휴대면 1번, 가족·모임이면 2번 특대형이 합리적입니다. 3번은 <strong>많은 인원·행사(최대 크기)</strong>에 값어치가 있습니다.',
         review: '"많은 인원·행사에 한 번에 많이"면 초특대형이 든든합니다. 굽는 양이 넉넉해요. 소·중인원이면 1·2번이 합리적입니다.',
         specs: ['제품: 카나모 초특대형 훈제 바베큐 그릴 플러스', '크기: 초특대형 · 훈제·직화', '용도: 대인원·행사', '배송: 일반배송', '가격: 약 175,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9124342468&itemId=26841720744&vendorItemId=93811622756&traceid=V0-153-26e50c6b0e22af72&requestid=20260714212233325149376110&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9124342468&itemId=26841720744&vendorItemId=93811622756&traceid=V0-153-26e50c6b0e22af72&requestid=20260714212233325149376110&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -17744,7 +17744,7 @@ module.exports = [
         consNote: '이 제품은 <strong>캠핑·가성비용</strong>입니다. 무설치·각도조절이면 2번, 넉넉한 특대형이면 3번으로 가세요. "저렴한 캠핑"이면 가성비 좋아요.',
         review: '"캠핑에서 바닥 냉기 피해 저렴하게 자기"면 접이식이 무난합니다. 접어서 편해요. 각도조절·특대형이면 2·3번을 보세요.',
         specs: ['제품: 접이식 캠핑 침대 (스틸 프레임)', '특징: 접이 · 베개 일체형', '용도: 캠핑·가성비', '배송: 일반배송', '가격: 약 8,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9560656506&itemId=28530517457&vendorItemId=95709620090&traceid=V0-153-1797d199dba141c3&requestid=20260714212234163177682567&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9560656506&itemId=28530517457&vendorItemId=95709620090&traceid=V0-153-1797d199dba141c3&requestid=20260714212234163177682567&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -17763,7 +17763,7 @@ module.exports = [
         consNote: '저렴한 캠핑이면 1번, 넉넉한 특대형이면 3번입니다. 2번은 <strong>"무설치+각도조절"</strong>의 실속 구간 — 캠핑·낮잠 겸용에 가장 편합니다.',
         review: '"조립 없이 펼쳐서 바로, 각도까지 조절"이면 무설치 리클라이너가 편합니다. 낮잠에도 좋고요. 넉넉한 체격이면 3번을 보세요.',
         specs: ['제품: 코멧 6단 각도조절 무설치 리클라이너 침대', '특징: 무설치 · 6단 각도조절', '용도: 캠핑·낮잠', '배송: 로켓배송', '가격: 약 32,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8512019139&itemId=24639671883&vendorItemId=91650553652&traceid=V0-153-e240529570beb867&requestid=20260714212234163177682567&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8512019139&itemId=24639671883&vendorItemId=91650553652&traceid=V0-153-e240529570beb867&requestid=20260714212234163177682567&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -17782,7 +17782,7 @@ module.exports = [
         consNote: '저렴한 캠핑이면 1번, 무설치·각도조절이면 2번이 합리적입니다. 3번은 <strong>넉넉한 특대형(편안함)</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"체격이 크거나 넓고 편안하게 자고 싶다"면 특대형이 좋습니다. 뒤척여도 편해요. 저렴·무설치면 1·2번이 합리적입니다.',
         specs: ['제품: 캠인노크 특대형 휴대용 접이식 간이 침대', '크기: 특대형', '특징: 넉넉한 하중 · 접이', '배송: 일반배송', '가격: 약 42,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7975401808&itemId=22106473051&vendorItemId=89153417004&traceid=V0-153-c4aeb2cb8a6e612f&requestid=20260714212234163177682567&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7975401808&itemId=22106473051&vendorItemId=89153417004&traceid=V0-153-c4aeb2cb8a6e612f&requestid=20260714212234163177682567&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -17873,7 +17873,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·가죽용</strong>입니다. 넉넉한 수납이면 2번 대용량, SUV 3구획이면 3번으로 가세요. "저렴한 가죽"이면 가성비 좋아요.',
         review: '"저렴하게 깔끔한 가죽 정리함"이면 레토가 무난합니다. 닦기도 좋고요. 대용량·구획이면 2·3번을 보세요.',
         specs: ['제품: 레토 가죽 트렁크 정리함', '재질: 가죽', '용도: 가성비·기본', '배송: 로켓배송', '가격: 약 14,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9194059353&itemId=27136000441&vendorItemId=94103940991&traceid=V0-153-e69d83d17a33a55d&clickBeacon=e92a33e0-7f7e-11f1-8b98-c2fca7e0ba4d%7E3&requestid=20260714212407857116025827&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9194059353&itemId=27136000441&vendorItemId=94103940991&traceid=V0-153-e69d83d17a33a55d&clickBeacon=e92a33e0-7f7e-11f1-8b98-c2fca7e0ba4d%7E3&requestid=20260714212407857116025827&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17892,7 +17892,7 @@ module.exports = [
         consNote: '저렴한 가죽이면 1번, SUV 3구획 고정이면 3번입니다. 2번은 <strong>"대용량 범용 수납"</strong>의 실속 구간 — 대부분의 차량·용도에 무난합니다.',
         review: '"짐을 넉넉히 담고 굴러다니지 않게"면 대용량이 좋습니다. 소음도 줄고요. 구획·고정이면 3번을 보세요.',
         specs: ['제품: 엘와이제이 차량용 트렁크 대용량 수납함', '용량: 대용량', '용도: 대용량·범용', '배송: 일반배송', '가격: 약 31,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9134570450&itemId=27141789394&vendorItemId=94109683999&traceid=V0-153-da0d0d03e788f3f8&requestid=20260714212407857116025827&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9134570450&itemId=27141789394&vendorItemId=94109683999&traceid=V0-153-da0d0d03e788f3f8&requestid=20260714212407857116025827&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -17911,7 +17911,7 @@ module.exports = [
         consNote: '저렴한 가죽이면 1번, 대용량 범용이면 2번이 합리적입니다. 3번은 <strong>3구획 분리+SUV 대형</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"SUV로 짐을 종류별로 체계적으로, 접이까지"면 3구획이 좋습니다. 정리가 확 돼요. 작은 차·소량이면 1·2번이 합리적입니다.',
         specs: ['제품: 크로니클 접이식 3구획 SUV 트렁크 수납함', '구성: 3구획 · 마그네틱 · 접이', '용도: SUV·구획', '배송: 로켓배송', '가격: 약 47,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9591667839&itemId=28632675964&vendorItemId=95575696059&traceid=V0-153-7b2140a83fc4a87a&requestid=20260714212407857116025827&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9591667839&itemId=28632675964&vendorItemId=95575696059&traceid=V0-153-7b2140a83fc4a87a&requestid=20260714212407857116025827&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -18001,7 +18001,7 @@ module.exports = [
         consNote: '이 제품은 <strong>기본·가성비용</strong>입니다. 남성 맞춤이면 2번, 여러 영양 한 번에면 3번 멀티팩으로 가세요. "저렴한 기본"이면 가성비 좋아요.',
         review: '"종합비타민을 저렴하게 시작, 기본이면 충분"이면 가성비 올인원이 무난합니다. 습관 들이기 좋고요. 맞춤·멀티팩이면 2·3번을 보세요.',
         specs: ['제품: 99바이탈 올인원 종합비타민', '구성: 기본 비타민·미네랄', '형태: 정제', '배송: 로켓배송', '가격: 약 9,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8936204653&itemId=26127376747&vendorItemId=93687927048&traceid=V0-153-419808a7961d157c&requestid=20260714214719179274983090&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8936204653&itemId=26127376747&vendorItemId=93687927048&traceid=V0-153-419808a7961d157c&requestid=20260714214719179274983090&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18020,7 +18020,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 여러 영양 한 번에면 3번 멀티팩입니다. 2번은 <strong>"남성 맞춤 구성"</strong>의 실속 구간 — 제대로 챙기기에 무난합니다.',
         review: '"남성 맞춤으로 제대로 챙기고 싶다"면 포맨 멀티가 좋습니다. 구성이 넉넉해요. 여러 영양 조합이면 3번을 보세요.',
         specs: ['제품: 익스트림 올인원 포 맨 멀티비타민 (30회분)', '구성: 남성 맞춤 멀티', '용량: 30회분', '배송: 로켓배송', '가격: 약 39,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8134954250&itemId=23106964206&vendorItemId=91290482910&traceid=V0-153-e3504bd784d4c7e2&clickBeacon=26686d50-7f82-11f1-8ebc-a7549fff80d3%7E3&requestid=20260714214719179274983090&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8134954250&itemId=23106964206&vendorItemId=91290482910&traceid=V0-153-e3504bd784d4c7e2&clickBeacon=26686d50-7f82-11f1-8ebc-a7549fff80d3%7E3&requestid=20260714214719179274983090&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18039,7 +18039,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 남성 맞춤이면 2번이 합리적입니다. 3번은 <strong>여러 영양을 한 번에(올인원)</strong> 챙기려는 분에게 편리합니다.',
         review: '"영양제를 따로 챙기기 귀찮고 한 번에"면 올인원 멀티팩이 편합니다. 개별 포장이라 휴대도 좋고요. 기본·맞춤이면 1·2번이 합리적입니다.',
         specs: ['제품: 데이팩 올인원 멀티팩 (30회분)', '구성: 비타민+유산균+오메가+루테인+미네랄', '형태: 개별 포장 팩', '배송: 로켓배송', '가격: 약 82,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7470478223&itemId=19714988991&vendorItemId=94417405154&traceid=V0-153-7a732214a675292c&clickBeacon=26686d50-7f82-11f1-8858-729c098085b4%7E3&requestid=20260714214719179274983090&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7470478223&itemId=19714988991&vendorItemId=94417405154&traceid=V0-153-7a732214a675292c&clickBeacon=26686d50-7f82-11f1-8858-729c098085b4%7E3&requestid=20260714214719179274983090&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -18129,7 +18129,7 @@ module.exports = [
         consNote: '이 제품은 <strong>대중·가성비용</strong>입니다. 고함량 수입이면 2번, 프리미엄 균주면 3번으로 가세요. "대중적 가성비"면 좋아요.',
         review: '"유산균을 무난하게, 저렴하게 꾸준히"면 락토핏이 대중적입니다. 포 타입이라 간편해요. 고함량·프리미엄이면 2·3번을 보세요.',
         specs: ['제품: 락토핏 골드 (80포)', '형태: 가루 포', '용량: 80포', '배송: 로켓배송', '가격: 약 18,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7458810098&itemId=623694660&vendorItemId=4637889550&traceid=V0-153-822f4d1c000a5436&requestid=20260714214719948080319771&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7458810098&itemId=623694660&vendorItemId=4637889550&traceid=V0-153-822f4d1c000a5436&requestid=20260714214719948080319771&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18148,7 +18148,7 @@ module.exports = [
         consNote: '대중적 가성비면 1번, 프리미엄 균주면 3번입니다. 2번은 <strong>"고함량+다균주 수입"</strong>의 실속 구간 — 제대로 챙기기에 무난합니다.',
         review: '"균수·균주를 제대로, 수입 브랜드로"면 자로우 100억이 좋습니다. 고함량이에요. 국내 프리미엄이면 3번을 보세요.',
         specs: ['제품: 자로우 도피러스 EPS 유산균 (100억 CFU)', '함량: 100억 CFU · 다균주', '형태: 캡슐', '배송: 일반배송', '가격: 약 39,440원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7626263931&itemId=18376283146&vendorItemId=3179568952&traceid=V0-153-94a9bab943771f0b&requestid=20260714214719948080319771&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7626263931&itemId=18376283146&vendorItemId=3179568952&traceid=V0-153-94a9bab943771f0b&requestid=20260714214719948080319771&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18167,7 +18167,7 @@ module.exports = [
         consNote: '대중적 가성비면 1번, 고함량 수입이면 2번이 합리적입니다. 3번은 <strong>프리미엄 균주+대용량</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"프리미엄 균주로 제대로, 넉넉히 오래"면 서울대위바이옴이 좋습니다. 3개라 든든해요. 가성비·수입이면 1·2번이 합리적입니다.',
         specs: ['제품: 서울대위바이옴 100억 프로바이오틱스 플러스 (3개)', '함량: 100억 · 프리미엄 균주', '용량: 60정 × 3', '배송: 로켓배송', '가격: 약 86,240원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8332429267&itemId=25231374904&vendorItemId=93884515201&traceid=V0-153-4147bb58a5fbf2c8&clickBeacon=26de87b0-7f82-11f1-89ab-d71a2103f9d8%7E3&requestid=20260714214719948080319771&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8332429267&itemId=25231374904&vendorItemId=93884515201&traceid=V0-153-4147bb58a5fbf2c8&clickBeacon=26de87b0-7f82-11f1-89ab-d71a2103f9d8%7E3&requestid=20260714214719948080319771&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -18257,7 +18257,7 @@ module.exports = [
         consNote: '이 제품은 <strong>기본·가성비용</strong>입니다. 알티지 대용량이면 2번, 고함량 수입이면 3번으로 가세요. "저렴한 기본"이면 가성비 좋아요.',
         review: '"오메가3를 저렴하게, 대중 브랜드로 무난히"면 프로메가가 좋습니다. 익숙해요. 알티지·고함량이면 2·3번을 보세요.',
         specs: ['제품: 종근당건강 프로메가 오메가3 트리플', '형태: 일반', '용도: 기본·가성비', '배송: 로켓배송', '가격: 약 10,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6586372374&itemId=14842723746&vendorItemId=82081965637&traceid=V0-153-dfb2e13ddc16c873&requestid=20260714214720415073097178&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6586372374&itemId=14842723746&vendorItemId=82081965637&traceid=V0-153-dfb2e13ddc16c873&requestid=20260714214720415073097178&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18276,7 +18276,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 고함량 수입이면 3번입니다. 2번은 <strong>"알티지+대용량"</strong>의 실속 구간 — 흡수·가성비를 두루 챙기기에 무난합니다.',
         review: '"알티지 형태로 흡수 챙기고 대용량 가성비까지"면 뉴트리정이 좋습니다. 오래 먹기 좋아요. 최고 고함량이면 3번을 보세요.',
         specs: ['제품: 뉴트리정 초임계 알티지 오메가3 (대용량)', '형태: 알티지(rTG) · 초임계', '용도: 알티지·대용량', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9249315299&itemId=27356171490&vendorItemId=94322276550&traceid=V0-153-5db3a886c56fae53&requestid=20260714214720415073097178&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9249315299&itemId=27356171490&vendorItemId=94322276550&traceid=V0-153-5db3a886c56fae53&requestid=20260714214720415073097178&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18295,7 +18295,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 알티지 대용량이면 2번이 합리적입니다. 3번은 <strong>고함량(한 알에 많이)</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"한 알에 고함량으로 적게 먹고 많이"면 트리플 스트렝스가 좋습니다. 함량이 높아요. 저렴·알티지면 1·2번이 합리적입니다.',
         specs: ['제품: 스포츠리서치 1040mg 오메가3 (트리플 스트렝스)', '함량: 1040mg 고함량', '형태: 소프트젤', '배송: 일반배송', '가격: 약 52,240원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6854281548&itemId=24019532759&vendorItemId=4765824657&traceid=V0-153-eb204c859fad1f20&requestid=20260714214720415073097178&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6854281548&itemId=24019532759&vendorItemId=4765824657&traceid=V0-153-eb204c859fad1f20&requestid=20260714214720415073097178&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -18385,7 +18385,7 @@ module.exports = [
         consNote: '이 제품은 <strong>대중·가성비용</strong>입니다. 넉넉한 대용량이면 2번, 바삭 수제면 3번으로 가세요. "저렴한 대중 맛"이면 가성비 좋아요.',
         review: '"그래놀라를 저렴하게, 익숙한 맛으로"면 동서가 무난합니다. 호불호가 적어요. 대용량·수제면 2·3번을 보세요.',
         specs: ['제품: 동서 그래놀라 시리얼', '맛: 대중', '용도: 아침·간식', '배송: 로켓배송', '가격: 약 8,310원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1909946&itemId=8448254&vendorItemId=3000094712&traceid=V0-153-7c86d4429e181359&requestid=20260714214721316149377502&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1909946&itemId=8448254&vendorItemId=3000094712&traceid=V0-153-7c86d4429e181359&requestid=20260714214721316149377502&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18404,7 +18404,7 @@ module.exports = [
         consNote: '저렴한 대중 맛이면 1번, 바삭 수제면 3번입니다. 2번은 <strong>"소보로 식감+대용량"</strong>의 실속 구간 — 매일 먹기에 무난합니다.',
         review: '"매일 아침으로 넉넉히, 달콤·바삭하게"면 소보로 그래놀라가 좋습니다. 요거트에 잘 맞아요. 수제 식감이면 3번을 보세요.',
         specs: ['제품: 룩트 소보로 그래놀라 (대용량 200g)', '맛: 소보로(달콤·바삭)', '용도: 대용량·데일리', '배송: 로켓배송', '가격: 약 15,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8080667237&itemId=24932652585&vendorItemId=94122036614&traceid=V0-153-fe227191ebdc7ad3&clickBeacon=27adbe90-7f82-11f1-abf3-fd40111653f0%7E3&requestid=20260714214721316149377502&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8080667237&itemId=24932652585&vendorItemId=94122036614&traceid=V0-153-fe227191ebdc7ad3&clickBeacon=27adbe90-7f82-11f1-abf3-fd40111653f0%7E3&requestid=20260714214721316149377502&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18423,7 +18423,7 @@ module.exports = [
         consNote: '저렴한 대중 맛이면 1번, 대용량 데일리면 2번이 합리적입니다. 3번은 <strong>수제 바삭함+넉넉한 구성</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"수제 특유의 바삭함과 견과를 제대로"면 수제 그래놀라가 만족스럽습니다. 씹는 맛이 좋아요. 대중·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 파인 바삭달달 수제 그래놀라 (플레인 460g)', '맛: 수제 바삭', '용도: 수제·프리미엄', '배송: 로켓배송', '가격: 약 30,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9584503907&itemId=28610477640&vendorItemId=95553947106&traceid=V0-153-a7a103eac50dc2b3&clickBeacon=27adbe90-7f82-11f1-bbb4-064daa7d5cd7%7E3&requestid=20260714214721316149377502&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9584503907&itemId=28610477640&vendorItemId=95553947106&traceid=V0-153-a7a103eac50dc2b3&clickBeacon=27adbe90-7f82-11f1-bbb4-064daa7d5cd7%7E3&requestid=20260714214721316149377502&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -18512,7 +18512,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·간편용</strong>입니다. 진한 국이면 2번 비비고, 찌개 다양성이면 3번 양반으로 가세요. "저렴한 블럭국"이면 좋아요.',
         review: '"물만 부어 간편하게, 저렴하게"면 블럭국 세트가 무난합니다. 상비용으로 좋고요. 진한 국·찌개면 2·3번을 보세요.',
         specs: ['제품: 오뚜기 즉석 블럭국 세트', '종류: 계란국·곰탕·미역국 등', '형태: 블럭(물 부어)', '배송: 로켓배송', '가격: 약 16,300원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9312721743&itemId=27596179803&vendorItemId=94559555820&traceid=V0-153-a2bd8770cc65eb91&clickBeacon=28022020-7f82-11f1-af95-556d6dd26e6b%7E3&requestid=20260714214721870010061366&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9312721743&itemId=27596179803&vendorItemId=94559555820&traceid=V0-153-a2bd8770cc65eb91&clickBeacon=28022020-7f82-11f1-af95-556d6dd26e6b%7E3&requestid=20260714214721870010061366&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18531,7 +18531,7 @@ module.exports = [
         consNote: '저렴한 블럭이면 1번, 찌개 다양성이면 3번 양반입니다. 2번은 <strong>"진한 국물+10종"</strong>의 실속 구간 — 한 끼 식사로 가장 무난합니다.',
         review: '"진한 국물로 밥 한 끼 든든히, 골라 먹기"면 비비고가 좋습니다. 건더기가 실해요. 찌개 위주면 3번을 보세요.',
         specs: ['제품: CJ 비비고 국물요리 (10종)', '종류: 육개장·설렁탕 등 10종', '형태: 레토르트(데움)', '배송: 일반배송', '가격: 약 27,960원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7878930430&itemId=21542959960&vendorItemId=5535635927&traceid=V0-153-fd1f99665633530a&requestid=20260714214721870010061366&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7878930430&itemId=21542959960&vendorItemId=5535635927&traceid=V0-153-fd1f99665633530a&requestid=20260714214721870010061366&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18550,7 +18550,7 @@ module.exports = [
         consNote: '저렴한 블럭이면 1번, 진한 국이면 2번 비비고가 합리적입니다. 3번은 <strong>국+찌개 10종 다양성</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"국뿐 아니라 김치·부대찌개까지 다양하게"면 양반 10종이 좋습니다. 골라 먹는 재미가 커요. 저렴·국 위주면 1·2번이 합리적입니다.',
         specs: ['제품: 동원 양반 즉석국·찌개 (10종 기획세트)', '종류: 김치찌개·설렁탕·육개장 등 10종', '형태: 레토르트(데움)', '배송: 로켓배송', '가격: 약 40,980원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8694971614&itemId=25246270769&vendorItemId=92227475318&traceid=V0-153-dbce16ad354e1b93&clickBeacon=28022020-7f82-11f1-870a-93e51bc2198f%7E3&requestid=20260714214721870010061366&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8694971614&itemId=25246270769&vendorItemId=92227475318&traceid=V0-153-dbce16ad354e1b93&clickBeacon=28022020-7f82-11f1-870a-93e51bc2198f%7E3&requestid=20260714214721870010061366&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -18639,7 +18639,7 @@ module.exports = [
         consNote: '이 제품은 <strong>인기 맛·가성비용</strong>입니다. 골라 먹는 다양성이면 2번 10종, 대량 상비면 3번 혼합으로 가세요. "인기 맛 위주"면 좋아요.',
         review: '"신라면·짜파게티 같은 인기 맛만 저렴하게"면 농심 4종이 무난합니다. 실패가 없어요. 다양성·대량이면 2·3번을 보세요.',
         specs: ['제품: 농심 인기 4종 (20개)', '구성: 신라면·안성탕면·너구리·짜파게티', '용도: 인기 맛·가성비', '배송: 로켓배송', '가격: 약 17,330원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5734427904&itemId=19969657941&vendorItemId=70916247951&traceid=V0-153-3f8353e9e54d11a3&requestid=20260714214722301043371943&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5734427904&itemId=19969657941&vendorItemId=70916247951&traceid=V0-153-3f8353e9e54d11a3&requestid=20260714214722301043371943&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18658,7 +18658,7 @@ module.exports = [
         consNote: '인기 맛 위주면 1번, 대량 상비면 3번 혼합입니다. 2번은 <strong>"10종 다양성"</strong>의 실속 구간 — 골라 먹기에 가장 무난합니다.',
         review: '"여러 맛을 질리지 않게, 식구 취향도 맞추기"면 10종 세트가 좋습니다. 골라 먹는 재미가 커요. 인기 맛·대량이면 1·3번을 보세요.',
         specs: ['제품: 인기 봉지 라면 10종 세트 (20개)', '구성: 신라면·짬뽕·열라면·비빔면 등 10종', '용도: 다양성·골라 먹기', '배송: 로켓배송', '가격: 약 23,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9141848238&itemId=23624132716&vendorItemId=90634949645&traceid=V0-153-4bca5b41d343e00d&clickBeacon=28443230-7f82-11f1-bd0e-1da404f43544%7E3&requestid=20260714214722301043371943&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9141848238&itemId=23624132716&vendorItemId=90634949645&traceid=V0-153-4bca5b41d343e00d&clickBeacon=28443230-7f82-11f1-bd0e-1da404f43544%7E3&requestid=20260714214722301043371943&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18677,7 +18677,7 @@ module.exports = [
         consNote: '인기 맛 위주면 1번, 10종 다양성이면 2번이 합리적입니다. 3번은 <strong>인기 6종 30개 대량</strong>으로 넉넉히 상비하려는 분에게 값어치가 있습니다.',
         review: '"라면을 자주 먹어 대량으로 인기 맛 위주로 쟁여두기"면 혼합 30개가 든든합니다. 오래가요. 소량·다양성이면 1·2번이 합리적입니다.',
         specs: ['제품: 봉지라면 혼합 30개 (인기 6종)', '구성: 신라면·짜파게티·안성탕면·삼양·너구리·진라면', '용량: 30개', '배송: 일반배송', '가격: 약 26,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8608566145&itemId=24966726745&vendorItemId=94822521863&traceid=V0-153-f35935b920520ce3&requestid=20260714214722301043371943&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8608566145&itemId=24966726745&vendorItemId=94822521863&traceid=V0-153-f35935b920520ce3&requestid=20260714214722301043371943&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -18766,7 +18766,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·간식용</strong>입니다. 고기·김치 두 가지면 2번 잎새, 든든한 한 끼면 3번 찐만두로 가세요. "저렴한 고기만두"면 좋아요.',
         review: '"만두를 저렴하게 간식·반찬으로"면 육즙 고기만두가 무난합니다. 기본에 충실해요. 잎새·찐만두면 2·3번을 보세요.',
         specs: ['제품: 풍미각 육즙 고기만두 (490g)', '종류: 고기만두', '용도: 간식·반찬', '배송: 로켓배송', '가격: 약 6,230원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9542147629&itemId=28464249719&vendorItemId=95414633025&traceid=V0-153-cacc1714043fc4d1&clickBeacon=28b93b20-7f82-11f1-bd72-5e86fb544173%7E3&requestid=20260714214722952194638013&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9542147629&itemId=28464249719&vendorItemId=95414633025&traceid=V0-153-cacc1714043fc4d1&clickBeacon=28b93b20-7f82-11f1-bd72-5e86fb544173%7E3&requestid=20260714214722952194638013&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18785,7 +18785,7 @@ module.exports = [
         consNote: '저렴한 고기만두면 1번, 든든한 한 끼면 3번 찐만두입니다. 2번은 <strong>"고기·김치 두 가지+대용량"</strong>의 실속 구간 — 두루 즐기기에 무난합니다.',
         review: '"고기·김치 두 가지를 넉넉히, 얇은 피로"면 잎새만두가 좋습니다. 골라 먹기 좋아요. 든든한 찐만두면 3번을 보세요.',
         specs: ['제품: 소소락 잎새만두 (고기·김치)', '종류: 고기·김치 잎새', '용도: 두 가지 맛·대용량', '배송: 일반배송', '가격: 약 14,310원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6511916394&itemId=24674498296&vendorItemId=81631469146&traceid=V0-153-b7cbe48436dedb51&requestid=20260714214722952194638013&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6511916394&itemId=24674498296&vendorItemId=81631469146&traceid=V0-153-b7cbe48436dedb51&requestid=20260714214722952194638013&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18804,7 +18804,7 @@ module.exports = [
         consNote: '저렴한 고기만두면 1번, 고기·김치 두 가지면 2번이 합리적입니다. 3번은 <strong>든든한 찐만두 한 끼</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"만두로 한 끼 든든히, 두툼한 찐만두로"면 산동 찐만두가 좋습니다. 속이 꽉 차요. 가벼운 간식이면 1·2번이 합리적입니다.',
         specs: ['제품: 나래식품 산동 찐만두 (180g, 20개)', '종류: 찐만두', '용량: 20개', '배송: 일반배송', '가격: 약 31,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8243689333&itemId=19199594978&vendorItemId=94416451976&traceid=V0-153-d2542972e0b34e21&clickBeacon=28b93b20-7f82-11f1-ab9f-1d648cf93e53%7E3&requestid=20260714214722952194638013&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8243689333&itemId=19199594978&vendorItemId=94416451976&traceid=V0-153-d2542972e0b34e21&clickBeacon=28b93b20-7f82-11f1-ab9f-1d648cf93e53%7E3&requestid=20260714214722952194638013&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -18893,7 +18893,7 @@ module.exports = [
         consNote: '이 제품은 <strong>고소·가성비용</strong>입니다. 낱장 도시락김이면 2번, 김밥·구이용 전장이면 3번으로 가세요. "고소한 들기름김"이면 좋아요.',
         review: '"고소한 들기름 향으로 밥반찬"이면 양반 들기름김이 무난합니다. 향이 좋아요. 낱장·전장이면 2·3번을 보세요.',
         specs: ['제품: 양반 들기름김', '맛: 들기름(고소)', '용도: 밥반찬', '배송: 로켓배송', '가격: 약 8,050원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=13937502&itemId=20318073822&vendorItemId=3313105126&traceid=V0-153-4dc858501be99ec6&requestid=20260714214723831266616837&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=13937502&itemId=20318073822&vendorItemId=3313105126&traceid=V0-153-4dc858501be99ec6&requestid=20260714214723831266616837&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18912,7 +18912,7 @@ module.exports = [
         consNote: '고소한 밥반찬이면 1번, 김밥·구이용 전장이면 3번입니다. 2번은 <strong>"낱장 도시락김+대용량"</strong>의 실속 구간 — 도시락·간식에 가장 무난합니다.',
         review: '"낱장으로 간편히, 도시락·간식으로"면 도시락김이 편합니다. 챙기기 좋아요. 김밥·구이용이면 3번을 보세요.',
         specs: ['제품: 곰곰 광천 도시락김', '형태: 낱장 개별 · 대용량', '용도: 도시락·간식', '배송: 로켓배송', '가격: 약 19,890원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=266254917&itemId=6506504132&vendorItemId=73800734497&traceid=V0-153-7eba649f055d7e5d&requestid=20260714214723831266616837&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=266254917&itemId=6506504132&vendorItemId=73800734497&traceid=V0-153-7eba649f055d7e5d&requestid=20260714214723831266616837&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -18931,7 +18931,7 @@ module.exports = [
         consNote: '고소한 밥반찬이면 1번, 낱장 도시락이면 2번이 합리적입니다. 3번은 <strong>큰 전장(김밥·구이)+대천 산지</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"김밥·구이용 큰 전장으로, 대천 산지 품질까지"면 전장김이 좋습니다. 활용도가 넓어요. 밥반찬·낱장이면 1·2번이 합리적입니다.',
         specs: ['제품: 삼육김 대천 햇돌 전장김 (55g, 20개)', '형태: 전장(큰 김)', '산지: 대천', '배송: 로켓배송', '가격: 약 50,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7897370802&itemId=18808206466&vendorItemId=85938813032&traceid=V0-153-7bcecb1cc3dc0990&clickBeacon=292e4410-7f82-11f1-9b64-5c7ecf33dfd6%7E3&requestid=20260714214723831266616837&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7897370802&itemId=18808206466&vendorItemId=85938813032&traceid=V0-153-7bcecb1cc3dc0990&clickBeacon=292e4410-7f82-11f1-9b64-5c7ecf33dfd6%7E3&requestid=20260714214723831266616837&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -19020,7 +19020,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·상비용</strong>입니다. 손 안 다치는 따개면 2번 안심따개, 대용량이면 3번으로 가세요. "저렴한 상비"면 좋아요.',
         review: '"참치를 저렴하게 상비, 익숙한 동원으로"면 라이트가 무난합니다. 두루 써요. 안심따개·대용량이면 2·3번을 보세요.',
         specs: ['제품: 동원참치 라이트 스탠다드', '브랜드: 동원', '용도: 반찬·요리', '배송: 로켓배송', '가격: 약 13,100원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=2042132&itemId=19999612264&vendorItemId=75512895888&traceid=V0-153-2b815ccce2b76a7d&requestid=20260714214849100110015507&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=2042132&itemId=19999612264&vendorItemId=75512895888&traceid=V0-153-2b815ccce2b76a7d&requestid=20260714214849100110015507&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -19039,7 +19039,7 @@ module.exports = [
         consNote: '저렴한 상비면 1번, 대용량이면 3번입니다. 2번은 <strong>"안심따개(안전)+살코기"</strong>의 실속 구간 — 편하고 안전하게 따기에 무난합니다.',
         review: '"캔 딸 때 손 다칠까 걱정, 살코기로"면 안심따개가 편합니다. 안전해요. 최저가·대용량이면 1·3번을 보세요.',
         specs: ['제품: 사조참치 살코기 (안심따개)', '브랜드: 사조 · 안심따개', '종류: 살코기', '배송: 로켓배송', '가격: 약 25,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6858666780&itemId=6372904614&vendorItemId=91660534237&traceid=V0-153-3f0efd58b32c5dd6&requestid=20260714214849100110015507&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6858666780&itemId=6372904614&vendorItemId=91660534237&traceid=V0-153-3f0efd58b32c5dd6&requestid=20260714214849100110015507&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -19058,7 +19058,7 @@ module.exports = [
         consNote: '저렴한 상비면 1번, 안심따개 표준이면 2번이 합리적입니다. 3번은 <strong>안심따개+대용량</strong>으로 넉넉히 상비하려는 분에게 값어치가 있습니다.',
         review: '"참치를 자주 먹어 대량으로 안심따개까지"면 대용량이 든든합니다. 개당 저렴해요. 소량이면 1·2번이 합리적입니다.',
         specs: ['제품: 사조참치 살코기 (안심따개 대용량)', '브랜드: 사조 · 안심따개', '용량: 대용량 묶음', '배송: 로켓배송', '가격: 약 35,270원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6858666780&itemId=10881346179&vendorItemId=84994382755&traceid=V0-153-3f0efd58b32c5dd6&requestid=20260714214849100110015507&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6858666780&itemId=10881346179&vendorItemId=84994382755&traceid=V0-153-3f0efd58b32c5dd6&requestid=20260714214849100110015507&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -19146,7 +19146,7 @@ module.exports = [
         consNote: '이 제품은 <strong>요리·가성비용</strong>입니다. 은은한 향의 차·간식이면 2번 아카시아, 선물·프리미엄이면 3번 마누카로 가세요. "요리·저렴"이면 좋아요. <small>※사양벌꿀은 벌에게 설탕을 먹여 생산한 꿀로, 천연(자연꿀)과 다릅니다.</small>',
         review: '"요리·베이킹에 많이 쓰고 저렴한 대용량"이면 사양벌꿀이 무난합니다. 넉넉해요. 향·풍미·선물이면 2·3번을 보세요.',
         specs: ['제품: 산내들농원 사양벌꿀 (1kg)', '종류: 사양벌꿀', '용도: 요리·베이킹', '배송: 로켓배송', '가격: 약 10,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8243951010&itemId=470927997&vendorItemId=4176842060&traceid=V0-153-dfa5f53d88bd6b53&clickBeacon=29e07d10-7f82-11f1-9139-bc513131be05%7E3&requestid=20260714214725007297883091&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8243951010&itemId=470927997&vendorItemId=4176842060&traceid=V0-153-dfa5f53d88bd6b53&clickBeacon=29e07d10-7f82-11f1-9139-bc513131be05%7E3&requestid=20260714214725007297883091&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19165,7 +19165,7 @@ module.exports = [
         consNote: '요리·저렴이면 1번, 선물·프리미엄이면 3번 마누카입니다. 2번은 <strong>"천연 아카시아(은은한 향)"</strong>의 실속 구간 — 차·간식에 가장 무난합니다.',
         review: '"은은한 향의 천연 꿀을 차·간식에"면 아카시아가 좋습니다. 향이 깔끔해요. 대용량·프리미엄이면 1·3번을 보세요.',
         specs: ['제품: 동서 아카시아 벌꿀', '종류: 아카시아(천연)', '용도: 차·간식', '배송: 로켓배송', '가격: 약 24,490원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=55498805&itemId=193086621&vendorItemId=3456977387&traceid=V0-153-46fc2e4c0672e98f&requestid=20260714214725007297883091&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=55498805&itemId=193086621&vendorItemId=3456977387&traceid=V0-153-46fc2e4c0672e98f&requestid=20260714214725007297883091&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19184,7 +19184,7 @@ module.exports = [
         consNote: '요리·저렴이면 1번, 은은한 차·간식이면 2번이 합리적입니다. 3번은 <strong>마누카 프리미엄+스틱(선물)</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"프리미엄 마누카를 스틱으로 간편·위생적으로, 선물용으로"면 마누카 스틱이 좋습니다. 고급스러워요. 요리·가성비면 1·2번이 합리적입니다.',
         specs: ['제품: 아임힐링 마누카 꿀스틱 (UMF10)', '종류: 마누카(뉴질랜드)', '형태: 스틱 개별 포장', '배송: 로켓배송', '가격: 약 69,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6740417776&itemId=15737343873&vendorItemId=94198378701&traceid=V0-153-a96af1bb1ca91764&clickBeacon=29e07d10-7f82-11f1-ba7f-a2965d8e5346%7E3&requestid=20260714214725007297883091&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6740417776&itemId=15737343873&vendorItemId=94198378701&traceid=V0-153-a96af1bb1ca91764&clickBeacon=29e07d10-7f82-11f1-ba7f-a2965d8e5346%7E3&requestid=20260714214725007297883091&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -19272,7 +19272,7 @@ module.exports = [
         consNote: '이 제품은 <strong>기본·가성비용</strong>입니다. 스틱까지 세밀하게면 2번 세트, 내구·강도면 3번으로 가세요. "저렴한 기본"이면 가성비 좋아요.',
         review: '"폼롤러를 저렴하게 입문, 큰 부위 위주"면 EVA 기본으로 충분합니다. 지압도 되고요. 세밀·강도면 2·3번을 보세요.',
         specs: ['제품: 코멧 스포츠 3D EVA 폼롤러', '소재: EVA · 3D 입체', '용도: 기본·큰 부위', '배송: 로켓배송', '가격: 약 9,790원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1819294750&itemId=20395428818&vendorItemId=87478033160&traceid=V0-153-518a3fc5be671249&requestid=20260714221115175303495837&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1819294750&itemId=20395428818&vendorItemId=87478033160&traceid=V0-153-518a3fc5be671249&requestid=20260714221115175303495837&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19291,7 +19291,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 고강도·내구면 3번입니다. 2번은 <strong>"롤러+스틱(세밀 관리)"</strong>의 실속 구간 — 부위별로 두루 관리하기에 무난합니다.',
         review: '"큰 부위는 롤러, 종아리·팔은 스틱으로 세밀하게"면 세트가 좋습니다. 부위별로 편해요. 고강도·내구면 3번을 보세요.',
         specs: ['제품: EVA 폼롤러 + 마사지 스틱 세트', '구성: 롤러 + 스틱', '용도: 세밀·부위별', '배송: 로켓배송', '가격: 약 20,950원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8053901550&itemId=22599688293&vendorItemId=89641370809&traceid=V0-153-dcf71f346cb10fe1&clickBeacon=7e5566a0-7f85-11f1-a163-ad530de58c66%7E3&requestid=20260714221115175303495837&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8053901550&itemId=22599688293&vendorItemId=89641370809&traceid=V0-153-dcf71f346cb10fe1&clickBeacon=7e5566a0-7f85-11f1-a163-ad530de58c66%7E3&requestid=20260714221115175303495837&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19310,7 +19310,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 롤러+스틱 세밀 관리면 2번이 합리적입니다. 3번은 <strong>탄탄한 강도+내구</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"강도가 확실하고 오래 물러지지 않게"면 프리미엄 EVA가 좋습니다. 깊게 눌러줘요. 저렴·세트면 1·2번이 합리적입니다.',
         specs: ['제품: 코어바디 EVA 폼롤러', '소재: EVA(탄탄·내구)', '용도: 강도·내구', '배송: 로켓배송', '가격: 약 29,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9171513839&itemId=27030915953&vendorItemId=74968987455&traceid=V0-153-6850d654cbc3b38a&clickBeacon=7e558db0-7f85-11f1-aa2b-8827c34569a9%7E3&requestid=20260714221115175303495837&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9171513839&itemId=27030915953&vendorItemId=74968987455&traceid=V0-153-6850d654cbc3b38a&clickBeacon=7e558db0-7f85-11f1-aa2b-8827c34569a9%7E3&requestid=20260714221115175303495837&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -19400,7 +19400,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·두루용</strong>입니다. 지압 특화면 2번, 발바닥 집중이면 3번 뉴로볼로 가세요. "저렴하게 두루"면 가성비 최고예요.',
         review: '"마사지볼을 저렴하게, 여러 부위 두루"면 세트가 무난합니다. 땅콩볼·싱글볼로 두루 써요. 특화·발바닥이면 2·3번을 보세요.',
         specs: ['제품: 코멧 TPE 마사지 볼 세트', '구성: 땅콩볼 + 싱글볼', '용도: 부위별 두루', '배송: 로켓배송', '가격: 약 5,390원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7730105198&itemId=20769728423&vendorItemId=87839707185&traceid=V0-153-82b05de56df3a09b&requestid=20260714221115749116029647&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7730105198&itemId=20769728423&vendorItemId=87839707185&traceid=V0-153-82b05de56df3a09b&requestid=20260714221115749116029647&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19419,7 +19419,7 @@ module.exports = [
         consNote: '저렴하게 두루면 1번, 발바닥 집중이면 3번 뉴로볼입니다. 2번은 <strong>"지압 특화+2종 강도"</strong>의 실속 구간 — 부위별 지압에 무난합니다.',
         review: '"뭉친 지점을 확실히 지압, 요가와 함께"면 지압볼 2종이 좋습니다. 강도를 골라요. 발바닥 집중이면 3번을 보세요.',
         specs: ['제품: SAMBUEVER 지압 마사지볼 (2종 세트)', '구성: 2종 강도', '용도: 지압·요가', '배송: 로켓배송', '가격: 약 20,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8982810533&itemId=26302107428&vendorItemId=93279846722&traceid=V0-153-8a697b09840ae895&clickBeacon=7eab27c0-7f85-11f1-aa5c-7bd947f29288%7E3&requestid=20260714221115749116029647&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8982810533&itemId=26302107428&vendorItemId=93279846722&traceid=V0-153-8a697b09840ae895&clickBeacon=7eab27c0-7f85-11f1-aa5c-7bd947f29288%7E3&requestid=20260714221115749116029647&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19438,7 +19438,7 @@ module.exports = [
         consNote: '저렴하게 두루면 1번, 지압 특화면 2번이 합리적입니다. 3번은 <strong>발바닥 집중 이완</strong>을 원하는 분에게 어울립니다.',
         review: '"오래 서 있어 발바닥이 뭉쳐 집중 이완"이면 뉴로볼이 시원합니다. 발바닥에 딱이에요. 두루·지압이면 1·2번이 합리적입니다.',
         specs: ['제품: 발바닥 근막 뉴로볼 마사지볼', '특징: 발바닥·근막 자극', '용도: 발바닥 집중', '배송: 로켓배송', '가격: 약 29,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9350418987&itemId=27545140029&vendorItemId=94896613257&traceid=V0-153-d9478c17a902d8a3&clickBeacon=7eab27c0-7f85-11f1-a39f-e0eb3c1eb9c4%7E3&requestid=20260714221115749116029647&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9350418987&itemId=27545140029&vendorItemId=94896613257&traceid=V0-153-d9478c17a902d8a3&clickBeacon=7eab27c0-7f85-11f1-a39f-e0eb3c1eb9c4%7E3&requestid=20260714221115749116029647&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -19527,7 +19527,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·두께용</strong>입니다. 접어 쓰면 2번 POE, 무릎 보호·미끄럼이면 3번 TPE로 가세요. "저렴하게 두껍게"면 가성비 좋아요.',
         review: '"저렴하게 두꺼운 매트로 무릎 보호"면 NBR 10mm가 무난합니다. 쿠션이 좋아요. 접이·미끄럼이면 2·3번을 보세요.',
         specs: ['제품: 코멧 NBR 10mm 요가매트', '소재: NBR · 10mm', '용도: 가성비·두께', '배송: 로켓배송', '가격: 약 9,690원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=172134026&itemId=492137516&vendorItemId=4246583386&traceid=V0-153-d7cfd075635f6f1a&requestid=20260714221116281214834733&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=172134026&itemId=492137516&vendorItemId=4246583386&traceid=V0-153-d7cfd075635f6f1a&requestid=20260714221116281214834733&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19546,7 +19546,7 @@ module.exports = [
         consNote: '저렴하게 두껍게면 1번, 무릎 보호·미끄럼이면 3번 TPE입니다. 2번은 <strong>"접이 휴대+항균"</strong>의 실속 구간 — 보관·위생을 챙기기에 무난합니다.',
         review: '"말지 않고 접어 보관, 위생까지"면 POE 접이식이 편합니다. 깔끔해요. 최고 두께·그립이면 3번을 보세요.',
         specs: ['제품: POE 접이식 두꺼운 요가 매트', '소재: POE · 접이식 · 항균', '용도: 접이·휴대', '배송: 로켓배송', '가격: 약 42,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9407940254&itemId=27950969194&vendorItemId=94908940775&traceid=V0-153-ca65a83052a83ffa&clickBeacon=7efb91b0-7f85-11f1-b05f-79de97c801e8%7E3&requestid=20260714221116281214834733&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9407940254&itemId=27950969194&vendorItemId=94908940775&traceid=V0-153-ca65a83052a83ffa&clickBeacon=7efb91b0-7f85-11f1-b05f-79de97c801e8%7E3&requestid=20260714221116281214834733&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19565,7 +19565,7 @@ module.exports = [
         consNote: '저렴하게 두껍게면 1번, 접이 휴대면 2번이 합리적입니다. 3번은 <strong>12mm 두께+미끄럼방지</strong>로 무릎·안정성을 챙기려는 분에게 값어치가 있습니다.',
         review: '"무릎을 두껍게 보호하고 미끄러지지 않게"면 TPE 12mm가 좋습니다. 그립·쿠션이 좋아요. 저렴·접이면 1·2번이 합리적입니다.',
         specs: ['제품: TPE 12mm 미끄럼방지 요가매트', '소재: TPE · 12mm · 미끄럼방지', '용도: 무릎 보호·그립', '배송: 로켓배송', '가격: 약 63,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9453047257&itemId=28123227710&vendorItemId=95078976990&traceid=V0-153-43cc5188ee99e4e3&clickBeacon=7efb91b0-7f85-11f1-8af0-b2bcf1814985%7E3&requestid=20260714221116281214834733&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9453047257&itemId=28123227710&vendorItemId=95078976990&traceid=V0-153-43cc5188ee99e4e3&clickBeacon=7efb91b0-7f85-11f1-8af0-b2bcf1814985%7E3&requestid=20260714221116281214834733&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -19655,7 +19655,7 @@ module.exports = [
         consNote: '이 제품은 <strong>무소음·가성비용</strong>입니다. 좁은 집·보관이면 2번 미니 접이식, 강한 유산소면 3번 스핀바이크로 가세요. "무소음 가성비"면 좋아요.',
         review: '"층간소음 없이 저렴하게 페달 유산소"면 무소음 사이클이 무난합니다. 조용해요. 보관·강한 운동이면 2·3번을 보세요.',
         specs: ['제품: 무소음 가정용 실내자전거', '특징: 무소음 · 가정용', '용도: 유산소', '배송: 로켓배송', '가격: 약 87,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7889463012&itemId=21596191694&vendorItemId=95503177728&traceid=V0-153-0c64f74a34461f0f&requestid=20260714221116885297887819&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7889463012&itemId=21596191694&vendorItemId=95503177728&traceid=V0-153-0c64f74a34461f0f&requestid=20260714221116885297887819&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19674,7 +19674,7 @@ module.exports = [
         consNote: '무소음 가성비면 1번, 강한 유산소면 3번 스핀바이크입니다. 2번은 <strong>"미니 접이+보관"</strong>의 실속 구간 — 좁은 집·가벼운 유산소에 무난합니다.',
         review: '"좁은 집에 접어 보관하고 가볍게 유산소"면 미니 접이식이 편합니다. 자리 절약돼요. 본격 유산소면 3번을 보세요.',
         specs: ['제품: 래피즈 원더 칼로리 바이크 (미니 접이식)', '특징: 접이식 · 칼로리 표시', '용도: 보관·유산소', '배송: 로켓배송', '가격: 약 269,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8938927538&itemId=26493354875&vendorItemId=93468190799&traceid=V0-153-70b63f05b37bf08d&clickBeacon=7f580990-7f85-11f1-b6f5-898aee5de1a3%7E3&requestid=20260714221116885297887819&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8938927538&itemId=26493354875&vendorItemId=93468190799&traceid=V0-153-70b63f05b37bf08d&clickBeacon=7f580990-7f85-11f1-b6f5-898aee5de1a3%7E3&requestid=20260714221116885297887819&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19693,7 +19693,7 @@ module.exports = [
         consNote: '무소음 가성비면 1번, 미니 접이 보관이면 2번이 합리적입니다. 3번은 <strong>강한 저항(본격 유산소)</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"강한 저항으로 제대로 유산소·스피닝"이면 스핀바이크가 좋습니다. 운동 강도가 높아요. 가볍게·보관이면 1·2번이 합리적입니다.',
         specs: ['제품: 매직큐브 C6 접이식 스핀바이크', '특징: 마그네틱 · 강한 저항 · 접이', '용도: 강한 유산소', '배송: 일반배송', '가격: 약 389,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6459239972&itemId=24649842457&vendorItemId=95693619744&traceid=V0-153-5d76eafc12b682a9&requestid=20260714221116885297887819&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6459239972&itemId=24649842457&vendorItemId=95693619744&traceid=V0-153-5d76eafc12b682a9&requestid=20260714221116885297887819&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -19783,7 +19783,7 @@ module.exports = [
         consNote: '이 제품은 <strong>무동력·가성비용</strong>입니다. 걷기·러닝 전동이면 2번 접이식, 자주 오래면 3번 프리미엄으로 가세요. "전기 안 쓰는 걷기"면 좋아요.',
         review: '"전기 없이 걷기 운동을 저렴하게"면 무동력이 무난합니다. 전기료 걱정이 없어요. 달리기·전동이면 2·3번을 보세요.',
         specs: ['제품: 콴텀 무동력 런닝머신', '동력: 무동력', '용도: 걷기 유산소', '배송: 일반배송', '가격: 약 164,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9589257549&itemId=28625175490&vendorItemId=95568335809&traceid=V0-153-a51600d69fcf7d25&clickBeacon=7f90a5c0-7f85-11f1-b8e2-69c973a1a7f7%7E3&requestid=20260714221117241089333748&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9589257549&itemId=28625175490&vendorItemId=95568335809&traceid=V0-153-a51600d69fcf7d25&clickBeacon=7f90a5c0-7f85-11f1-b8e2-69c973a1a7f7%7E3&requestid=20260714221117241089333748&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19802,7 +19802,7 @@ module.exports = [
         consNote: '전기 안 쓰는 무동력이면 1번, 자주 오래면 3번 프리미엄입니다. 2번은 <strong>"전동+접이"</strong>의 실속 구간 — 대부분의 홈 유산소에 가장 무난합니다.',
         review: '"걷기·가벼운 러닝을 전동으로 편하게, 접어 보관"이면 접이식 전동이 좋습니다. 편하고 자리도 절약돼요. 고강도·내구면 3번을 보세요.',
         specs: ['제품: 엑사이더 접이식 전동 런닝머신 (EW504)', '동력: 전동 · 접이식', '용도: 걷기·러닝', '배송: 로켓배송', '가격: 약 298,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8859610183&itemId=25834337380&vendorItemId=93690745094&traceid=V0-153-60bfb089c132beb1&clickBeacon=7f90a5c0-7f85-11f1-a34a-75cce7c8af51%7E3&requestid=20260714221117241089333748&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8859610183&itemId=25834337380&vendorItemId=93690745094&traceid=V0-153-60bfb089c132beb1&clickBeacon=7f90a5c0-7f85-11f1-a34a-75cce7c8af51%7E3&requestid=20260714221117241089333748&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19821,7 +19821,7 @@ module.exports = [
         consNote: '전기 안 쓰는 무동력이면 1번, 접이 전동이면 2번이 합리적입니다. 3번은 <strong>본격 러닝+내구</strong>가 필요한 분에게 값어치가 있습니다.',
         review: '"매일 오래 달리고 튼튼한 내구가 필요"하면 프리미엄이 든든합니다. 넓은 발판이 안정적이에요. 가벼운 걷기면 1·2번이 합리적입니다.',
         specs: ['제품: 모션헬스케어 스마트 런닝머신 (MD6000)', '동력: 전동(튼튼한 모터)', '용도: 본격 러닝·내구', '배송: 일반배송', '가격: 약 1,180,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7202219432&itemId=18207870737&vendorItemId=85356098732&traceid=V0-153-40c8a5a4dd36ff40&clickBeacon=7f90a5c0-7f85-11f1-a65b-156ac67158a6%7E3&requestid=20260714221117241089333748&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7202219432&itemId=18207870737&vendorItemId=85356098732&traceid=V0-153-40c8a5a4dd36ff40&clickBeacon=7f90a5c0-7f85-11f1-a65b-156ac67158a6%7E3&requestid=20260714221117241089333748&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -19911,7 +19911,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 안 아픈 착용감이면 2번 소프트, 운동량이면 3번 굵은 링으로 가세요. "저렴한 기본"이면 좋아요.',
         review: '"훌라후프를 저렴하게 입문, 감 익히기"면 기본 링이 무난합니다. 가벼워요. 착용감·운동량이면 2·3번을 보세요.',
         specs: ['제품: 나리아 기본 훌라후프 (87cm)', '특징: 기본 링 · 가벼움', '용도: 입문·연습', '배송: 로켓배송', '가격: 약 6,570원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8508702786&itemId=9568608096&vendorItemId=90289126278&traceid=V0-153-89e5f085e595117f&requestid=20260714221117747274980572&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8508702786&itemId=9568608096&vendorItemId=90289126278&traceid=V0-153-89e5f085e595117f&requestid=20260714221117747274980572&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19930,7 +19930,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 운동량 최대면 3번 굵은 링입니다. 2번은 <strong>"소프트+적당한 무게"</strong>의 실속 구간 — 편하게 운동하기에 가장 무난합니다.',
         review: '"허리 안 아프게, 적당한 무게로 운동"이면 소프트 스프링이 좋습니다. 편하게 돌아가요. 운동량 최대면 3번을 보세요.',
         specs: ['제품: AURURA 소프트 스프링 훌라후프 (1.5kg)', '특징: 소프트 스프링 · 조립', '용도: 착용감·운동', '배송: 로켓배송', '가격: 약 18,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9034570224&itemId=26539218189&vendorItemId=93477825453&traceid=V0-153-30f14d47d7981f2a&clickBeacon=7fdb9170-7f85-11f1-9f11-74ed8b3b25db%7E3&requestid=20260714221117747274980572&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9034570224&itemId=26539218189&vendorItemId=93477825453&traceid=V0-153-30f14d47d7981f2a&clickBeacon=7fdb9170-7f85-11f1-9f11-74ed8b3b25db%7E3&requestid=20260714221117747274980572&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -19949,7 +19949,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 편한 착용감이면 2번 소프트가 합리적입니다. 3번은 <strong>굵은 링(높은 운동량)</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"운동량을 높여 제대로 허리 운동"이면 굵은 뷰티라인이 좋습니다. 자극이 확실해요. 입문·편한 착용이면 1·2번이 합리적입니다.',
         specs: ['제품: 나리아 웨이스트 뷰티라인 2.8 훌라후프', '특징: 굵은 링 · 높은 운동량', '용도: 운동량·본격', '배송: 로켓배송', '가격: 약 41,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=2287331&itemId=12597925255&vendorItemId=91145328630&traceid=V0-153-d08c2d7c18304357&requestid=20260714221117747274980572&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=2287331&itemId=12597925255&vendorItemId=91145328630&traceid=V0-153-d08c2d7c18304357&requestid=20260714221117747274980572&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -20037,7 +20037,7 @@ module.exports = [
         consNote: '이 제품은 <strong>조절·가성비용</strong>입니다. 본격 악력이면 2번 그립 프로, 손가락·부드러움이면 3번 실리콘으로 가세요. "강도조절 저렴"이면 가성비 최고예요.',
         review: '"강도를 조절해 올려가며 저렴하게"면 조절형이 무난합니다. 저소음이라 조용해요. 본격·손가락이면 2·3번을 보세요.',
         specs: ['제품: 카메즈 강도조절 악력기 (5~60kg)', '강도: 5~60kg 조절 · 저소음', '용도: 악력·전완근', '배송: 로켓배송', '가격: 약 3,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9572470218&itemId=28571897752&vendorItemId=95588446117&traceid=V0-153-31f0d2611ea3f4e4&requestid=20260714221118072146244596&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9572470218&itemId=28571897752&vendorItemId=95588446117&traceid=V0-153-31f0d2611ea3f4e4&requestid=20260714221118072146244596&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20056,7 +20056,7 @@ module.exports = [
         consNote: '강도조절 저렴이면 1번, 손가락·부드러움이면 3번 실리콘입니다. 2번은 <strong>"본격 그립감·강도"</strong>의 실속 구간 — 악력 훈련에 무난합니다.',
         review: '"악력을 제대로 키우고 본격 그립감"이면 그립 프로가 좋습니다. 몰입돼요. 강도조절·손가락이면 1·3번을 보세요.',
         specs: ['제품: GD 그립 프로 악력기', '특징: 본격 그립감 · 안정 강도', '용도: 악력·전완근', '배송: 로켓배송', '가격: 약 15,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7144403308&itemId=17947500997&vendorItemId=3253269510&traceid=V0-153-20048cd175e38e2c&requestid=20260714221118072146244596&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7144403308&itemId=17947500997&vendorItemId=3253269510&traceid=V0-153-20048cd175e38e2c&requestid=20260714221118072146244596&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20075,7 +20075,7 @@ module.exports = [
         consNote: '강도조절 저렴이면 1번, 본격 악력이면 2번이 합리적입니다. 3번은 <strong>부드러운 실리콘(손가락·가벼운 운동)</strong>을 원하는 분에게 어울립니다.',
         review: '"강한 악력기가 부담이고 손가락까지 부드럽게"면 실리콘 도넛이 좋습니다. 부담이 덜해요. 본격 악력이면 2번이 합리적입니다.',
         specs: ['제품: 실리콘 듀얼 도넛 핸드그립 (2개, 9~14kg)', '소재: 실리콘 · 도넛형', '용도: 손가락·가벼운 운동', '배송: 로켓배송', '가격: 약 21,670원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9574188006&itemId=28577765860&vendorItemId=95521989873&traceid=V0-153-8414f100f2b01fe7&clickBeacon=800d4fd0-7f85-11f1-b46a-60fcf6f05b15%7E3&requestid=20260714221118072146244596&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9574188006&itemId=28577765860&vendorItemId=95521989873&traceid=V0-153-8414f100f2b01fe7&clickBeacon=800d4fd0-7f85-11f1-b46a-60fcf6f05b15%7E3&requestid=20260714221118072146244596&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -20163,7 +20163,7 @@ module.exports = [
         consNote: '이 제품은 <strong>간편·가성비용</strong>입니다. 문틀에 더 안전하게면 2번, 안정적인 스탠드면 3번 치닝디핑으로 가세요. "저렴·간편"이면 좋아요. <small>※문틀 폭·내구를 확인하고 안전하게 설치하세요.</small>',
         review: '"좁은 집에 저렴하게 문틀 철봉"이면 간편합니다. 다만 설치·하중을 꼭 확인해요. 더 안전·안정이면 2·3번을 보세요.',
         specs: ['제품: 문틀 철봉 (풀업바)', '설치: 문틀/벽부착', '용도: 간편·턱걸이', '배송: 일반배송', '가격: 약 11,820원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1249603460&itemId=2248158832&vendorItemId=70245552936&traceid=V0-153-ce07a184510f2d1a&requestid=20260714221118662303496653&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1249603460&itemId=2248158832&vendorItemId=70245552936&traceid=V0-153-ce07a184510f2d1a&requestid=20260714221118662303496653&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20182,7 +20182,7 @@ module.exports = [
         consNote: '저렴·간편이면 1번, 안정적인 스탠드면 3번 치닝디핑입니다. 2번은 <strong>"문틀+이중 안전"</strong>의 실속 구간 — 문틀형 중 가장 안심됩니다.',
         review: '"문틀형인데 떨어질까 걱정, 이중 안전으로"면 더블안전 풀업바가 안심입니다. 설치도 간편해요. 본격 스탠드면 3번을 보세요.',
         specs: ['제품: 하디로어 더블안전 풀업바', '설치: 문틀(이중 안전)', '용도: 안전·턱걸이', '배송: 로켓배송', '가격: 약 30,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4762708909&itemId=6069325447&vendorItemId=90930062867&traceid=V0-153-25493e8cef5a22d6&clickBeacon=80705760-7f85-11f1-a5bc-ac1795c9356b%7E3&requestid=20260714221118662303496653&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4762708909&itemId=6069325447&vendorItemId=90930062867&traceid=V0-153-25493e8cef5a22d6&clickBeacon=80705760-7f85-11f1-a5bc-ac1795c9356b%7E3&requestid=20260714221118662303496653&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20201,7 +20201,7 @@ module.exports = [
         consNote: '저렴·간편이면 1번, 문틀 이중 안전이면 2번이 합리적입니다. 3번은 <strong>스탠드형(안정성+다양한 운동)</strong>으로 제대로 하려는 분에게 값어치가 있습니다.',
         review: '"문틀 없이 안정적으로 턱걸이·딥스까지 제대로"면 치닝디핑이 든든합니다. 흔들림이 없어요. 좁은 집·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 치닝디핑 스탠드 철봉 (가정용)', '설치: 스탠드형(무설치)', '용도: 턱걸이·딥스·안정', '배송: 로켓배송', '가격: 약 98,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6060623420&itemId=11142838388&vendorItemId=95574873886&traceid=V0-153-aacbfdfe552beed5&clickBeacon=80705760-7f85-11f1-96ee-20b9aa137e49%7E3&requestid=20260714221118662303496653&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6060623420&itemId=11142838388&vendorItemId=95574873886&traceid=V0-153-aacbfdfe552beed5&clickBeacon=80705760-7f85-11f1-96ee-20b9aa137e49%7E3&requestid=20260714221118662303496653&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -20292,7 +20292,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 물세척 3중날이면 2번, 필립스 회전날이면 3번으로 가세요. "저렴한 입문"이면 가성비 좋아요.',
         review: '"전기면도기를 저렴하게 입문, 휴대·간단 면도"면 조이쥬드가 무난합니다. 코털도 되고요. 밀착·물세척·브랜드면 2·3번을 보세요.',
         specs: ['제품: 조이쥬드 전기면도기 (코털 겸용)', '특징: 코털 겸용 · 휴대', '용도: 입문·간단 면도', '배송: 로켓배송', '가격: 약 14,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9481111754&itemId=28228995729&vendorItemId=95182807149&traceid=V0-153-6ddeb722e6c972e6&clickBeacon=80c702e0-7f85-11f1-be43-b9178bd6ac16%7E3&requestid=20260714221119293214835425&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9481111754&itemId=28228995729&vendorItemId=95182807149&traceid=V0-153-6ddeb722e6c972e6&clickBeacon=80c702e0-7f85-11f1-be43-b9178bd6ac16%7E3&requestid=20260714221119293214835425&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20311,7 +20311,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 필립스 회전날이면 3번입니다. 2번은 <strong>"3중날+건습식+물세척"</strong>의 실속 구간 — 매일 면도에 가장 무난합니다.',
         review: '"샤워하며 면도하고 물세척까지, 3중날 밀착"이면 습식 3중날이 좋습니다. 깔끔하고 위생적이에요. 회전날·브랜드면 3번을 보세요.',
         specs: ['제품: LifeSync 3중날 건습식 전기면도기 (FK375)', '날: 3중날(왕복) · 건습식 방수', '충전: C타입', '배송: 로켓배송', '가격: 약 43,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8723549769&itemId=25341321115&vendorItemId=92335988285&traceid=V0-153-94b59452fbaed4fc&clickBeacon=80c702e0-7f85-11f1-9a67-cc274ed904c1%7E3&requestid=20260714221119293214835425&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8723549769&itemId=25341321115&vendorItemId=92335988285&traceid=V0-153-94b59452fbaed4fc&clickBeacon=80c702e0-7f85-11f1-9a67-cc274ed904c1%7E3&requestid=20260714221119293214835425&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20330,7 +20330,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 3중날 습식이면 2번이 합리적입니다. 3번은 <strong>회전날 곡면 밀착+필립스 브랜드</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"얼굴 곡면에 부드럽게 밀착, 필립스로 안심"이면 회전날이 좋습니다. 자극이 적어요. 저렴·왕복날이면 1·2번이 합리적입니다.',
         specs: ['제품: 필립스 3000 시리즈 전기면도기', '날: 3중 회전날', '특징: 곡면 밀착 · 브랜드', '배송: 로켓배송', '가격: 약 69,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7935419308&itemId=21842146312&vendorItemId=88947875653&traceid=V0-153-f61be510116f643a&requestid=20260714221119293214835425&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7935419308&itemId=21842146312&vendorItemId=88947875653&traceid=V0-153-f61be510116f643a&requestid=20260714221119293214835425&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -20421,7 +20421,7 @@ module.exports = [
         consNote: '이 제품은 <strong>휴대·가성비용</strong>입니다. 충전식 물세척이면 2번, 잔량표시 프리미엄이면 3번으로 가세요. "저렴한 휴대용"이면 좋아요.',
         review: '"코털제거기를 저렴하게, 물세척·눈썹까지"면 가성비 제품이 무난합니다. 두루 써요. 충전·프리미엄이면 2·3번을 보세요.',
         specs: ['제품: Nicoliley 코털제거기 (물세척)', '특징: 물세척 · 눈썹 겸용', '용도: 휴대·간단 정리', '배송: 로켓배송', '가격: 약 6,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9523811473&itemId=28393631167&vendorItemId=95589249613&traceid=V0-153-4967f0551305b546&requestid=20260714221119849136480920&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9523811473&itemId=28393631167&vendorItemId=95589249613&traceid=V0-153-4967f0551305b546&requestid=20260714221119849136480920&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20440,7 +20440,7 @@ module.exports = [
         consNote: '저렴한 휴대용이면 1번, 잔량표시 프리미엄이면 3번입니다. 2번은 <strong>"USB 충전+물세척"</strong>의 실속 구간 — 대부분에게 가장 무난합니다.',
         review: '"건전지 없이 충전하고 물로 씻어"면 USB 충전식이 편합니다. 관리가 위생적이에요. 잔량표시·완성도면 3번을 보세요.',
         specs: ['제품: 오호 USB 충전식 코털제거기 (NT-797R)', '전원: USB 충전 · 물세척', '용도: 코털·눈썹 정리', '배송: 로켓배송', '가격: 약 13,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6204217397&itemId=12328891323&vendorItemId=79598897551&traceid=V0-153-fdd29aacc6c9684c&clickBeacon=811c27c0-7f85-11f1-8928-37ded728e96e%7E3&requestid=20260714221119849136480920&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6204217397&itemId=12328891323&vendorItemId=79598897551&traceid=V0-153-fdd29aacc6c9684c&clickBeacon=811c27c0-7f85-11f1-8928-37ded728e96e%7E3&requestid=20260714221119849136480920&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20459,7 +20459,7 @@ module.exports = [
         consNote: '저렴한 휴대용이면 1번, 충전식 물세척이면 2번이 합리적입니다. 3번은 <strong>잔량표시+C타입+완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"잔량 확인하며 C타입으로 편하게, 완성도까지"면 프리미엄이 좋습니다. 깔끔해요. 저렴·기본이면 1·2번이 합리적입니다.',
         specs: ['제품: AMSKY 코털제거기 (C타입, 잔량 표시)', '전원: C타입 충전 · 잔량 표시', '용도: 코털·눈썹 정리', '배송: 로켓배송', '가격: 약 37,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9122033444&itemId=28302900717&vendorItemId=95255646454&traceid=V0-153-312dae593dba034b&clickBeacon=811c27c0-7f85-11f1-b121-36aaac7c4fec%7E3&requestid=20260714221119849136480920&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9122033444&itemId=28302900717&vendorItemId=95255646454&traceid=V0-153-312dae593dba034b&clickBeacon=811c27c0-7f85-11f1-b121-36aaac7c4fec%7E3&requestid=20260714221119849136480920&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -20548,7 +20548,7 @@ module.exports = [
         consNote: '이 제품은 <strong>회의·가성비용</strong>입니다. 선명한 녹음이면 2번 콘덴서, 방송·잡음 억제면 3번 다이나믹으로 가세요. "회의용 핀마이크"면 좋아요.',
         review: '"화상회의·수업에 저렴한 마이크"면 핀마이크로 충분합니다. 입 가까이라 또렷해요. 녹음·방송이면 2·3번을 보세요.',
         specs: ['제품: 컴스 USB 핀마이크 (클립형)', '방식: 클립 핀마이크', '용도: 회의·수업', '배송: 로켓배송', '가격: 약 5,830원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=5165678111&itemId=8046932979&vendorItemId=91761516120&traceid=V0-153-34e60824d1df4fa5&requestid=20260714223348927116023859&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=5165678111&itemId=8046932979&vendorItemId=91761516120&traceid=V0-153-34e60824d1df4fa5&requestid=20260714223348927116023859&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20567,7 +20567,7 @@ module.exports = [
         consNote: '저렴한 회의면 1번, 방송·잡음 억제면 3번 다이나믹입니다. 2번은 <strong>"콘덴서 선명 음질"</strong>의 실속 구간 — 녹음·회의에 가장 무난합니다.',
         review: '"목소리를 선명하게 녹음·회의"면 콘덴서가 좋습니다. 음질이 풍부해요. 다만 조용한 환경이 유리하고, 잡음 억제면 3번을 보세요.',
         specs: ['제품: 필라 USB 콘덴서 마이크', '방식: 콘덴서(고감도)', '용도: 녹음·회의', '배송: 로켓배송', '가격: 약 23,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9088491445&itemId=26705942858&vendorItemId=3398849213&traceid=V0-153-7aa79023a8719a3e&requestid=20260714223348927116023859&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9088491445&itemId=26705942858&vendorItemId=3398849213&traceid=V0-153-7aa79023a8719a3e&requestid=20260714223348927116023859&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20586,7 +20586,7 @@ module.exports = [
         consNote: '저렴한 회의면 1번, 선명한 콘덴서 녹음이면 2번이 합리적입니다. 3번은 <strong>방송·잡음 억제+확장성</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"방송·스트리밍을 제대로, 주변 잡음 억제까지"면 다이나믹이 좋습니다. 확장성도 있고요. 회의·간단 녹음이면 1·2번이 합리적입니다.',
         specs: ['제품: 피파인 USB/XLR 다이나믹 마이크 (AM8T)', '방식: 다이나믹 · USB+XLR', '용도: 방송·녹음', '배송: 로켓배송', '가격: 약 98,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8438336820&itemId=24406720172&vendorItemId=91421448623&traceid=V0-153-27cf7213b9ecaf0e&clickBeacon=a5457b30-7f88-11f1-9c9a-c113474c589c%7E3&requestid=20260714223348927116023859&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8438336820&itemId=24406720172&vendorItemId=91421448623&traceid=V0-153-27cf7213b9ecaf0e&clickBeacon=a5457b30-7f88-11f1-9c9a-c113474c589c%7E3&requestid=20260714223348927116023859&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -20677,7 +20677,7 @@ module.exports = [
         consNote: '이 제품은 <strong>화상·가성비용</strong>입니다. 서서 촬영이면 2번 삼각대, 탁상 세트면 3번으로 가세요. "폰 거치 조명"이면 가성비 좋아요.',
         review: '"화상·셀카에 얼굴을 밝게, 폰 거치까지"면 거치형이 무난합니다. 데스크에 딱이에요. 서서 촬영·대형이면 2·3번을 보세요.',
         specs: ['제품: 호밍사이 링라이트 (폰 거치대)', '거치: 폰 거치대(데스크)', '용도: 화상·셀카', '배송: 로켓배송', '가격: 약 13,480원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9072181848&itemId=26644116868&vendorItemId=93625509592&traceid=V0-153-de4f9c1b9c08654e&requestid=20260714223349667194110990&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9072181848&itemId=26644116868&vendorItemId=93625509592&traceid=V0-153-de4f9c1b9c08654e&requestid=20260714223349667194110990&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20696,7 +20696,7 @@ module.exports = [
         consNote: '폰 거치 화상이면 1번, 탁상 세트면 3번입니다. 2번은 <strong>"삼각대+높이 조절"</strong>의 실속 구간 — 서서·라이브 촬영에 가장 무난합니다.',
         review: '"서서·전신·라이브 촬영을 삼각대로"면 삼각대 세트가 좋습니다. 높이 조절이 편해요. 탁상 촬영이면 3번을 보세요.',
         specs: ['제품: 렛츠컴 링라이트 + 삼각대 세트', '거치: 삼각대(높이 조절)', '용도: 서서·라이브 촬영', '배송: 로켓배송', '가격: 약 29,810원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6124186370&itemId=11630478781&vendorItemId=78512592235&traceid=V0-153-d29fa11e7d01e7d4&requestid=20260714223349667194110990&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6124186370&itemId=11630478781&vendorItemId=78512592235&traceid=V0-153-d29fa11e7d01e7d4&requestid=20260714223349667194110990&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20715,7 +20715,7 @@ module.exports = [
         consNote: '폰 거치 화상이면 1번, 서서 촬영이면 2번 삼각대가 합리적입니다. 3번은 <strong>탁상 촬영+완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"책상 위에서 유튜브·촬영을 안정적으로"면 탁상 세트가 좋습니다. 밝기가 안정적이에요. 서서·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 라이트밸런스 탁상용 링라이트 세트', '거치: 탁상 거치대', '용도: 탁상 촬영·방송', '배송: 로켓배송', '가격: 약 45,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9465948358&itemId=28170573557&vendorItemId=95125481743&traceid=V0-153-7e86d0db21319bb1&clickBeacon=a5b18370-7f88-11f1-860a-4e60494104c1%7E3&requestid=20260714223349667194110990&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9465948358&itemId=28170573557&vendorItemId=95125481743&traceid=V0-153-7e86d0db21319bb1&clickBeacon=a5b18370-7f88-11f1-860a-4e60494104c1%7E3&requestid=20260714223349667194110990&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -20806,7 +20806,7 @@ module.exports = [
         consNote: '이 제품은 <strong>영상·가성비용</strong>입니다. 인강·멀티·성능이면 2번 샤오미, 큰 화면 프리미엄이면 3번으로 가세요. "영상·웹"이면 좋아요.',
         review: '"영상·웹 위주로 삼성 태블릿을 저렴하게"면 어드밴스2가 무난합니다. 익숙하고요. 성능·큰 화면이면 2·3번을 보세요.',
         specs: ['제품: 삼성 갤럭시탭 어드밴스2 (WiFi, 10.1)', '화면: 10.1인치', '용도: 영상·웹', '배송: 일반배송', '가격: 약 85,760원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7972915612&itemId=22089248716&vendorItemId=92523848063&traceid=V0-153-5ec9e6fc77852bf9&requestid=20260714223350519303497228&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7972915612&itemId=22089248716&vendorItemId=92523848063&traceid=V0-153-5ec9e6fc77852bf9&requestid=20260714223350519303497228&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20825,7 +20825,7 @@ module.exports = [
         consNote: '영상·웹 저가면 1번, 큰 화면 프리미엄이면 3번입니다. 2번은 <strong>"가성비 성능+128GB"</strong>의 실속 구간 — 인강·멀티에 가장 무난합니다.',
         review: '"인강·멀티까지 가성비로 두루"면 레드미 패드2가 좋습니다. 성능·용량이 넉넉해요. 큰 화면·프리미엄이면 3번을 보세요.',
         specs: ['제품: 샤오미 레드미 패드 2 (128GB, WiFi)', '용량: 128GB', '용도: 인강·멀티', '배송: 로켓배송', '가격: 약 219,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9500290355&itemId=28302596001&vendorItemId=95255347944&traceid=V0-153-031f405b459b7f05&clickBeacon=a62ec9c0-7f88-11f1-be3e-140f0711a102%7E3&requestid=20260714223350519303497228&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9500290355&itemId=28302596001&vendorItemId=95255347944&traceid=V0-153-031f405b459b7f05&clickBeacon=a62ec9c0-7f88-11f1-be3e-140f0711a102%7E3&requestid=20260714223350519303497228&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20844,7 +20844,7 @@ module.exports = [
         consNote: '영상·웹 저가면 1번, 가성비 성능이면 2번 샤오미가 합리적입니다. 3번은 <strong>큰 2K 화면+90Hz·스피커</strong>로 몰입하려는 분에게 값어치가 있습니다.',
         review: '"큰 화면으로 영상·멀티에 몰입, 화질·사운드까지"면 큐패드가 좋습니다. 화면·소리가 좋아요. 가성비·휴대면 1·2번이 합리적입니다.',
         specs: ['제품: 아트란 큐패드 V12 (11.97, 2K, 128GB)', '화면: 11.97인치 2K · 90Hz · 쿼드스피커', '용량: 128GB', '배송: 로켓배송', '가격: 약 347,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9344153281&itemId=27714301765&vendorItemId=94835835656&traceid=V0-153-84d855885c145b4b&clickBeacon=a62ec9c0-7f88-11f1-9573-7f27e6323914%7E3&requestid=20260714223350519303497228&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9344153281&itemId=27714301765&vendorItemId=94835835656&traceid=V0-153-84d855885c145b4b&clickBeacon=a62ec9c0-7f88-11f1-9573-7f27e6323914%7E3&requestid=20260714223350519303497228&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -20935,7 +20935,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·감열용</strong>입니다. 앱 연동·인기면 2번 님봇, 물·열 내구면 3번 엡손으로 가세요. "저렴한 감열식"이면 좋아요.',
         review: '"라벨기를 저렴하게, 잉크 없이 감열식"이면 오지렌이 무난합니다. 유지비가 적어요. 앱·내구면 2·3번을 보세요.',
         specs: ['제품: 오지렌 감열식 라벨 프린터', '방식: 감열식(잉크 없음)', '용도: 네임스티커·정리', '배송: 로켓배송', '가격: 약 19,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8113159630&itemId=22992058726&vendorItemId=95681947785&traceid=V0-153-bc8cf703024ffdc7&requestid=20260714223351490073096231&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8113159630&itemId=22992058726&vendorItemId=95681947785&traceid=V0-153-bc8cf703024ffdc7&requestid=20260714223351490073096231&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20954,7 +20954,7 @@ module.exports = [
         consNote: '저렴한 감열이면 1번, 물·열 내구면 3번 엡손입니다. 2번은 <strong>"앱 디자인+다양한 라벨"</strong>의 실속 구간 — 대부분의 정리·네임에 가장 무난합니다.',
         review: '"폰 앱으로 예쁘게 디자인, 다양한 라벨"이면 님봇이 인기입니다. 활용도가 높아요. 물·열 내구면 3번을 보세요.',
         specs: ['제품: 님봇 D110 라벨 프린터', '방식: 감열식 · 앱 연동', '용도: 디자인·네임스티커', '배송: 로켓배송', '가격: 약 35,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8292529792&itemId=23916076435&vendorItemId=81131049069&traceid=V0-153-735a5f0040bbf3b7&requestid=20260714223351490073096231&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8292529792&itemId=23916076435&vendorItemId=81131049069&traceid=V0-153-735a5f0040bbf3b7&requestid=20260714223351490073096231&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -20973,7 +20973,7 @@ module.exports = [
         consNote: '저렴한 감열이면 1번, 앱 디자인·다양한 라벨이면 2번 님봇이 합리적입니다. 3번은 <strong>물·열 강한 테이프 내구</strong>가 필요한 분에게 값어치가 있습니다.',
         review: '"물·열에 강해 오래가는 라벨, 전선·공구까지"면 엡손 테이프가 좋습니다. 내구가 확실해요. 저렴·앱 디자인이면 1·2번이 합리적입니다.',
         specs: ['제품: 엡손 라벨 프린터 (LW-K200BL)', '방식: 테이프식(라미네이트)', '용도: 내구·험한 곳', '배송: 로켓배송', '가격: 약 60,880원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6147707901&itemId=11842535636&vendorItemId=3375469601&traceid=V0-153-ec0c5f6b1ab67539&requestid=20260714223351490073096231&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6147707901&itemId=11842535636&vendorItemId=3375469601&traceid=V0-153-ec0c5f6b1ab67539&requestid=20260714223351490073096231&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -21064,7 +21064,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 허리 편한 요추면 2번 메쉬, 시원함까지면 3번 풀메쉬로 가세요. "저렴한 조절형"이면 좋아요.',
         review: '"게이밍 의자를 저렴하게 입문, 기본 조절만"이면 리보아가 무난합니다. 부담이 없어요. 요추·통기면 2·3번을 보세요.',
         specs: ['제품: 리보아 각도·높이 조절 게이밍 의자', '특징: 각도·높이 조절', '용도: 입문·가성비', '배송: 로켓배송', '가격: 약 44,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9116007471&itemId=26812472887&vendorItemId=95612549559&traceid=V0-153-ef71f842c829c20d&requestid=20260714223351826149379332&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9116007471&itemId=26812472887&vendorItemId=95612549559&traceid=V0-153-ef71f842c829c20d&requestid=20260714223351826149379332&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21083,7 +21083,7 @@ module.exports = [
         consNote: '저렴한 조절형이면 1번, 시원한 풀메쉬 3D면 3번입니다. 2번은 <strong>"요추 보호+메쉬 통기"</strong>의 실속 구간 — 장시간 사무·게임에 가장 무난합니다.',
         review: '"오래 앉아 허리가 편하고 시원하게"면 메쉬 요추가 좋습니다. 통기·요추가 잡혀요. 최상급 통기·조절이면 3번을 보세요.',
         specs: ['제품: HOMEY NEST 메쉬 요추 게이밍 의자 (HN-OC1006)', '특징: 요추 보호 · 메쉬 · 팔걸이 조절', '용도: 요추·통기', '배송: 로켓배송', '가격: 약 152,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8104707639&itemId=22935355046&vendorItemId=89970103052&traceid=V0-153-9442e4c1cd5484a5&clickBeacon=a6f4b1d0-7f88-11f1-86f0-fdea09e1364a%7E3&requestid=20260714223351826149379332&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8104707639&itemId=22935355046&vendorItemId=89970103052&traceid=V0-153-9442e4c1cd5484a5&clickBeacon=a6f4b1d0-7f88-11f1-86f0-fdea09e1364a%7E3&requestid=20260714223351826149379332&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21102,7 +21102,7 @@ module.exports = [
         consNote: '저렴한 조절형이면 1번, 요추 메쉬면 2번이 합리적입니다. 3번은 <strong>풀메쉬 통기+3D 요추</strong>로 제대로 챙기려는 분에게 값어치가 있습니다.',
         review: '"땀이 많아 최대한 시원하게, 허리도 제대로"면 풀메쉬 3D가 좋습니다. 시원하고 편해요. 저렴·기본이면 1·2번이 합리적입니다.',
         specs: ['제품: HOMEY NEST 풀메쉬 3D 요추 게이밍 의자', '특징: 풀메쉬 · 3D 요추 · 인체공학', '용도: 통기·완성도', '배송: 로켓배송', '가격: 약 171,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8692811658&itemId=23629525668&vendorItemId=90663814753&traceid=V0-153-401b331020c0fe3f&clickBeacon=a6f48ac0-7f88-11f1-ad0e-efeb229cd96e%7E3&requestid=20260714223351826149379332&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8692811658&itemId=23629525668&vendorItemId=90663814753&traceid=V0-153-401b331020c0fe3f&clickBeacon=a6f48ac0-7f88-11f1-ad0e-efeb229cd96e%7E3&requestid=20260714223351826149379332&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -21193,7 +21193,7 @@ module.exports = [
         consNote: '이 제품은 <strong>분위기·가성비용</strong>입니다. 책상 밝기·조절이면 2번 듀얼헤드, 눈부심 없는 조명이면 3번 스크린바로 가세요. "뒤 간접조명"이면 좋아요.',
         review: '"모니터 뒤를 밝혀 눈 편하게, 저렴하게"면 간접조명이 무난합니다. 분위기도 나요. 책상 조도·스크린바면 2·3번을 보세요.',
         specs: ['제품: 차이첸 모니터 뒤 간접조명 (LED 스트립)', '방식: 모니터 뒤 부착', '용도: 분위기·간접', '배송: 로켓배송', '가격: 약 13,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9246663380&itemId=27346752468&vendorItemId=94312974100&traceid=V0-153-e918b3548da3ddfb&requestid=20260714223352409116024571&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9246663380&itemId=27346752468&vendorItemId=94312974100&traceid=V0-153-e918b3548da3ddfb&requestid=20260714223352409116024571&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21212,7 +21212,7 @@ module.exports = [
         consNote: '뒤 간접조명이면 1번, 눈부심 없는 조명이면 3번 스크린바입니다. 2번은 <strong>"넓게+밝기·색 조절"</strong>의 실속 구간 — 책상 조명에 두루 무난합니다.',
         review: '"책상을 넓게 밝히며 밝기·색까지 조절"이면 듀얼헤드가 좋습니다. 범용성이 좋아요. 눈부심 없는 거치형이면 3번을 보세요.',
         specs: ['제품: USB 듀얼헤드 LED 모니터 조명', '방식: 듀얼 헤드 · 밝기·색·각도 조절', '용도: 조절·범용', '배송: 로켓배송', '가격: 약 25,920원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9568389248&itemId=28557622754&vendorItemId=95509267539&traceid=V0-153-88419e3332bd676b&requestid=20260714223352409116024571&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9568389248&itemId=28557622754&vendorItemId=95509267539&traceid=V0-153-88419e3332bd676b&requestid=20260714223352409116024571&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21231,7 +21231,7 @@ module.exports = [
         consNote: '저렴한 간접조명이면 1번, 넓게·조절이면 2번 듀얼헤드가 합리적입니다. 3번은 <strong>화면 반사 없는 스크린바(눈부심 차단)</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"화면에 빛 반사 없이 책상만 밝혀 눈 편하게"면 스크린바가 최적입니다. 눈부심이 없어요. 저렴·범용이면 1·2번이 합리적입니다.',
         specs: ['제품: 엘레센스 2in1 모니터 스크린바 (E1132)', '방식: 모니터 위 거치 · 백라이트', '용도: 눈부심 없음·야간', '배송: 로켓배송', '가격: 약 76,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7722892239&itemId=20731610461&vendorItemId=87802223022&traceid=V0-153-5a5f560144427465&clickBeacon=a74d0b00-7f88-11f1-84aa-0cdfa71bdc47%7E3&requestid=20260714223352409116024571&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7722892239&itemId=20731610461&vendorItemId=87802223022&traceid=V0-153-5a5f560144427465&clickBeacon=a74d0b00-7f88-11f1-84aa-0cdfa71bdc47%7E3&requestid=20260714223352409116024571&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -21320,7 +21320,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·기본용</strong>입니다. 강의 안정성이면 2번, 레이저·마우스면 3번 겸용으로 가세요. "페이지 넘김만"이면 가성비 좋아요.',
         review: '"PPT 페이지 넘김만 저렴하게, 가끔 발표"면 기본 리모컨으로 충분합니다. 간편해요. 안정성·레이저면 2·3번을 보세요.',
         specs: ['제품: PPT Pen 무선 프리젠터', '기능: 페이지 넘김 · USB 수신', '용도: 기본 발표', '배송: 일반배송', '가격: 약 12,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8143238450&itemId=23143434639&vendorItemId=94717563126&traceid=V0-153-e154dc2be7d20d32&requestid=20260714223353330106726987&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8143238450&itemId=23143434639&vendorItemId=94717563126&traceid=V0-153-e154dc2be7d20d32&requestid=20260714223353330106726987&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21339,7 +21339,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 레이저·마우스면 3번 겸용입니다. 2번은 <strong>"안정적 수신+강의 편의"</strong>의 실속 구간 — 발표·강의에 가장 무난합니다.',
         review: '"강의를 자주 하고 수신이 안정적이어야"면 강의용이 좋습니다. 끊김이 없어요. 화면 포인팅·마우스면 3번을 보세요.',
         specs: ['제품: 스마트포인터 강의용 무선 프리젠터', '기능: 안정 수신 · 강의용', '용도: 강의·발표', '배송: 로켓배송', '가격: 약 38,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8509421364&itemId=24770499489&vendorItemId=94056839397&traceid=V0-153-78619e6ca5d55aa9&requestid=20260714223353330106726987&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8509421364&itemId=24770499489&vendorItemId=94056839397&traceid=V0-153-78619e6ca5d55aa9&requestid=20260714223353330106726987&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21358,7 +21358,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 강의 안정성이면 2번이 합리적입니다. 3번은 <strong>레이저 포인팅+마우스 겸용</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"화면을 레이저로 가리키고 마우스 조작까지"면 겸용이 편합니다. 하나로 다 돼요. 단순 넘김이면 1·2번이 합리적입니다.',
         specs: ['제품: 레이저포인터 무선 마우스 프리젠터 (XPM170Y)', '기능: 레이저 포인팅 · 마우스 겸용', '용도: 포인팅·발표', '배송: 로켓배송', '가격: 약 65,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8643860888&itemId=26579806730&vendorItemId=86738839675&traceid=V0-153-7252da6b067945bd&clickBeacon=a7de2770-7f88-11f1-8547-5f68b98065cf%7E3&requestid=20260714223353330106726987&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8643860888&itemId=26579806730&vendorItemId=86738839675&traceid=V0-153-7252da6b067945bd&clickBeacon=a7de2770-7f88-11f1-8547-5f68b98065cf%7E3&requestid=20260714223353330106726987&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -21449,7 +21449,7 @@ module.exports = [
         consNote: '이 제품은 <strong>차량·가성비용</strong>입니다. 집 오디오·다이얼이면 2번, 멀리 쓰면 3번 장거리로 가세요. "차량 무선화"면 가성비 좋아요.',
         review: '"옛 차 AUX를 블루투스로 저렴하게, 핸즈프리까지"면 차량용이 무난합니다. 간편해요. 음질·거리면 2·3번을 보세요.',
         specs: ['제품: 구스페리 차량용 블루투스 리시버 (AUX)', '연결: AUX · 핸즈프리', '용도: 차량 무선화', '배송: 로켓배송', '가격: 약 9,300원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7912294483&itemId=21714740139&vendorItemId=88764106864&traceid=V0-153-0acd3d1a2cdcacb2&requestid=20260714223503422136794053&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7912294483&itemId=21714740139&vendorItemId=88764106864&traceid=V0-153-0acd3d1a2cdcacb2&requestid=20260714223503422136794053&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21468,7 +21468,7 @@ module.exports = [
         consNote: '차량·저렴이면 1번, 멀리 쓰면 3번 장거리입니다. 2번은 <strong>"5.3+다이얼(집 오디오)"</strong>의 실속 구간 — 대부분의 오디오 무선화에 무난합니다.',
         review: '"집 스피커를 안정적으로 무선화, 다이얼 조작까지"면 5.3 다이얼이 좋습니다. 안정적이에요. 멀리 쓰면 3번을 보세요.',
         specs: ['제품: 원미 블루투스 5.3 다이얼 리시버 (YMOO B06T3)', '버전: 블루투스 5.3 · 다이얼', '용도: 집 오디오', '배송: 로켓배송', '가격: 약 39,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7975624227&itemId=22107376049&vendorItemId=90834443991&traceid=V0-153-946385ae27cf0504&clickBeacon=d1a55830-7f88-11f1-b202-b2dbcb35918c%7E3&requestid=20260714223503422136794053&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7975624227&itemId=22107376049&vendorItemId=90834443991&traceid=V0-153-946385ae27cf0504&clickBeacon=d1a55830-7f88-11f1-b202-b2dbcb35918c%7E3&requestid=20260714223503422136794053&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21487,7 +21487,7 @@ module.exports = [
         consNote: '차량·저렴이면 1번, 집 오디오 다이얼이면 2번이 합리적입니다. 3번은 <strong>장거리(멀리서도 안정)</strong>가 필요한 분에게 값어치가 있습니다.',
         review: '"폰과 오디오가 멀리 떨어져 끊김 없이"면 장거리 듀얼 안테나가 좋습니다. 멀리도 안정적이에요. 근거리·차량이면 1·2번이 합리적입니다.',
         specs: ['제품: 원미 듀얼 안테나 장거리 블루투스 리시버 (B06Pro)', '특징: 듀얼 안테나 · 장거리', '용도: 장거리·안정', '배송: 로켓배송', '가격: 약 59,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6056820469&itemId=11121691333&vendorItemId=91637079423&traceid=V0-153-175b337c6c08b4e1&clickBeacon=d1a55830-7f88-11f1-988f-b53fad59f41c%7E3&requestid=20260714223503422136794053&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6056820469&itemId=11121691333&vendorItemId=91637079423&traceid=V0-153-175b337c6c08b4e1&clickBeacon=d1a55830-7f88-11f1-988f-b53fad59f41c%7E3&requestid=20260714223503422136794053&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -21578,7 +21578,7 @@ module.exports = [
         consNote: '이 제품은 <strong>초저가·기본용</strong>입니다. 더 안정적이면 2번, 예쁜 오브제면 3번으로 가세요. "초저가 알루미늄"이면 가성비 좋아요.',
         review: '"헤드셋을 아주 저렴하게 걸어두기"면 알루미늄 거치대로 충분합니다. 심플하고요. 안정감·디자인이면 2·3번을 보세요.',
         specs: ['제품: 프렌티 알루미늄 헤드셋 거치대', '재질: 알루미늄', '용도: 초저가·기본', '배송: 로켓배송', '가격: 약 4,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9521882388&itemId=28386302002&vendorItemId=95659645659&traceid=V0-153-b940c9244b60d59e&requestid=20260714223504058045276113&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9521882388&itemId=28386302002&vendorItemId=95659645659&traceid=V0-153-b940c9244b60d59e&requestid=20260714223504058045276113&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21597,7 +21597,7 @@ module.exports = [
         consNote: '초저가면 1번, 예쁜 오브제면 3번입니다. 2번은 <strong>"안정+튼튼"</strong>의 실속 구간 — 대부분의 데스크에 가장 무난합니다.',
         review: '"무거운 헤드셋도 안정적으로, 튼튼하게"면 안정형 스탠드가 좋습니다. 흔들림이 없어요. 오브제 감성이면 3번을 보세요.',
         specs: ['제품: SKY 웰 알루미늄 헤드폰 스탠드 거치대', '재질: 알루미늄 · 안정 받침', '용도: 안정·튼튼', '배송: 로켓배송', '가격: 약 7,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7057660821&itemId=17489241518&vendorItemId=84656624251&traceid=V0-153-30f4589e61a39045&requestid=20260714223504058045276113&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7057660821&itemId=17489241518&vendorItemId=84656624251&traceid=V0-153-30f4589e61a39045&requestid=20260714223504058045276113&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21616,7 +21616,7 @@ module.exports = [
         consNote: '초저가면 1번, 안정·튼튼이면 2번이 합리적입니다. 3번은 <strong>오브제 디자인(인테리어)</strong>을 원하는 분에게 어울립니다.',
         review: '"책상을 예쁘게 꾸미고 감성까지"면 오브제 거치대가 좋습니다. 인테리어가 살아요. 저렴·기능 위주면 1·2번이 합리적입니다.',
         specs: ['제품: 모앤픽 오브제 헤드셋 스탠드 거치대', '특징: 오브제 디자인 · 완성도', '용도: 디자인·인테리어', '배송: 로켓배송', '가격: 약 14,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8935132850&itemId=26123191404&vendorItemId=93103603788&traceid=V0-153-26b7468214327d92&clickBeacon=d200e5b0-7f88-11f1-ac10-d208a160075c%7E3&requestid=20260714223504058045276113&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8935132850&itemId=26123191404&vendorItemId=93103603788&traceid=V0-153-26b7468214327d92&clickBeacon=d200e5b0-7f88-11f1-ac10-d208a160075c%7E3&requestid=20260714223504058045276113&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -21705,7 +21705,7 @@ module.exports = [
         consNote: '이 제품은 <strong>높이·가성비용</strong>입니다. 밑 서랍 수납이면 2번, 튼튼·원목이면 3번으로 가세요. "저렴한 높이 받침"이면 좋아요.',
         review: '"모니터를 높여 목 편하게, 저렴하게"면 심플 받침으로 충분합니다. 밑에 키보드도 넣어요. 수납·원목이면 2·3번을 보세요.',
         specs: ['제품: 엠디유 심플 모니터 받침대', '특징: 높이 up · 심플', '용도: 높이·정리', '배송: 로켓배송', '가격: 약 6,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8971924076&itemId=26259077449&vendorItemId=93237419309&traceid=V0-153-fb0ba593d4388f3a&requestid=20260714223504666146244105&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8971924076&itemId=26259077449&vendorItemId=93237419309&traceid=V0-153-fb0ba593d4388f3a&requestid=20260714223504666146244105&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21724,7 +21724,7 @@ module.exports = [
         consNote: '저렴한 심플이면 1번, 튼튼·원목이면 3번입니다. 2번은 <strong>"서랍 수납+듀얼 받침"</strong>의 실속 구간 — 정리·높이를 함께 챙기기에 무난합니다.',
         review: '"받침 밑에 서랍으로 정리하고 듀얼까지"면 서랍형이 좋습니다. 책상이 깔끔해져요. 원목·고급이면 3번을 보세요.',
         specs: ['제품: 우드웰 서랍형 듀얼 모니터 받침대 (MT-01)', '특징: 서랍 수납 · 듀얼', '용도: 수납·정리', '배송: 로켓배송', '가격: 약 32,380원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8490889735&itemId=12160184776&vendorItemId=79431614787&traceid=V0-153-b5da95a909002c23&requestid=20260714223504666146244105&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8490889735&itemId=12160184776&vendorItemId=79431614787&traceid=V0-153-b5da95a909002c23&requestid=20260714223504666146244105&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21743,7 +21743,7 @@ module.exports = [
         consNote: '저렴한 심플이면 1번, 서랍 수납이면 2번이 합리적입니다. 3번은 <strong>원목 감성+높은 하중</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"원목 감성으로 고급스럽게, 무거운 모니터도 안정적으로"면 원목 받침이 좋습니다. 완성도가 좋아요. 저렴·수납이면 1·2번이 합리적입니다.',
         specs: ['제품: 일리안 모니터 받침대 L (원목형)', '재질: 원목형 · 넉넉한 하중', '용도: 원목·완성도', '배송: 로켓배송', '가격: 약 98,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8491245810&itemId=25086185243&vendorItemId=92089992692&traceid=V0-153-c3a72a857b8b6fb7&clickBeacon=d25ebd20-7f88-11f1-b4ca-e55cd756d5b8%7E3&requestid=20260714223504666146244105&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8491245810&itemId=25086185243&vendorItemId=92089992692&traceid=V0-153-c3a72a857b8b6fb7&clickBeacon=d25ebd20-7f88-11f1-b4ca-e55cd756d5b8%7E3&requestid=20260714223504666146244105&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -21834,7 +21834,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·세트용</strong>입니다. 오래가는 대용량이면 2번, 고급 향이면 3번으로 가세요. "저렴한 디퓨저"면 가성비 좋아요.',
         review: '"방향제를 저렴하게, 대용량으로 은은하게"면 세트가 무난합니다. 여러 공간에 좋아요. 발향·고급 향이면 2·3번을 보세요.',
         specs: ['제품: 스미어티 대용량 디퓨저 세트 (500ml)', '방식: 디퓨저(스틱)', '용도: 가성비·세트', '배송: 로켓배송', '가격: 약 11,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8493757692&itemId=24594613712&vendorItemId=95483663789&traceid=V0-153-1045b96282bcffb8&requestid=20260714225750676297888015&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8493757692&itemId=24594613712&vendorItemId=95483663789&traceid=V0-153-1045b96282bcffb8&requestid=20260714225750676297888015&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21853,7 +21853,7 @@ module.exports = [
         consNote: '저렴한 세트면 1번, 고급 향이면 3번입니다. 2번은 <strong>"대용량+발향력"</strong>의 실속 구간 — 넓은 공간을 오래 채우기에 무난합니다.',
         review: '"넓은 거실을 오래 은은하게, 발향까지"면 대용량 발향이 좋습니다. 향이 잘 퍼져요. 고급 향조면 3번을 보세요.',
         specs: ['제품: 헤트라스 프리미엄 대용량 디퓨저', '방식: 디퓨저 · 대용량', '용도: 지속·발향', '배송: 로켓배송', '가격: 약 25,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6991217590&itemId=24811647150&vendorItemId=81740492472&traceid=V0-153-30192501060a4ba3&requestid=20260714225750676297888015&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6991217590&itemId=24811647150&vendorItemId=81740492472&traceid=V0-153-30192501060a4ba3&requestid=20260714225750676297888015&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21872,7 +21872,7 @@ module.exports = [
         consNote: '저렴한 세트면 1번, 대용량 발향이면 2번이 합리적입니다. 3번은 <strong>고급 향조+3개 대용량</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"고급스러운 향으로 여러 공간을 채우고 오래"면 프리미엄 3개가 좋습니다. 향이 세련돼요. 저렴·단품이면 1·2번이 합리적입니다.',
         specs: ['제품: 센토 인텐스 디퓨저 (일랑일랑, 550ml×3)', '방식: 디퓨저 · 고급 향조', '구성: 550ml × 3', '배송: 로켓배송', '가격: 약 25,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8936529996&itemId=27821149181&vendorItemId=94780871525&traceid=V0-153-b7a4907b56fa93a5&clickBeacon=0093c7f0-7f8c-11f1-b309-32612345891a%7E3&requestid=20260714225750676297888015&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8936529996&itemId=27821149181&vendorItemId=94780871525&traceid=V0-153-b7a4907b56fa93a5&clickBeacon=0093c7f0-7f8c-11f1-b309-32612345891a%7E3&requestid=20260714225750676297888015&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -21961,7 +21961,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·무소음용</strong>입니다. 따뜻한 원목이면 2번, 감성 프리미엄이면 3번으로 가세요. "저렴한 무소음"이면 가성비 좋아요.',
         review: '"벽시계를 저렴하게, 초침 소리 없이"면 무소음 가성비가 무난합니다. 심플해요. 원목·프리미엄이면 2·3번을 보세요.',
         specs: ['제품: 제이킨 무소음 벽시계', '특징: 무소음 · 심플', '용도: 가성비·무소음', '배송: 일반배송', '가격: 약 5,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7167032172&itemId=18048124336&vendorItemId=79915320513&traceid=V0-153-699bb666b24496b6&requestid=20260714225751269116022973&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7167032172&itemId=18048124336&vendorItemId=79915320513&traceid=V0-153-699bb666b24496b6&requestid=20260714225751269116022973&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21980,7 +21980,7 @@ module.exports = [
         consNote: '저렴한 무소음이면 1번, 감성 프리미엄이면 3번입니다. 2번은 <strong>"원목+무소음+40cm"</strong>의 실속 구간 — 거실 인테리어에 가장 무난합니다.',
         review: '"거실에 따뜻한 원목으로, 무소음에 잘 보이게"면 원목 40cm가 좋습니다. 감성이 살아요. 프리미엄 디자인이면 3번을 보세요.',
         specs: ['제품: 이지투씨 무소음 원목 벽시계 (40cm)', '재질: 원목 · 무소음', '용도: 원목·거실', '배송: 로켓배송', '가격: 약 31,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9516566167&itemId=28364743764&vendorItemId=95317205228&traceid=V0-153-47e88ae8240bc029&clickBeacon=00ed80b0-7f8c-11f1-86bc-e3f9cea7bd2d%7E3&requestid=20260714225751269116022973&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9516566167&itemId=28364743764&vendorItemId=95317205228&traceid=V0-153-47e88ae8240bc029&clickBeacon=00ed80b0-7f8c-11f1-86bc-e3f9cea7bd2d%7E3&requestid=20260714225751269116022973&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -21999,7 +21999,7 @@ module.exports = [
         consNote: '저렴한 무소음이면 1번, 원목 감성이면 2번이 합리적입니다. 3번은 <strong>감성 디자인·완성도</strong>로 벽을 꾸미려는 분에게 값어치가 있습니다.',
         review: '"벽시계를 인테리어 포인트로, 감성 디자인으로"면 프리미엄이 좋습니다. 공간이 세련돼요. 저렴·원목이면 1·2번이 합리적입니다.',
         specs: ['제품: KAPPA 코지 글로우 벽시계 (D9100)', '특징: 감성 디자인 · 완성도', '용도: 디자인·인테리어', '배송: 로켓배송', '가격: 약 84,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8923559662&itemId=26078853668&vendorItemId=93059809256&traceid=V0-153-c68661dffbb1576b&clickBeacon=00ed80b0-7f8c-11f1-a4c9-68f95532310e%7E3&requestid=20260714225751269116022973&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8923559662&itemId=26078853668&vendorItemId=93059809256&traceid=V0-153-c68661dffbb1576b&clickBeacon=00ed80b0-7f8c-11f1-a4c9-68f95532310e%7E3&requestid=20260714225751269116022973&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -22088,7 +22088,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·푹신용</strong>입니다. 빠른 흡수·위생이면 2번 규조토, 호텔 감성이면 3번으로 가세요. "저렴한 극세사"면 가성비 좋아요.',
         review: '"발매트를 저렴하게, 푹신하게"면 극세사로 충분합니다. 촉감이 좋아요. 빠른 흡수·위생이면 2·3번을 보세요.',
         specs: ['제품: 비바룸 푹신 극세사 발매트', '소재: 극세사', '용도: 가성비·푹신', '배송: 로켓배송', '가격: 약 6,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9408184619&itemId=27951900916&vendorItemId=94914782188&traceid=V0-153-b7cb9da0bbb7bd23&requestid=20260714225751793309170456&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9408184619&itemId=27951900916&vendorItemId=94914782188&traceid=V0-153-b7cb9da0bbb7bd23&requestid=20260714225751793309170456&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22107,7 +22107,7 @@ module.exports = [
         consNote: '저렴한 극세사면 1번, 호텔 감성 극세사면 3번입니다. 2번은 <strong>"규조토(빠른 흡수·위생)"</strong>의 실속 구간 — 물기·위생 관리에 가장 무난합니다.',
         review: '"밟으면 바로 마르고 눅눅함 없이 위생적으로"면 규조토가 좋습니다. 관리가 편해요. 푹신함이면 1·3번을 보세요.',
         specs: ['제품: 다몬 규조토 발매트 (빨아쓰는)', '소재: 규조토 · 빠른 흡수', '용도: 흡수·위생', '배송: 로켓배송', '가격: 약 14,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9521807617&itemId=28385984490&vendorItemId=95475675722&traceid=V0-153-bab9e3b307279e9f&clickBeacon=013d9c80-7f8c-11f1-9874-fb0e60705ccd%7E3&requestid=20260714225751793309170456&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9521807617&itemId=28385984490&vendorItemId=95475675722&traceid=V0-153-bab9e3b307279e9f&clickBeacon=013d9c80-7f8c-11f1-9874-fb0e60705ccd%7E3&requestid=20260714225751793309170456&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22126,7 +22126,7 @@ module.exports = [
         consNote: '저렴한 극세사면 1번, 빠른 흡수·위생이면 2번 규조토가 합리적입니다. 3번은 <strong>호텔 두께+부드러움</strong>을 원하는 분에게 어울립니다.',
         review: '"호텔처럼 두툼하고 부드러운 촉감으로"면 호텔 극세사가 좋습니다. 감성이 살아요. 빠른 흡수·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 애플민트 호텔 극세사 발매트', '소재: 호텔 극세사', '용도: 호텔·부드러움', '배송: 로켓배송', '가격: 약 14,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7936522131&itemId=24718017146&vendorItemId=88895633466&traceid=V0-153-26ee7836a6368fb8&requestid=20260714225751793309170456&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7936522131&itemId=24718017146&vendorItemId=88895633466&traceid=V0-153-26ee7836a6368fb8&requestid=20260714225751793309170456&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -22215,7 +22215,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·논슬립용</strong>입니다. 방향 조절이면 2번 회전형, 넉넉한 대량이면 3번 세트로 가세요. "저렴한 논슬립"이면 가성비 좋아요.',
         review: '"옷이 안 미끄러지고 어깨 자국 없이 저렴하게"면 논슬립이 무난합니다. 기본을 잡아줘요. 회전·대량이면 2·3번을 보세요.',
         specs: ['제품: 코멧 홈 논슬립 옷걸이', '특징: 논슬립 · 어깨뿔 방지', '용도: 가성비·기본', '배송: 로켓배송', '가격: 약 7,890원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6643638905&itemId=15196368192&vendorItemId=82417515282&traceid=V0-153-7f941171cd60ce24&requestid=20260714225752509149375437&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6643638905&itemId=15196368192&vendorItemId=82417515282&traceid=V0-153-7f941171cd60ce24&requestid=20260714225752509149375437&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22234,7 +22234,7 @@ module.exports = [
         consNote: '저렴한 논슬립이면 1번, 넉넉한 프리미엄이면 3번입니다. 2번은 <strong>"회전 고리+50개"</strong>의 실속 구간 — 옷장 통일 정리에 가장 무난합니다.',
         review: '"고리가 돌아 걸기 편하고 50개로 통일 정리"면 회전형이 좋습니다. 깔끔해져요. 더 넉넉·고급이면 3번을 보세요.',
         specs: ['제품: 예밀 논슬립 회전 옷걸이 (50개)', '특징: 고리 회전 · 논슬립', '구성: 50개', '배송: 로켓배송', '가격: 약 18,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8530419617&itemId=13507520427&vendorItemId=82890517092&traceid=V0-153-bf7bbb25e34f5222&clickBeacon=01ab5270-7f8c-11f1-9c78-ca218a3c75a9%7E3&requestid=20260714225752509149375437&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8530419617&itemId=13507520427&vendorItemId=82890517092&traceid=V0-153-bf7bbb25e34f5222&clickBeacon=01ab5270-7f8c-11f1-9c78-ca218a3c75a9%7E3&requestid=20260714225752509149375437&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22253,7 +22253,7 @@ module.exports = [
         consNote: '저렴한 논슬립이면 1번, 회전 고리면 2번이 합리적입니다. 3번은 <strong>넉넉한 60개+색감·완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"옷이 많아 넉넉히, 색감까지 예쁘게 통일"이면 60개 세트가 좋습니다. 옷장이 깔끔해져요. 소량·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 진심감성 논슬립 옷걸이 (60개)', '특징: 어깨뿔 방지 · 논슬립 · 색감', '구성: 60개', '배송: 로켓배송', '가격: 약 35,880원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7910710510&itemId=21705038555&vendorItemId=88754493300&traceid=V0-153-c8d16cf08d073859&clickBeacon=01ab7980-7f8c-11f1-beb7-faa9d5f23c43%7E3&requestid=20260714225752509149375437&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7910710510&itemId=21705038555&vendorItemId=88754493300&traceid=V0-153-c8d16cf08d073859&clickBeacon=01ab7980-7f8c-11f1-beb7-faa9d5f23c43%7E3&requestid=20260714225752509149375437&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -22342,7 +22342,7 @@ module.exports = [
         consNote: '이 제품은 <strong>휴대·가성비용</strong>입니다. 자외선 겸용을 제대로면 2번, 비 많이 막는 대형이면 3번으로 가세요. "휴대·저렴"이면 가성비 좋아요.',
         review: '"가볍게 휴대하고 자동으로 편하게"면 3단 자동이 무난합니다. UV도 되고요. 대형·내구면 2·3번을 보세요.',
         specs: ['제품: FASEN 3단 자동 우산 (양산 겸용)', '형태: 3단 자동 · UV 차단', '용도: 휴대·가성비', '배송: 로켓배송', '가격: 약 6,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9494737505&itemId=28281243934&vendorItemId=95567471781&traceid=V0-153-e8c7ae024a7e8f6d&requestid=20260714225752902018694519&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9494737505&itemId=28281243934&vendorItemId=95567471781&traceid=V0-153-e8c7ae024a7e8f6d&requestid=20260714225752902018694519&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22361,7 +22361,7 @@ module.exports = [
         consNote: '휴대·저렴이면 1번, 비 많이 막는 대형이면 3번입니다. 2번은 <strong>"UV 겸용+튼튼함"</strong>의 실속 구간 — 사계절 우양산으로 가장 무난합니다.',
         review: '"자외선도 막고 비도, 튼튼하게"면 겸용 우양산이 좋습니다. 사계절 써요. 비 많이 막는 대형이면 3번을 보세요.',
         specs: ['제품: 오아룸 시그니처 3단 자동 우양산 (UV)', '형태: 3단 자동 · UV 차단 · 튼튼', '용도: 양산 겸용·사계절', '배송: 로켓배송', '가격: 약 9,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9443119007&itemId=28087358287&vendorItemId=95599976769&traceid=V0-153-5e9b3c04d72d9467&requestid=20260714225752902018694519&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9443119007&itemId=28087358287&vendorItemId=95599976769&traceid=V0-153-5e9b3c04d72d9467&requestid=20260714225752902018694519&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22380,7 +22380,7 @@ module.exports = [
         consNote: '휴대·저렴이면 1번, UV 겸용 사계절이면 2번이 합리적입니다. 3번은 <strong>대형 커버(비 많이 막기)</strong>가 필요한 분에게 값어치가 있습니다.',
         review: '"비를 많이 막아 안 젖고, 둘이·골프에도"면 대형 3단이 든든합니다. 커버가 넓어요. 가볍게 휴대면 1·2번이 합리적입니다.',
         specs: ['제품: 꼬순꼬담 대형 3단 우양산 (골프·등산)', '형태: 대형 · 3단 · UV', '용도: 대형·커버', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9422344841&itemId=28005572316&vendorItemId=94963018032&traceid=V0-153-6e4188eb98656479&clickBeacon=01e7bf30-7f8c-11f1-b00e-5a1a7f0d67ed%7E3&requestid=20260714225752902018694519&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9422344841&itemId=28005572316&vendorItemId=94963018032&traceid=V0-153-6e4188eb98656479&clickBeacon=01e7bf30-7f8c-11f1-b00e-5a1a7f0d67ed%7E3&requestid=20260714225752902018694519&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -22471,7 +22471,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·워싱용</strong>입니다. 베개·패드까지 풀세트면 2번, 먼지 적은 알러지케어면 3번으로 가세요. "저렴한 워싱"이면 좋아요.',
         review: '"이불 세트를 저렴하게, 부드러운 워싱으로"면 가성비 세트가 무난합니다. 촉감이 좋아요. 풀세트·알러지면 2·3번을 보세요.',
         specs: ['제품: KURUA 워싱 이불 세트', '구성: 이불+패드+베개커버', '용도: 가성비·워싱', '배송: 로켓배송', '가격: 약 19,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8289921916&itemId=26975433873&vendorItemId=95613999211&traceid=V0-153-601de8eeb37e4741&requestid=20260714225753248194119454&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8289921916&itemId=26975433873&vendorItemId=95613999211&traceid=V0-153-601de8eeb37e4741&requestid=20260714225753248194119454&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -22490,7 +22490,7 @@ module.exports = [
         consNote: '저렴한 워싱이면 1번, 알러지케어면 3번입니다. 2번은 <strong>"차렵+풀세트(4종)"</strong>의 실속 구간 — 바로 침구를 갖추기에 가장 무난합니다.',
         review: '"이불·패드·베개까지 한 번에, 차렵으로 세탁 편하게"면 풀세트가 좋습니다. 바로 완성돼요. 알러지케어면 3번을 보세요.',
         specs: ['제품: 씨엠베드 차렵이불 풀세트 (4종)', '소재: 차렵이불 · 국내생산', '구성: 이불+패드+베개커버+베개솜', '배송: 일반배송', '가격: 약 36,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8915329520&itemId=26047471248&vendorItemId=72984391965&traceid=V0-153-a3450d4643774384&requestid=20260714225753248194119454&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8915329520&itemId=26047471248&vendorItemId=72984391965&traceid=V0-153-a3450d4643774384&requestid=20260714225753248194119454&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -22509,7 +22509,7 @@ module.exports = [
         consNote: '저렴한 워싱이면 1번, 차렵 풀세트면 2번이 합리적입니다. 3번은 <strong>먼지 적은 알러지케어(위생)</strong>가 필요한 분에게 값어치가 있습니다.',
         review: '"비염·알레르기로 먼지가 걱정, 아이용으로"면 알러지케어가 안심입니다. 먼지가 덜 나요. 저렴·기본이면 1·2번이 합리적입니다.',
         specs: ['제품: 보넬라 알러지케어 차렵이불 세트', '특징: 먼지 적음 · 알러지케어 · 차렵', '용도: 위생·알레르기', '배송: 로켓배송', '가격: 약 68,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8308895788&itemId=23973884888&vendorItemId=90995200374&traceid=V0-153-94b7fcf183ed95e7&requestid=20260714225753248194119454&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8308895788&itemId=23973884888&vendorItemId=90995200374&traceid=V0-153-94b7fcf183ed95e7&requestid=20260714225753248194119454&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -22600,7 +22600,7 @@ module.exports = [
         consNote: '이 제품은 <strong>의류·가성비용</strong>입니다. 이불 대용량+펌프면 2번, 손 안 대는 자동이면 3번으로 가세요. "의류·저렴"이면 가성비 좋아요.',
         review: '"옷을 압축해 서랍·여행가방에 저렴하게"면 의류 압축팩이 무난합니다. 부피가 확 줄어요. 이불·자동이면 2·3번을 보세요.',
         specs: ['제품: 코멧 의류용 압축팩 (50×60cm)', '크기: 의류용', '압축: 청소기·손', '배송: 로켓배송', '가격: 약 7,960원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1123307559&itemId=2089253528&vendorItemId=70088227682&traceid=V0-153-5bbb3074b0cdcc27&requestid=20260714225753640309170834&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1123307559&itemId=2089253528&vendorItemId=70088227682&traceid=V0-153-5bbb3074b0cdcc27&requestid=20260714225753640309170834&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22619,7 +22619,7 @@ module.exports = [
         consNote: '의류·저렴이면 1번, 손 안 대는 자동이면 3번입니다. 2번은 <strong>"이불 대용량+펌프(8개)"</strong>의 실속 구간 — 계절 침구 정리에 가장 무난합니다.',
         review: '"이불·패딩을 압축하고 청소기 없이 펌프로"면 이불 세트가 좋습니다. 부피가 확 줄어요. 손 안 대는 자동이면 3번을 보세요.',
         specs: ['제품: 초대용량 이불 압축팩 + 펌프 세트 (8개)', '크기: 이불 대용량 · 펌프 포함', '구성: 8개입', '배송: 로켓배송', '가격: 약 24,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8425262289&itemId=24374576950&vendorItemId=91389733329&traceid=V0-153-903325de6ed211ca&clickBeacon=0256ada0-7f8c-11f1-b665-03fdbbbe39b9%7E3&requestid=20260714225753640309170834&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8425262289&itemId=24374576950&vendorItemId=91389733329&traceid=V0-153-903325de6ed211ca&clickBeacon=0256ada0-7f8c-11f1-b665-03fdbbbe39b9%7E3&requestid=20260714225753640309170834&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22638,7 +22638,7 @@ module.exports = [
         consNote: '의류·저렴이면 1번, 이불 펌프세트면 2번이 합리적입니다. 3번은 <strong>무선 자동펌프+18개 대량</strong>으로 편하게 정리하려는 분에게 값어치가 있습니다.',
         review: '"손 안 대고 버튼만으로 대량 정리"면 무선 자동펌프가 편합니다. 빠르고 편해요. 소량·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 무선 자동펌프 압축팩 세트 (18개)', '펌프: 무선 자동', '구성: 18개입', '배송: 로켓배송', '가격: 약 48,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9419401420&itemId=27993338661&vendorItemId=94950909388&traceid=V0-153-0742fc2af1decaab&clickBeacon=0256ada0-7f8c-11f1-afb6-3f4e3670659f%7E3&requestid=20260714225753640309170834&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9419401420&itemId=27993338661&vendorItemId=94950909388&traceid=V0-153-0742fc2af1decaab&clickBeacon=0256ada0-7f8c-11f1-afb6-3f4e3670659f%7E3&requestid=20260714225753640309170834&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -22727,7 +22727,7 @@ module.exports = [
         consNote: '이 제품은 <strong>설치·가성비용</strong>입니다. 양쪽 출입이면 2번 양문형, 바닥까지 막으려면 3번 일체형으로 가세요. "저렴한 원터치"면 좋아요.',
         review: '"모기장을 저렴하게 원터치로"면 기본형이 무난합니다. 설치가 간편해요. 양문·바닥 차단이면 2·3번을 보세요.',
         specs: ['제품: 원터치 침대 모기장 (싱글~퀸)', '설치: 원터치', '용도: 침대·가성비', '배송: 일반배송', '가격: 약 11,350원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8538968036&itemId=24720953520&vendorItemId=90933619270&traceid=V0-153-da5ef29e94fd3831&requestid=20260714225753990123616942&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8538968036&itemId=24720953520&vendorItemId=90933619270&traceid=V0-153-da5ef29e94fd3831&requestid=20260714225753990123616942&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22746,7 +22746,7 @@ module.exports = [
         consNote: '저렴한 원터치면 1번, 바닥까지 막으면 3번 일체형입니다. 2번은 <strong>"양문+넓은 사각"</strong>의 실속 구간 — 둘이 자거나 출입 편의에 무난합니다.',
         review: '"양쪽에서 드나들고 넓게"면 양문형이 편합니다. 공간도 넉넉해요. 바닥 차단이면 3번을 보세요.',
         specs: ['제품: Savelio 원터치 사각 양문형 모기장', '설치: 원터치 · 양문', '용도: 출입·넓은 공간', '배송: 로켓배송', '가격: 약 19,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9572498988&itemId=28572033321&vendorItemId=95649373753&traceid=V0-153-309e61d9af556d4a&requestid=20260714225753990123616942&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9572498988&itemId=28572033321&vendorItemId=95649373753&traceid=V0-153-309e61d9af556d4a&requestid=20260714225753990123616942&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22765,7 +22765,7 @@ module.exports = [
         consNote: '저렴한 원터치면 1번, 양문 넓은 공간이면 2번이 합리적입니다. 3번은 <strong>바닥 완전 차단(지퍼 출입)</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"바닥 틈으로 모기가 들어오는 게 싫고 지퍼로 확실히"면 바닥일체형이 완벽에 가깝습니다. 차단이 확실해요. 저렴·간편이면 1·2번이 합리적입니다.',
         specs: ['제품: 노멀리즘 원터치 바닥일체형 모기장', '설치: 원터치 · 바닥일체 · 지퍼', '용도: 바닥 차단·완성도', '배송: 로켓배송', '가격: 약 24,700원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9568476667&itemId=28557917025&vendorItemId=95535583953&traceid=V0-153-c36b3d9d9b68c033&clickBeacon=028c8ab0-7f8c-11f1-bbb3-85b062d9dba1%7E3&requestid=20260714225753990123616942&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9568476667&itemId=28557917025&vendorItemId=95535583953&traceid=V0-153-c36b3d9d9b68c033&clickBeacon=028c8ab0-7f8c-11f1-bbb3-85b062d9dba1%7E3&requestid=20260714225753990123616942&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -22854,7 +22854,7 @@ module.exports = [
         consNote: '이 제품은 <strong>휴대·가성비용</strong>입니다. UV-C 케어면 2번, 2인용 프리미엄이면 3번으로 가세요. "개인 휴대용"이면 가성비 좋아요.',
         review: '"개인 칫솔을 저렴하게 살균, 여행에도"면 휴대용이 무난합니다. 챙기기 좋아요. UV-C·다인용이면 2·3번을 보세요.',
         specs: ['제품: 프리쉐 UV LED 휴대용 칫솔 살균기', '살균: UV LED', '용도: 개인·휴대', '배송: 로켓배송', '가격: 약 13,350원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6183820163&itemId=12160582232&vendorItemId=79432009502&traceid=V0-153-7985f2ad9c9446b4&requestid=20260714225754410073092038&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6183820163&itemId=12160582232&vendorItemId=79432009502&traceid=V0-153-7985f2ad9c9446b4&requestid=20260714225754410073092038&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22873,7 +22873,7 @@ module.exports = [
         consNote: '개인 휴대면 1번, 2인용 프리미엄이면 3번입니다. 2번은 <strong>"UV-C+거치·자동"</strong>의 실속 구간 — 욕실 상시 사용에 가장 무난합니다.',
         review: '"욕실에 거치해 UV-C로 자동 살균"이면 에너딕이 좋습니다. 넣어두면 알아서 돼요. 2인·프리미엄이면 3번을 보세요.',
         specs: ['제품: 에너딕 UV-C 칫솔 살균기 (M4A-PLUS)', '살균: UV-C · 거치·자동', '용도: 욕실 상시', '배송: 로켓배송', '가격: 약 28,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9597472537&itemId=28650758284&vendorItemId=95593472051&traceid=V0-153-36466488aa65faa2&clickBeacon=02cd1620-7f8c-11f1-9d68-257df985da71%7E3&requestid=20260714225754410073092038&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9597472537&itemId=28650758284&vendorItemId=95593472051&traceid=V0-153-36466488aa65faa2&clickBeacon=02cd1620-7f8c-11f1-9d68-257df985da71%7E3&requestid=20260714225754410073092038&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22892,7 +22892,7 @@ module.exports = [
         consNote: '개인 휴대면 1번, UV-C 거치면 2번이 합리적입니다. 3번은 <strong>2인용+수납·완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"부부·가족 칫솔을 함께 살균·수납, 완성도까지"면 2인용이 좋습니다. 욕실이 깔끔해져요. 개인·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 브러쉬업 케어즈 칫솔 살균기 (2인용)', '용량: 2인용 · 수납', '특징: 완성도 · 친환경', '배송: 로켓배송', '가격: 약 79,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9186628823&itemId=27101077329&vendorItemId=94069240377&traceid=V0-153-12360d2de05691e1&clickBeacon=02cd3d30-7f8c-11f1-9bf9-6258176bf393%7E3&requestid=20260714225754410073092038&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9186628823&itemId=27101077329&vendorItemId=94069240377&traceid=V0-153-12360d2de05691e1&clickBeacon=02cd3d30-7f8c-11f1-9bf9-6258176bf393%7E3&requestid=20260714225754410073092038&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -22980,7 +22980,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·UV용</strong>입니다. 살균+건조 제대로면 2번 UVC LED, 최신·대용량이면 3번 4세대로 가세요. "저렴한 UV"면 좋아요.',
         review: '"젖병 소독기를 저렴하게, 기본 UV로"면 하우지안이 무난합니다. 열탕보다 편해요. 살균+건조·대용량이면 2·3번을 보세요.',
         specs: ['제품: 하우지안 UV 살균 젖병 소독기', '살균: UV', '용도: 가성비·기본', '배송: 로켓배송', '가격: 약 49,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1662689560&itemId=2832941919&vendorItemId=74277636574&traceid=V0-153-29d600f34cdd6521&requestid=20260714225754774149375973&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1662689560&itemId=2832941919&vendorItemId=74277636574&traceid=V0-153-29d600f34cdd6521&requestid=20260714225754774149375973&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -22999,7 +22999,7 @@ module.exports = [
         consNote: '저렴한 UV면 1번, 최신·대용량이면 3번 4세대입니다. 2번은 <strong>"UVC LED+건조"</strong>의 실속 구간 — 신생아 육아에 가장 무난합니다.',
         review: '"UVC LED로 살균하고 건조까지, 선물로도"면 소유가 좋습니다. 뽀송하게 보관돼요. 최신·대용량이면 3번을 보세요.',
         specs: ['제품: 소유 UVC LED 프리미엄 젖병 소독기', '살균: UVC LED · 건조', '용도: 살균·건조', '배송: 일반배송', '가격: 약 189,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9144648428&itemId=26898170386&vendorItemId=93867627553&traceid=V0-153-5912ab2f842d3e9c&clickBeacon=030404a0-7f8c-11f1-82db-85e5e99d7f0e%7E3&requestid=20260714225754774149375973&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9144648428&itemId=26898170386&vendorItemId=93867627553&traceid=V0-153-5912ab2f842d3e9c&clickBeacon=030404a0-7f8c-11f1-82db-85e5e99d7f0e%7E3&requestid=20260714225754774149375973&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23018,7 +23018,7 @@ module.exports = [
         consNote: '저렴한 UV면 1번, UVC LED 살균+건조면 2번이 합리적입니다. 3번은 <strong>최신 4세대+대용량</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"최신 4세대로 대용량, 제대로 갖추려"면 해님 4세대가 든든합니다. 넉넉하고 완성도가 좋아요. 저렴·기본이면 1·2번이 합리적입니다.',
         specs: ['제품: 해님 UV LED 젖병 소독기 4세대 (HN-04L)', '살균: UV LED · 건조·보관', '용량: 대용량', '배송: 로켓배송', '가격: 약 238,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1565506528&itemId=2676862932&vendorItemId=70667411111&traceid=V0-153-2edfe1116d0edeba&requestid=20260714225754774149375973&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1565506528&itemId=2676862932&vendorItemId=70667411111&traceid=V0-153-2edfe1116d0edeba&requestid=20260714225754774149375973&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -23108,7 +23108,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·만능용</strong>입니다. 여러 굵기·안전이면 2번 5종세트, 힘 안 들이면 3번 전동으로 가세요. "저렴한 만능"이면 좋아요. <small>※손 보호에 주의하세요.</small>',
         review: '"채썰기를 저렴하게, 기본 손질로"면 만능채칼이 무난합니다. 잘 썰려요. 안전·다기능·전동이면 2·3번을 보세요.',
         specs: ['제품: 독일식 만능채칼 (1+1)', '재질: 스테인리스', '기능: 만능 채썰기', '배송: 일반배송', '가격: 약 9,780원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9553477343&itemId=28505656540&vendorItemId=95746623609&traceid=V0-153-bde75795cc5c6088&requestid=20260714232248333080313215&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9553477343&itemId=28505656540&vendorItemId=95746623609&traceid=V0-153-bde75795cc5c6088&requestid=20260714232248333080313215&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23127,7 +23127,7 @@ module.exports = [
         consNote: '저렴한 만능이면 1번, 힘 안 들이는 자동이면 3번 전동입니다. 2번은 <strong>"안전손잡이+5종 다기능"</strong>의 실속 구간 — 안전·다양성에 가장 무난합니다.',
         review: '"손 안 다치고 여러 굵기·기능을"면 안전 5종세트가 좋습니다. 다양하고 안전해요. 대량·자동이면 3번을 보세요.',
         specs: ['제품: 아엘론 안전손잡이 만능채칼 5종 세트', '재질: 스텐304', '기능: 5종 · 안전손잡이', '배송: 로켓배송', '가격: 약 29,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9354799382&itemId=27753138598&vendorItemId=95296672362&traceid=V0-153-81f93a6b03f15516&clickBeacon=7d3fcc60-7f8f-11f1-816f-a2b18fd39258%7E3&requestid=20260714232248333080313215&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9354799382&itemId=27753138598&vendorItemId=95296672362&traceid=V0-153-81f93a6b03f15516&clickBeacon=7d3fcc60-7f8f-11f1-816f-a2b18fd39258%7E3&requestid=20260714232248333080313215&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23146,7 +23146,7 @@ module.exports = [
         consNote: '저렴한 만능이면 1번, 안전 5종세트면 2번이 합리적입니다. 3번은 <strong>전동(대량·힘 절약)</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"무생채·김치 등 대량을 힘 안 들이고 자동으로"면 전동 채칼이 편합니다. 시간이 확 줄어요. 소량이면 1·2번이 합리적입니다.',
         specs: ['제품: OCET 전동 채칼 (자동)', '방식: 전동 자동', '용도: 대량·힘 절약', '배송: 로켓배송', '가격: 약 89,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7944438677&itemId=21899179524&vendorItemId=89471057317&traceid=V0-153-b125a3a803e8e74c&clickBeacon=7d3fcc60-7f8f-11f1-965a-7b92466fe7fa%7E3&requestid=20260714232248333080313215&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7944438677&itemId=21899179524&vendorItemId=89471057317&traceid=V0-153-b125a3a803e8e74c&clickBeacon=7d3fcc60-7f8f-11f1-965a-7b92466fe7fa%7E3&requestid=20260714232248333080313215&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -23235,7 +23235,7 @@ module.exports = [
         consNote: '이 제품은 <strong>초저가·베이킹용</strong>입니다. 뜨거운 물이면 2번 내열유리, 프리미엄 유리면 3번으로 가세요. "초저가 베이킹"이면 가성비 최고예요.',
         review: '"계량컵을 아주 저렴하게, 베이킹용"이면 이걸로 충분합니다. 손잡이도 있고요. 뜨거운 물·내구면 2·3번을 보세요.',
         specs: ['제품: 베이킹 계량컵 (235ml)', '재질: 플라스틱', '용도: 베이킹·간단 계량', '배송: 일반배송', '가격: 약 2,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9585836534&itemId=28614829906&vendorItemId=95558181222&traceid=V0-153-7d2561f492aa8bc0&clickBeacon=7d97b060-7f8f-11f1-b616-86739f5e3722%7E3&requestid=20260714232248916110011043&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9585836534&itemId=28614829906&vendorItemId=95558181222&traceid=V0-153-7d2561f492aa8bc0&clickBeacon=7d97b060-7f8f-11f1-b616-86739f5e3722%7E3&requestid=20260714232248916110011043&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23254,7 +23254,7 @@ module.exports = [
         consNote: '초저가 베이킹이면 1번, 프리미엄 유리면 3번입니다. 2번은 <strong>"내열유리+500ml"</strong>의 실속 구간 — 대부분의 요리·계량에 가장 무난합니다.',
         review: '"뜨거운 물·육수를 계량하고 전자레인지까지"면 내열유리가 좋습니다. 안전하고 또렷해요. 프리미엄 유리면 3번을 보세요.',
         specs: ['제품: 코멧 내열유리 멀티 계량컵 (500ml)', '재질: 내열유리', '용도: 내열·범용', '배송: 로켓배송', '가격: 약 6,890원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1685611714&itemId=2871061070&vendorItemId=70860264259&traceid=V0-153-b747f6d8e91b8708&requestid=20260714232248916110011043&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1685611714&itemId=2871061070&vendorItemId=70860264259&traceid=V0-153-b747f6d8e91b8708&requestid=20260714232248916110011043&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23273,7 +23273,7 @@ module.exports = [
         consNote: '초저가 베이킹이면 1번, 내열유리 500ml면 2번이 합리적입니다. 3번은 <strong>고붕소규산 유리+홈카페 감성</strong>을 원하는 분에게 어울립니다.',
         review: '"홈카페·정밀 계량으로 예쁜 유리컵"이면 고붕소규산 유리가 좋습니다. 눈금·감성이 좋아요. 대용량·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 고붕소규산 내열유리 계량컵 (250ml)', '재질: 고붕소규산 유리', '용도: 홈카페·정밀', '배송: 로켓배송', '가격: 약 16,120원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9455143572&itemId=28131524188&vendorItemId=95087136075&traceid=V0-153-e9b203d3060a57d1&clickBeacon=7d97b060-7f8f-11f1-afc4-e2c67105e339%7E3&requestid=20260714232248916110011043&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9455143572&itemId=28131524188&vendorItemId=95087136075&traceid=V0-153-e9b203d3060a57d1&clickBeacon=7d97b060-7f8f-11f1-afc4-e2c67105e339%7E3&requestid=20260714232248916110011043&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -23362,7 +23362,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·기본용</strong>입니다. 예쁜 4인이면 2번 라귀올, 집들이 선물이면 3번으로 가세요. "저렴한 커트러리"면 가성비 좋아요.',
         review: '"수저 세트를 저렴하게, 자취용으로"면 쿠리풀이 무난합니다. 기본에 충실해요. 디자인·선물이면 2·3번을 보세요.',
         specs: ['제품: 쿠리풀 커트러리 세트', '구성: 기본 수저', '용도: 가성비·기본', '배송: 로켓배송', '가격: 약 6,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9617889940&itemId=28718794808&vendorItemId=95659360874&traceid=V0-153-10cdfa9f56f22401&requestid=20260714232249543274986640&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9617889940&itemId=28718794808&vendorItemId=95659360874&traceid=V0-153-10cdfa9f56f22401&requestid=20260714232249543274986640&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23381,7 +23381,7 @@ module.exports = [
         consNote: '저렴한 커트러리면 1번, 집들이 선물이면 3번입니다. 2번은 <strong>"라귀올 디자인+4인"</strong>의 실속 구간 — 가족·손님용에 가장 무난합니다.',
         review: '"예쁜 라귀올로 가족·손님용 4인"이면 이 세트가 좋습니다. 식탁이 화사해요. 선물 포장·프리미엄이면 3번을 보세요.',
         specs: ['제품: 달팽이리빙 라귀올 커트러리 4인 세트', '구성: 4인', '특징: 라귀올 디자인', '배송: 로켓배송', '가격: 약 23,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7224803029&itemId=18318120082&vendorItemId=85462963535&traceid=V0-153-f513746aa893484d&requestid=20260714232249543274986640&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7224803029&itemId=18318120082&vendorItemId=85462963535&traceid=V0-153-f513746aa893484d&requestid=20260714232249543274986640&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23400,7 +23400,7 @@ module.exports = [
         consNote: '저렴한 커트러리면 1번, 라귀올 4인이면 2번이 합리적입니다. 3번은 <strong>사각그립 디자인+선물용</strong>을 원하는 분에게 어울립니다.',
         review: '"집들이 선물로 예쁘게, 모던 사각그립으로"면 선물용이 좋습니다. 감성·구성이 좋아요. 저렴·가족용이면 1·2번이 합리적입니다.',
         specs: ['제품: am 솔리드 사각그립 수저 세트 (1+1)', '구성: 2인 × 2', '특징: 사각그립 · 선물', '배송: 일반배송', '가격: 약 32,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8635699213&itemId=25056376518&vendorItemId=90774687600&traceid=V0-153-526aded037df2047&requestid=20260714232249543274986640&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8635699213&itemId=25056376518&vendorItemId=90774687600&traceid=V0-153-526aded037df2047&requestid=20260714232249543274986640&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -23489,7 +23489,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·진한맛용</strong>입니다. 밸런스 블렌드면 2번, 익숙한 스타벅스면 3번으로 가세요. "저렴한 대용량 진한맛"이면 좋아요.',
         review: '"매일 진하게, 대용량으로 저렴하게"면 로부스타가 무난합니다. 진하고 카페인도 강해요. 산미·향·브랜드면 2·3번을 보세요.',
         specs: ['제품: 콩볶는사람들 베트남 로부스타 G1 (1kg)', '종류: 로부스타 · 진한맛', '용량: 1kg', '배송: 일반배송', '가격: 약 12,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=112882627&itemId=26291395545&vendorItemId=3832993998&traceid=V0-153-597f35b5903570fb&requestid=20260714232250395309171886&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=112882627&itemId=26291395545&vendorItemId=3832993998&traceid=V0-153-597f35b5903570fb&requestid=20260714232250395309171886&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23508,7 +23508,7 @@ module.exports = [
         consNote: '저렴한 진한맛이면 1번, 익숙한 브랜드면 3번 스타벅스입니다. 2번은 <strong>"초콜릿 밸런스 블렌드"</strong>의 실속 구간 — 홈카페·데일리에 가장 무난합니다.',
         review: '"산미 세지 않고 초콜릿·고소한 밸런스로"면 블렌드가 좋습니다. 호불호가 적어요. 진한맛·브랜드면 1·3번을 보세요.',
         specs: ['제품: 그라도스 초콜릿 블렌드 (1kg 홀빈)', '종류: 브라질·콜롬비아 블렌드', '용량: 1kg', '배송: 로켓배송', '가격: 약 27,300원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9294379607&itemId=26850288581&vendorItemId=94149964153&traceid=V0-153-e1f614f155b608d7&clickBeacon=7e7a6f40-7f8f-11f1-b72d-c6f530a8fc66%7E3&requestid=20260714232250395309171886&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9294379607&itemId=26850288581&vendorItemId=94149964153&traceid=V0-153-e1f614f155b608d7&clickBeacon=7e7a6f40-7f8f-11f1-b72d-c6f530a8fc66%7E3&requestid=20260714232250395309171886&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23527,7 +23527,7 @@ module.exports = [
         consNote: '저렴한 진한맛이면 1번, 밸런스 블렌드면 2번이 합리적입니다. 3번은 <strong>스타벅스 익숙한 맛·브랜드</strong>를 원하는 분에게 어울립니다.',
         review: '"스타벅스 익숙한 맛을 집에서, 실패 없이"면 하우스 블렌드가 좋습니다. 균일해요. 가성비·개성이면 1·2번이 합리적입니다.',
         specs: ['제품: 스타벅스 하우스 블렌드 원두', '종류: 블렌드', '특징: 브랜드 · 균일', '배송: 로켓배송', '가격: 약 49,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8049213148&itemId=83153555&vendorItemId=3141641846&traceid=V0-153-5b54098954a31f67&requestid=20260714232250395309171886&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8049213148&itemId=83153555&vendorItemId=3141641846&traceid=V0-153-5b54098954a31f67&requestid=20260714232250395309171886&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -23618,7 +23618,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·유리용</strong>입니다. 전자레인지 유리면 2번 락앤락, 넉넉한 다구성이면 3번 세트로 가세요. "저렴한 유리"면 가성비 좋아요.',
         review: '"유리 밀폐용기를 저렴하게, 냄새·색 안 배게"면 유리병이 무난합니다. 위생적이에요. 전자레인지·다구성이면 2·3번을 보세요.',
         specs: ['제품: WHH 밀폐 유리병 (다용도)', '재질: 유리', '용도: 저장·가성비', '배송: 로켓배송', '가격: 약 10,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9572375292&itemId=28571534247&vendorItemId=95520541382&traceid=V0-153-0638559226c8cfbf&requestid=20260714232250945293198577&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9572375292&itemId=28571534247&vendorItemId=95520541382&traceid=V0-153-0638559226c8cfbf&requestid=20260714232250945293198577&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23637,7 +23637,7 @@ module.exports = [
         consNote: '저렴한 유리병이면 1번, 넉넉한 다구성이면 3번 세트입니다. 2번은 <strong>"내열유리+4면 밀폐"</strong>의 실속 구간 — 반찬·데우기에 가장 무난합니다.',
         review: '"반찬을 담아 전자레인지·오븐에 데우고 안 새게"면 락앤락 글라스가 좋습니다. 밀폐가 확실해요. 다구성 세트면 3번을 보세요.',
         specs: ['제품: 락앤락 글라스 탑클라스 밀폐용기', '재질: 내열유리 · 4면 밀폐', '용도: 전자레인지·반찬', '배송: 로켓배송', '가격: 약 24,320원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6161424616&itemId=11960441904&vendorItemId=79233026558&traceid=V0-153-d6b6575dfedbb150&requestid=20260714232250945293198577&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6161424616&itemId=11960441904&vendorItemId=79233026558&traceid=V0-153-d6b6575dfedbb150&requestid=20260714232250945293198577&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23656,7 +23656,7 @@ module.exports = [
         consNote: '저렴한 유리병이면 1번, 전자레인지 유리면 2번 락앤락이 합리적입니다. 3번은 <strong>다구성 11종(주방 통일 정리)</strong>을 원하는 분에게 값어치가 있습니다. <small>※유리가 아닌 트라이탄 소재입니다.</small>',
         review: '"주방을 크기별 다구성으로 한 번에 정리, 안 깨지게"면 11종 세트가 좋습니다. 통일감이 나요. 유리·소량이면 1·2번이 합리적입니다.',
         specs: ['제품: 엔에프락 트라이탄 밀폐용기 11종 세트', '재질: 트라이탄(경량)', '구성: 11종', '배송: 로켓배송', '가격: 약 149,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8194746124&itemId=25010062525&vendorItemId=92015046662&traceid=V0-153-22e6db9b5c6296a3&clickBeacon=7ecd2320-7f8f-11f1-8fa4-5e7c5ad37356%7E3&requestid=20260714232250945293198577&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8194746124&itemId=25010062525&vendorItemId=92015046662&traceid=V0-153-22e6db9b5c6296a3&clickBeacon=7ecd2320-7f8f-11f1-8fa4-5e7c5ad37356%7E3&requestid=20260714232250945293198577&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -23744,7 +23744,7 @@ module.exports = [
         consNote: '이 제품은 <strong>초저가·기본용</strong>입니다. 잘 깎이고 오래면 2번 독일 필러, 예리함 최고면 3번 빅토리녹스로 가세요. "초저가 기본"이면 가성비 최고예요.',
         review: '"감자칼을 아주 저렴하게, 기본 용도"면 한성 양면으로 충분합니다. 여분으로도 좋고요. 예리함·내구면 2·3번을 보세요.',
         specs: ['제품: 한성 양면 감자칼 (필러)', '날: 양면', '용도: 초저가·기본', '배송: 일반배송', '가격: 약 1,220원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6495732151&itemId=14280063630&vendorItemId=81525056345&traceid=V0-153-cc4cd7bb1fe8662e&requestid=20260714232251629116023690&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6495732151&itemId=14280063630&vendorItemId=81525056345&traceid=V0-153-cc4cd7bb1fe8662e&requestid=20260714232251629116023690&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -23763,7 +23763,7 @@ module.exports = [
         consNote: '초저가 기본이면 1번, 예리함 최고면 3번 빅토리녹스입니다. 2번은 <strong>"편한 그립+잘 깎임"</strong>의 실속 구간 — 매일 쓰기에 가장 무난합니다.',
         review: '"매일 쓰고 그립이 편하고 잘 깎이는"면 독일 필러가 좋습니다. 손에 잘 잡혀요. 최고 예리함이면 3번을 보세요.',
         specs: ['제품: 독일 마흐트 파흐만 컴포트 필러', '특징: 컴포트 그립 · 잘 깎임', '용도: 그립·매일', '배송: 일반배송', '가격: 약 9,590원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9614423121&itemId=28706617052&vendorItemId=95647557647&traceid=V0-153-cd893717ba23aea1&requestid=20260714232251629116023690&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9614423121&itemId=28706617052&vendorItemId=95647557647&traceid=V0-153-cd893717ba23aea1&requestid=20260714232251629116023690&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -23782,7 +23782,7 @@ module.exports = [
         consNote: '초저가 기본이면 1번, 편한 그립이면 2번이 합리적입니다. 3번은 <strong>예리함+브랜드 내구</strong>로 오래 제대로 쓰려는 분에게 값어치가 있습니다.',
         review: '"날이 예리하고 오래 유지되게, 브랜드로"면 빅토리녹스가 좋습니다. 힘 안 들이고 잘 깎여요. 초저가·기본이면 1·2번이 합리적입니다.',
         specs: ['제품: 빅토리녹스 옙소 필러 (감자칼)', '날: 예리 · 유지력', '특징: 빅토리녹스 브랜드', '배송: 로켓배송', '가격: 약 18,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8736608153&itemId=25391866467&vendorItemId=92385564427&traceid=V0-153-7b3af36b1ab4d03b&requestid=20260714232251629116023690&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8736608153&itemId=25391866467&vendorItemId=92385564427&traceid=V0-153-7b3af36b1ab4d03b&requestid=20260714232251629116023690&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -23871,7 +23871,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·입문용</strong>입니다. 브랜드 안심이면 2번 락앤락, 튼튼·완성도면 3번으로 가세요. "저렴한 3종"이면 가성비 좋아요.',
         review: '"일회용 대신 다회용을 저렴하게, 크기별로"면 3종으로 충분합니다. 두루 써요. 내열·브랜드면 2·3번을 보세요.',
         specs: ['제품: OYEAH 실리콘 지퍼백 3종 세트', '구성: 3종', '용도: 가성비·입문', '배송: 로켓배송', '가격: 약 9,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9611458615&itemId=25926152093&vendorItemId=95580702531&traceid=V0-153-09934d2415f6f3b1&requestid=20260714232252522297888550&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9611458615&itemId=25926152093&vendorItemId=95580702531&traceid=V0-153-09934d2415f6f3b1&requestid=20260714232252522297888550&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23890,7 +23890,7 @@ module.exports = [
         consNote: '저렴한 3종이면 1번, 튼튼·완성도면 3번입니다. 2번은 <strong>"락앤락 밀폐·내열"</strong>의 실속 구간 — 냉동·데우기까지 가장 무난합니다.',
         review: '"냉동·전자레인지까지 안심하고 브랜드로"면 락앤락이 좋습니다. 밀폐·내열이 확실해요. 최고 완성도면 3번을 보세요.',
         specs: ['제품: 락앤락 실리콘 지퍼백 3종 세트', '구성: 3종 · 밀폐·내열', '용도: 냉동·데우기', '배송: 로켓배송', '가격: 약 28,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8513502321&itemId=24644935001&vendorItemId=91655666356&traceid=V0-153-94e49c83109cac69&requestid=20260714232252522297888550&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8513502321&itemId=24644935001&vendorItemId=91655666356&traceid=V0-153-94e49c83109cac69&requestid=20260714232252522297888550&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -23909,7 +23909,7 @@ module.exports = [
         consNote: '저렴한 3종이면 1번, 브랜드 안심이면 2번 락앤락이 합리적입니다. 3번은 <strong>튼튼한 밀폐+세척 편의</strong>로 오래 제대로 쓰려는 분에게 값어치가 있습니다.',
         review: '"오래 튼튼하게, 세워 담고 세척도 편하게"면 실리팟이 좋습니다. 완성도가 좋아요. 저렴·기본이면 1·2번이 합리적입니다.',
         specs: ['제품: 실리팟 프리미엄 실리콘 지퍼백 (S+M+L)', '구성: S+M+L 3종', '특징: 튼튼 밀폐 · 세척 편함', '배송: 로켓배송', '가격: 약 35,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6518928481&itemId=14434212993&vendorItemId=81677916185&traceid=V0-153-a2ceb343dee28b04&clickBeacon=7fc7afc0-7f8f-11f1-9a0d-24991eca1292%7E3&requestid=20260714232252522297888550&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6518928481&itemId=14434212993&vendorItemId=81677916185&traceid=V0-153-a2ceb343dee28b04&clickBeacon=7fc7afc0-7f8f-11f1-9a0d-24991eca1292%7E3&requestid=20260714232252522297888550&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -23999,7 +23999,7 @@ module.exports = [
         consNote: '이 제품은 <strong>초저가·기본용</strong>입니다. 미끄럼·물기면 2번 실리콘, 아주 뜨거우면 3번 고온차단으로 가세요. "저렴한 면"이면 가성비 좋아요.',
         review: '"오븐장갑을 저렴하게, 가벼운 조리로"면 면 장갑으로 충분합니다. 냄비받침도 되고요. 물기·고온이면 2·3번을 보세요.',
         specs: ['제품: 아리코 주방 면 오븐장갑', '재질: 면', '용도: 초저가·기본', '배송: 로켓배송', '가격: 약 3,360원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9026105697&itemId=28287341468&vendorItemId=95240277736&traceid=V0-153-957885533803fd47&requestid=20260714232253012274987374&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9026105697&itemId=28287341468&vendorItemId=95240277736&traceid=V0-153-957885533803fd47&requestid=20260714232253012274987374&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24018,7 +24018,7 @@ module.exports = [
         consNote: '저렴한 면이면 1번, 아주 뜨거우면 3번 고온차단입니다. 2번은 <strong>"실리콘 미끄럼 방지+방수"</strong>의 실속 구간 — 대부분의 조리에 가장 무난합니다.',
         review: '"미끄럼 없이 안정적으로, 물기·기름에도"면 실리콘이 좋습니다. 세척도 편해요. 아주 뜨거운 것이면 3번을 보세요.',
         specs: ['제품: 키친구 실리콘 주방 오븐장갑', '재질: 실리콘 · 미끄럼 방지 · 방수', '용도: 미끄럼·방수', '배송: 로켓배송', '가격: 약 9,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1605336306&itemId=231318354&vendorItemId=3564652817&traceid=V0-153-813b95b0f6dc9df1&requestid=20260714232253012274987374&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1605336306&itemId=231318354&vendorItemId=3564652817&traceid=V0-153-813b95b0f6dc9df1&requestid=20260714232253012274987374&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24037,7 +24037,7 @@ module.exports = [
         consNote: '저렴한 면이면 1번, 미끄럼·방수면 2번 실리콘이 합리적입니다. 3번은 <strong>300도 고온 차단(화상 방지)</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"오븐·베이킹으로 아주 뜨거운 걸 자주, 화상 없이"면 고온차단이 안심입니다. 두툼해서 안전해요. 가벼운 조리면 1·2번이 합리적입니다.',
         specs: ['제품: 호담즈 300도 고온차단 오븐장갑', '내열: 300도 차단 · 두툼', '용도: 고온·안전', '배송: 로켓배송', '가격: 약 15,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9053345769&itemId=26573824566&vendorItemId=93547320014&traceid=V0-153-26b67a494b7cc3f3&clickBeacon=800d4440-7f8f-11f1-a6b9-de0374b5da21%7E3&requestid=20260714232253012274987374&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9053345769&itemId=26573824566&vendorItemId=93547320014&traceid=V0-153-26b67a494b7cc3f3&clickBeacon=800d4440-7f8f-11f1-a6b9-de0374b5da21%7E3&requestid=20260714232253012274987374&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -24126,7 +24126,7 @@ module.exports = [
         consNote: '이 제품은 <strong>샐러드·가성비용</strong>입니다. 만능 대용량이면 2번, 위생 스텐이면 3번으로 가세요. "저렴한 샐러드용"이면 가성비 좋아요.',
         review: '"샐러드 물기를 저렴하게 빼기"면 기본형으로 충분합니다. 아삭해져요. 나물·대용량·스텐이면 2·3번을 보세요.',
         specs: ['제품: 야채 탈수기 (기본형)', '방식: 회전 탈수', '용도: 샐러드·가성비', '배송: 로켓배송', '가격: 약 5,590원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8599882608&itemId=24936300325&vendorItemId=91942368394&traceid=V0-153-ff11475ec902b255&requestid=20260714232253592089335380&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8599882608&itemId=24936300325&vendorItemId=91942368394&traceid=V0-153-ff11475ec902b255&requestid=20260714232253592089335380&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24145,7 +24145,7 @@ module.exports = [
         consNote: '저렴한 샐러드용이면 1번, 위생 스텐이면 3번입니다. 2번은 <strong>"만능+대용량"</strong>의 실속 구간 — 나물·두부까지 두루 쓰기에 무난합니다.',
         review: '"샐러드는 물론 나물·두부 물기까지 대용량으로"면 만능형이 좋습니다. 두루 써요. 위생 스텐이면 3번을 보세요.',
         specs: ['제품: 다짜고짜 미강 만능 야채 탈수기', '방식: 만능 · 대용량', '용도: 나물·두부·샐러드', '배송: 일반배송', '가격: 약 36,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6532353343&itemId=12163551563&vendorItemId=78358007277&traceid=V0-153-d690888bd44b309c&requestid=20260714232253592089335380&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6532353343&itemId=12163551563&vendorItemId=78358007277&traceid=V0-153-d690888bd44b309c&requestid=20260714232253592089335380&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24164,7 +24164,7 @@ module.exports = [
         consNote: '저렴한 샐러드용이면 1번, 만능 대용량이면 2번이 합리적입니다. 3번은 <strong>위생 스텐+내구</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"위생적인 스텐으로 오래 튼튼하게"면 스텐 탈수기가 좋습니다. 냄새도 안 배고 오래 써요. 저렴·가벼움이면 1·2번이 합리적입니다.',
         specs: ['제품: 강판상회 스텐 야채 탈수기', '재질: 스테인리스', '용도: 위생·내구', '배송: 일반배송', '가격: 약 52,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8869676986&itemId=25874928854&vendorItemId=92872925436&traceid=V0-153-d2cf965913282c62&clickBeacon=806946f0-7f8f-11f1-a871-54002f6540d7%7E3&requestid=20260714232253592089335380&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8869676986&itemId=25874928854&vendorItemId=92872925436&traceid=V0-153-d2cf965913282c62&clickBeacon=806946f0-7f8f-11f1-a871-54002f6540d7%7E3&requestid=20260714232253592089335380&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -24253,7 +24253,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·기본용</strong>입니다. 튼튼·대용량이면 2번 바구니, 싱크대 걸침이면 3번으로 가세요. "저렴한 스텐 채반"이면 가성비 최고예요.',
         review: '"채소·면 물기를 저렴하게, 스텐으로 위생적으로"면 손잡이 채반이 무난합니다. 물도 잘 빠져요. 대용량·싱크대형이면 2·3번을 보세요.',
         specs: ['제품: 홈젬 스테인리스 펀칭 채반', '재질: 스테인리스 · 양수 손잡이', '용도: 가성비·기본', '배송: 로켓배송', '가격: 약 4,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9521393600&itemId=28384454720&vendorItemId=95336084746&traceid=V0-153-bb36863d89a18d34&requestid=20260714232415261299250441&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9521393600&itemId=28384454720&vendorItemId=95336084746&traceid=V0-153-bb36863d89a18d34&requestid=20260714232415261299250441&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24272,7 +24272,7 @@ module.exports = [
         consNote: '저렴한 손잡이 채반이면 1번, 싱크대 걸침이면 3번입니다. 2번은 <strong>"튼튼 스텐+대용량"</strong>의 실속 구간 — 세척·보관에 두루 무난합니다.',
         review: '"많은 양을 튼튼한 스텐으로, 보관까지"면 원형 바구니가 좋습니다. 넉넉하고 오래 써요. 싱크대 걸침이면 3번을 보세요.',
         specs: ['제품: 한일스텐 타공 원형 스텐 바구니', '재질: 스테인리스 · 타공', '용도: 튼튼·대용량', '배송: 로켓배송', '가격: 약 15,480원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9604351905&itemId=28671494762&vendorItemId=95613407216&traceid=V0-153-2e9d91216f512db9&requestid=20260714232415261299250441&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9604351905&itemId=28671494762&vendorItemId=95613407216&traceid=V0-153-2e9d91216f512db9&requestid=20260714232415261299250441&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24291,7 +24291,7 @@ module.exports = [
         consNote: '저렴한 손잡이 채반이면 1번, 튼튼·대용량이면 2번이 합리적입니다. 3번은 <strong>싱크대 걸침(자동 물빠짐)</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"싱크대에 걸쳐 씻고 물이 바로 빠지게"면 싱크대 채반이 편합니다. 길이도 맞춰져요. 소량·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 길이조절 스텐 싱크대 채반', '재질: 스텐 타공 · 길이 조절', '용도: 싱크대·편의', '배송: 로켓배송', '가격: 약 17,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9593351465&itemId=28637858988&vendorItemId=95581566176&traceid=V0-153-6069ace00820c7bf&clickBeacon=b1165e00-7f8f-11f1-8815-d85d7c650c56%7E3&requestid=20260714232415261299250441&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9593351465&itemId=28637858988&vendorItemId=95581566176&traceid=V0-153-6069ace00820c7bf&clickBeacon=b1165e00-7f8f-11f1-8815-d85d7c650c56%7E3&requestid=20260714232415261299250441&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -24380,7 +24380,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·휴대용</strong>입니다. 조용한 사무실이면 2번 저소음, 안정성이면 3번 로지텍으로 가세요. "저렴한 텐키리스"면 가성비 좋아요.',
         review: '"무선 키보드를 저렴하게, 콤팩트하게"면 텐키리스가 무난합니다. 얕고 조용해요. 저소음·안정성이면 2·3번을 보세요.',
         specs: ['제품: 맥스틸 펜타그래프 블루투스 텐키리스 키보드', '연결: 블루투스', '특징: 펜타그래프 · 텐키리스', '배송: 로켓배송', '가격: 약 7,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8801011015&itemId=25627168189&vendorItemId=92634535323&traceid=V0-153-ab26aa61cf7e72f9&requestid=20260714234750706198739382&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8801011015&itemId=25627168189&vendorItemId=92634535323&traceid=V0-153-ab26aa61cf7e72f9&requestid=20260714234750706198739382&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -24399,7 +24399,7 @@ module.exports = [
         consNote: '저렴한 텐키리스면 1번, 안정성·완성도면 3번 로지텍입니다. 2번은 <strong>"저소음+멤브레인"</strong>의 실속 구간 — 사무·재택에 가장 무난합니다.',
         review: '"사무실에서 조용하게 타이핑"이면 저소음 키보드가 좋습니다. 부드럽고 조용해요. 최상급 안정성이면 3번을 보세요.',
         specs: ['제품: 앱코 무선 저소음 블루투스 멤브레인 키보드', '연결: 블루투스 · 저소음', '특징: 멤브레인', '배송: 로켓배송', '가격: 약 29,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8487506171&itemId=24596804279&vendorItemId=91608363910&traceid=V0-153-3f1bd206df9d3dda&requestid=20260714234750706198739382&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8487506171&itemId=24596804279&vendorItemId=91608363910&traceid=V0-153-3f1bd206df9d3dda&requestid=20260714234750706198739382&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -24418,7 +24418,7 @@ module.exports = [
         consNote: '저렴한 텐키리스면 1번, 저소음 사무면 2번이 합리적입니다. 3번은 <strong>수신 안정성+로지텍 완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"끊김 없이 안정적으로, 로지텍 완성도로"면 로지텍이 좋습니다. 믿을 만해요. 저렴·저소음이면 1·2번이 합리적입니다.',
         specs: ['제품: 로지텍 무선 텐키리스 키보드', '연결: 무선 · 수신 안정', '특징: 완성도 · 긴 배터리', '배송: 로켓배송', '가격: 약 36,330원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7687816904&itemId=20550302055&vendorItemId=87626480817&traceid=V0-153-8138b7311490d870&requestid=20260714234750706198739382&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7687816904&itemId=20550302055&vendorItemId=87626480817&traceid=V0-153-8138b7311490d870&requestid=20260714234750706198739382&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -24508,7 +24508,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·다구용</strong>입니다. 고용량 안전이면 2번 과부하차단, 좁은 곳이면 3번 납작형으로 가세요. "저렴한 6구"면 가성비 좋아요.',
         review: '"콘센트를 저렴하게 여러 개, 접지로 안전하게"면 6구가 무난합니다. 일반 기기엔 충분해요. 고용량·좁은 곳이면 2·3번을 보세요.',
         specs: ['제품: 모노케어 안전 접지 멀티탭 (6구)', '구성: 6구 · 접지', '용도: 가성비·다구', '배송: 로켓배송', '가격: 약 5,630원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1757159056&itemId=2992704275&vendorItemId=77951284833&traceid=V0-153-678a55701196b4b1&requestid=20260714234751134309173766&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1757159056&itemId=2992704275&vendorItemId=77951284833&traceid=V0-153-678a55701196b4b1&requestid=20260714234751134309173766&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24527,7 +24527,7 @@ module.exports = [
         consNote: '저렴한 6구면 1번, 구수가 더 필요하면 3번 4구입니다. 2번은 <strong>"4000W 고용량+과부하 차단"</strong>의 실속 구간 — 가전·안전에 가장 무난합니다.',
         review: '"전열기·가전을 안전하게, 과부하 차단까지"면 에너자이저 3구가 좋습니다. 고용량이라 안심돼요. 구수가 더 필요하면 3번을 보세요.',
         specs: ['제품: 에너자이저 4000W 과부하차단 멀티탭 (3구, 2m)', '용량: 4000W · 과부하 차단', '특징: 납작 플러그', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8908605263&itemId=26020290479&vendorItemId=95366418486&traceid=V0-153-b177e27bf2e11b63&clickBeacon=fcfcba50-7f92-11f1-82d1-8aa0973b6f0c%7E3&requestid=20260714234751134309173766&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8908605263&itemId=26020290479&vendorItemId=95366418486&traceid=V0-153-b177e27bf2e11b63&clickBeacon=fcfcba50-7f92-11f1-82d1-8aa0973b6f0c%7E3&requestid=20260714234751134309173766&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24546,7 +24546,7 @@ module.exports = [
         consNote: '저렴한 다구면 1번, 3구로 충분하면 2번이 합리적입니다. 3번은 <strong>4000W 고용량+4구</strong>가 필요한 분에게 값어치가 있습니다.',
         review: '"고용량 기기를 여러 개, 4구로 넉넉하고 안전하게"면 4구가 좋습니다. 안전·넉넉해요. 소형·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 에너자이저 4000W 과부하차단 멀티탭 (4구, 2m)', '용량: 4000W · 과부하 차단', '구성: 4구 · 납작 플러그', '배송: 로켓배송', '가격: 약 22,300원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9533323466&itemId=28431984128&vendorItemId=95366457822&traceid=V0-153-1e2ab930fa2304d8&clickBeacon=fcfcba50-7f92-11f1-ab66-0665df8ada54%7E3&requestid=20260714234751134309173766&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9533323466&itemId=28431984128&vendorItemId=95366457822&traceid=V0-153-1e2ab930fa2304d8&clickBeacon=fcfcba50-7f92-11f1-ab66-0665df8ada54%7E3&requestid=20260714234751134309173766&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -24637,7 +24637,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·멀티용</strong>입니다. 케이블 일체형이면 2번, 고출력 140W면 3번으로 가세요. "저렴한 65W 3포트"면 가성비 좋아요.',
         review: '"폰·태블릿·노트북을 저렴하게 한 번에"면 65W 3포트가 무난합니다. 작고 빠르고요. 고출력·일체형이면 2·3번을 보세요.',
         specs: ['제품: 피네스토 65W GaN 3포트 충전기', '출력: 65W · 3포트', '특징: GaN 초고속', '배송: 로켓배송', '가격: 약 17,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9609763794&itemId=28689847939&vendorItemId=95631211083&traceid=V0-153-d44b15efce3a4d7d&requestid=20260714234751577110010537&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9609763794&itemId=28689847939&vendorItemId=95631211083&traceid=V0-153-d44b15efce3a4d7d&requestid=20260714234751577110010537&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24656,7 +24656,7 @@ module.exports = [
         consNote: '가성비 65W 3포트면 1번, 고출력 140W면 3번입니다. 2번은 <strong>"67W+케이블 일체형"</strong>의 실속 구간 — 간편·휴대에 무난합니다.',
         review: '"케이블을 따로 안 챙기고 간편하게"면 일체형이 편합니다. 깔끔해요. 최고 출력·다포트면 3번을 보세요.',
         specs: ['제품: 맥도도 67W GaN 케이블 일체형 2포트 충전기', '출력: 67W · 2포트 · 케이블 일체형', '특징: 휴대·간편', '배송: 로켓배송', '가격: 약 39,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8538642214&itemId=24719610400&vendorItemId=91742384753&traceid=V0-153-be862fed5c121355&clickBeacon=fd45aa30-7f92-11f1-a6b7-7c051beddd74%7E3&requestid=20260714234751577110010537&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8538642214&itemId=24719610400&vendorItemId=91742384753&traceid=V0-153-be862fed5c121355&clickBeacon=fd45aa30-7f92-11f1-a6b7-7c051beddd74%7E3&requestid=20260714234751577110010537&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24675,7 +24675,7 @@ module.exports = [
         consNote: '저렴한 65W면 1번, 케이블 일체형 간편이면 2번이 합리적입니다. 3번은 <strong>140W 고출력+4포트</strong>가 필요한 분에게 값어치가 있습니다.',
         review: '"고성능 노트북까지 빠르게, 여러 대를 한 번에"면 140W 4포트가 강력합니다. 하나로 다 돼요. 폰 위주면 1·2번이 합리적입니다.',
         specs: ['제품: 신지모루 140W GaN PD3.1 4포트 충전기', '출력: 140W · 4포트 · PD3.1', '특징: 접지형 · 고출력', '배송: 로켓배송', '가격: 약 48,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9528419602&itemId=28413178040&vendorItemId=95364331357&traceid=V0-153-915b99b26fbb7931&requestid=20260714234751577110010537&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9528419602&itemId=28413178040&vendorItemId=95364331357&traceid=V0-153-915b99b26fbb7931&requestid=20260714234751577110010537&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -24766,7 +24766,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·기본용</strong>입니다. 전력측정이면 2번 헤이홈, 완성도·원격이면 3번으로 가세요. "저렴한 원격제어"면 가성비 좋아요.',
         review: '"밖에서 전원 켜고 끄고 타이머까지 저렴하게"면 타포가 무난합니다. 미니라 깔끔해요. 전력측정·완성도면 2·3번을 보세요.',
         specs: ['제품: 타포 미니 스마트 Wi-Fi 플러그', '기능: 앱 원격제어 · 타이머', '특징: 미니', '배송: 로켓배송', '가격: 약 14,770원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7869821792&itemId=7484249364&vendorItemId=74775052656&traceid=V0-153-fab45c2f50014c25&requestid=20260714234903409220790883&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7869821792&itemId=7484249364&vendorItemId=74775052656&traceid=V0-153-fab45c2f50014c25&requestid=20260714234903409220790883&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24785,7 +24785,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 완성도·원격이면 3번입니다. 2번은 <strong>"전력측정+원격제어"</strong>의 실속 구간 — 전기절약·스마트홈에 가장 무난합니다.',
         review: '"전기 사용량을 확인하며 원격·타이머로 절약"이면 헤이홈이 좋습니다. 전력측정이 유용해요. 특정 플랫폼·완성도면 3번을 보세요.',
         specs: ['제품: 헤이홈 원격제어 스마트 플러그 Pro', '기능: 전력측정 · 앱 원격제어 · 타이머', '특징: 스마트홈', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9273440212&itemId=27449532571&vendorItemId=94414908000&traceid=V0-153-cf833719c5d94831&requestid=20260714234903409220790883&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9273440212&itemId=27449532571&vendorItemId=94414908000&traceid=V0-153-cf833719c5d94831&requestid=20260714234903409220790883&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24804,7 +24804,7 @@ module.exports = [
         consNote: '저렴한 기본이면 1번, 전력측정이면 2번 헤이홈이 합리적입니다. 3번은 <strong>스마트홈 연동+완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"스마트홈으로 제대로 연동하고 완성도까지"면 유니콘이 좋습니다. 안정적이에요. 저렴·기본이면 1·2번이 합리적입니다.',
         specs: ['제품: 유니콘아이오티 WiFi 스마트홈 플러그 (TS-200W)', '기능: 무선 원격제어 · 스마트홈 연동', '특징: 완성도', '배송: 로켓배송', '가격: 약 41,920원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8195047356&itemId=28612535963&vendorItemId=95555940974&traceid=V0-153-4d3e0900a92e5cf4&requestid=20260714234903409220790883&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8195047356&itemId=28612535963&vendorItemId=95555940974&traceid=V0-153-4d3e0900a92e5cf4&requestid=20260714234903409220790883&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -24894,7 +24894,7 @@ module.exports = [
         consNote: '이 제품은 <strong>개인·가성비용</strong>입니다. 둘이·넓게면 2번 2인용, 닦기 편한 감성이면 3번 황토로 가세요. "개인·저렴"이면 가성비 좋아요.',
         review: '"사무실 의자에 저렴하게 온열, 개인용으로"면 카본 방석이 무난합니다. 은은해요. 2인·감성이면 2·3번을 보세요.',
         specs: ['제품: 한일메디컬 카본 열선 전기방석', '발열: 카본 열선', '크기: 개인용', '배송: 로켓배송', '가격: 약 13,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9114250491&itemId=26802896501&vendorItemId=93773322477&traceid=V0-153-11f4b7ad33f91a45&requestid=20260714234752655297888090&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9114250491&itemId=26802896501&vendorItemId=93773322477&traceid=V0-153-11f4b7ad33f91a45&requestid=20260714234752655297888090&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24913,7 +24913,7 @@ module.exports = [
         consNote: '개인·저렴이면 1번, 닦기 편한 감성이면 3번 황토입니다. 2번은 <strong>"2인용+양면"</strong>의 실속 구간 — 거실·둘이 쓰기에 가장 무난합니다.',
         review: '"둘이 앉거나 거실에 넓게, 한일로 안심"이면 2인용 양면이 좋습니다. 넉넉해요. 닦기 편한 레자면 3번을 보세요.',
         specs: ['제품: 한일상사 정원 양면 전기방석 (2인용)', '크기: 2인용(44×87cm)', '특징: 양면 · 한일', '배송: 로켓배송', '가격: 약 25,450원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7935088564&itemId=19154803530&vendorItemId=3068756990&traceid=V0-153-02bbdd25074f4045&clickBeacon=fde8ef10-7f92-11f1-8772-ba93d4791195%7E3&requestid=20260714234752655297888090&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7935088564&itemId=19154803530&vendorItemId=3068756990&traceid=V0-153-02bbdd25074f4045&clickBeacon=fde8ef10-7f92-11f1-8772-ba93d4791195%7E3&requestid=20260714234752655297888090&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -24932,7 +24932,7 @@ module.exports = [
         consNote: '개인·저렴이면 1번, 2인 양면이면 2번이 합리적입니다. 3번은 <strong>황토 감성+레자 관리 편의</strong>를 원하는 분에게 어울립니다.',
         review: '"황토 감성으로 따뜻하고 닦기 편하게, 둘이"면 황토 레자가 좋습니다. 관리가 편해요. 개인·저렴이면 1·2번이 합리적입니다.',
         specs: ['제품: 한일상사 황토 레자 전기방석 (2인용)', '재질: 황토 레자', '크기: 2인용(45×87cm)', '배송: 로켓배송', '가격: 약 29,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7400760729&itemId=19154984211&vendorItemId=3391704744&traceid=V0-153-0a4c63a3d4baac1e&clickBeacon=fde8ef10-7f92-11f1-8df1-9c99c76f7e28%7E3&requestid=20260714234752655297888090&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7400760729&itemId=19154984211&vendorItemId=3391704744&traceid=V0-153-0a4c63a3d4baac1e&clickBeacon=fde8ef10-7f92-11f1-8df1-9c99c76f7e28%7E3&requestid=20260714234752655297888090&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -25023,7 +25023,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 바다 원투면 2번, 민물 대물이면 3번으로 가세요. "입문 세트"면 가성비 좋아요.',
         review: '"낚시를 처음, 릴·소품까지 저렴하게 한 번에"면 입문 세트가 딱입니다. 바로 즐겨요. 바다·민물 전용이면 2·3번을 보세요.',
         specs: ['제품: 모아캠핑 다용도 낚시대 세트 (MP-180R)', '구성: 낚시대+릴+소품', '용도: 입문·다용도', '배송: 로켓배송', '가격: 약 12,680원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=2261613298&itemId=3875908151&vendorItemId=95140135652&traceid=V0-153-a6b9fa77fe372669&requestid=20260714234753316024953085&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=2261613298&itemId=3875908151&vendorItemId=95140135652&traceid=V0-153-a6b9fa77fe372669&requestid=20260714234753316024953085&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -25042,7 +25042,7 @@ module.exports = [
         consNote: '입문 다용도면 1번, 민물 대물이면 3번입니다. 2번은 <strong>"바다 원투 세트"</strong>의 실속 구간 — 방파제·갯바위 바다 낚시에 가장 무난합니다.',
         review: '"바다 방파제·갯바위에서 멀리 던지는 낚시"면 원투 세트가 좋습니다. 바다에 맞아요. 민물 대물이면 3번을 보세요.',
         specs: ['제품: 히트몬스터 청월 원투 낚시대 세트', '용도: 바다 원투(갯바위·방파제)', '구성: 세트', '배송: 로켓배송', '가격: 약 29,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=2079762161&itemId=3533159378&vendorItemId=71810321176&traceid=V0-153-8a6962a86812056a&requestid=20260714234753316024953085&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=2079762161&itemId=3533159378&vendorItemId=71810321176&traceid=V0-153-8a6962a86812056a&requestid=20260714234753316024953085&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -25061,7 +25061,7 @@ module.exports = [
         consNote: '입문 다용도면 1번, 바다 원투면 2번이 합리적입니다. 3번은 <strong>민물 대물(붕어·노지)</strong>을 제대로 즐기려는 분에게 값어치가 있습니다.',
         review: '"민물 붕어·대물 손맛을 노지·양어장에서 제대로"면 민물 대물대가 좋습니다. 브랜드라 안심이에요. 입문·바다면 1·2번이 합리적입니다.',
         specs: ['제품: 아피스 천년지기 민물 대물 낚시대', '용도: 민물(붕어·노지·양어장)', '특징: 아피스 브랜드', '배송: 일반배송', '가격: 약 95,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6802296489&itemId=16060604033&vendorItemId=83263889262&traceid=V0-153-2a601427c2cf4e8e&clickBeacon=fe491070-7f92-11f1-ab32-9e451b1067fc%7E3&requestid=20260714234753316024953085&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6802296489&itemId=16060604033&vendorItemId=83263889262&traceid=V0-153-2a601427c2cf4e8e&clickBeacon=fe491070-7f92-11f1-ab32-9e451b1067fc%7E3&requestid=20260714234753316024953085&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -25150,7 +25150,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·상비용</strong>입니다. 건더기 실한 프리미엄이면 2번, 아이·순한맛이면 3번으로 가세요. "저렴한 상비"면 가성비 좋아요.',
         review: '"바쁠 때 저렴하게, 익숙한 3분카레"면 오뚜기가 무난합니다. 상비용으로 좋아요. 건더기·프리미엄이면 2·3번을 보세요.',
         specs: ['제품: 오뚜기 3분 카레 (약간매운맛)', '맛: 약간매운맛', '조리: 데우기', '배송: 로켓배송', '가격: 약 3,920원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7470370053&itemId=19491671442&vendorItemId=86601386186&traceid=V0-153-cbf189bc46565b52&requestid=20260714234753749241848694&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7470370053&itemId=19491671442&vendorItemId=86601386186&traceid=V0-153-cbf189bc46565b52&requestid=20260714234753749241848694&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -25169,7 +25169,7 @@ module.exports = [
         consNote: '저렴한 상비면 1번, 아이·순한맛 대용량이면 3번입니다. 2번은 <strong>"건더기 프리미엄 비프"</strong>의 실속 구간 — 제대로 한 끼에 가장 무난합니다.',
         review: '"고기·양송이 건더기 실하게, 프리미엄으로"면 비프양송이가 좋습니다. 든든하고 진해요. 아이·순한맛이면 3번을 보세요.',
         specs: ['제품: 휘카레 비프양송이 카레 (매운맛, 3개)', '맛: 비프양송이 · 매운맛', '구성: 180g × 3', '배송: 로켓배송', '가격: 약 14,690원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6183731626&itemId=12159772291&vendorItemId=79431205288&traceid=V0-153-183752d44ba7091f&clickBeacon=fe8fb660-7f92-11f1-b084-e5aeee1462cb%7E3&requestid=20260714234753749241848694&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6183731626&itemId=12159772291&vendorItemId=79431205288&traceid=V0-153-183752d44ba7091f&clickBeacon=fe8fb660-7f92-11f1-b084-e5aeee1462cb%7E3&requestid=20260714234753749241848694&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -25188,7 +25188,7 @@ module.exports = [
         consNote: '저렴한 상비면 1번, 매콤한 건더기면 2번이 합리적입니다. 3번은 <strong>순한맛+6개 대용량(아이·가족)</strong>을 원하는 분에게 어울립니다.',
         review: '"아이도 먹게 순한맛으로, 가족이 넉넉히"면 순한맛 6개가 좋습니다. 온 가족이 먹어요. 매콤함이면 1·2번이 합리적입니다.',
         specs: ['제품: 휘카레 비프양송이 카레 (순한맛, 6개)', '맛: 비프양송이 · 순한맛', '구성: 180g × 6', '배송: 로켓배송', '가격: 약 29,380원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6495613600&itemId=18729070645&vendorItemId=85861670193&traceid=V0-153-8de61a389f84b28b&clickBeacon=fe8f8f50-7f92-11f1-bf0a-9af8175abc37%7E3&requestid=20260714234753749241848694&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6495613600&itemId=18729070645&vendorItemId=85861670193&traceid=V0-153-8de61a389f84b28b&clickBeacon=fe8f8f50-7f92-11f1-bf0a-9af8175abc37%7E3&requestid=20260714234753749241848694&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -25277,7 +25277,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·한 끼용</strong>입니다. 인기 찜닭이면 2번, 국찌개 여러 종이면 3번 세트로 가세요. "저렴한 찌개"면 가성비 좋아요.',
         review: '"집에서 찌개를 손질 없이 저렴하게"면 순두부 밀키트가 무난합니다. 끓이면 끝이에요. 인기메뉴·세트면 2·3번을 보세요.',
         specs: ['제품: 프레시지 우삼겹 순두부찌개 밀키트 (2인분)', '메뉴: 순두부찌개', '인분: 2인분', '배송: 로켓배송', '가격: 약 7,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=156649355&itemId=451066117&vendorItemId=4117038894&traceid=V0-153-36f59f61bdea9bf6&requestid=20260714234932925266616953&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=156649355&itemId=451066117&vendorItemId=4117038894&traceid=V0-153-36f59f61bdea9bf6&requestid=20260714234932925266616953&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -25296,7 +25296,7 @@ module.exports = [
         consNote: '저렴한 찌개면 1번, 국찌개 여러 종이면 3번 세트입니다. 2번은 <strong>"인기 찜닭 별식"</strong>의 실속 구간 — 특별한 한 끼에 무난합니다.',
         review: '"집에서 찜닭 같은 특별한 메뉴를 간편하게"면 안동찜닭이 좋습니다. 당면 듬뿍 매콤해요. 여러 국·찌개면 3번을 보세요.',
         specs: ['제품: 애슐리 안동 찜닭 밀키트 (2인분)', '메뉴: 매콤 안동 찜닭 · 당면', '인분: 2인분', '배송: 일반배송', '가격: 약 17,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=4698815588&itemId=5915249448&vendorItemId=88530172836&traceid=V0-153-8baad6b34b617830&requestid=20260714234932925266616953&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=4698815588&itemId=5915249448&vendorItemId=88530172836&traceid=V0-153-8baad6b34b617830&requestid=20260714234932925266616953&token=31850C%7CGM',
         linkNaver: ''
       },
       {
@@ -25315,7 +25315,7 @@ module.exports = [
         consNote: '저렴한 한 끼면 1번, 인기 별식이면 2번 찜닭이 합리적입니다. 3번은 <strong>국·찌개 5종 10인분(상비)</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"여러 국·찌개를 상비하고 매일 골라 먹기"면 5종 세트가 든든합니다. 다양하고 넉넉해요. 한 끼·별식이면 1·2번이 합리적입니다.',
         specs: ['제품: 남선생홈푸드 국·찌개 밀키트 (5팩, 10인분)', '메뉴: 김치찌개·미역국·소고기무국·된장찌개·육개장', '인분: 10인분', '배송: 일반배송', '가격: 약 39,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7982438806&itemId=22154488289&vendorItemId=89201042623&traceid=V0-153-18af28e1460156ff&requestid=20260714234932925266616953&token=31850C%7CGM',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7982438806&itemId=22154488289&vendorItemId=89201042623&traceid=V0-153-18af28e1460156ff&requestid=20260714234932925266616953&token=31850C%7CGM',
         linkNaver: ''
       }
     ],
@@ -25403,7 +25403,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·상비용</strong>입니다. 유기농 순녹차면 2번 티젠, 여러 차면 3번 세트로 가세요. "저렴한 현미녹차"면 가성비 좋아요.',
         review: '"고소한 현미녹차를 저렴하게 상비"면 동서가 무난합니다. 순하고 익숙해요. 유기농·세트면 2·3번을 보세요.',
         specs: ['제품: 동서 현미녹차 티백', '맛: 현미녹차(고소)', '특징: 동서', '배송: 로켓배송', '가격: 약 6,720원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6971832262&itemId=17994048988&vendorItemId=3000128391&traceid=V0-153-3f6b811766de678c&requestid=20260714234754764102161078&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6971832262&itemId=17994048988&vendorItemId=3000128391&traceid=V0-153-3f6b811766de678c&requestid=20260714234754764102161078&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -25422,7 +25422,7 @@ module.exports = [
         consNote: '저렴한 현미녹차면 1번, 여러 차 세트면 3번입니다. 2번은 <strong>"유기농+순녹차"</strong>의 실속 구간 — 깔끔한 녹차 본연을 원하면 무난합니다.',
         review: '"유기농 순녹차의 깔끔한 맛으로 제대로"면 티젠이 좋습니다. 향이 깔끔해요. 고소한 현미·여러 차면 1·3번을 보세요.',
         specs: ['제품: 티젠 유기농 제주녹차 티백', '맛: 순녹차(유기농)', '특징: 제주녹차', '배송: 로켓배송', '가격: 약 19,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1884421278&itemId=11651961160&vendorItemId=85191826766&traceid=V0-153-85d84b3711309286&requestid=20260714234754764102161078&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1884421278&itemId=11651961160&vendorItemId=85191826766&traceid=V0-153-85d84b3711309286&requestid=20260714234754764102161078&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -25441,7 +25441,7 @@ module.exports = [
         consNote: '저렴한 현미녹차면 1번, 유기농 순녹차면 2번이 합리적입니다. 3번은 <strong>여러 차 5종 세트</strong>를 골라 마시려는 분에게 어울립니다.',
         review: '"여러 차를 기분 따라 골라 마시고 넉넉히"면 5종 세트가 좋습니다. 다양해요. 한 종류만이면 1·2번이 합리적입니다.',
         specs: ['제품: 동서 티백 세트 (5종, 21개입 × 다팩)', '구성: 현미녹차·둥굴레·메밀·보리·루이보스', '특징: 대용량', '배송: 로켓배송', '가격: 약 23,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9296329430&itemId=27536050172&vendorItemId=92175098028&traceid=V0-153-a7eacf36a889313f&clickBeacon=ff25b4d0-7f92-11f1-834d-092301d64524%7E3&requestid=20260714234754764102161078&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9296329430&itemId=27536050172&vendorItemId=92175098028&traceid=V0-153-a7eacf36a889313f&clickBeacon=ff25b4d0-7f92-11f1-834d-092301d64524%7E3&requestid=20260714234754764102161078&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -25529,7 +25529,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 브랜드 내구면 2번 이고진, 저소음이면 3번으로 가세요. "저렴한 입문"이면 가성비 좋아요.',
         review: '"홈트·유산소를 저렴하게 시작"이면 가성비 스텝퍼가 무난합니다. 가볍게 하기 좋아요. 저소음·내구면 2·3번을 보세요.',
         specs: ['제품: 모매착 스텝퍼 (천국의계단)', '특징: 지압 발판', '용도: 입문·홈트', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9171673599&itemId=27031642795&vendorItemId=94009492214&traceid=V0-153-4979b6219bd313ca&requestid=20260714234755021136795572&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9171673599&itemId=27031642795&vendorItemId=94009492214&traceid=V0-153-4979b6219bd313ca&requestid=20260714234755021136795572&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -25548,7 +25548,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 저소음이면 3번입니다. 2번은 <strong>"이고진 브랜드+내구"</strong>의 실속 구간 — 오래 믿고 쓰기에 무난합니다.',
         review: '"브랜드·내구로 오래 안정적으로"면 이고진이 좋습니다. 흔들림이 적어요. 저소음·인증이면 3번을 보세요.',
         specs: ['제품: 이고진 스텝퍼 (8320)', '특징: 유압 실린더 · 내구', '브랜드: 이고진', '배송: 로켓배송', '가격: 약 56,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=1079386660&itemId=328050720&vendorItemId=4123585502&traceid=V0-153-a60dee33dfdd956b&requestid=20260714234755021136795572&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=1079386660&itemId=328050720&vendorItemId=4123585502&traceid=V0-153-a60dee33dfdd956b&requestid=20260714234755021136795572&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -25567,7 +25567,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 브랜드 내구면 2번 이고진이 합리적입니다. 3번은 <strong>저소음+KC인증</strong>으로 아파트에서 조용히 쓰려는 분에게 값어치가 있습니다.',
         review: '"아파트에서 조용하게, KC인증으로 안심"이면 닥터쇼닝이 좋습니다. 소음이 적어요. 저렴·브랜드면 1·2번이 합리적입니다.',
         specs: ['제품: 닥터쇼닝 저소음 스텝퍼 (천국의계단)', '특징: 저소음 · KC인증', '용도: 홈트·유산소', '배송: 로켓배송', '가격: 약 80,400원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9314401347&itemId=27602072258&vendorItemId=94565352736&traceid=V0-153-eb7e6a616a38d910&clickBeacon=ff4d3a00-7f92-11f1-872a-2521bfa30c6e%7E3&requestid=20260714234755021136795572&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9314401347&itemId=27602072258&vendorItemId=94565352736&traceid=V0-153-eb7e6a616a38d910&clickBeacon=ff4d3a00-7f92-11f1-872a-2521bfa30c6e%7E3&requestid=20260714234755021136795572&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -25657,7 +25657,7 @@ module.exports = [
         consNote: '이 제품은 <strong>입문·가성비용</strong>입니다. 선 없이 편하면 2번 무선, 브랜드 검증이면 3번 오므론으로 가세요. "저렴한 입문"이면 가성비 좋아요.',
         review: '"저주파 마사지를 저렴하게 경험"이면 가성비 제품이 무난합니다. 근육 완화에 써볼 만해요. 무선·브랜드면 2·3번을 보세요.',
         specs: ['제품: 바디온 저주파 전신 마사지기', '방식: 저주파(패드)', '용도: 근육 완화(입문)', '배송: 일반배송', '가격: 약 13,600원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=129116133&itemId=380367975&vendorItemId=92314466379&traceid=V0-153-200bd8b986eb7736&requestid=20260714234755286045273751&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=129116133&itemId=380367975&vendorItemId=92314466379&traceid=V0-153-200bd8b986eb7736&requestid=20260714234755286045273751&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -25676,7 +25676,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 브랜드 검증이면 3번 오므론입니다. 2번은 <strong>"무선 4패드+EMS/TENS"</strong>의 실속 구간 — 여러 부위를 편하게 쓰기에 무난합니다.',
         review: '"선 없이 여러 부위를 동시에 자유롭게"면 무선 4패드가 편합니다. 활용도가 높아요. 브랜드 검증이면 3번을 보세요.',
         specs: ['제품: SOVI 저주파 마사지기 (EMS/TENS 무선 4개)', '방식: EMS/TENS · 무선 본체 4개', '용도: 다부위 근육 완화', '배송: 로켓배송', '가격: 약 39,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9024299506&itemId=26463007466&vendorItemId=93438272811&traceid=V0-153-77763cc11bb8b5e6&requestid=20260714234755286045273751&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9024299506&itemId=26463007466&vendorItemId=93438272811&traceid=V0-153-77763cc11bb8b5e6&requestid=20260714234755286045273751&token=31850C%7CMIXED',
         linkNaver: ''
       },
       {
@@ -25695,7 +25695,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 무선 다부위면 2번이 합리적입니다. 3번은 <strong>오므론 브랜드+검증된 품질</strong>을 원하는 분에게 값어치가 있습니다.',
         review: '"검증된 브랜드로 안정적으로 믿고"면 오므론이 좋습니다. 안심돼요. 저렴·무선이면 1·2번이 합리적입니다.',
         specs: ['제품: 오므론 개인용 저주파 마사지기', '브랜드: 오므론(헬스케어)', '용도: 근육 완화', '배송: 로켓배송', '가격: 약 54,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=267727539&itemId=839518828&vendorItemId=91143904737&traceid=V0-153-7969c7750214ced1&requestid=20260714234755286045273751&token=31850C%7CMIXED',
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=267727539&itemId=839518828&vendorItemId=91143904737&traceid=V0-153-7969c7750214ced1&requestid=20260714234755286045273751&token=31850C%7CMIXED',
         linkNaver: ''
       }
     ],
@@ -25774,7 +25774,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·입문용</strong>입니다. 라떼·다양한 음료면 2번 돌체구스토, 진한 크레마면 3번 네스프레소로 가세요. "입문"이면 가성비 좋아요.',
         review: '"캡슐 커피를 저렴하게 시작"이면 카누 페블이 무난합니다. 간편해요. 다양한 음료·크레마면 2·3번을 보세요.',
         specs: ['제품: 카누 바리스타 페블 캡슐커피머신', '캡슐: 카누 전용', '구성: 웰컴 키트 포함', '배송: 로켓배송', '가격: 약 70,570원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8017178132&itemId=22461902119&vendorItemId=89505070969&traceid=V0-153-0a927c41c6eef87d&requestid=20260730090641633147582718&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8017178132&itemId=22461902119&vendorItemId=89505070969&traceid=V0-153-0a927c41c6eef87d&requestid=20260730090641633147582718&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'cc-2', tag: '베스트', tagColor: 'r', award: '다양한 음료', name: '2. 돌체구스토 지니오S (스타벅스 앳홈 호환)', subtitle: '다양·라떼 (베스트 초이스)',
         image: 'img/p2.jpg', imageAlt: '돌체구스토 지니오S 캡슐 커피머신',
         features: ['다양한 캡슐', '라떼·음료', '스타벅스 호환'], summary: '라떼·아메리카노 등 다양한 음료를<br>캡슐 하나로 즐기는 실속',
@@ -25784,7 +25784,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 진한 크레마면 3번 네스프레소입니다. 2번은 <strong>"다양한 음료+호환 캡슐"</strong>의 실속 구간 — 라떼·가족용에 무난합니다.',
         review: '"라떼·다양한 음료를 캡슐로 즐기고 싶다"면 돌체구스토가 좋습니다. 선택폭이 넓어요. 진한 에스프레소면 3번을 보세요.',
         specs: ['제품: 돌체구스토 지니오S', '캡슐: 돌체구스토(스타벅스 앳홈 등)', '특징: 다양한 음료', '배송: 로켓배송', '가격: 약 129,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7496138686&itemId=25436845182&vendorItemId=92429796330&traceid=V0-153-6195fe7e8a98938b&clickBeacon=8aeaa250-8baa-11f1-b39d-65d1992564d8%7E3&requestid=20260730090641633147582718&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7496138686&itemId=25436845182&vendorItemId=92429796330&traceid=V0-153-6195fe7e8a98938b&clickBeacon=8aeaa250-8baa-11f1-b39d-65d1992564d8%7E3&requestid=20260730090641633147582718&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'cc-3', tag: '프리미엄', tagColor: 's', award: '크레마 에스프레소', name: '3. 네스프레소 버츄오 업', subtitle: '크레마·정통 (프리미엄)',
         image: 'img/p3.jpg', imageAlt: '네스프레소 버츄오 업 캡슐 커피머신',
         features: ['버츄오', '풍부한 크레마', '정통 에스프레소'], summary: '풍부한 크레마와 정통 에스프레소로<br>제대로 즐기는 네스프레소',
@@ -25794,7 +25794,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 라떼·다양함이면 2번 돌체구스토가 합리적입니다. 3번은 <strong>크레마+정통 에스프레소</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"진한 크레마와 정통 에스프레소로 제대로"면 네스프레소가 좋습니다. 퀄리티가 좋아요. 저렴·다양함이면 1·2번이 합리적입니다.',
         specs: ['제품: 네스프레소 버츄오 업', '캡슐: 네스프레소 버츄오', '특징: 크레마·다양한 용량', '배송: 로켓배송', '가격: 약 227,680원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9398213111&itemId=27914022119&vendorItemId=94863422761&traceid=V0-153-9be04b7cbfbc3b16&clickBeacon=8aeaa250-8baa-11f1-98b7-ba7ae1ba007b%7E3&requestid=20260730090641633147582718&token=31850C%7CMIXED', linkNaver: '' }
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9398213111&itemId=27914022119&vendorItemId=94863422761&traceid=V0-153-9be04b7cbfbc3b16&clickBeacon=8aeaa250-8baa-11f1-98b7-ba7ae1ba007b%7E3&requestid=20260730090641633147582718&token=31850C%7CMIXED', linkNaver: '' }
     ],
     compare: [
       { label: '추천 대상', vals: ['가성비·입문', '다양·라떼', '크레마·정통'], strong: 0 },
@@ -25863,7 +25863,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·휴대용</strong>입니다. 두 개 필요하면 2번 1+1, 브랜드 완성도면 3번 파나소닉으로 가세요. "입문"이면 가성비 좋아요.',
         review: '"저렴하게 휴대용으로 시작"이면 AOSS가 무난합니다. 방수라 편해요. 완성도·브랜드면 2·3번을 보세요.',
         specs: ['제품: AOSS 휴대용 무선 구강세정기', '기능: 무선·방수', '구성: 전용팁 4종', '배송: 로켓배송', '가격: 약 13,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9032203146&itemId=26494921836&vendorItemId=93469726941&traceid=V0-153-a3ab12c60b1c4b33&requestid=20260730090642240060731784&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9032203146&itemId=26494921836&vendorItemId=93469726941&traceid=V0-153-a3ab12c60b1c4b33&requestid=20260730090642240060731784&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'wf-2', tag: '베스트', tagColor: 'r', award: '1+1 세트', name: '2. 원웨이 워터 구강세정기 1+1 (휴대용 물치실)', subtitle: '2개·가족 (베스트 초이스)',
         image: 'img/p2.jpg', imageAlt: '원웨이 워터 구강세정기 1+1 세트',
         features: ['1+1 세트', '무선 휴대', '물치실'], summary: '두 개라 가족이 나눠 쓰는<br>1+1 세트의 실속',
@@ -25873,7 +25873,7 @@ module.exports = [
         consNote: '저렴한 한 개면 1번, 브랜드 완성도면 3번 파나소닉입니다. 2번은 <strong>"1+1 두 개"</strong>의 실속 구간 — 가족용에 가장 무난합니다.',
         review: '"부부·가족이 각자 하나씩"이면 1+1이 좋습니다. 개당 저렴해요. 완성도·브랜드면 3번을 보세요.',
         specs: ['제품: 원웨이 워터 구강세정기 1+1', '구성: 2개 세트', '기능: 무선 휴대', '배송: 일반배송', '가격: 약 89,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8568479786&itemId=24821454769&vendorItemId=94776462243&traceid=V0-153-685dfa569006a6fd&clickBeacon=8b4d0da0-8baa-11f1-a9a5-d144fa34f81f%7E3&requestid=20260730090642240060731784&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8568479786&itemId=24821454769&vendorItemId=94776462243&traceid=V0-153-685dfa569006a6fd&clickBeacon=8b4d0da0-8baa-11f1-a9a5-d144fa34f81f%7E3&requestid=20260730090642240060731784&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'wf-3', tag: '프리미엄', tagColor: 's', award: '파나소닉', name: '3. 파나소닉 휴대용 무선 구강세정기 (EW-DJ26, IPX7)', subtitle: '브랜드·완성도 (프리미엄)',
         image: 'img/p3.jpg', imageAlt: '파나소닉 휴대용 무선 구강세정기 EW-DJ26 IPX7 방수',
         features: ['파나소닉', 'IPX7 방수', '완성도'], summary: '파나소닉 완성도와 IPX7 방수로<br>믿고 오래 쓰는 프리미엄',
@@ -25883,7 +25883,7 @@ module.exports = [
         consNote: '저렴한 휴대용이면 1번, 두 개 필요하면 2번 1+1이 합리적입니다. 3번은 <strong>파나소닉 완성도+IPX7 방수</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"검증된 브랜드로 완성도까지"면 파나소닉이 좋습니다. 믿을 만해요. 저렴·다개수면 1·2번이 합리적입니다.',
         specs: ['제품: 파나소닉 휴대용 무선 구강세정기 EW-DJ26', '방수: IPX7', '특징: 휴대·완성도', '배송: 로켓배송', '가격: 약 119,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8527548310&itemId=24691208967&vendorItemId=92062413558&traceid=V0-153-b7ca9234446c52f0&clickBeacon=8b4d0da0-8baa-11f1-895b-04406aaa85be%7E3&requestid=20260730090642240060731784&token=31850C%7CMIXED', linkNaver: '' }
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8527548310&itemId=24691208967&vendorItemId=92062413558&traceid=V0-153-b7ca9234446c52f0&clickBeacon=8b4d0da0-8baa-11f1-895b-04406aaa85be%7E3&requestid=20260730090642240060731784&token=31850C%7CMIXED', linkNaver: '' }
     ],
     compare: [
       { label: '추천 대상', vals: ['가성비·휴대', '2개·가족', '브랜드·완성도'], strong: 0 },
@@ -25953,7 +25953,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·간편용</strong>입니다. 확실한 흡입이면 2번, 고성능이면 3번 BLDC로 가세요. "가벼운 부스러기"면 가성비 좋아요.',
         review: '"차 안 부스러기를 저렴하게"면 핸디가 무난합니다. 가벼워요. 강한 흡입·고성능이면 2·3번을 보세요.',
         specs: ['제품: 디에스가추몰 무선 핸디 청소기', '기능: 무선·겸용', '용도: 차량·가정', '배송: 로켓배송', '가격: 약 9,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9425750085&itemId=28018593237&vendorItemId=95727052753&traceid=V0-153-861ae09fca6c59ba&requestid=20260730090642683053257374&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9425750085&itemId=28018593237&vendorItemId=95727052753&traceid=V0-153-861ae09fca6c59ba&requestid=20260730090642683053257374&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'cv-2', tag: '베스트', tagColor: 'r', award: '강력 흡입', name: '2. 필모어 초강력 휴대용 무선 진공 청소기', subtitle: '흡입력·실속 (베스트 초이스)',
         image: 'img/p2.jpg', imageAlt: '필모어 초강력 휴대용 무선 진공 청소기',
         features: ['강력 흡입', '무선', '휴대'], summary: '확실한 흡입력으로<br>모래·먼지까지 잡는 실속',
@@ -25963,7 +25963,7 @@ module.exports = [
         consNote: '저렴한 핸디면 1번, 고성능이면 3번 BLDC입니다. 2번은 <strong>"강력 흡입"</strong>의 실속 구간 — 차량 청소에 가장 무난합니다.',
         review: '"먼지·모래까지 확실하게"면 필모어가 좋습니다. 흡입력이 든든해요. 최고 성능이면 3번을 보세요.',
         specs: ['제품: 필모어 초강력 휴대용 무선 진공 청소기', '기능: 강력 흡입·무선', '용도: 차량', '배송: 로켓배송', '가격: 약 29,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9103635985&itemId=26763645114&vendorItemId=93740506539&traceid=V0-153-0fc6ddcfc5be8905&clickBeacon=8b8b4f20-8baa-11f1-9bf5-b5433e6c1ca1%7E3&requestid=20260730090642683053257374&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9103635985&itemId=26763645114&vendorItemId=93740506539&traceid=V0-153-0fc6ddcfc5be8905&clickBeacon=8b8b4f20-8baa-11f1-9bf5-b5433e6c1ca1%7E3&requestid=20260730090642683053257374&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'cv-3', tag: '프리미엄', tagColor: 's', award: '고성능 BLDC', name: '3. RichMagic 16000pa BLDC 무선 청소기 (3단 조절)', subtitle: '고성능·겸용 (프리미엄)',
         image: 'img/p3.jpg', imageAlt: 'RichMagic 16000pa BLDC 무선 청소기 3단 조절',
         features: ['16000pa', 'BLDC 모터', '3단 조절'], summary: '16000pa BLDC 대흡력으로<br>차량·가정·애견까지 강력하게',
@@ -25973,7 +25973,7 @@ module.exports = [
         consNote: '저렴한 핸디면 1번, 강력 흡입 실속이면 2번이 합리적입니다. 3번은 <strong>16000pa BLDC 고성능</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"가장 강한 흡입력으로 차·집·반려동물까지"면 RichMagic이 강력합니다. 하나로 다 돼요. 가벼운 용도면 1·2번이 합리적입니다.',
         specs: ['제품: RichMagic 16000pa BLDC 무선 청소기', '흡입력: 16000pa · BLDC', '특징: 3단 조절 · 멀티', '배송: 로켓배송', '가격: 약 96,850원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8715636983&itemId=25313645635&vendorItemId=95562445263&traceid=V0-153-3982c51ea34466f0&clickBeacon=8b8b4f20-8baa-11f1-a0ee-ae46ceb7be88%7E3&requestid=20260730090642683053257374&token=31850C%7CMIXED', linkNaver: '' }
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8715636983&itemId=25313645635&vendorItemId=95562445263&traceid=V0-153-3982c51ea34466f0&clickBeacon=8b8b4f20-8baa-11f1-a0ee-ae46ceb7be88%7E3&requestid=20260730090642683053257374&token=31850C%7CMIXED', linkNaver: '' }
     ],
     compare: [
       { label: '추천 대상', vals: ['가성비·간편', '흡입력·실속', '고성능·겸용'], strong: 0 },
@@ -26043,7 +26043,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·기본용</strong>입니다. 선명한 화질이면 2번 QHD, 깔끔한 마감이면 3번 빌트인으로 가세요. "기본 사고 대비"면 가성비 좋아요.',
         review: '"저렴하게 2채널로 기본 대비"면 FH1이 무난합니다. WiFi도 돼요. 선명한 화질·마감이면 2·3번을 보세요.',
         specs: ['제품: 아이리버 2채널 블랙박스 FH1', '화질: FHD(전)+HD(후)', '기능: 2채널·WiFi', '배송: 로켓배송', '가격: 약 99,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8853905393&itemId=25814198161&vendorItemId=89342459487&traceid=V0-153-b94c5afabf598f03&requestid=20260730090643416202163891&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8853905393&itemId=25814198161&vendorItemId=89342459487&traceid=V0-153-b94c5afabf598f03&requestid=20260730090643416202163891&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'dc-2', tag: '베스트', tagColor: 'r', award: 'QHD 초고화질', name: '2. 아이리버 2채널 QHD+FHD 블랙박스 (QF2, GPS)', subtitle: '화질·실속 (베스트 초이스)',
         image: 'img/p2.jpg', imageAlt: '아이리버 2채널 QHD+FHD 블랙박스 QF2 GPS',
         features: ['QHD 초고화질', '2채널', 'GPS'], summary: 'QHD 초고화질에 GPS까지<br>번호판·위치를 선명하게',
@@ -26053,7 +26053,7 @@ module.exports = [
         consNote: '저렴한 2채널이면 1번, 깔끔한 마감이면 3번 빌트인입니다. 2번은 <strong>"QHD+GPS"</strong>의 실속 구간 — 화질·기록에 가장 무난합니다.',
         review: '"번호판까지 선명하게, 위치 기록까지"면 QF2가 좋습니다. 화질이 확실해요. 깔끔한 마감이면 3번을 보세요.',
         specs: ['제품: 아이리버 2채널 블랙박스 QF2', '화질: QHD(전)+FHD(후)', '기능: 2채널·WiFi·GPS', '배송: 로켓배송', '가격: 약 159,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9216049569&itemId=27228081272&vendorItemId=94198258465&traceid=V0-153-2771ad47f6c235f7&clickBeacon=8bfb27f0-8baa-11f1-8690-ae753b063eaa%7E3&requestid=20260730090643416202163891&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9216049569&itemId=27228081272&vendorItemId=94198258465&traceid=V0-153-2771ad47f6c235f7&clickBeacon=8bfb27f0-8baa-11f1-8690-ae753b063eaa%7E3&requestid=20260730090643416202163891&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'dc-3', tag: '프리미엄', tagColor: 's', award: '빌트인 디자인', name: '3. 아이리버 2채널 블랙박스 (CFF2 Fit, 빌트인·출장장착)', subtitle: '마감·설치 (프리미엄)',
         image: 'img/p3.jpg', imageAlt: '아이리버 2채널 블랙박스 CFF2 Fit 빌트인 출장장착',
         features: ['빌트인 디자인', '무료 출장장착', '2채널'], summary: '깔끔한 빌트인 디자인에 출장장착까지<br>보기 좋게 마감하는 프리미엄',
@@ -26063,7 +26063,7 @@ module.exports = [
         consNote: '저렴한 2채널이면 1번, 선명한 화질이면 2번 QHD가 합리적입니다. 3번은 <strong>빌트인 마감+출장장착</strong>을 원하는 분에게 어울립니다.',
         review: '"깔끔하게 빌트인으로, 설치까지 맡기고"면 CFF2 Fit이 좋습니다. 마감이 깔끔해요. 최고 화질이면 2번을 보세요.',
         specs: ['제품: 아이리버 2채널 블랙박스 CFF2 Fit', '화질: FHD+FHD', '특징: 빌트인·출장장착', '배송: 로켓배송', '가격: 약 189,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9485399001&itemId=28245656152&vendorItemId=95203351637&traceid=V0-153-2dac6e58612d9ebe&clickBeacon=8bfb27f0-8baa-11f1-961e-2e4f096c84c5%7E3&requestid=20260730090643416202163891&token=31850C%7CMIXED', linkNaver: '' }
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9485399001&itemId=28245656152&vendorItemId=95203351637&traceid=V0-153-2dac6e58612d9ebe&clickBeacon=8bfb27f0-8baa-11f1-961e-2e4f096c84c5%7E3&requestid=20260730090643416202163891&token=31850C%7CMIXED', linkNaver: '' }
     ],
     compare: [
       { label: '추천 대상', vals: ['가성비·기본', '화질·실속', '마감·설치'], strong: 0 },
@@ -26135,7 +26135,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·입문용</strong>입니다. 땀·물까지면 2번 방수, 완성도·정통이면 3번 샥즈로 가세요. "입문"이면 가성비 좋아요.',
         review: '"골전도를 저렴하게 경험"이면 KONLI가 무난합니다. 주변 소리도 들려요. 방수·음질이면 2·3번을 보세요.',
         specs: ['제품: KONLI 골전도 무선 블루투스 이어폰', '방식: 골전도·오픈이어', '용도: 입문', '배송: 로켓배송', '가격: 약 19,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8202951223&itemId=28799146303&vendorItemId=95768319549&traceid=V0-153-95d4569f57bd7359&requestid=20260730090643898292827417&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8202951223&itemId=28799146303&vendorItemId=95768319549&traceid=V0-153-95d4569f57bd7359&requestid=20260730090643898292827417&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'bc-2', tag: '베스트', tagColor: 'r', award: '방수·운동', name: '2. 잇펠 골전도 블루투스 이어폰 (X8 MAX, IPX8 방수)', subtitle: '방수·실속 (베스트 초이스)',
         image: 'img/p2.jpg', imageAlt: '잇펠 골전도 블루투스 이어폰 X8 MAX IPX8 방수',
         features: ['IPX8 방수', '골전도', '운동·러닝'], summary: 'IPX8 방수로 땀·물까지<br>러닝·운동에 든든한 실속',
@@ -26145,7 +26145,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 완성도·정통이면 3번 샥즈입니다. 2번은 <strong>"IPX8 방수+운동"</strong>의 실속 구간 — 러닝·활동에 가장 무난합니다.',
         review: '"땀·물 걱정 없이 운동하며"면 잇펠이 좋습니다. 방수가 든든해요. 완성도·정통이면 3번을 보세요.',
         specs: ['제품: 잇펠 골전도 블루투스 이어폰 X8 MAX', '방수: IPX8', '방식: 골전도·오픈이어', '배송: 로켓배송', '가격: 약 100,990원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9217314286&itemId=27233358127&vendorItemId=94200486532&traceid=V0-153-c1ea56a4d2639484&clickBeacon=8c44b410-8baa-11f1-9e6c-277e5fb42cc8%7E3&requestid=20260730090643898292827417&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9217314286&itemId=27233358127&vendorItemId=94200486532&traceid=V0-153-c1ea56a4d2639484&clickBeacon=8c44b410-8baa-11f1-9e6c-277e5fb42cc8%7E3&requestid=20260730090643898292827417&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'bc-3', tag: '프리미엄', tagColor: 's', award: '정통 샥즈', name: '3. 샥즈 오픈런 골전도 블루투스 이어폰 (S803)', subtitle: '완성도·정통 (프리미엄)',
         image: 'img/p3.jpg', imageAlt: '샥즈 오픈런 골전도 블루투스 이어폰 S803',
         features: ['샥즈', '착용감·음질', '오픈런'], summary: '골전도 대표 브랜드 샥즈의<br>착용감·음질 완성도',
@@ -26155,7 +26155,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 방수·운동이면 2번 잇펠이 합리적입니다. 3번은 <strong>샥즈 완성도(착용감·음질)</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"골전도 대표 브랜드로 착용감·음질까지"면 샥즈가 좋습니다. 완성도가 좋아요. 저렴·방수면 1·2번이 합리적입니다.',
         specs: ['제품: 샥즈 오픈런 S803', '방식: 골전도·오픈이어', '특징: 착용감·음질', '배송: 로켓배송', '가격: 약 170,050원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9160407461&itemId=26981656724&vendorItemId=87919893111&traceid=V0-153-292c9e0786200037&clickBeacon=8c44b410-8baa-11f1-a122-15758a0aef1f%7E3&requestid=20260730090643898292827417&token=31850C%7CMIXED', linkNaver: '' }
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9160407461&itemId=26981656724&vendorItemId=87919893111&traceid=V0-153-292c9e0786200037&clickBeacon=8c44b410-8baa-11f1-a122-15758a0aef1f%7E3&requestid=20260730090643898292827417&token=31850C%7CMIXED', linkNaver: '' }
     ],
     compare: [
       { label: '추천 대상', vals: ['가성비·입문', '방수·운동', '완성도·정통'], strong: 0 },
@@ -26225,7 +26225,7 @@ module.exports = [
         consNote: '이 제품은 <strong>옷장·가성비용</strong>입니다. 넓은 공간이면 2번 대용량, 넉넉한 상비면 3번 실내용으로 가세요. "옷장·서랍"이면 딱이에요.',
         review: '"옷장·서랍 습기를 저렴하게"면 옷장용 하마가 무난합니다. 걸어두면 돼요. 넓은 공간·상비면 2·3번을 보세요.',
         specs: ['제품: 물먹는 하마 옷장용 제습제', '형태: 걸이형', '구성: 3입', '배송: 일반배송', '가격: 약 14,220원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9662226607&itemId=28885546083&vendorItemId=95818294506&traceid=V0-153-82c3984725201708&requestid=20260730090644256207014057&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9662226607&itemId=28885546083&vendorItemId=95818294506&traceid=V0-153-82c3984725201708&requestid=20260730090644256207014057&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'ma-2', tag: '베스트', tagColor: 'r', award: '대용량 흡습', name: '2. 한수위 습기제거제 허그코튼 대용량 290g (40개)', subtitle: '대용량·실속 (베스트 초이스)',
         image: 'img/p2.jpg', imageAlt: '한수위 습기제거제 허그코튼 대용량 290g 40개',
         features: ['290g 대용량', '40개', '넓은 공간'], summary: '290g 대용량 40개로<br>넓은 공간을 넉넉히 흡습',
@@ -26235,7 +26235,7 @@ module.exports = [
         consNote: '옷장·서랍이면 1번, 넉넉한 상비면 3번입니다. 2번은 <strong>"대용량 40개"</strong>의 실속 구간 — 넓은 공간·대량 관리에 가장 무난합니다.',
         review: '"넓은 방·창고를 넉넉히"면 허그코튼 대용량이 좋습니다. 흡습량이 커요. 옷장 걸이형이면 1번을 보세요.',
         specs: ['제품: 한수위 허그코튼 습기제거제', '용량: 290g × 40개', '용도: 넓은 공간', '배송: 로켓배송', '가격: 약 33,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9481420385&itemId=28253600066&vendorItemId=95206945712&traceid=V0-153-a06fbf088811c060&clickBeacon=8c81e420-8baa-11f1-917f-c753f5504714%7E3&requestid=20260730090644256207014057&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9481420385&itemId=28253600066&vendorItemId=95206945712&traceid=V0-153-a06fbf088811c060&clickBeacon=8c81e420-8baa-11f1-917f-c753f5504714%7E3&requestid=20260730090644256207014057&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'ma-3', tag: '프리미엄', tagColor: 's', award: '실내용 다개수', name: '3. 물먹는 하마 525ml (16개)', subtitle: '실내·상비 (프리미엄)',
         image: 'img/p3.jpg', imageAlt: '물먹는 하마 525ml 16개',
         features: ['525ml', '16개', '실내 바닥형'], summary: '525ml 바닥형 16개로<br>집안 곳곳 넉넉히 상비',
@@ -26245,7 +26245,7 @@ module.exports = [
         consNote: '옷장이면 1번, 넓은 공간 대용량이면 2번이 합리적입니다. 3번은 <strong>실내 바닥형 16개(상비)</strong>를 원하는 분에게 어울립니다.',
         review: '"집안 곳곳에 넉넉히 놓고"면 525ml 16개가 좋습니다. 상비하기 좋아요. 옷장·초대용량이면 1·2번이 합리적입니다.',
         specs: ['제품: 물먹는 하마 525ml', '형태: 바닥형', '구성: 16개', '배송: 일반배송', '가격: 약 36,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=334282733&itemId=22452002244&vendorItemId=94692103415&traceid=V0-153-12ae786bf4aab8e1&requestid=20260730090644256207014057&token=31850C%7CMIXED', linkNaver: '' }
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=334282733&itemId=22452002244&vendorItemId=94692103415&traceid=V0-153-12ae786bf4aab8e1&requestid=20260730090644256207014057&token=31850C%7CMIXED', linkNaver: '' }
     ],
     compare: [
       { label: '추천 대상', vals: ['옷장·가성비', '대용량·실속', '실내·상비'], strong: 0 },
@@ -26315,7 +26315,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·입문용</strong>입니다. 리필 넉넉이면 2번 정수필터, 수압까지면 3번 고압으로 가세요. "입문"이면 가성비 좋아요.',
         review: '"저렴하게 필터 샤워기 시작"이면 해피달링이 무난합니다. 필터도 넉넉해요. 정수·수압이면 2·3번을 보세요.',
         specs: ['제품: 해피달링 4단 필터 샤워기 헤드', '필터: 4단', '구성: 필터 4p', '배송: 로켓배송', '가격: 약 6,020원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7382427656&itemId=19068550009&vendorItemId=86535933666&traceid=V0-153-beae5d655ae235dc&requestid=20260730090644852292827641&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7382427656&itemId=19068550009&vendorItemId=86535933666&traceid=V0-153-beae5d655ae235dc&requestid=20260730090644852292827641&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'sf-2', tag: '베스트', tagColor: 'r', award: '정수필터 세트', name: '2. 코멧 정수 필터 샤워기 (+리필 필터 12p)', subtitle: '정수·리필 (베스트 초이스)',
         image: 'img/p2.jpg', imageAlt: '코멧 정수 필터 샤워기 리필 필터 12p',
         features: ['정수 필터', '리필 12p', '가성비 리필'], summary: '리필 12p로 오래 쓰는<br>정수 필터 샤워기의 실속',
@@ -26325,7 +26325,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 수압까지면 3번 고압입니다. 2번은 <strong>"정수+리필 12p"</strong>의 실속 구간 — 오래 쓰기에 가장 무난합니다.',
         review: '"리필 넉넉하게 오래 쓰고"면 코멧이 좋습니다. 유지비가 낮아요. 수압상승이면 3번을 보세요.',
         specs: ['제품: 코멧 정수 필터 샤워기', '필터: 정수 필터', '구성: 리필 12p', '배송: 로켓배송', '가격: 약 11,780원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=7913000735&itemId=21718237042&vendorItemId=88767505447&traceid=V0-153-740bef2ccba88394&requestid=20260730090644852292827641&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=7913000735&itemId=21718237042&vendorItemId=88767505447&traceid=V0-153-740bef2ccba88394&requestid=20260730090644852292827641&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'sf-3', tag: '프리미엄', tagColor: 's', award: '고압 수압상승', name: '3. JGUG 필터 샤워기 헤드 (고압 수압상승·3단, +리필 12p)', subtitle: '수압·정수 (프리미엄)',
         image: 'img/p3.jpg', imageAlt: 'JGUG 필터 샤워기 헤드 고압 수압상승 3단 리필 12p',
         features: ['고압 수압상승', '3단 조절', '리필 12p'], summary: '필터에 고압 수압상승까지<br>시원한 물줄기의 프리미엄',
@@ -26335,7 +26335,7 @@ module.exports = [
         consNote: '저렴한 입문이면 1번, 리필 넉넉이면 2번이 합리적입니다. 3번은 <strong>고압 수압상승+정수</strong>가 필요한 분에게 값어치가 있습니다.',
         review: '"필터 끼면 수압 약해질까 걱정"이면 고압 JGUG이 좋습니다. 시원해요. 단순 정수면 1·2번이 합리적입니다.',
         specs: ['제품: JGUG 고압 필터 샤워기 헤드', '기능: 수압상승·3단', '구성: 리필 12p', '배송: 로켓배송', '가격: 약 17,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9537512029&itemId=28447536416&vendorItemId=95338647738&traceid=V0-153-66e4df5d0f55eafc&requestid=20260730090644852292827641&token=31850C%7CMIXED', linkNaver: '' }
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9537512029&itemId=28447536416&vendorItemId=95338647738&traceid=V0-153-66e4df5d0f55eafc&requestid=20260730090644852292827641&token=31850C%7CMIXED', linkNaver: '' }
     ],
     compare: [
       { label: '추천 대상', vals: ['가성비·입문', '정수·리필', '수압·정수'], strong: 0 },
@@ -26404,7 +26404,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·기본용</strong>입니다. 위생·관리면 2번 직수, 기능 풍부면 3번 올인원으로 가세요. "기본"이면 가성비 좋아요.',
         review: '"비데를 저렴하게 기본 기능으로"면 Munjjing이 무난합니다. 필터리스라 관리도 편해요. 직수·올인원이면 2·3번을 보세요.',
         specs: ['제품: Munjjing 비데', '방수: IPX5', '특징: 필터리스·온풍건조', '배송: 로켓배송', '가격: 약 94,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9296640588&itemId=27537073520&vendorItemId=95653096963&traceid=V0-153-ccb3f800a96ace44&requestid=20260730090645094089892454&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9296640588&itemId=27537073520&vendorItemId=95653096963&traceid=V0-153-ccb3f800a96ace44&requestid=20260730090645094089892454&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'bd-2', tag: '베스트', tagColor: 'r', award: '위생 직수식', name: '2. 앤트 비데 (IPX8 방수·직수·하이브리드 필터리스, IPX-750A)', subtitle: '위생·직수 (베스트 초이스)',
         image: 'img/p2.jpg', imageAlt: '앤트 비데 IPX8 방수 직수 하이브리드 IPX-750A',
         features: ['직수식', 'IPX8 방수', '안심세척'], summary: '직수식+IPX8 방수로<br>위생과 관리를 챙기는 실속',
@@ -26414,7 +26414,7 @@ module.exports = [
         consNote: '저렴한 필터리스면 1번, 기능 풍부면 3번 올인원입니다. 2번은 <strong>"직수+IPX8 방수"</strong>의 실속 구간 — 위생·관리에 가장 무난합니다.',
         review: '"물 고임 없는 직수로 위생까지"면 앤트가 좋습니다. 깔끔해요. 기능 풍부면 3번을 보세요.',
         specs: ['제품: 앤트 비데 IPX-750A', '방수: IPX8', '방식: 직수·하이브리드', '배송: 로켓배송', '가격: 약 168,200원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8949966333&itemId=28777036241&vendorItemId=93372881721&traceid=V0-153-dab1bdbb8e7868db&clickBeacon=8cfba800-8baa-11f1-a0f2-e768451d5276%7E3&requestid=20260730090645094089892454&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8949966333&itemId=28777036241&vendorItemId=93372881721&traceid=V0-153-dab1bdbb8e7868db&clickBeacon=8cfba800-8baa-11f1-a0f2-e768451d5276%7E3&requestid=20260730090645094089892454&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'bd-3', tag: '프리미엄', tagColor: 's', award: '올인원', name: '3. 대림바스 비데 (IPX7 방수·풀터치·LED·버블세정, DDS-S160A)', subtitle: '기능·완성도 (프리미엄)',
         image: 'img/p3.jpg', imageAlt: '대림바스 비데 IPX7 풀터치 LED 버블세정 DDS-S160A',
         features: ['풀터치', 'LED 조명', '버블세정·마사지'], summary: '풀터치·버블세정·마사지까지<br>기능 풍부한 올인원 프리미엄',
@@ -26424,7 +26424,7 @@ module.exports = [
         consNote: '저렴한 필터리스면 1번, 위생 직수면 2번이 합리적입니다. 3번은 <strong>올인원 기능+완성도</strong>를 원하는 분에게 값어치가 있습니다.',
         review: '"기능 풍부하게 제대로"면 대림바스가 좋습니다. 완성도가 좋아요. 기본이면 1·2번이 합리적입니다.',
         specs: ['제품: 대림바스 비데 DDS-S160A', '방수: IPX7', '특징: 풀터치·LED·버블세정', '배송: 로켓배송', '가격: 약 198,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9447873078&itemId=28104396924&vendorItemId=95109654625&traceid=V0-153-801fef75b45632e6&clickBeacon=8cfba800-8baa-11f1-b876-c7c28f41e013%7E3&requestid=20260730090645094089892454&token=31850C%7CMIXED', linkNaver: '' }
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9447873078&itemId=28104396924&vendorItemId=95109654625&traceid=V0-153-801fef75b45632e6&clickBeacon=8cfba800-8baa-11f1-b876-c7c28f41e013%7E3&requestid=20260730090645094089892454&token=31850C%7CMIXED', linkNaver: '' }
     ],
     compare: [
       { label: '추천 대상', vals: ['가성비·기본', '위생·직수', '기능·완성도'], strong: 0 },
@@ -26496,7 +26496,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·입문용</strong>입니다. 기내+위탁 둘 다면 2번 세트, 튼튼함이면 3번 중대형으로 가세요. "한 개"면 가성비 좋아요.',
         review: '"캐리어 하나 저렴하게"면 리틀앤트가 무난합니다. 가벼운 여행엔 충분해요. 세트·내구면 2·3번을 보세요.',
         specs: ['제품: 리틀앤트 여행용 하드 캐리어', '타입: 하드 케이스', '용도: 가성비·입문', '배송: 로켓배송', '가격: 약 19,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9361115232&itemId=27776042245&vendorItemId=95604051565&traceid=V0-153-cf9e5996724473ac&requestid=20260730090645777077200819&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9361115232&itemId=27776042245&vendorItemId=95604051565&traceid=V0-153-cf9e5996724473ac&requestid=20260730090645777077200819&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'lg-2', tag: '베스트', tagColor: 'r', award: '초경량 2종세트', name: '2. REGESY 초경량 캐리어 2종 세트 (기내+위탁)', subtitle: '세트·실속 (베스트 초이스)',
         image: 'img/p2.jpg', imageAlt: 'REGESY 초경량 캐리어 2종 세트 기내용 위탁',
         features: ['1+1 2종', '초경량', '저소음 휠'], summary: '기내+위탁 2종을 한 번에<br>초경량·저소음의 실속',
@@ -26506,7 +26506,7 @@ module.exports = [
         consNote: '한 개면 1번, 오래 튼튼함이면 3번 중대형입니다. 2번은 <strong>"초경량 2종세트"</strong>의 실속 구간 — 기내+위탁에 가장 무난합니다.',
         review: '"기내+위탁 둘 다 초경량으로"면 REGESY 세트가 좋습니다. 활용도가 높아요. 최고 내구면 3번을 보세요.',
         specs: ['제품: REGESY 초경량 캐리어 2종 세트', '구성: 기내용+위탁용', '특징: 초경량·저소음 휠', '배송: 로켓배송', '가격: 약 45,800원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9265471926&itemId=27418090453&vendorItemId=95371228773&traceid=V0-153-ea056ff1817bb9c0&requestid=20260730090645777077200819&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9265471926&itemId=27418090453&vendorItemId=95371228773&traceid=V0-153-ea056ff1817bb9c0&requestid=20260730090645777077200819&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'lg-3', tag: '프리미엄', tagColor: 's', award: '튼튼한 중대형', name: '3. 스위스밀리터리 튼튼한 여행용 캐리어 (솔리오)', subtitle: '내구·중대형 (프리미엄)',
         image: 'img/p3.jpg', imageAlt: '스위스밀리터리 튼튼한 여행용 캐리어 솔리오',
         features: ['튼튼한 내구', '중대형', '브랜드'], summary: '튼튼한 내구와 브랜드로<br>오래 믿고 쓰는 프리미엄',
@@ -26516,7 +26516,7 @@ module.exports = [
         consNote: '저렴한 한 개면 1번, 초경량 세트면 2번이 합리적입니다. 3번은 <strong>튼튼한 내구+중대형</strong>이 필요한 분에게 값어치가 있습니다.',
         review: '"오래 튼튼하게, 짐 넉넉히"면 스위스밀리터리가 좋습니다. 내구가 든든해요. 가벼운 여행이면 1·2번이 합리적입니다.',
         specs: ['제품: 스위스밀리터리 캐리어 솔리오', '크기: 중대형(기내~위탁)', '특징: 내구·브랜드', '배송: 로켓배송', '가격: 약 146,000원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=9609279152&itemId=25945597108&vendorItemId=90407057995&traceid=V0-153-56d032173ebaaafa&clickBeacon=8d65b470-8baa-11f1-9a72-26bbf7f65b90%7E3&requestid=20260730090645777077200819&token=31850C%7CMIXED', linkNaver: '' }
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=9609279152&itemId=25945597108&vendorItemId=90407057995&traceid=V0-153-56d032173ebaaafa&clickBeacon=8d65b470-8baa-11f1-9a72-26bbf7f65b90%7E3&requestid=20260730090645777077200819&token=31850C%7CMIXED', linkNaver: '' }
     ],
     compare: [
       { label: '추천 대상', vals: ['가성비·입문', '세트·실속', '내구·중대형'], strong: 0 },
@@ -26587,7 +26587,7 @@ module.exports = [
         consNote: '이 제품은 <strong>가성비·넉넉용</strong>입니다. 믿는 브랜드면 2번 하기스, 대용량이면 3번 프리미엄으로 가세요. "넉넉히"면 가성비 좋아요.',
         review: '"저렴하게 넉넉히 쓰는 물티슈"면 쁘띠루쥬가 무난합니다. 엠보싱이라 잘 닦여요. 브랜드·대용량이면 2·3번을 보세요.',
         specs: ['제품: 쁘띠루쥬 엠보싱 영유아 물티슈', '타입: 캡형', '특징: 엠보싱', '배송: 로켓배송', '가격: 약 10,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8710526284&itemId=25296559147&vendorItemId=92291859210&traceid=V0-153-5ca00e661e3ce9d9&requestid=20260730090646746241215921&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8710526284&itemId=25296559147&vendorItemId=92291859210&traceid=V0-153-5ca00e661e3ce9d9&requestid=20260730090646746241215921&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'ww-2', tag: '베스트', tagColor: 'r', award: '믿는 브랜드', name: '2. 하기스 퓨어그린 생분해 아기물티슈 (캡형)', subtitle: '브랜드·저자극 (베스트 초이스)',
         image: 'img/p2.jpg', imageAlt: '하기스 퓨어그린 생분해 아기물티슈 캡형',
         features: ['하기스', '생분해', '캡형'], summary: '믿을 수 있는 하기스에<br>생분해까지 챙기는 실속',
@@ -26597,7 +26597,7 @@ module.exports = [
         consNote: '저렴한 가성비면 1번, 대용량 물량이면 3번입니다. 2번은 <strong>"하기스+생분해"</strong>의 실속 구간 — 브랜드·안심에 가장 무난합니다.',
         review: '"믿는 브랜드로 안심하고"면 하기스가 좋습니다. 생분해라 마음이 편해요. 대용량이면 3번을 보세요.',
         specs: ['제품: 하기스 퓨어그린 생분해 아기물티슈', '타입: 캡형', '특징: 생분해', '배송: 로켓배송', '가격: 약 16,500원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=6615096004&itemId=15016467162&vendorItemId=82239205259&traceid=V0-153-aa1e39e945998954&requestid=20260730090646746241215921&token=31850C%7CMIXED', linkNaver: '' },
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=6615096004&itemId=15016467162&vendorItemId=82239205259&traceid=V0-153-aa1e39e945998954&requestid=20260730090646746241215921&token=31850C%7CMIXED', linkNaver: '' },
       { id: 'ww-3', tag: '프리미엄', tagColor: 's', award: '대용량 프리미엄', name: '3. FRANKLIIN 아기 물티슈 (캡형, 70매 10개)', subtitle: '대용량·상비 (프리미엄)',
         image: 'img/p3.jpg', imageAlt: 'FRANKLIIN 아기 물티슈 캡형 70매 10개',
         features: ['70매 10개', '대용량', '캡형'], summary: '70매 10개 대용량으로<br>넉넉히 상비하는 프리미엄',
@@ -26607,7 +26607,7 @@ module.exports = [
         consNote: '저렴한 가성비면 1번, 브랜드 안심이면 2번 하기스가 합리적입니다. 3번은 <strong>대용량 상비(70매 10개)</strong>를 원하는 분에게 어울립니다.',
         review: '"대량으로 넉넉히 상비"면 FRANKLIIN 10개가 좋습니다. 개당 저렴해요. 소량이면 1·2번이 합리적입니다.',
         specs: ['제품: FRANKLIIN 아기 물티슈', '구성: 70매 × 10개', '타입: 캡형', '배송: 로켓배송', '가격: 약 27,900원 (변동 가능)'],
-        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&pageKey=8312848462&itemId=23988102678&vendorItemId=92000733678&traceid=V0-153-d79af7b08582f575&clickBeacon=8df7bb40-8baa-11f1-a954-b63b68c6d82e%7E3&requestid=20260730090646746241215921&token=31850C%7CMIXED', linkNaver: '' }
+        linkCoupang: 'https://link.coupang.com/re/AFFSDP?lptag=AF0480009&subid=infohow&pageKey=8312848462&itemId=23988102678&vendorItemId=92000733678&traceid=V0-153-d79af7b08582f575&clickBeacon=8df7bb40-8baa-11f1-a954-b63b68c6d82e%7E3&requestid=20260730090646746241215921&token=31850C%7CMIXED', linkNaver: '' }
     ],
     compare: [
       { label: '추천 대상', vals: ['가성비·넉넉', '브랜드·저자극', '대용량·상비'], strong: 0 },
