@@ -259,9 +259,26 @@ fs.writeFileSync(path.join(ROOT,'404.html'),
   + `<div class="container"><div class="static-page"><h1>페이지를 찾을 수 없어요</h1><p>주소가 바뀌었거나 아직 올라오지 않은 서식이에요. <a href="/">전체 서식 목록</a>에서 찾아보세요.</p></div></div>`
   + footer() + `</body></html>`, 'utf8');
 
-// sitemap — 서식·소개 페이지만. 제품 추천 글(/reviews/)은 2026-11-03 부터 제외(검색 제외 처리).
+// sitemap — 서식·소개 + 제품 추천 글.
+//
+// 2026-11-03 에 추천 글을 noindex 로 돌리고 사이트맵에서도 뺐었다(애드센스 심사 대비).
+// 2026-11-28 되돌림. 쿠팡 리포트 실측에서 손해가 확인됐다:
+//   스레드 봇이 9/28 에 멈췄는데도 10월 클릭이 275회(하루 8.9)로 최고였고,
+//   11/3 noindex 직후 44회(하루 1.6)로 82% 증발했다. 그 트래픽은 구글이 아니었다
+//   (서치콘솔 3개월 클릭 0). noindex 는 검색엔진용 지시어라 애드센스 심사를 가려 주지도 않는다.
+//
+// 리뷰 목록은 reviews-data 가 아니라 **디스크에 실제로 생성된 폴더**에서 읽는다.
+// build-reviews.cjs 가 먼저 돌므로 항상 존재하고, 데이터와 산출물이 어긋나도 안전하다.
+const REV_DIR = path.join(ROOT, 'reviews');
+const reviewSlugs = fs.existsSync(REV_DIR)
+  ? fs.readdirSync(REV_DIR, { withFileTypes: true })
+      .filter(e => e.isDirectory() && fs.existsSync(path.join(REV_DIR, e.name, 'index.html')))
+      .map(e => e.name).sort()
+  : [];
 const urls=[[`${BASE}/`,UPDATED],[`${BASE}/about/`,UPDATED],[`${BASE}/privacy/`,UPDATED],[`${BASE}/contact/`,UPDATED],
-  ...forms.map(f=>[`${BASE}/forms/${f.id}/`, (f.publishAt && f.publishAt>UPDATED) ? f.publishAt : UPDATED])];
+  ...forms.map(f=>[`${BASE}/forms/${f.id}/`, (f.publishAt && f.publishAt>UPDATED) ? f.publishAt : UPDATED]),
+  [`${BASE}/reviews/`,UPDATED],
+  ...reviewSlugs.map(s=>[`${BASE}/reviews/${s}/`,UPDATED])];
 fs.writeFileSync(path.join(ROOT,'sitemap.xml'),
 `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`+
 urls.map(([u,d])=>`<url><loc>${u}</loc><lastmod>${d}</lastmod></url>`).join('\n')+`\n</urlset>\n`,'utf8');

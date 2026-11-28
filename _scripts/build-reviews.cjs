@@ -37,7 +37,7 @@ function head(title, desc, canonical, og, extraJsonLd){
   return `<!DOCTYPE html><html lang="ko"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="robots" content="noindex,follow">
+<meta name="robots" content="index,follow">
 <meta name="google-site-verification" content="6Yk8hNMiHDdWrRzcEJn1hf99kJAFrkWbrbBa5kMpxsY">
 <meta name="google-site-verification" content="9eYi3CWcEXZ7ir9X9lE_SBWygA1JMOnI1U2pTBUPZ5c" />
 <meta name="naver-site-verification" content="3fc1e5b2b3fdd06916dd0550b1637befa022d6e9" />
